@@ -1,25 +1,34 @@
 <!DOCTYPE html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<head>
-  
-</head>
+<html>
 <body>
-  <a>Lmao</a>\
-	<button onclick="res">Click me</button>
-  <script>
-    const res = await fetch("https://libretranslate.com/translate", {
-	method: "POST",
-	body: JSON.stringify({
-		q: "It doesn't work correctly",
-		source: "auto",
-		target: "hu",
-		format: "text",
-		alternatives: 3,
-		api_key: ""
-	}),
-	headers: { "Content-Type": "application/json" }
-});
+  <h2>Mini Translator</h2>
+  <textarea id="input" placeholder="Type something..."></textarea>
+  <button onclick="handleTranslate()">Translate to Spanish</button>
+  <p id="output"></p>
 
-console.log(await res.json());
+  <script>
+    async function handleTranslate() {
+      const text = document.getElementById('input').value;
+      const output = document.getElementById('output');
+      
+      try {
+        const res = await fetch("https://libretranslate.com/translate", {
+          method: "POST",
+          body: JSON.stringify({
+            q: text,
+            source: "en",
+            target: "es",
+            format: "text"
+          }),
+          headers: { "Content-Type": "application/json" }
+        });
+
+        const data = await res.json();
+        output.innerText = data.translatedText || "Error: " + data.error;
+      } catch (err) {
+        output.innerText = "Failed to connect to the API.";
+      }
+    }
   </script>
 </body>
+</html>
