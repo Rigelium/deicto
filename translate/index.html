@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <a href="" id="bomboclat">Wikt</a>
-  <textarea id="input" placeholder="Type something..."></textarea>
-  <button id="button" onclick="wikt()">Translate to Spanish</button>
   <div id="btn-container" style="display: flex; gap: 10px; flex-wrap: wrap;"></div>
-  <p id="output"></p>
 
   <script>
     const sentencesHu = [
@@ -14,10 +10,6 @@
       ["", "Íme", "a hármadik!"]
     ];
 
-    //const buttonContainer = document.getElementById("btn-container");
-    //for (var i = 0; i < length)
-    //const btn = buttonContainer.createElement('button');
-    //btn.
     
     window.onload = function() {
       for(let i = 0; i<sentencesHu[0].length ; i++){
@@ -25,13 +17,7 @@
         btn.innerText = sentencesHu[0][i];
       };
             }
-    
-    //Verweist auf einen Link
-        
-    //btn.addEventListener('click', () => {
-     // window.location.href = "https://en.wiktionary.org/wiki/" + document.getElementById('input').value + "#Hungarian";
-    //});
-    
+   
     
   </script>
 </body>
