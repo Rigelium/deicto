@@ -18,17 +18,23 @@
         const btn = document.createElement('button');
         btn.innerText = sentencesHu[currentSentence][0].split(" ")[i];
         container.appendChild(btn);
+
+        btn.addEventListener('click', () => {
+          window.location.href = "https://en.wiktionary.org/wiki/Wiktionary" + btn.innerText + "#Hungarian";
+        });
       }
       for(let i = 0; i<sentencesHu[currentSentence][2].split(" ").length ; i++){
         const btn = document.createElement('button');
         btn.innerText = sentencesHu[currentSentence][2].split(" ")[i];
         container.appendChild(btn);
+        
+        btn.addEventListener('click', () => {
+          window.location.href = "https://en.wiktionary.org/wiki/Wiktionary" + btn.innerText + "#Hungarian";
+        });
       }
     
     }
-   btn.addEventListener('click', () => {
-     window.location.href = "https://en.wiktionary.org/wiki/Wiktionary" + btn.innerText + "#Hungarian";
-   });
+   
     
   </script>
 </body>
