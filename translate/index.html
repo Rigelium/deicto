@@ -15,7 +15,9 @@
       ["", "Íme", "a hármadik!"]
     ];
 
-    window.onload = function() {
+    window.onload = generateSentence();
+    
+    const generateSentence = function() {
       container = document.getElementById("btn-container");
 
       for(let i = 0; i<sentencesHu[currentSentence][0].split(" ").length ; i++){
