@@ -25,6 +25,8 @@
         btn.addEventListener('click', () => {
           window.location.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#Hungarian";
         });
+        const btn = document.createElement('button');
+        btn.innerText = "__________"
       }
       for(let i = 0; i<sentencesHu[currentSentence][2].split(" ").length ; i++){
         const btn = document.createElement('button');
