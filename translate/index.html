@@ -3,15 +3,16 @@
 <body>
   <a href="" id="bomboclat">Wikt</a>
   <textarea id="input" placeholder="Type something..."></textarea>
-  <button onclick="wikt()">Translate to Spanish</button>
+  <button id="button" onclick="wikt()">Translate to Spanish</button>
   <p id="output"></p>
 
   <script>
-    function wikt() {
-      
-      document.getElementById('bomboclat').href = "https://en.wiktionary.org/wiki/" + document.getElementById('input').value + "#Hungarian";
-      
-    }
+    //Verweist auf einen Link
+    const btn = document.getElementById('button');
+    btn.addEventListener('click', () => {
+      window.location.href = "https://en.wiktionary.org/wiki/" + document.getElementById('input').value + "#Hungarian";
+    });
+    
   </script>
 </body>
 </html>
