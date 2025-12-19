@@ -10,11 +10,13 @@
       ["", "Íme", "a hármadik!"]
     ];
 
-    
     window.onload = function() {
+      container = document.getElementById("btn-container");
+
       for(let i = 0; i<sentencesHu[0].length ; i++){
         const btn = document.createElement('button');
         btn.innerText = sentencesHu[0][i];
+        container.appendChild(btn);
       };
             }
    
