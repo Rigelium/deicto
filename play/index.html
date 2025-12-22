@@ -32,13 +32,13 @@
     </div>
   </div>
   <script>
+    //defining da variables
     let currentSentence = 0;
     const sentencesHu = [
       ["Ez az első", "mondat", "ebben a játékban."],
       ["Ez pedig a",  "második.", ""],
       ["", "Íme", "a harmadik!"]
     ];
-
 
     window.onload = generateSentence;
     
@@ -49,10 +49,9 @@
         const btn = document.createElement('a');
         btn.textContent = sentencesHu[currentSentence][0].split(" ")[i];
         btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#Hungarian";
-        container.appendChild(btn);
-
-        
+        container.appendChild(btn); 
       }
+      
       const btn = document.createElement('a');
         btn.textContent = "______";
         container.appendChild(btn);
@@ -62,14 +61,8 @@
         btn.textContent = sentencesHu[currentSentence][2].split(" ")[i];
         btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#Hungarian";
         container.appendChild(btn);
-        
-       
-        
       }
-    
     }
-   
-    
   </script>
 </body>
 </html>
