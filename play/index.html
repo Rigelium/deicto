@@ -7,7 +7,7 @@
      :root{
        --fontcolor1: black;
        --fontcolor2: white;
-       --highlight: red;
+       --highlight: blue;
        --boxcolor1: #1f2322;
        --blankcolor: white;
      }
@@ -38,6 +38,7 @@
   <div style="display: flex; justify-content: center;">
     <div class="box1" style="display: flex; width: 80%; justify-content: center; text-allign: center;">
       <div id="btn-container" style="display: flex; gap: 2px; flex-wrap: wrap;"></div>
+      <a id="translated"></a>
     </div>
     <div id="answer-container">
       
@@ -48,13 +49,14 @@
     let currentSentence = 0;
     const sentencesHu = [
       ["Ez az első", "mondat", "ebben a játékban.", "This is the first sentence in this game.", "mondjuk", "mondat", "szótár", "minden"],
-      ["Ez pedig a",  "második.", ""],
-      ["", "Íme", "a harmadik!"]
+      ["Ez pedig a",  "második.", "", "And this is the second one.", ],
+      ["", "Íme", "a harmadik!", "Lo and behond the third one!"]
     ];
 
     window.onload = generateSentence;
     
     function generateSentence() {
+      // GENERATING SENTENCE 
       container = document.getElementById("btn-container");
 
       for(let i = 0; i<sentencesHu[currentSentence][0].split(" ").length ; i++){
@@ -69,13 +71,16 @@
         btn.className = "blank-button";
         container.appendChild(btn);
       
-      
       for(let i = 0; i<sentencesHu[currentSentence][2].split(" ").length ; i++){
         const btn = document.createElement('a');
         btn.textContent = sentencesHu[currentSentence][2].split(" ")[i];
         btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#Hungarian";
         container.appendChild(btn);
       }
+
+      //GENERATE THE TRANSLATION
+      const translated = document.getElementById('translated');
+      translated.textContent = sentencesHu[currentSentence][3];
     }
   </script>
 </body>
