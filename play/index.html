@@ -10,6 +10,7 @@
        --highlight: blue;
        --boxcolor1: #1f2322;
        --blankcolor: white;
+       --blueish: #8a0f4;
      }
      body{
        font-family: arial;
@@ -103,7 +104,7 @@
 
       answer[i].addEventListener('click', () =>{
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
-          answer[i].backgroundColor == "blue";
+          answer[i].style.backgroundColor == "var(--blueish)";
           document.getElementById('hidden').textContent = answerText[i].textContent;
           document.getElementById('hidden').style.backgroundColor = 'black';
           
