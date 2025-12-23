@@ -103,7 +103,7 @@
       answerText[i].textContent = sentencesHu[currentSentence][i+4];
 
       answer[i].addEventListener('click', () =>{
-        document.getElementById('hidden').textContent = answerText[i].textContent;
+        document.getElementById('hidden').textContent = sentencesHu[currentSentence][1];
         document.getElementById('hidden').style.backgroundColor = 'black'; 
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
