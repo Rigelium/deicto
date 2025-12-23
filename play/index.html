@@ -56,7 +56,7 @@
   </div>
   <script>
     //defining da variables
-    let currentSentence = 1;
+    let currentSentence = 0;
     const sentencesHu = [
       ["Ez az első", "mondat", "ebben a játékban.", "This is the first sentence in this game.", "mondjuk", "mondat", "szótár", "minden"],
       ["Ez pedig a",  "második", ".", "And this is the second one.", "második", "másol", "harmadik", "mesél"],
@@ -120,14 +120,19 @@
       
       answerContainer.appendChild(answer[i]);
       answer[i].appendChild(answerText[i]);
-
-      //GENERATE THE CONTINUE BUTTONS
-      contContainer = document.getElementById('cont-container');
-      const cont = document.createElement('div');
-      cont.className="box1";
-      cont.style.backgroundColor="var(--grayish)";
-      contContainer.appendChild(cont);
     }
+    
+    //GENERATE THE CONTINUE BUTTON
+    contContainer = document.getElementById('cont-container');
+    const cont = document.createElement('div');
+    cont.className="box1";
+    cont.style.backgroundColor="var(--grayish)";
+    cont.addEventListener("click", () => {
+      currentSentence++;
+      generateSentence();
+    });
+    contContainer.appendChild(cont);
+    
   </script>
 </body>
 </html>
