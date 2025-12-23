@@ -99,7 +99,7 @@
       answer[i].className = "answer";
       
       answerText[i] = document.createElement('a');
-      answerText[i].textContent = "Balls";
+      answerText[i].textContent = sentencesHu[currentSentence][3+i];
 
       answer[i].addEventListener('click', () =>{
         if (answerText[i]==sentencesHu[currentSentence][1]){
