@@ -42,7 +42,7 @@
    </style>
   </head>
 <body>
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; flex-direction: column; justify-content: center;">
     <div class="box1" style="display: flex; flex-direction: column; width: 80%;">
       <div id="btn-container" style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: center;"></div>
       <a id="translated" style="color: var(--textcolor2); text-align: center;"></a>
@@ -92,10 +92,15 @@
     //GENERATE THE ANSWERS
     const answerContainer = document.getElementById("answer-container");
     const answer = [];
+    const answerText = [];
     for(let i = 0; i < 4; i++){
       answer[i] = document.createElement('div');
       answer[i].className = "answer";
       answerContainer.appendChild(answer[i]);
+      
+      answerText[i] = document.createElement('a');
+      answerText.textContent = "Balls";
+      answer[i].appendChild(answerText[i]);
     }
   </script>
 </body>
