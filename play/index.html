@@ -11,6 +11,7 @@
        --boxcolor1: #1f2322;
        --blankcolor: white;
        --blueish: #28a0f4;
+       --grayish: #5e6474;
      }
      body{
        font-family: arial;
@@ -50,8 +51,8 @@
       <div id="btn-container" style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: center;"></div>
       <a id="translated" style="color: var(--textcolor2); text-align: center;"></a>
     </div>
-    <div id="answer-container" style="display: flex; flex-direction: column; gap: 10px;">
-    </div>
+    <div id="answer-container" style="display: flex; flex-direction: column; gap: 10px;"></div>
+    <div id="cont-container"></div>
   </div>
   <script>
     //defining da variables
@@ -120,7 +121,12 @@
       answerContainer.appendChild(answer[i]);
       answer[i].appendChild(answerText[i]);
 
-      
+      //GENERATE THE CONTINUE BUTTONS
+      contContainer = document.getElementById('cont-container');
+      const cont = document.createElement('div');
+      cont.className="box1";
+      cont.style.backgroundColor="var(--grayish)";
+      contContainer.appendChild(cont);
     }
   </script>
 </body>
