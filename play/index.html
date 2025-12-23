@@ -110,6 +110,7 @@
         rightAnswer.textContent = sentencesHu[currentSentence][1];
         rightAnswer.style.backgroundColor = 'black';
         rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[currentSentence][1] + "#Hungarian";
+        showContinue();
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
           answer[i].style.backgroundColor = "var(--blueish)";
@@ -123,18 +124,20 @@
     }
     
     //GENERATE THE CONTINUE BUTTON
-    contContainer = document.getElementById('cont-container');
-    const cont = document.createElement('div');
-    cont.className="box1";
-    cont.style.backgroundColor="var(--grayish)";
-    cont.addEventListener("click", () => {
-      currentSentence++;
-      contContainer.replaceChildren();
-      container.replaceChildren();
-      answerContainer.replaceChildren();
-      generateSentence();
-    });
-    contContainer.appendChild(cont);
+    function showContinue(){
+      contContainer = document.getElementById('cont-container');
+      const cont = document.createElement('div');
+      cont.className="box1";
+      cont.style.backgroundColor="var(--grayish)";
+      cont.addEventListener("click", () => {
+        currentSentence++;
+        contContainer.replaceChildren();
+        container.replaceChildren();
+        answerContainer.replaceChildren();
+        generateSentence();
+      });
+      contContainer.appendChild(cont);
+      }
     }
   </script>
 </body>
