@@ -97,11 +97,20 @@
     for(let i = 0; i < 4; i++){
       answer[i] = document.createElement('div');
       answer[i].className = "answer";
-      answerContainer.appendChild(answer[i]);
       
       answerText[i] = document.createElement('a');
       answerText[i].textContent = "Balls";
+
+      answer[i].addEventListener('click', () =>{
+        if (answerText[i]==sentencesHu[currentSentence][1]){
+          document.getElementById('translated').textContent = "correct!";
+        }
+      });
+      
+      answerContainer.appendChild(answer[i]);
       answer[i].appendChild(answerText[i]);
+
+      
     }
   </script>
 </body>
