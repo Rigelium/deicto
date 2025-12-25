@@ -69,11 +69,12 @@
 
     let levelData, sentencesHu, lvTitle = null;
     let currentSentence = 0;
-    difLevel = "beginner";
+    difLevel = "advanced";
+    currentLevel = "1"
     
     async function loadLevelData() {
       try {
-        const response = await fetch("../levels/hungarian/" + difLevel + "/lv_" + "1" + ".json");
+        const response = await fetch("../levels/hungarian/" + difLevel + "/lv_" + currentLevel + ".json");
         levelData = await response.json();        
         lvTitle = levelData.title;
         sentencesHu = levelData.sentences;  
