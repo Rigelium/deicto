@@ -71,12 +71,15 @@
 
     let levelData, sentencesHu, lvTitle, notes = null;
     let currentSentence = 0;
+    
+    // example variables
+    let language = "Hungarian";
     difLevel = "beginner";
-    currentLevel = "2"
+    currentLevel = "1"
     
     async function loadLevelData() {
       try {
-        const response = await fetch("../levels/hungarian/" + difLevel + "/lv_" + currentLevel + ".json");
+        const response = await fetch("../levels/" + language.toLowerCase() + "/" + difLevel + "/lv_" + currentLevel + ".json");
         levelData = await response.json();        
         lvTitle = levelData.title;
         sentencesHu = levelData.sentences;  
@@ -132,7 +135,7 @@
       for(let i = 0; i<sentencesHu[currentSentence][0].split(" ").length ; i++){
         const btn = document.createElement('a');
         btn.textContent = sentencesHu[currentSentence][0].split(" ")[i];
-        btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#Hungarian";
+        btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#" + language;
         container.appendChild(btn); 
       }
       
@@ -145,7 +148,7 @@
       for(let i = 0; i<sentencesHu[currentSentence][2].split(" ").length ; i++){
         const btn = document.createElement('a');
         btn.textContent = sentencesHu[currentSentence][2].split(" ")[i];
-        btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#Hungarian";
+        btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#" + language;
         container.appendChild(btn);
       }
 
@@ -172,7 +175,7 @@
         rightAnswer.textContent = sentencesHu[currentSentence][1];
         rightAnswer.style.backgroundColor = 'var(--boxcolor1)';
         rightAnswer.style.color = 'var(--blueish)';
-        rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[currentSentence][1] + "#Hungarian";
+        rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[currentSentence][1] + "#" + language;
         showContinue();
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
