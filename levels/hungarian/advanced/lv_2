@@ -1,0 +1,31 @@
+{
+  "title": "Law and Justice",
+  "sentences": [
+    ["A vádlott és az ügyészség közötti", "vádalku", "keretében a büntetés mértéke csökkenthető.", "Within the framework of a plea bargain between the accused and the prosecution, the sentence may be reduced.", "vádalku", "bizonyíték", "tanúvallomás", "ítélet"],
+    ["A döntő", "bizonyíték", "hiányában a bíróság kénytelen volt felmenteni a terheltet.", "In the absence of decisive evidence, the court was forced to acquit the defendant.", "vádirat", "fellebbezés", "bizonyíték", "vádalku"],
+    ["A koronatanú", "tanúvallomása", "alapjaiban rengette meg a védelmet.", "The crown witness's testimony fundamentally shook the defense.", "tanúvallomása", "ítélete", "vádirata", "fellebbezése"],
+    ["Az elsőfokú", "ítélet", "ellen mindkét fél fellebbezést nyújtott be.", "Both parties filed an appeal against the first-instance judgment/verdict.", "vádalku", "perújítás", "ítélet", "bizonyítás"],
+    ["Az ügyészség benyújtotta a", "vádiratot", "a hűtlen kezeléssel vádolt tisztviselők ellen.", "The prosecution filed the indictment against the officials accused of embezzlement.", "vádiratot", "fellebbezést", "ítéletet", "vádalkut"],
+    ["A védelem", "fellebbezést", "nyújtott be az eljárási hibákra hivatkozva.", "The defense filed an appeal citing procedural errors.", "vádalkut", "fellebbezést", "tanúvallomást", "bizonyítékot"],
+    ["A határozat a tegnapi napon emelkedett", "jogerőre", ".", "The decision became legally binding (entered into legal force) yesterday.", "jogerőre", "vádiratra", "ítéletre", "vádra"],
+    ["A", "büntetőeljárás", "során a hatóságoknak tiszteletben kell tartaniuk az ártatlanság vélelmét.", "During the criminal procedure, authorities must respect the presumption of innocence.", "polgári per", "büntetőeljárás", "vádalku", "tanúvallomás"],
+    ["A felek végül", "peren kívüli egyezség", "útján rendezték a vitás kérdéseket.", "The parties eventually settled the disputed issues through an out-of-court settlement.", "vádirat", "ítélet", "fellebbezés", "peren kívüli egyezség"],
+    ["A", "védőügyvéd", "feladata a gyanúsított jogainak maradéktalan védelme.", "The defense attorney's task is the full protection of the suspect's rights.", "ügyészség", "védőügyvéd", "bíró", "tanú"],
+    ["Az", "ügyészség", "képviseli a vádat a közvádas bűncselekmények esetén.", "The prosecution represents the charge in cases of public prosecution crimes.", "bíróság", "védőügyvéd", "ügyészség", "vádlott"],
+    ["A", "gyanúsított", "őrizetbe vétele után 72 órán belül dönteni kell az előzetes letartóztatásról.", "Within 72 hours of the suspect's detention, a decision must be made on pre-trial detention.", "vádlott", "tanú", "gyanúsított", "ügyész"],
+    ["A", "vádlott", "az utolsó szó jogán ártatlanságát hangoztatta.", "The accused pleaded innocence in their final statement.", "vádlott", "gyanúsított", "védőügyvéd", "ügyész"],
+    ["A bizonyítékok elégtelensége miatt a bíróság", "felmentést", "adott.", "Due to insufficient evidence, the court granted an acquittal.", "felmentést", "ítéletet", "vádalkut", "vádiratot"],
+    ["A súlyos", "bűncselekmény", "elkövetésével vádolt férfi beismerő vallomást tett.", "The man accused of committing a serious crime made a confession.", "mulasztás", "gondatlanság", "bűncselekmény", "elévülés"],
+    ["Az orvosi", "gondatlanság", "miatt indított per több évig elhúzódott.", "The lawsuit filed due to medical negligence lasted for several years.", "gondatlanság", "mulasztás", "bűncselekmény", "vádirat"],
+    ["A hivatalos személy által elkövetett", "mulasztás", "súlyos következményekkel járt.", "The omission committed by the official had serious consequences.", "bűncselekmény", "ítélet", "mulasztás", "vádalku"],
+    ["Tíz év után a bűncselekmény büntethetősége", "elévült", ".", "After ten years, the punishability of the crime became statute-barred (expired).", "jogerős", "elévült", "felmentett", "vádolt"],
+    ["A felperes jelentős összegű", "kártérítést", "követel a baleset után.", "The plaintiff is demanding a significant amount of damages (compensation) after the accident.", "kártérítést", "vádalkut", "vádiratot", "bizonyítékot"],
+    ["A rendőrség szerint", "alapos gyanú", "merült fel a sikkasztás ügyében.", "According to the police, reasonable suspicion arose in the embezzlement case.", "alapos gyanú", "tanúvallomás", "jogerő", "ítélet"],
+    ["A bíró figyelembe vette az", "enyhítő körülményeket", "a büntetés kiszabásakor.", "The judge took mitigating circumstances into account when imposing the sentence.", "súlyosbító körülményeket", "enyhítő körülményeket", "vádalkut", "bizonyítékokat"],
+    ["Az ügyben több", "súlyosbító körülmény", "is felmerült, ami növelte a büntetést.", "Several aggravating circumstances arose in the case, which increased the sentence.", "súlyosbító körülmény", "enyhítő körülmény", "jogerő", "tanúvallomás"],
+    ["A", "bizonyítási eljárás", "során szakértők vizsgálták meg a helyszínt.", "During the evidentiary procedure, experts examined the scene.", "bizonyítási eljárás", "vádalku", "fellebbezés", "vádirat"],
+    ["A", "polgári per", "során a felek közötti szerződéses vita dőlt el.", "During the civil lawsuit, a contractual dispute between the parties was decided.", "büntetőeljárás", "polgári per", "vádirat", "ítélet"],
+    ["Az", "alkotmánybíróság", "megsemmisítette az alaptörvény-ellenes jogszabályt.", "The Constitutional Court annulled the unconstitutional legal regulation.", "ügyészség", "bíróság", "alkotmánybíróság", "önkormányzat"]
+  ],
+  "dictionary": "vádalku - plea bargain\nbizonyíték - evidence\ntanúvallomás - testimony\nítélet - verdict/judgment\nvádirat - indictment\nfellebbezés - appeal\njogerő - legal force (binding)\nbüntetőeljárás - criminal procedure\nperen kívüli egyezség - out-of-court settlement\nvédőügyvéd - defense attorney\nügyészség - prosecution\ngyanúsított - suspect\nvádlott - accused\nfelmentés - acquittal\nbűncselekmény - crime\ngondatlanság - negligence\nmulasztás - omission\nelévülés - statute of limitations (expiration)\nkártérítés - damages/compensation\nalapos gyanú - reasonable suspicion\nenyhítő körülmény - mitigating circumstance\nsúlyosbító körülmény - aggravating circumstance\nbizonyítási eljárás - evidentiary procedure\npolgári per - civil lawsuit\nalkotmánybíróság - constitutional court"
+}
