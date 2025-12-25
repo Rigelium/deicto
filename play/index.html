@@ -50,6 +50,7 @@
 <body>
   <div style="display: flex; flex-direction: column; justify-content: center; gap: 15px;">
     <div class="box1" style="display: flex; flex-direction: column; gap: 3px;">
+      <div id="notes-container"></div>
       <div id="btn-container" style="display: flex; gap: 4px; flex-wrap: wrap; justify-content: center;"></div>
       <a id="translated" style="color: var(--fontcolor3); text-align: center;"></a>
     </div>
@@ -74,15 +75,21 @@
         notes = levelData.dictionary;
         if (currentSentence == 0){
           displayNotes();
+        } else {
+          generateSentence();
         }
-        generateSentence();
       } catch (error) {
         console.error("Failed to load level data.", error);
       }
     }
 
     function displayNotes() {
-      console.log("It works I guess?");
+      const notesContainer = document.getElementById('notes-container');
+      const notesForDisplay = document.createElement('a');
+      notesForDisplay.textContent = notes;
+      notesForDisplay.addEventListener('click', () => {
+        generateSentence();
+      });
     }
 
     
