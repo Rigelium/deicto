@@ -112,6 +112,7 @@
       notesContinue.addEventListener('click', () => {
         notesContainer.replaceChildren();
         dictionaryContainer.replaceChildren();
+        document.getElementById('notes-desc').innerHTML = "";
         generateSentence();
       });
 
@@ -119,7 +120,7 @@
       notesBox.appendChild(notesText);
       notesContainer.appendChild(notesContinue);
       dictionaryContainer.appendChild(notesBox);
-      
+     
     }
 
     
