@@ -75,7 +75,7 @@
         const response = await fetch("../levels/hungarian/lv_" + "1" + ".json");
         levelData = await response.json();        
         lvTitle = levelData.title;
-        sentencesHu = levelData.sentence  
+        sentencesHu = levelData.sentences;  
         generateSentence();
       } catch (error) {
         console.error("Failed to load level data.", error);
