@@ -65,6 +65,9 @@
     ];
 */
 
+    window.onload = loadLevelData;
+
+    
     async function loadLevelData() {
       const response = await fetch("../levels/hungarian/lv_" + "1" + ".json");
       const levelData = await response.json();
