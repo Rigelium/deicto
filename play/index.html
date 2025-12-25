@@ -43,14 +43,13 @@
        background-color: var(--boxcolor1);
        padding: 10px;
        height: 50px;
-       width: 80%;
      }
      
    </style>
   </head>
 <body>
   <div style="display: flex; flex-direction: column; justify-content: center; gap: 15px;">
-    <div class="box1" style="display: flex; flex-direction: column; width: 80%;">
+    <div class="box1" style="display: flex; flex-direction: column;">
       <div id="btn-container" style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: center;"></div>
       <a id="translated" style="color: var(--textcolor2); text-align: center;"></a>
     </div>
@@ -125,7 +124,7 @@
         const rightAnswer = document.getElementById('hidden');
         rightAnswer.textContent = sentencesHu[currentSentence][1];
         rightAnswer.style.backgroundColor = 'var(--boxcolor1)';
-        rightAnswer.style.color = 'var(--highlight)';
+        rightAnswer.style.color = 'var(--blueish)';
         rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[currentSentence][1] + "#Hungarian";
         showContinue();
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
