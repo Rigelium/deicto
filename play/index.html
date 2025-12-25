@@ -153,13 +153,20 @@
       const cont = document.createElement('div');
       cont.className="box1";
       cont.style.backgroundColor="var(--grayish)";
-      cont.addEventListener("click", () => {
+
+      const nextSent = document.createElement('div');
+      nextSent.className="box1";
+      cont.style.backgroundColor="var(--highlight)";
+      
+      
+      nextSent.addEventListener("click", () => {
         currentSentence++;
         contContainer.replaceChildren();
         container.replaceChildren();
         answerContainer.replaceChildren();
         generateSentence();
       });
+      nextSent.appendChild(contContainer);
       contContainer.appendChild(cont);
       }
     }
