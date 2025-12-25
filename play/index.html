@@ -68,15 +68,17 @@
     async function loadLevelData() {
       const response = await fetch("../levels/hungarian/lv_" + "1" + ".json");
       const levelData = await response.json();
-      const lvTitle = levelData.title;
-      const sentencesHu = levelData.sentences
+      generateSentence(levelData);
     }
-    let currentSentence = 0;
 
     
-    window.onload = generateSentence;
-    
-    function generateSentence() {
+    function generateSentence(levelData) {
+
+      //getting the variables
+      const lvTitle = levelData.title;
+      const sentencesHu = levelData.sentences
+      let currentSentence = 0;
+      
       // GENERATING SENTENCE 
       container = document.getElementById("btn-container");
 
