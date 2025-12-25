@@ -58,6 +58,7 @@
     <div class="box1" style="display: flex; flex-direction: column; gap: 3px;">
       <div id="btn-container" style="display: flex; gap: 4px; flex-wrap: wrap; justify-content: center;"></div>
       <a id="translated" style="color: var(--fontcolor3); text-align: center;"></a>
+      <a id="notes-desc"></a>
     </div>
     <div id=dictionary-container></div>
     <div id="notes-container"></div>
@@ -98,6 +99,8 @@
       const notesContinue = document.createElement('div');
       const notesText = document.createElement('a');
       const notesContinueText = document.createElement('a');
+
+      document.getElementById('notes-desc').textContent = "Notes for the following level";
 
     
       notesBox.className = "box1";
