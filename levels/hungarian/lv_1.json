@@ -1,7 +1,31 @@
 {
-  "title": "Testing",
+  "title": "Greetings and Common Phrases",
   "sentences": [
-    ["Ez az első", "mondat", "ebben a játékban!", "This is the first sentence in this game!", "mondat", "mondás", "szótár", "szókincs"],
-    ["", "Helló", "!", "Hello!", "Viszlát", "Nincs", "Látlak", "Helló"]
-  ]
+    ["", "Szia", "!", "Hi!", "Szia", "Szit", "Szép", "Sziget"],
+    ["", "Hogy", "vagy?", "How are you?", "Hogy", "Hogyhogy", "Hogyis", "Hogyne"],
+    ["Jól vagyok,", "köszönöm", ".", "I am well, thank you.", "köszönöm", "köszönet", "között", "kérlek"],
+    ["Hogy", "hívnak", "?", "What is your name? (lit. How do they call you?)", "hívnak", "hívó", "híres", "hittem"],
+    ["A", "nevem", "Péter.", "My name is Peter.", "nevem", "nemes", "német", "néven"],
+    ["Nagyon", "örülök", "a találkozásnak!", "Very nice to meet you! (lit. I very much rejoice at the meeting)", "örülök", "őrült", "örök", "őrzök"],
+    ["", "Viszlát", "holnap!", "Goodbye tomorrow!", "Viszlát", "Vissza", "Viccet", "Vizet"],
+    ["", "Sziasztok", "!", "Hello! (to multiple people)", "Sziasztok", "Szia", "Szevasz", "Szitok"],
+    ["Jó", "reggelt", "kívánok!", "Good morning! (lit. I wish good morning)", "reggelt", "reggel", "régen", "rejtett"],
+    ["Jó", "napot", "!", "Good day!", "napot", "naptól", "napok", "napon"],
+    ["Jó", "estét", "!", "Good evening!", "estét", "este", "esett", "etett"],
+    ["Jó", "éjszakát", "!", "Good night!", "éjszakát", "éjszaka", "éjszakán", "ékszer"],
+    ["", "Bocsánat", ", nem értem.", "Sorry, I don't understand.", "Bocsánat", "Bocsánatot", "Bocsát", "Botlás"],
+    ["Tudnál", "segíteni", "?", "Could you help?", "segíteni", "segítség", "segítek", "sietni"],
+    ["", "Elnézést", ", hol a mosdó?", "Excuse me, where is the bathroom?", "Elnézést", "Elnézek", "Elég", "Elmélet"],
+    ["", "Kérlek", ", beszélj lassan.", "Please, speak slowly.", "Kérlek", "Kérdezek", "Kerek", "Kérek"],
+    ["Nem", "beszélek", "jól magyarul.", "I don't speak Hungarian well.", "beszélek", "beszélsz", "beszélnek", "becsület"],
+    ["", "Értem", "már!", "I understand now!", "Értem", "Éreztem", "Érted", "Érem"],
+    ["Mennyibe", "kerül", "ez?", "How much does this cost?", "kerül", "kérlek", "kerék", "körüli"],
+    ["Szeretnék", "egy", "kávét.", "I would like a coffee.", "egy", "egye", "egyen", "egek"],
+    ["", "Egészségedre", "!", "To your health! / Cheers!", "Egészségedre", "Egészség", "Egészre", "Építette"],
+    ["Szép", "napunk", "van.", "We have a beautiful day.", "napunk", "napom", "napot", "napul"],
+    ["", "Igen", ", kérem.", "Yes, please.", "Igen", "Igaz", "Ige", "Igal"],
+    ["", "Nem", ", köszönöm.", "No, thank you.", "Nem", "Nemzet", "Nemet", "Nemi"],
+    ["", "Szeretlek", ".", "I love you.", "Szeretlek", "Szeretne", "Szeretek", "Szeret"]
+  ],
+  "dictionary": "szia - hi/bye\nhogy vagy - how are you\nköszönöm - thank you\nhívnak - they call (someone)\nnevem - my name\nörülök - I rejoice/am glad\nviszlát - goodbye\nsziasztok - hello (plural)\nreggelt - morning (acc.)\nnapot - day (acc.)\nestét - evening (acc.)\néjszakát - night (acc.)\nbocsánat - sorry\nsegíteni - to help\nelnézést - excuse me\nkérlek - please\nbeszélek - I speak\nértem - I understand\nkerül - costs\negy - a / one\negészségedre - to your health\nnapunk - our day\nigen - yes\nnem - no\nszeretlek - I love you"
 }
