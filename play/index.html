@@ -57,13 +57,22 @@
   </div>
   <script>
     //defining da variables
-    let currentSentence = 0;
+    /*let currentSentence = 0;
     const sentencesHu = [
       ["Ez az első", "mondat", "ebben a játékban.", "This is the first sentence in this game.", "mondjuk", "mondat", "szótár", "minden"],
       ["Ez pedig a",  "második", ".", "And this is the second one.", "második", "másol", "harmadik", "mesél"],
       ["", "Íme", "a harmadik!", "Lo and behond the third one!", "Hát", "Ide", "Íme", "Pedig" ]
     ];
+*/
 
+    async function loadLevelData() {
+      const response = await fetch("../levels/hungarian/lv_" + "1" + ".json");
+      const levelData = await response.json();
+      const lvTitle = levelData.title;
+      const sentencesHu = levelData.sentences
+    }
+
+    
     window.onload = generateSentence;
     
     function generateSentence() {
