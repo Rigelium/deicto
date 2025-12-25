@@ -105,13 +105,13 @@
       notesContinueText.textContent = "Continue";
       
       notesContinue.addEventListener('click', () => {
-        replaceChildren(notesContainer, "");
+        notesContainer.replaceChildren();
         generateSentence();
       });
 
       notesContinue.appendChild(notesContinueText);
-      notesBox.appendChild(notesContinue);
       notesBox.appendChild(notesText);
+      notesBox.appendChild(notesContinue);
       notesContainer.appendChild(notesBox);
       
     }
