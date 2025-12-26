@@ -62,8 +62,11 @@
     
     // COURSE SETTINGS
     let language = "Hungarian";
+    language = retrieveVariable("language", language);
     let langCodeTTS = "HU-hu";
+    langCodeTTS = retrieveVariable("langCodeTTS", language);
     let difLevel = "advanced";
+    difLevel = retrieveVariable("difLevel", difLevel);
     let currentLevel = "1"; //default variable
     currentLevel = retrieveVariable("currentLevel", currentLevel); //looking for a stored variable
 
