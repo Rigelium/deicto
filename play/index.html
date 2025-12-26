@@ -80,6 +80,7 @@
     
     // example variables
     let language = "Russian";
+    let langCodeTTS = "RU-ru"
     difLevel = "advanced";
     currentLevel = "1"
     
@@ -184,7 +185,7 @@
         rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[currentSentence][1] + "#" + language;
 
           //SENTENCE ANSWERED
-          playText(sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1] + sentencesHu[currentSentence][2], 'HU-hu');
+          playText(sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1] + sentencesHu[currentSentence][2], LangCodeTTS);
         showContinue();
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
