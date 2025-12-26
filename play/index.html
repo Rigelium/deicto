@@ -62,7 +62,9 @@
     let language = "Hungarian";
     let langCodeTTS = "HU-hu";
     difLevel = "advanced";
-    currentLevel = "2"
+    
+    let currentLevel = "2"; //default variable
+    currentLevel = retrieveData("currentLevel", currentLevel); //looking for a stored variable
     
     async function loadLevelData() {
       try {
@@ -211,7 +213,7 @@
       
       }
     }
-//////////////////////////////////////////////////////////////TSS HERE
+    //////////////////////////////////////////////////////////////TSS HERE
     function playText(text, langCode) {
     // 1. Create a "shout" object
     const utterance = new SpeechSynthesisUtterance(text);
@@ -226,6 +228,19 @@
     // 4. Speak!
     window.speechSynthesis.speak(utterance);
     }
+    /////////////////////////////////////////////////////////////////////////////////////RETRIEVE DATA
+    function retrieveVariable(varName, defaultValue) {
+        try {
+          const storedValue = localStorage.getItem(varName);
+          if (variable == null){
+            return defaultValue;
+          }
+          return storedValue;
+        } catch(error) {
+          console.error(error);
+          return defaultValue;
+        }
+      }
   </script>
 </body>
 </html>
