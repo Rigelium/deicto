@@ -232,7 +232,7 @@
     function retrieveVariable(varName, defaultValue) {
         try {
           const storedValue = localStorage.getItem(varName);
-          if (variable == null){
+          if (storedValue == null){
             return defaultValue;
           }
           return storedValue;
