@@ -55,17 +55,19 @@
 
     window.onload = loadLevelData;
 
-    let levelData, sentencesHu, lvTitle, notes = null;
-    let currentSentence = 0;
     
-    // example variables
+    let currentSentence = 0;
+
+    // USER SETTINGS
+    
+    // COURSE SETTINGS
     let language = "Hungarian";
     let langCodeTTS = "HU-hu";
-    difLevel = "advanced";
-    
-    let currentLevel = "2"; //default variable
+    let difLevel = "advanced";
+    let currentLevel = "1"; //default variable
     currentLevel = retrieveVariable("currentLevel", currentLevel); //looking for a stored variable
-    
+
+    let levelData, sentencesHu, lvTitle, notes = null;
     async function loadLevelData() {
       try {
         const response = await fetch("../levels/" + language.toLowerCase() + "/" + difLevel + "/lv_" + currentLevel + ".json");
@@ -92,8 +94,7 @@
       const notesText = document.createElement('a');
       const notesContinueText = document.createElement('a');
 
-      document.getElementById('notes-desc').textContent = "Notes for the following level";
-
+      document.getElementById('notes-desc').textContent = "Notes for the following level: " + "Level " + currentLevel + " - " + lvTitle + " [" + language + ", " + difLevel;
     
       notesBox.className = "box1";
       notesContinue.className = "box1";
@@ -112,9 +113,10 @@
       notesBox.appendChild(notesText);
       notesContainer.appendChild(notesContinue);
       dictionaryContainer.appendChild(notesBox);
-     
     }
 
+
+    
     
     function generateSentence() {
       
