@@ -32,14 +32,14 @@
       let endReached = 0;
       let levelData = null;
 
+      listLevels();
+
       async function listLevels() {
         while( endReached == 0 ) {
           try {
             const response = await fetch(path + "lv_" + checkedLv + ".json");
             levelData = await response.json();
-            
-
-            console.log("Loaded level" + checkedLv);
+            dispLevel(checkedLv, response.title, response.sentences.length); // 
             checkedLv++;
           } catch(error) {
             endReached = 1;
@@ -48,7 +48,19 @@
         }
       }
 
+      function dispLevel(levelNumber, levelTitle, numOfSentences) {
+        console.log("Loaded level: " + levelNumber + levelTitle + numOfSentences);
+      }
 
+
+
+
+
+
+
+
+
+      
       //WIP settings
       const input = document.getElementById('input');
       const btn = document.getElementById('btn');
@@ -59,8 +71,7 @@
       }
 
       
-
-      
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
       function retrieveVariable(varName, defaultValue) {
         try {
           const storedValue = localStorage.getItem(varName);
