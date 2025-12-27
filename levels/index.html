@@ -48,33 +48,7 @@
         }
       }
 
-      async function listLevels() {
-    let checkedLv = 1; // Assuming you start at 1
-    let endReached = false;
 
-    while (!endReached) {
-        try {
-            const response = await fetch(path + "lv_" + checkedLv + ".json");
-
-            // CHECK: Did the server actually find the file?
-            if (!response.ok) {
-                console.log(`Level ${checkedLv} not found. Ending search.`);
-                endReached = true;
-                break; // Exit the loop
-            }
-
-            const levelData = await response.json();
-            dispLevel(checkedLv, levelData.title, levelData.sentences.length);
-            
-            checkedLv++;
-        } catch (error) {
-            // This will now only trigger if the JSON is corrupted 
-            // or the internet cuts out.
-            endReached = true;
-            console.error("Critical error or corrupted JSON:", error);
-        }
-    }
-}
 
       function dispLevel(levelNumber, levelTitle, numOfSentences) {
         const lvContainer = document.getElementById('lv-container');
