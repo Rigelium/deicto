@@ -28,8 +28,6 @@
       
       const path = language.toLowerCase() + "/" + difLevel + "/";
 
-
-
       listLevels();
 
       async function listLevels() {
@@ -62,12 +60,18 @@
               
             </div>
           </div>
+          <div class="box1" href='../play/' style='width: 20%; ' onclick='selectLevel(${levelNumber})'>
+            <a>PLAY</a>
+          </div>
         </div>`;
 
         lvContainer.appendChild(level);
         console.log("Loaded level: " + levelNumber + levelTitle + numOfSentences);
       }
 
+      selectLevel(levelNr){
+        localStorage.setItem('currentLevel', levelNr);
+      }
 
 
 
