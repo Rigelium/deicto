@@ -70,6 +70,7 @@
     const localPath = `-${language}-${difLevel}-${currentLevel}`;
 
     let currentSentence = Number(retrieveVariable(`currentSentence${localPath}`, 0));
+    let starCount = Number(retrieveVariable(`starCount${localPath}`, 0));
 
     // LEVEL DATA LOADING --------------------------------------------------------------------------------
     let levelData, sentencesHu, lvTitle, notes = null;
