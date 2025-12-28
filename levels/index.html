@@ -124,8 +124,19 @@
         if (starCount==0){
           return 'play to get stars';
         }
-        const reviewMin = reviewMs/60000;
-        return `Next review: ${reviewMin}m`;
+        if (starCount==5){
+          return 'level complete';
+        }
+        let output = '';
+        const reviewMin = Number(reviewMs/60000);
+        
+        const minutesLeft = Number(reviewMin) % 60;
+        const hoursLeft = Number(reviewMin/60) % 24;
+        const daysLeft = Number(reviewMin/60/24); 
+
+
+        
+        return `Next review: ${daysLeft}d ${hoursLeft}h ${minutesLeft}m`;
       }
       
       function selectLevel(levelNr) {
