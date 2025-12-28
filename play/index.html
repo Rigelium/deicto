@@ -204,6 +204,12 @@
           localStorage.setItem(`currentSentence${localPath}`, currentSentence)
         }else{
           reorder(reordered, currentSentence);
+
+          for (let i = 0 ; i < sentencesHu.length ; i++){
+            localStorage.setItem(`reordered${localPath}-${i}`, reordered[i]);
+          }
+
+          
           //localStorage.setItem(`reordered${localPath}-${i}`, i)
           answer[i].style.backgroundColor = "red";
         }
