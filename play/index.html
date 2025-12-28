@@ -182,7 +182,8 @@
         rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[currentSentence][1] + "#" + language;
 
           //SENTENCE ANSWERED
-        playText(sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1].split('(')[0].trim() + sentencesHu[currentSentence][2], langCodeTTS);
+        const fullSentence = sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1].split('(')[0].trim() + sentencesHu[currentSentence][2];
+        playText(fullSentence);
         showContinue();
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
@@ -201,7 +202,7 @@
     }
     
     //GENERATE THE CONTINUE BUTTON
-    function showContinue(){
+    function showContinue(fullSent){
       contContainer = document.getElementById('cont-container');
       const cont = document.createElement('div');
       cont.className="box1";
@@ -209,7 +210,7 @@
       const repeatTTS = document.createElement('div');
       repeatTTS.className="box1";
       repeatTTS.addEventListener('click', ()=>{
-        playText(sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1].split('(')[0].trim() + sentencesHu[currentSentence][2], langCodeTTS);
+        playText(fullSent, langCodeTTS);
       });
       repeatTTS.style.backgroundColor="var(--highlight)";
       repeatTTS.style.width = "30%";
