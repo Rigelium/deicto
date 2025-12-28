@@ -6,19 +6,19 @@
 <meta property="og:title" content="Deicto | Level Menu">
 <meta property="og:description" content="A silly language learning game made by an even sillier student">
 <meta property="og:image" content="https://rigelium.github.io/deicto/assets/logo.png">
-
-     
     <link rel="icon" type="image/x-icon" href="https://cdn.discordapp.com/attachments/638813266440880140/1452871487945048154/image.png?ex=694b6383&is=694a1203&hm=ea28a03cd258d23b8acf516ce5d50e8d8c18830545825d3c39ad702c7ab846fc">
     <link rel="stylesheet" href="../assets/styles.css">
     <title>Deicto</title>
   </head>
+
+  
   <body>
 
     <div class='box1' style='justify-content: flex-start; gap: 10px;'>
       <div style="display: flex; flex-direction: column; width: 40%; gap: 10px;">
         <img id = 'flag' src='' style="width: 100%; height: auto; border-radius: 4px;">
         <a id='info-language' style='font-weight: bold; font-size: 1.5rem;'>Loading levels...</a>
-        <a id='info-dif-level'></a>
+        <a id='info-dif-level' style='color: var(--grayish)'></a>
       </div>
       <div>
         <div style="display: flex; flex-direction: column; width: 55%">
@@ -68,7 +68,21 @@
         const localPath = `-${language}-${difLevel}-${levelNumber}`;
 
         let currentSentence = Number(retrieveVariable(`currentSentence${localPath}`, 0));
-        let starCount = Number(retrieveVariable(`starCount${localPath}`, 0));
+        let starCount = Number(retrieveVariable(`starCount${localPath}`, 2));
+
+
+        const starsHTML = '';
+        for (let i = 0; i < starcount; i++) {
+          starsHTML += `
+          <img style = 'height: 1em; width: auto;' src='../assets/starfilled.png'>\n
+          `;
+        }
+        for (let i = 0; i < 5-starcount; i++) {
+          starsHTML += `
+          <img src='../assets/starhollow.png'>\n
+          `;
+        }
+
         
         const lvContainer = document.getElementById('lv-container');
         const level = document.createElement('div');
@@ -78,7 +92,7 @@
             <a style='font-weight: bold;'>Lv. ${levelNumber} - ${levelTitle}</a>
             <div style="display: flex;"> <!--  -->
               <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
-                <a>Stars here</a>
+                <div style='display: flex; gap: 1px;'>${starsHTML}</div>
                 <a>2d 12h 2m  (?)</a>
               </div>
               <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
