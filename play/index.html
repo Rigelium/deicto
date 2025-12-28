@@ -181,6 +181,7 @@
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
           answer[i].style.backgroundColor = "var(--blueish)";
+          currentSentence++;
         }else{
           answer[i].style.backgroundColor = "red";
         }
@@ -218,7 +219,7 @@
       
       
       nextSent.addEventListener("click", () => {
-        currentSentence++;
+        
         localStorage.setItem(`currentSentence${localPath}`, currentSentence)
         contContainer.replaceChildren();
         container.replaceChildren();
