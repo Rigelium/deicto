@@ -72,6 +72,8 @@
     let currentSentence = Number(retrieveVariable(`currentSentence${localPath}`, 0));
     let starCount = Number(retrieveVariable(`starCount${localPath}`, 0));
 
+    let reordered = [];
+
     // LEVEL DATA LOADING --------------------------------------------------------------------------------
     let levelData, sentencesHu, lvTitle, notes = null;
     async function loadLevelData() {
@@ -89,6 +91,11 @@
       } catch (error) {
         console.error("Failed to load level data.", error);
       }
+    }
+    //////////////////////////////////////////////////////////////////////
+
+    for (let i = 0; i < sentencesHu.length; i++) {
+      reordered = i;
     }
 
     //////////////////////////////////////////////////////////////////////////////notes/////////////////////////////////////////////////////////////////////////////////////////
