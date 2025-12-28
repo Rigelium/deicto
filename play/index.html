@@ -198,6 +198,14 @@
         playText(fullSentence, langCodeTTS);
 
           if(currentSentence == sentencesHu.length-1) {
+            if ( starCount < 5 ) {
+              starCount++;
+            }
+            localStorage.setItem(`starCount${localPath}`, starCount);
+            localStorage.setItem(`currentSentence${localPath}`, 0);
+            for (let i = 0 ; i < sentencesHu.length ; i++){
+              localStorage.setItem(`reordered${localPath}-${i}`, null);
+            }
             console.log('U have reached the final level, ggz'); //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<------oidsaufoiuewio
           }
 
