@@ -182,6 +182,7 @@
           //CORRECT CHOICE
           answer[i].style.backgroundColor = "var(--blueish)";
           currentSentence++;
+          localStorage.setItem(`currentSentence${localPath}`, currentSentence)
         }else{
           answer[i].style.backgroundColor = "red";
         }
@@ -220,7 +221,6 @@
       
       nextSent.addEventListener("click", () => {
         
-        localStorage.setItem(`currentSentence${localPath}`, currentSentence)
         contContainer.replaceChildren();
         container.replaceChildren();
         answerContainer.replaceChildren();
