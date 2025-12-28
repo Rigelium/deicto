@@ -202,10 +202,10 @@
               starCount++;
             }
             localStorage.setItem(`starCount${localPath}`, starCount);
-            localStorage.setItem(`currentSentence${localPath}`, null);
+            localStorage.removeItem(`currentSentence${localPath}`);
             
             for (let i = 0 ; i < sentencesHu.length ; i++){
-              localStorage.setItem(`reordered${localPath}-${i}`, null);
+              localStorage.removeItem(`reordered${localPath}-${i}`);
             }
             console.log('U have reached the final level, ggz'); //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<------oidsaufoiuewio
           }
