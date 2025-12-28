@@ -87,7 +87,7 @@
         for (let i = 0; i < sentencesHu.length; i++) {
           reordered[i] = i;
         }
-        reorder(reordered, 3);
+        reorder(reordered, 1);
 
         
         if (currentSentence == 0){
@@ -149,9 +149,9 @@
       // GENERATING SENTENCE 
       container = document.getElementById("btn-container");
 
-      for(let i = 0; i<sentencesHu[currentSentence][0].split(" ").length ; i++){
+      for(let i = 0; i<sentencesHu[reordered[currentSentence]][0].split(" ").length ; i++){
         const btn = document.createElement('a');
-        btn.textContent = sentencesHu[currentSentence][0].split(" ")[i];
+        btn.textContent = sentencesHu[reordered[currentSentence]][0].split(" ")[i];
         btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#" + language;
         container.appendChild(btn); 
       }
@@ -162,16 +162,16 @@
         btn.id = "hidden";
         container.appendChild(btn);
       
-      for(let i = 0; i<sentencesHu[currentSentence][2].split(" ").length ; i++){
+      for(let i = 0; i<sentencesHu[reordered[currentSentence]][2].split(" ").length ; i++){
         const btn = document.createElement('a');
-        btn.textContent = sentencesHu[currentSentence][2].split(" ")[i];
+        btn.textContent = sentencesHu[reordered[currentSentence]][2].split(" ")[i];
         btn.href = "https://en.wiktionary.org/wiki/" + btn.innerText.replace(/[.,?!]/g, "") + "#" + language;
         container.appendChild(btn);
       }
 
       //GENERATE THE TRANSLATION
       const translated = document.getElementById('translated');
-      translated.textContent = sentencesHu[currentSentence][3];
+      translated.textContent = sentencesHu[reordered[currentSentence]][3];
     
 
     //GENERATE THE ANSWERS 4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
@@ -184,21 +184,21 @@
       answer[i].className = "answer";
       
       answerText[i] = document.createElement('a');
-      answerText[i].textContent = sentencesHu[currentSentence][i+4];
+      answerText[i].textContent = sentencesHu[reordered[currentSentence]][i+4];
 
       answer[i].addEventListener('click', () =>{
         if(answerGiven == 0){
         const rightAnswer = document.getElementById('hidden');
-        rightAnswer.textContent = sentencesHu[currentSentence][1];
+        rightAnswer.textContent = sentencesHu[reordered[currentSentence]][1];
         rightAnswer.style.backgroundColor = 'var(--boxcolor1)';
         rightAnswer.style.color = 'var(--blueish)';
-        rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[currentSentence][1] + "#" + language;
+        rightAnswer.href = "https://en.wiktionary.org/wiki/" + sentencesHu[reordered[currentSentence]][1] + "#" + language;
 
           //SENTENCE ANSWERED
-        const fullSentence = sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1].split('(')[0].trim() + sentencesHu[currentSentence][2];
+        const fullSentence = sentencesHu[reordered[currentSentence]][0] + sentencesHu[reordered[currentSentence]][1].split('(')[0].trim() + sentencesHu[reordered[currentSentence]][2];
         playText(fullSentence, langCodeTTS);
         showContinue(fullSentence);
-        if (answerText[i].textContent==sentencesHu[currentSentence][1]){
+        if (answerText[i].textContent==sentencesHu[reordered[currentSentence]][1]){
           //CORRECT CHOICE
           answer[i].style.backgroundColor = "var(--blueish)";
           currentSentence++;
