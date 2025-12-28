@@ -196,6 +196,12 @@
           //SENTENCE ANSWERED
         const fullSentence = sentencesHu[reordered[currentSentence]][0] + sentencesHu[reordered[currentSentence]][1].split('(')[0].trim() + sentencesHu[reordered[currentSentence]][2];
         playText(fullSentence, langCodeTTS);
+
+          if(currentSentence == sentencesHu.length-1) {
+            console.log('U have reached the final level, ggz');
+          }
+
+          
         showContinue(fullSentence);
         if (answerText[i].textContent==sentencesHu[reordered[currentSentence]][1]){
           //CORRECT CHOICE
@@ -251,6 +257,13 @@
         contContainer.replaceChildren();
         container.replaceChildren();
         answerContainer.replaceChildren();
+
+
+        if(currentSentence == sentencesHu.length-1) {
+            console.log('U have reached the end screen GGZ!!');
+        }
+        
+        
         generateSentence();
       });
 
