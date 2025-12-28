@@ -110,9 +110,11 @@
       `
     
       notesBox.className = "box1";
+      notesBox.style.justifyContent = "flex-start";
       notesContinue.className = "box1";
       notesContinue.style.backgroundColor = "var(--blueish)";
       notesText.textContent = notes;
+      notesText.style.cssText = "line-height: 1.2rem;";
       notesContinueText.textContent = "Continue";
       
       notesContinue.addEventListener('click', () => {
