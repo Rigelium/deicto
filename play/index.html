@@ -215,6 +215,15 @@
             for (let i = 0 ; i < sentencesHu.length ; i++){
               localStorage.removeItem(`reordered${localPath}-${i}`);
             }
+            //setting time for the next review
+            reviewTime = [0, 60000 /* 1hr */, 1440000 /* 1day */, 1008000 /*1week*/, 302400000 /*1month*/];
+            if (starCount > 0){
+              localStorage.setItem(`nextReview${localPath}`, Date.now()+reviewTime[starCount]);
+            }
+            Date.now();
+
+
+            
             console.log('U have beaten the final level, ggz'); //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<------oidsaufoiuewio
           }
 
