@@ -310,6 +310,12 @@ function playText(text, langCode) {
           return defaultValue;
         }
       }
+////////////////////////////////////////////////////////////////////////
+    function reorder(array, index) {
+    const item = array.splice(index, 1)[0]; 
+    array.push(item);
+    return array;
+}
   </script>
 </body>
 </html>
