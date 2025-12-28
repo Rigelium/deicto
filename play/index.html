@@ -216,7 +216,8 @@
               localStorage.removeItem(`reordered${localPath}-${i}`);
             }
             //setting time for the next review
-            reviewTime = [0, 3600000 /* 1hr */, 86400000 /* 1day */, 604800000 /*1week*/, 2592000000 /*1month*/];
+            //reviewTime = [0, 3600000 /* 1hr */, 86400000 /* 1day */, 604800000 /*1week*/, 2592000000 /*1month*/];
+            reviewTime = [0, 120000 /* 2min */, 3660000 /* 1hr 1min */, 86410000 /*1 day 1 min*/, 2592000000 /*1month*/];
             if (starCount > 0){
               localStorage.setItem(`nextReview${localPath}`, Date.now()+reviewTime[starCount]);
             }
