@@ -184,7 +184,7 @@
           //SENTENCE ANSWERED
         const fullSentence = sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1].split('(')[0].trim() + sentencesHu[currentSentence][2];
         playText(fullSentence, langCodeTTS);
-        showContinue();
+        showContinue(fullSentence);
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
           answer[i].style.backgroundColor = "var(--blueish)";
