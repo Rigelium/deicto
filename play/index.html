@@ -218,7 +218,9 @@
           //CORRECT CHOICE
           answer[i].style.backgroundColor = "var(--blueish)";
           currentSentence++;
-          localStorage.setItem(`currentSentence${localPath}`, currentSentence)
+          if(currentSentence != sentencesHu.length){
+            localStorage.setItem(`currentSentence${localPath}`, currentSentence)
+          }
         }else{
           reorder(reordered, currentSentence);
 
