@@ -101,7 +101,13 @@
       const notesText = document.createElement('a');
       const notesContinueText = document.createElement('a');
 
-      document.getElementById('notes-desc').textContent = "Notes for the following level: " + "Level " + currentLevel + " - " + lvTitle + " [" + language + ", " + difLevel;
+
+      //document.getElementById('notes-desc').textContent = "Notes for the following level: " + "Level " + currentLevel + " - " + lvTitle + " [" + language + " - " + difLevel + "]";
+      document.getElementById('notes-desc').innerHTML = `
+      <a style="font-size: 2rem; font-weight: bold">Notes</a>
+      <a style=''>Level ${currentLevel} - "${lvTitle}"</a>
+      <a style='color: var(--fontcolor3)'>${language} - ${difLevel}</a>
+      `
     
       notesBox.className = "box1";
       notesContinue.className = "box1";
