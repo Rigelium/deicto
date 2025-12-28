@@ -183,7 +183,7 @@
 
           //SENTENCE ANSWERED
         const fullSentence = sentencesHu[currentSentence][0] + sentencesHu[currentSentence][1].split('(')[0].trim() + sentencesHu[currentSentence][2];
-        playText(fullSentence);
+        playText(fullSentence, langCodeTTS);
         showContinue();
         if (answerText[i].textContent==sentencesHu[currentSentence][1]){
           //CORRECT CHOICE
