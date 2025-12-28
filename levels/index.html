@@ -127,6 +127,9 @@
         if (starCount==5){
           return 'level complete';
         }
+        if (reviewMs <= 0){
+          return 'ready for review';
+        }
         let output = '';
         const reviewMin = Number(reviewMs/60000);
         
