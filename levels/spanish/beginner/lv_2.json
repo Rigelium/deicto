@@ -1,0 +1,9 @@
+{
+  "title": "Testing deicto",
+  "sentences": [
+    ["", "Hola", ", ¿cómo estás?", "Hello, how are you?", "Hola", "Adiós", "Gracias", "Perdón"],
+    ["Yo", "soy", "de España.", "I am from Spain.", "soy", "estoy", "tengo", "eres"],
+    ["¿", "Qué", "tal?", "How is it going?", "Qué", "Quién", "Cómo", "Dónde"],
+  ],
+  "dictionary": "Hola - Hello\nSer/Estar - To be\nTener - To have\nQuerer - To want\nIr - To go\nGustar - To like\nHablar - To speak\nGracias - Thank you\nMucho gusto - Nice to meet you\n¿Cómo? - How?"
+}
