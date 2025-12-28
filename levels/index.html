@@ -77,14 +77,14 @@
           <div style='width:60%; flex-direction: column; justify-content: flex-start;'>
             <a margin: 2px;>Lv. ${levelNumber} - ${levelTitle}</a>
             <div style="display: flex;"> <!--  -->
-              <div style="display: flex; flex-direction: column">
+              <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
                 <a>Stars here</a>
                 <a>2d 12h 2m  (?)</a>
               </div>
-              <div style="display: flex; flex-direction: column">
+              <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
                 <a>${currentSentence}/${numOfSentences}</a>
                 <div style="display: flex; height: 10px; border-radius: 5px; background-color: var(--grayish)">
-                  <div style="display: flex; width: ${Number(currentSentence/numOfSentences*100)}%; background-color: var(--blueish)">
+                  <div style="display: flex; border-radius: 5px; width: ${Number(currentSentence/numOfSentences*100)}%; background-color: var(--blueish)">
                   </div>
                 </div>
               </div>
