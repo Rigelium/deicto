@@ -202,7 +202,8 @@
               starCount++;
             }
             localStorage.setItem(`starCount${localPath}`, starCount);
-            localStorage.setItem(`currentSentence${localPath}`, 0);
+            localStorage.setItem(`currentSentence${localPath}`, null);
+            
             for (let i = 0 ; i < sentencesHu.length ; i++){
               localStorage.setItem(`reordered${localPath}-${i}`, null);
             }
