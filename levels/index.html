@@ -83,7 +83,10 @@
               </div>
               <div style="display: flex; flex-direction: column">
                 <a>${currentSentence}/${numOfSentences}</a>
-                <a>${Number(currentSentence/numOfSentences*100)}%</a>
+                <div style="display: flex; height: 10px; border-radius: 5px; background-color: var(--grayish)">
+                  <div style="display: flex; width: ${Number(currentSentence/numOfSentences*100)}%; background-color: var(--blueish)">
+                  </div>
+                </div>
               </div>
               
             </div>
