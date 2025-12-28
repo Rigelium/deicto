@@ -27,12 +27,9 @@
     <script>
       //language parameters are already defined
 
-      let language = "Hungarian";
-      language = retrieveVariable("language", language);
-      let langCodeTTS = "HU-hu";
-      langCodeTTS = retrieveVariable("langCodeTTS", langCodeTTS); // Looking if there is a stored variable and updating it if needed
-      let difLevel = "beginner"; // Default value
-      difLevel = retrieveVariable("difLevel", difLevel);
+      let language = retrieveVariable("language", 'Hungarian');
+      let langCodeTTS = retrieveVariable("langCodeTTS", 'hu-HU'); // Looking if there is a stored variable and updating it if needed
+      let difLevel = retrieveVariable("difLevel", "advanced");
 
 
       const input = document.getElementById('input');
