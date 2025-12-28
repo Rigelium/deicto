@@ -38,11 +38,8 @@
       
       const path = language.toLowerCase() + "/" + difLevel + "/";
 
-      // USER DATA
-      const localPath = `-${language}-${difLevel}-${currentLevel}`;
 
-      let currentSentence = Number(retrieveVariable(`currentSentence${localPath}`, 0));
-      let starCount = Number(retrieveVariable(`starCount${localPath}`, 0));
+      
 
       //------------------------------------------------------------------------------------------------------------------------
       listLevels();
@@ -66,6 +63,13 @@
 
 
       function dispLevel(levelNumber, levelTitle, numOfSentences) {
+
+              // USER DATA FOR A LEVEL
+        const localPath = `-${language}-${difLevel}-${levelNumber}`;
+
+        let currentSentence = Number(retrieveVariable(`currentSentence${localPath}`, 0));
+        let starCount = Number(retrieveVariable(`starCount${localPath}`, 0));
+        
         const lvContainer = document.getElementById('lv-container');
         const level = document.createElement('div');
         level.innerHTML = `
@@ -74,7 +78,7 @@
             <a margin: 2px;>Lv. ${levelNumber} - ${levelTitle}</a>
             <div> <!--  -->
               <a>Stars here</a>
-              <a>Complete</a>
+              <a>${currentSentence}/${levelNumber}</a>
             </div>
           </div>
           <div class="box1" style='width: 20%; background-color: var(--blueish)' onclick='selectLevel(${levelNumber})'>
