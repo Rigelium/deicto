@@ -1,1 +1,9 @@
-
+{
+  "title": "Transportation",
+  "sentences": [
+    ["", "你好 (nǐ hǎo)", "！", "Hello!", "谢谢 (xiè xiè)", "你好 (nǐ hǎo)", "再见 (zài jiàn)", "对不起 (duì bù qǐ)"],
+  
+    ["", "再见 (zài jiàn)", "，明天见。", "Goodbye, see you tomorrow.", "你好 (nǐ hǎo)", "晚安 (wǎn ān)", "早安 (zǎo ān)", "再见 (zài jiàn)"]
+  ],
+  "dictionary": "你好 (nǐ hǎo) - Hello\n是 (shì) - to be (am/is/are)\n谢谢 (xiè xiè) - Thank you\n爱 (ài) - to love\n去 (qù) - to go\n叫 (jiào) - to be called\n有 (yǒu) - to have/there is\n认识 (rèn shí) - to know/recognize\n再见 (zài jiàn) - Goodbye\n不 (bù) - not (negation)"
+}
