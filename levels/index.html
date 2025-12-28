@@ -130,16 +130,28 @@
         if (reviewMs <= 0){
           return 'ready for review';
         }
-        let output = '';
-        const reviewMin = Number(reviewMs/60000);
+        let output = 'Review: ';
+        const reviewMin = reviewMs/60000;
         
         const minutesLeft = Math.floor(reviewMin) % 60;
         const hoursLeft = Math.floor(reviewMin/60) % 24;
         const daysLeft = Math.floor(reviewMin/60/24); 
 
-
-        
-        return `Next review: ${daysLeft}d ${hoursLeft}h ${minutesLeft}m`;
+        if (reviewMin < 1){
+          output += `${Math.floor(reviewMs/1000)}s`
+          return output;
+        }
+        if (daysLeft != 0) { 
+          output += `${daysLeft}d`
+        }
+        if (hoursLeft != 0) { 
+          output += `${hoursLeft}h`
+        }
+        if (minutesLeft != 0) { 
+          output += `${minutesLeft}d`
+        }
+      
+        return output;
       }
       
       function selectLevel(levelNr) {
