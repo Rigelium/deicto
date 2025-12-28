@@ -83,6 +83,12 @@
         lvTitle = levelData.title;
         sentencesHu = levelData.sentences;  
         notes = levelData.dictionary;
+
+        for (let i = 0; i < sentencesHu.length; i++) {
+          reordered = i;
+        }
+
+        
         if (currentSentence == 0){
           displayNotes();
         } else {
@@ -94,9 +100,6 @@
     }
     //////////////////////////////////////////////////////////////////////
 
-    for (let i = 0; i < sentencesHu.length; i++) {
-      reordered = i;
-    }
 
     //////////////////////////////////////////////////////////////////////////////notes/////////////////////////////////////////////////////////////////////////////////////////
     function displayNotes() {
