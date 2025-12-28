@@ -130,9 +130,9 @@
         let output = '';
         const reviewMin = Number(reviewMs/60000);
         
-        const minutesLeft = Number(reviewMin) % 60;
-        const hoursLeft = Number(reviewMin/60) % 24;
-        const daysLeft = Number(reviewMin/60/24); 
+        const minutesLeft = Math.floor(reviewMin) % 60;
+        const hoursLeft = Math.floor(reviewMin/60) % 24;
+        const daysLeft = Math.floor(reviewMin/60/24); 
 
 
         
