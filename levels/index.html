@@ -31,13 +31,20 @@
     
     <script>
 
-      // Trying to load data from the main page (course settings)
+      // Trying to load data from the main page (COURSE SETTINGS)
       let language = retrieveVariable("language", "Hungarian");
       let langCodeTSS = retrieveVariable("langCodeTSS", "hu-HU"); 
       let difLevel = retrieveVariable("difLevel", "beginner");
       
       const path = language.toLowerCase() + "/" + difLevel + "/";
 
+      // USER DATA
+      const localPath = `-${language}-${difLevel}-${currentLevel}`;
+
+      let currentSentence = Number(retrieveVariable(`currentSentence${localPath}`, 0));
+      let starCount = Number(retrieveVariable(`starCount${localPath}`, 0));
+
+      //------------------------------------------------------------------------------------------------------------------------
       listLevels();
 
       async function listLevels() {
