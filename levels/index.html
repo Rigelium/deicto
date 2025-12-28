@@ -86,6 +86,7 @@
           `;
         }
 
+        let reviewMs = Number(retrieveVariable(`nextReview${localPath}`)) - Date.now();
         
         const lvContainer = document.getElementById('lv-container');
         const level = document.createElement('div');
@@ -96,7 +97,7 @@
             <div style="display: flex;"> <!--  -->
               <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
                 <div style='display: flex; gap: 1px;'>${starsHTML}</div>
-                <a style='color: var(--fontcolor3)'>2d 12h 2m  (?)</a>
+                <a style='color: var(--fontcolor3)'>${reviewMs}</a>
               </div>
               <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
                 <a style='color: var(--fontcolor3)'>${currentSentence}/${numOfSentences}</a>
