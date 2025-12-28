@@ -85,9 +85,8 @@
         notes = levelData.dictionary;
 
         for (let i = 0; i < sentencesHu.length; i++) {
-          reordered[i] = i;
+          reordered[i] = retrieveVariable(`reordered${localPath}-${i}`, i);
         }
-        reorder(reordered, 1);
 
         
         if (currentSentence == 0){
@@ -204,6 +203,8 @@
           currentSentence++;
           localStorage.setItem(`currentSentence${localPath}`, currentSentence)
         }else{
+          reorder(reordered, currentSentence);
+          //localStorage.setItem(`reordered${localPath}-${i}`, i)
           answer[i].style.backgroundColor = "red";
         }
         answerGiven = 1;
