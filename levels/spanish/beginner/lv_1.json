@@ -1,0 +1,31 @@
+{
+  "title": "Spanish Essentials",
+  "sentences": [
+    ["", "Hola", ", ¿cómo estás?", "Hello, how are you?", "Hola", "Adiós", "Gracias", "Perdón"],
+    ["Yo", "soy", "de España.", "I am from Spain.", "soy", "estoy", "tengo", "eres"],
+    ["¿", "Qué", "tal?", "How is it going?", "Qué", "Quién", "Cómo", "Dónde"],
+    ["Mucho", "gusto", "en conocerte.", "Nice to meet you.", "gusto", "tiempo", "suerte", "hambre"],
+    ["Yo", "tengo", "una pregunta.", "I have a question.", "tengo", "quiero", "voy", "soy"],
+    ["Él", "está", "en la casa.", "He is in the house.", "está", "es", "hay", "tiene"],
+    ["¿", "Hablas", "español?", "Do you speak Spanish?", "Hablas", "Comes", "Vives", "Escribes"],
+    ["Me", "gusta", "la música.", "I like the music.", "gusta", "encanta", "quiero", "falta"],
+    ["¿Dónde", "está", "el baño?", "Where is the bathroom?", "está", "es", "va", "tiene"],
+    ["Yo", "quiero", "un café.", "I want a coffee.", "quiero", "tengo", "puedo", "soy"],
+    ["", "Gracias", "por tu ayuda.", "Thank you for your help.", "Gracias", "Hola", "Por favor", "De nada"],
+    ["Nosotros", "somos", "amigos.", "We are friends.", "somos", "estamos", "tenemos", "van"],
+    ["¿", "Cómo", "te llamas?", "What is your name?", "Cómo", "Qué", "Quién", "Cuándo"],
+    ["Ella", "tiene", "un perro.", "She has a dog.", "tiene", "es", "está", "quiere"],
+    ["¿", "A qué hora", "comes?", "What time do you eat?", "A qué hora", "Dónde", "Por qué", "Cuánto"],
+    ["Yo", "vivo", "en la ciudad.", "I live in the city.", "vivo", "hablo", "como", "estudio"],
+    ["¿", "Puedes", "ayudarme?", "Can you help me?", "Puedes", "Quieres", "Sabes", "Tienes"],
+    ["", "Buenos días", ", señor.", "Good morning, sir.", "Buenos días", "Buenas noches", "Hola", "Adiós"],
+    ["Mi", "padre", "trabaja aquí.", "My father works here.", "padre", "amigo", "hermano", "hijo"],
+    ["El", "libro", "es azul.", "The book is blue.", "libro", "mesa", "coche", "perro"],
+    ["¿Qué", "haces", "hoy?", "What are you doing today?", "haces", "dices", "quieres", "vas"],
+    ["Nosotros", "vamos", "al cine.", "We are going to the cinema.", "vamos", "somos", "estamos", "tenemos"],
+    ["Hace", "calor", "en verano.", "It is hot in summer.", "calor", "frío", "sol", "viento"],
+    ["La", "comida", "está rica.", "The food is tasty.", "comida", "bebida", "fruta", "agua"],
+    ["", "Hasta luego", ", nos vemos.", "See you later, see you.", "Hasta luego", "Hola", "Gracias", "Perdón"]
+  ],
+  "dictionary": "Hola - Hello\nSer/Estar - To be\nTener - To have\nQuerer - To want\nIr - To go\nGustar - To like\nHablar - To speak\nGracias - Thank you\nMucho gusto - Nice to meet you\n¿Cómo? - How?"
+}
