@@ -18,7 +18,7 @@
       <div style="display: flex; flex-direction: column; width: 40%; gap: 10px;">
         <img id = 'flag' src='' style="width: 100%; height: auto; border-radius: 10px;">
         <a id='info-language' style='font-weight: bold; font-size: 1.5rem;'>Loading levels...</a>
-        <a id='info-dif-level' style='color: var(--grayish)'></a>
+        <a id='info-dif-level' style='color: var(--fontcolor3)'></a>
       </div>
       <div>
         <div style="display: flex; flex-direction: column; width: 55%">
@@ -96,10 +96,10 @@
             <div style="display: flex;"> <!--  -->
               <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
                 <div style='display: flex; gap: 1px;'>${starsHTML}</div>
-                <a>2d 12h 2m  (?)</a>
+                <a style='color: var(--fontcolor3)'>2d 12h 2m  (?)</a>
               </div>
               <div style="display: flex; flex-direction: column; width: 50%; gap: 10px;">
-                <a>${currentSentence}/${numOfSentences}</a>
+                <a style='color: var(--fontcolor3)'>${currentSentence}/${numOfSentences}</a>
                 <div style="display: flex; height: 10px; border-radius: 5px; background-color: var(--grayish)">
                   <div style="display: flex; border-radius: 5px; width: ${Number(currentSentence/numOfSentences*100)}%; background-color: var(--blueish)">
                   </div>
