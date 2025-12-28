@@ -197,6 +197,14 @@
         const fullSentence = sentencesHu[reordered[currentSentence]][0] + sentencesHu[reordered[currentSentence]][1].split('(')[0].trim() + sentencesHu[reordered[currentSentence]][2];
         playText(fullSentence, langCodeTTS);
 
+
+
+          
+          
+        showContinue(fullSentence);
+        if (answerText[i].textContent==sentencesHu[reordered[currentSentence]][1]){
+          //CORRECT CHOICE
+
           if(currentSentence == sentencesHu.length-1) {
             if ( starCount < 5 ) {
               starCount++;
@@ -207,18 +215,14 @@
             for (let i = 0 ; i < sentencesHu.length ; i++){
               localStorage.removeItem(`reordered${localPath}-${i}`);
             }
-            console.log('U have reached the final level, ggz'); //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<------oidsaufoiuewio
+            console.log('U have beaten the final level, ggz'); //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<------oidsaufoiuewio
           }
 
           
-          
-        showContinue(fullSentence);
-          console.log(`this code runs rn ${currentSentence}`);
-        if (answerText[i].textContent==sentencesHu[reordered[currentSentence]][1]){
-          //CORRECT CHOICE
           answer[i].style.backgroundColor = "var(--blueish)";
           currentSentence++;
           if(currentSentence != sentencesHu.length){
+            console.log(`this stupid shit runs again, sentence ${currentSentence}`);
             localStorage.setItem(`currentSentence${localPath}`, currentSentence)
           }
         }else{
