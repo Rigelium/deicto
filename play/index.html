@@ -206,7 +206,7 @@
           //CORRECT CHOICE
 
           if(currentSentence == sentencesHu.length-1) {
-            if ( starCount < 5 ) {
+            if ( starCount < 5 && Number(retrieveVariable(`nextReview${localPath}`, 0)) <= Date.now()) {
               starCount++;
             }
             localStorage.setItem(`starCount${localPath}`, starCount);
