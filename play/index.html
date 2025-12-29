@@ -291,13 +291,29 @@
 
 
         if(currentSentence == sentencesHu.length) {
+
+
+        let starsHTML = '';
+        for (let i = 0; i < starCount; i++) {
+          starsHTML += `
+          <img style = 'height: 20px; width: auto;' src='../assets/starfilled.png'>\n
+          `;
+        }
+        for (let i = 0; i < 5-starCount; i++) {
+          starsHTML += `
+          <img style = 'height: 20px; width: auto;' src='../assets/starhollow.png'>\n
+          `;
+        }
+
+          
           document.getElementById('main-box').innerHTML = `
           <div class='box1'>
             <a>u finished with ${starCount} stars, very nice</a>
+              <div style'display: flex; gap: 5px;'>${starsHTML}</div>
             <a href='../levels/'>Return to levels</a>
           </div>
           `;
-            console.log('U have reached the end screen GGZ!!'); ////<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+            console.log('U have reached the end screen GGZ!!'); ////<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                           END SCREEN
         } else {
           generateSentence();
         }
