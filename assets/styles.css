@@ -7,6 +7,7 @@
        --boxcolor2: #2ec8ea;
        --boxcolor3: #01a2ff;
        --boxgradient1: linear-gradient(var(--boxcolor2), var(--boxcolor3));
+       --boxgradient2: linear-gradient(#ff003b, #f318b0);    
        --blankcolor: black;
        --blueish: #28a0f4;
        --grayish: #5e6474;
