@@ -229,7 +229,7 @@
           }
 
           
-          answer[i].style.backgroundColor = "var(--blueish)";
+          answer[i].style.background = "var(--boxgradient1)";
           currentSentence++;
           if(currentSentence != sentencesHu.length){
             console.log(`this stupid shit runs again, sentence ${currentSentence}`);
@@ -244,7 +244,7 @@
 
           
           //localStorage.setItem(`reordered${localPath}-${i}`, i)
-          answer[i].style.backgroundColor = "red";
+          answer[i].style.background = "var(--boxgradient2)";
         }
         answerGiven = 1;
         }
@@ -261,6 +261,7 @@
       cont.className="box1";
 
       const repeatTTS = document.createElement('div');
+      
       repeatTTS.className="box1";
       repeatTTS.addEventListener('click', ()=>{
         playText(fullSent, langCodeTTS);
@@ -271,12 +272,13 @@
       //cont.style.backgroundColor="var(--grayish)";
 
       const nextSent = document.createElement('div');
-      nextSent.className="box1";
-      nextSent.style.backgroundColor="var(--highlight)";
-      nextSent.style.width = "30%";
+      nextSent.innerHTML=`
+      <div class='box1' style='background: var(--boxgradient1); width: 30%'>
+        <a>Continue</a>
+      </div>
+      `;
 
-      const nextSentText = document.createElement('a');
-      nextSentText.textContent = "Continue";
+
       
       
       nextSent.addEventListener("click", () => {
@@ -301,7 +303,6 @@
 
       contContainer.appendChild(cont);
         cont.appendChild(nextSent);
-          nextSent.appendChild(nextSentText);
         cont.appendChild(repeatTTS);      
       
       }
