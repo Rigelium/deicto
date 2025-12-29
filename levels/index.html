@@ -94,7 +94,7 @@
         
         const lvContainer = document.getElementById('lv-container');
         const level = document.createElement('div');
-        level.innerHTML = `
+        levelHTML = `
         <div class='box1' style="margin-top: 10px;">
           <div style='width:60%; display: flex; flex-direction: column; gap: 10px; justify-content: flex-start;'>
             <a style='font-weight: bold;'>Lv. ${levelNumber} - ${levelTitle}</a>
@@ -117,12 +117,14 @@
             <a>PLAY</a>
           </div>
         </div>`;
-
+        level.innerHTML = levelHTML;
         lvContainer.appendChild(level);
 
         const reviewContainer = document.getElementById('review-container');
-        if (reviewToString(reviewMs, starCount) == 'ready for review'){
-          reviewContainer.appendChild(level);
+        if (reviewString == 'ready for review'){
+          const reviewLevel = document.createElement('div');
+          reviewLevel.innerHTML = levelHTML;
+          reviewContainer.appendChild(reviewLevel);
         }
 
         
