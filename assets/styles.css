@@ -4,8 +4,8 @@
        --fontcolor3: #a9b4c2;
        --highlight: #7c98a1;
        --boxcolor1: #131213;
-       --boxcolor2: #f40c84;
-       --boxcolor3: #ff01de;
+       --boxcolor2: #2ec8ea;
+       --boxcolor3: #01a2ff;
        --boxgradient1: linear-gradient(var(--boxcolor2), var(--boxcolor3));
        --blankcolor: black;
        --blueish: #28a0f4;
