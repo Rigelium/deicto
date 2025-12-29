@@ -13,7 +13,7 @@
        --boxshadow1: #000000ba;
      }
      body{
-       font-family: 'Artifakt Element', arial;
+       font-family: arial;
        color: var(--fontcolor2);
        background-color: #242125;
      }
