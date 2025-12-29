@@ -37,8 +37,10 @@
         </div>
       </div>
     </div>
-    <div class='box1' style='margin-top: 20px;'><a style='font-size: 1.5rem; font-weight: bold'>Ready for review</a></div>
-    <div id='review-container' style="gap: 10px;"></div>
+    <div id='review-visibility' style='display: none;'>
+      <div class='box1' style='margin-top: 20px;'><a style='font-size: 1.5rem; font-weight: bold'>Ready for review</a></div>
+      <div id='review-container' style="gap: 10px;"></div>
+    </div>
     <div class='box1' style='margin-top: 20px;'><a style='font-size: 1.5rem; font-weight: bold'>All levels</a></div>
     <div id='lv-container' style="gap: 10px;"></div>
 
@@ -128,11 +130,13 @@
         level.innerHTML = levelHTML;
         lvContainer.appendChild(level);
 
+        const reviewVisibility = document.getElementById('review-visibility');
         const reviewContainer = document.getElementById('review-container');
         if (reviewString == 'ready for review'){
           const reviewLevel = document.createElement('div');
           reviewLevel.innerHTML = levelHTML;
           reviewContainer.appendChild(reviewLevel);
+          reviewVisibility.style.display = 'block';
         }
 
         
