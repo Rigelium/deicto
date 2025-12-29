@@ -10,6 +10,7 @@
        --blankcolor: black;
        --blueish: #28a0f4;
        --grayish: #5e6474;
+       --boxshadow1: #000000ba;
      }
      body{
        font-family: arial;
