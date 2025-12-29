@@ -29,6 +29,9 @@
         </div>
       </div>
     </div>
+    <a style='font-size: 1.5rem; font-weight: bold'>Ready for review</a>
+    <div id='review-container' style="gap: 10px;">
+    <a style='font-size: 1.5rem; font-weight: bold'>All levels</a>
     <div id='lv-container' style="gap: 10px;"></div>
 
     
@@ -116,6 +119,13 @@
         </div>`;
 
         lvContainer.appendChild(level);
+
+        const reviewContainer = document.getElementById('review-container');
+        if (reviewToString(reviewMs, starCount) == 'ready for review'){
+          reviewContainer.appendChild(level);
+        }
+
+        
         console.log("Loaded level: " + levelNumber + levelTitle + numOfSentences);
       }
 
