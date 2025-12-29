@@ -3,7 +3,10 @@
        --fontcolor2: white;
        --fontcolor3: #a9b4c2;
        --highlight: #7c98a1;
-       --boxcolor1: #1f2322;
+       --boxcolor1: #131213;
+       --boxcolor2: #f40c84;
+       --boxcolor3: #ff01de;
+       --boxgradient1: linear-gradient(var(--boxcolor2), var(--boxcolor3));
        --blankcolor: black;
        --blueish: #28a0f4;
        --grayish: #5e6474;
@@ -11,11 +14,18 @@
      body{
        font-family: arial;
        color: var(--fontcolor2);
-       background-color: black;
+       background-color: #242125;
      }
 .box1{
        border-radius: 5px;
        background-color: var(--boxcolor1);
+       padding: 10px;
+       display: flex;
+ justify-content: space-around;
+     }
+.box2{
+       border-radius: 5px;
+       background: var(--boxgradient1);
        padding: 10px;
        display: flex;
  justify-content: space-around;
