@@ -1,0 +1,31 @@
+{
+  "title": "Clothes and Fashion 2",
+  "sentences": [
+    ["Esta camiseta es de", "algodón", "y es muy cómoda.", "This t-shirt is made of cotton and is very comfortable.", "algodón", "lana", "seda", "cuero"],
+    ["Mi abuela me tejió un jersey de", "lana", "para el invierno.", "My grandmother knitted me a wool sweater for the winter.", "lana", "oro", "plata", "seda"],
+    ["Ella lleva un pañuelo de", "seda", "muy elegante.", "She is wearing a very elegant silk scarf.", "seda", "algodón", "cuero", "plástico"],
+    ["¿Te gusta mi nueva camisa de", "rayas", "?", "Do you like my new striped shirt?", "rayas", "lunares", "cuadros", "flores"],
+    ["Ese vestido de", "lunares", "es muy divertido y original.", "That polka-dot dress is very fun and original.", "lunares", "rayas", "lisos", "oscuros"],
+    ["Prefiero las camisetas", "lisas", ", sin dibujos ni letras.", "I prefer plain t-shirts, without drawings or letters.", "lisas", "anchas", "estrechas", "cortas"],
+    ["¿Sabes cuál es tu", "talla", "de zapatos en España?", "Do you know what your shoe size is in Spain?", "talla", "ropa", "marca", "moda"],
+    ["Perdone, ¿dónde están los", "probadores", "?", "Excuse me, where are the fitting rooms?", "probadores", "vendedores", "estantes", "baños"],
+    ["Él le regaló un", "anillo", "de diamantes precioso.", "He gave her a beautiful diamond ring.", "anillo", "reloj", "bolso", "paraguas"],
+    ["Ese", "collar", "es demasiado largo para este vestido.", "That necklace is too long for this dress.", "collar", "cinturón", "guante", "calcetín"],
+    ["Miro la hora en mi", "reloj", "de pulsera.", "I look at the time on my wristwatch.", "reloj", "teléfono", "espejo", "anillo"],
+    ["Llevo el dinero y las tarjetas en la", "cartera", ".", "I carry the money and the cards in the wallet.", "cartera", "mochila", "caja", "bolsa"],
+    ["Pongo mi ordenador portátil en la", "mochila", ".", "I put my laptop in the backpack.", "mochila", "maleta", "cartera", "bolsillo"],
+    ["Está empezando a llover, abre el", "paraguas", ".", "It's starting to rain; open the umbrella.", "paraguas", "abrigo", "sombrero", "gafas"],
+    ["Este pantalón me queda muy", "estrecho", "y no puedo caminar.", "These pants are too tight for me and I can't walk.", "estrecho", "ancho", "largo", "corto"],
+    ["La camisa me queda un poco", "ancha", ", necesito una talla menos.", "The shirt is a bit wide/loose on me; I need one size smaller.", "ancha", "estrecha", "nueva", "vieja"],
+    ["En verano siempre llevo", "pantalones cortos", "porque hace calor.", "In summer I always wear shorts because it's hot.", "pantalones cortos", "vaqueros", "trajes", "pijamas"],
+    ["No encuentro mi", "bañador", "para ir a la playa.", "I can't find my swimsuit to go to the beach.", "bañador", "vestido", "pijama", "jersey"],
+    ["Ponte la", "gorra", "para protegerte la cara del sol.", "Put on the cap to protect your face from the sun.", "gorra", "bufanda", "corbata", "chaqueta"],
+    ["Mírate en el", "espejo", "para ver cómo te queda la ropa.", "Look at yourself in the mirror to see how the clothes fit you.", "espejo", "cuadro", "reloj", "ventana"],
+    ["Mis botas nuevas son de", "cuero", "negro.", "My new boots are made of black leather.", "cuero", "lana", "algodón", "seda"],
+    ["Ella tiene una pulsera de", "oro", "muy cara.", "She has a very expensive gold bracelet.", "oro", "plata", "cuero", "lana"],
+    ["Prefiero los pendientes de", "plata", ", son más sencillos.", "I prefer silver earrings; they are simpler.", "plata", "oro", "diamante", "plástico"],
+    ["Tengo que comprar", "ropa interior", "nueva esta tarde.", "I have to buy new underwear this afternoon.", "ropa interior", "trajes", "abrigos", "botas"],
+    ["Tienes un", "estilo", "muy moderno y me gusta mucho.", "You have a very modern style and I like it a lot.", "estilo", "error", "precio", "nombre"]
+  ],
+  "dictionary": "El algodón - The cotton\nLa lana - The wool\nLa seda - The silk\nLas rayas - The stripes\nLos lunares - The polka dots\nLiso/a - Plain (color/pattern)\nLa talla - The size (clothing)\nEl probador - The fitting room\nEl anillo - The ring\nEl collar - The necklace\nEl reloj - The watch\nLa cartera - The wallet\nLa mochila - The backpack\nEl paraguas - The umbrella\nEstrecho/a - Tight / Narrow\nAncho/a - Wide / Loose\nEl pantalón corto - The shorts\nEl bañador - The swimsuit\nLa gorra - The cap\nEl espejo - The mirror\nEl cuero - The leather\nEl oro - The gold\nLa plata - The silver\nLa ropa interior - The underwear\nEl estilo - The style"
+}

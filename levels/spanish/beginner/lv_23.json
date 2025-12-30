@@ -1,0 +1,31 @@
+{
+  "title": "Clothes and Fashion 1",
+  "sentences": [
+    ["Hoy llevo una", "camiseta", "azul porque hace mucho calor.", "Today I am wearing a blue t-shirt because it is very hot.", "camiseta", "camisa", "chaqueta", "jersey"],
+    ["¿Te gustan estos", "pantalones", "negros o prefieres los azules?", "Do you like these black pants or do you prefer the blue ones?", "pantalones", "zapatos", "calcetines", "guantes"],
+    ["Esos", "zapatos", "son muy elegantes y parecen cómodos.", "Those shoes are very elegant and look comfortable.", "zapatos", "botas", "sandalias", "calcetines"],
+    ["Ponte la", "chaqueta", "antes de salir, que hace frío.", "Put on the jacket before going out; it's cold.", "chaqueta", "falda", "bufanda", "gorra"],
+    ["Ella lleva un", "vestido", "rojo para la fiesta de esta noche.", "She is wearing a red dress for tonight's party.", "vestido", "pantalón", "abrigo", "jersey"],
+    ["Esta", "falda", "es demasiado corta para ir a trabajar.", "This skirt is too short to go to work.", "falda", "camiseta", "chaqueta", "camisa"],
+    ["Siempre llevo un", "sombrero", "cuando voy a la playa.", "I always wear a hat when I go to the beach.", "sombrero", "casco", "guante", "cinturón"],
+    ["Necesito comprar", "calcetines", "porque los míos tienen agujeros.", "I need to buy socks because mine have holes.", "calcetines", "zapatos", "botas", "guantes"],
+    ["Esa", "camisa", "blanca es perfecta para la entrevista.", "That white shirt is perfect for the interview.", "camisa", "camiseta", "jersey", "chaqueta"],
+    ["El", "jersey", "de lana es muy suave y caliente.", "The wool sweater is very soft and warm.", "jersey", "abrigo", "vestido", "pantalón"],
+    ["Mi", "abrigo", "es muy largo y me protege de la nieve.", "My coat is very long and protects me from the snow.", "abrigo", "jersey", "chaleco", "traje"],
+    ["Llevo las llaves y el dinero dentro del", "bolso", ".", "I carry the keys and the money inside the bag.", "bolso", "bolsillo", "maleta", "mochila"],
+    ["No puedo ver nada sin mis", "gafas de sol", "cuando hace sol.", "I can't see anything without my sunglasses when it's sunny.", "gafas de sol", "botas", "guantes", "bufandas"],
+    ["Este pantalón es muy ancho, necesito un", "cinturón", ".", "These pants are very wide; I need a belt.", "cinturón", "reloj", "bolso", "sombrero"],
+    ["Me pongo el", "pijama", "antes de ir a la cama.", "I put on my pajamas before going to bed.", "pijama", "traje", "vestido", "abrigo"],
+    ["Usa la", "bufanda", "si te duele la garganta.", "Use the scarf if your throat hurts.", "bufanda", "corbata", "cinta", "toalla"],
+    ["Tengo las manos frías porque olvidé los", "guantes", ".", "My hands are cold because I forgot my gloves.", "guantes", "calcetines", "zapatos", "anillos"],
+    ["Llevo las", "botas", "nuevas para caminar por la montaña.", "I'm wearing the new boots to walk through the mountains.", "botas", "sandalias", "zapatillas", "gafas"],
+    ["Me gusta usar", "zapatillas", "de deporte para ir al gimnasio.", "I like using sneakers to go to the gym.", "zapatillas", "botas", "zapatos", "tacones"],
+    ["Él tiene que llevar", "corbata", "para ir a la oficina.", "He has to wear a tie to go to the office.", "corbata", "cinturón", "bufanda", "gorra"],
+    ["¿Qué vas a", "ponerte", "para la boda de tu hermana?", "What are you going to put on for your sister's wedding?", "ponerte", "quitarte", "comprarte", "venderte"],
+    ["Hoy ella", "lleva", "unos pendientes muy bonitos.", "Today she is wearing some very beautiful earrings.", "lleva", "trae", "da", "pone"],
+    ["¿Dónde quieres", "comprar", "tu ropa nueva?", "Where do you want to buy your new clothes?", "comprar", "vender", "mirar", "pagar"],
+    ["Tengo que", "probarme", "estos vaqueros antes de pagarlos.", "I have to try on these jeans before paying for them.", "probarme", "comprarme", "ponerme", "quitarme"],
+    ["Mi padre se pone el", "traje", "solo para las fiestas.", "My father puts on his suit only for parties.", "traje", "pijama", "abrigo", "vestido"]
+  ],
+  "dictionary": "La camiseta - The t-shirt\nEl pantalón / Los pantalones - The pants\nEl zapato - The shoe\nLa chaqueta - The jacket\nEl vestido - The dress\nLa falda - The skirt\nEl sombrero - The hat\nEl calcetín / Los calcetines - The socks\nLa camisa - The shirt\nEl jersey - The sweater\nEl abrigo - The coat\nEl bolso - The bag\nLas gafas de sol - The sunglasses\nEl cinturón - The belt\nEl pijama - The pajamas\nLa bufanda - The scarf\nEl guante / Los guantes - The gloves\nLa bota - The boot\nLa zapatilla - The sneaker\nLa corbata - The tie\nPonerse - To put on\nLlevar - To wear / To carry\nComprar - To buy\nProbarse - To try on\nEl traje - The suit"
+}

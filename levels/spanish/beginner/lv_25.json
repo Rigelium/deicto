@@ -1,0 +1,31 @@
+{
+  "title": "Food and Drinks 1",
+  "sentences": [
+    ["Normalmente", "desayuno", "un café y una tostada.", "I normally have coffee and toast for breakfast.", "desayuno", "almuerzo", "ceno", "bebo"],
+    ["¿A qué hora vamos a", "comer", "hoy?", "What time are we going to eat lunch today?", "comer", "beber", "cocinar", "comprar"],
+    ["Me gusta", "cenar", "algo ligero como una ensalada.", "I like to have something light for dinner like a salad.", "cenar", "desayunar", "almorzar", "beber"],
+    ["La", "manzana", "roja es mi fruta favorita.", "The red apple is my favorite fruit.", "manzana", "naranja", "patata", "cebolla"],
+    ["¿Quieres un vaso de", "agua", "fría?", "Do you want a glass of cold water?", "agua", "leche", "vino", "aceite"],
+    ["El", "pan", "de esta panadería es muy rico.", "The bread from this bakery is very tasty.", "pan", "arroz", "queso", "huevo"],
+    ["Pongo un poco de", "leche", "en mi té.", "I put a little milk in my tea.", "leche", "azúcar", "sal", "vinagre"],
+    ["¿Prefieres el", "pollo", "asado o frito?", "Do you prefer roasted or fried chicken?", "pollo", "pescado", "huevo", "pan"],
+    ["Como una", "ensalada", "con tomate y lechuga.", "I eat a salad with tomato and lettuce.", "ensalada", "sopa", "carne", "fruta"],
+    ["El", "arroz", "con pollo es un plato muy común.", "Rice with chicken is a very common dish.", "arroz", "pan", "queso", "azúcar"],
+    ["¿Te gusta el", "queso", "fuerte o suave?", "Do you like strong or mild cheese?", "queso", "huevo", "pescado", "tomate"],
+    ["Necesito comprar una docena de", "huevos", ".", "I need to buy a dozen eggs.", "huevos", "patatas", "manzanas", "plátanos"],
+    ["El", "pescado", "fresco es muy bueno para la salud.", "Fresh fish is very good for health.", "pescado", "pollo", "carne", "queso"],
+    ["Tengo mucha", "hambre", ", ¿podemos comer ya?", "I am very hungry; can we eat already?", "hambre", "sed", "suerte", "frío"],
+    ["Bebo un", "zumo", "de naranja cada mañana.", "I drink an orange juice every morning.", "zumo", "agua", "café", "té"],
+    ["¿Quieres un poco de", "azúcar", "para el café?", "Do you want some sugar for the coffee?", "azúcar", "sal", "aceite", "leche"],
+    ["La", "sopa", "está muy caliente, ten cuidado.", "The soup is very hot; be careful.", "sopa", "ensalada", "carne", "pasta"],
+    ["Me encanta el", "chocolate", "negro.", "I love dark chocolate.", "chocolate", "queso", "pan", "huevo"],
+    ["El", "tomate", "es un ingrediente básico para la salsa.", "The tomato is a basic ingredient for the sauce.", "tomate", "plátano", "manzana", "huevo"],
+    ["¿Tienes", "sed", "? Hay agua en la nevera.", "Are you thirsty? There is water in the fridge.", "sed", "hambre", "sueño", "calor"],
+    ["La", "carne", "de ternera es bastante cara hoy.", "The beef meat is quite expensive today.", "carne", "sopa", "ensalada", "fruta"],
+    ["Uso", "aceite", "de oliva para cocinar.", "I use olive oil for cooking.", "aceite", "agua", "leche", "zumo"],
+    ["¿Cuál es el", "postre", "de hoy?", "What is today's dessert?", "postre", "almuerzo", "desayuno", "plato"],
+    ["El", "plátano", "es una fruta muy práctica para llevar.", "The banana is a very practical fruit to carry.", "plátano", "tomate", "patata", "huevo"],
+    ["Las", "patatas", "fritas son mis favoritas.", "French fries (fried potatoes) are my favorite.", "patatas", "manzanas", "ensaladas", "sopas"]
+  ],
+  "dictionary": "Desayunar - To have breakfast\nComer - To eat / To have lunch\nCenar - To have dinner\nLa manzana - The apple\nEl agua - The water\nEl pan - The bread\nLa leche - The milk\nEl pollo - The chicken\nLa ensalada - The salad\nEl arroz - The rice\nEl queso - The cheese\nEl huevo - The egg\nEl pescado - The fish\nEl hambre - The hunger\nEl zumo - The juice\nEl azúcar - The sugar\nLa sopa - The soup\nEl chocolate - The chocolate\nEl tomate - The tomato\nLa sed - The thirst\nLa carne - The meat\nEl aceite - The oil\nEl postre - The dessert\nEl plátano - The banana\nLa patata - The potato"
+}

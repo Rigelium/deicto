@@ -1,0 +1,31 @@
+{
+  "title": "Nature and Environment",
+  "sentences": [
+    ["Mañana vamos a subir a la", "montaña", "más alta de la región.", "Tomorrow we are going to climb the highest mountain in the region.", "montaña", "playa", "isla", "selva"],
+    ["El agua del", "río", "está muy limpia y fría.", "The river water is very clean and cold.", "río", "mar", "desierto", "aire"],
+    ["En el", "desierto", "hace mucho calor durante el día.", "In the desert it is very hot during the day.", "desierto", "bosque", "campo", "valle"],
+    ["Hay muchos árboles y animales diferentes en el", "bosque", ".", "There are many different trees and animals in the forest.", "bosque", "pueblo", "edificio", "parking"],
+    ["El", "océano", "es inmenso y tiene mucha vida marina.", "The ocean is immense and has a lot of marine life.", "océano", "río", "lago", "estanque"],
+    ["Vivimos en una", "isla", "en medio del mar.", "We live on an island in the middle of the sea.", "isla", "montaña", "ciudad", "carretera"],
+    ["Me encanta pasar tiempo en la", "naturaleza", ".", "I love spending time in nature.", "naturaleza", "oficina", "escuela", "tienda"],
+    ["Es muy importante", "proteger", "el medio ambiente.", "It is very important to protect the environment.", "proteger", "contaminar", "romper", "perder"],
+    ["Hay mucha", "contaminación", "en las grandes ciudades.", "There is a lot of pollution in the big cities.", "contaminación", "naturaleza", "limpieza", "suerte"],
+    ["Debemos", "reciclar", "el papel y el plástico en casa.", "We must recycle paper and plastic at home.", "reciclar", "tirar", "quemar", "comprar"],
+    ["No tires la", "basura", "al suelo, por favor.", "Don't throw the trash on the ground, please.", "basura", "comida", "ropa", "mochila"],
+    ["Tengo que", "regar", "las plantas del jardín esta tarde.", "I have to water the garden plants this afternoon.", "regar", "cortar", "mirar", "vender"],
+    ["Las", "flores", "huelen muy bien en primavera.", "The flowers smell very good in spring.", "flores", "piedras", "nubes", "estrellas"],
+    ["El", "clima", "está cambiando muy rápido últimamente.", "The climate is changing very fast lately.", "clima", "tiempo", "suelo", "aire"],
+    ["El", "aire", "del campo es mucho más puro que el de la ciudad.", "The country air is much purer than the city air.", "aire", "fuego", "hielo", "viento"],
+    ["La", "tierra", "en esta zona es muy buena para cultivar.", "The land/soil in this area is very good for farming.", "tierra", "arena", "piedra", "nieve"],
+    ["Mis abuelos tienen una casa pequeña en el", "campo", ".", "My grandparents have a small house in the countryside.", "campo", "centro", "barrio", "aeropuerto"],
+    ["El pueblo está en un", "valle", "entre dos montañas.", "The village is in a valley between two mountains.", "valle", "bosque", "desierto", "océano"],
+    ["La", "selva", "amazónica es el pulmón del mundo.", "The Amazon jungle is the lung of the world.", "selva", "parque", "jardín", "isla"],
+    ["Ese", "volcán", "todavía está activo y es peligroso.", "That volcano is still active and it is dangerous.", "volcán", "puente", "camino", "muro"],
+    ["Me gusta coleccionar", "piedras", "de diferentes colores.", "I like to collect stones of different colors.", "piedras", "plantas", "flores", "hojas"],
+    ["Los glaciares están hechos de", "hielo", "muy antiguo.", "Glaciers are made of very ancient ice.", "hielo", "fuego", "arena", "aire"],
+    ["Tenemos que", "cuidar", "el planeta para el futuro.", "We have to take care of the planet for the future.", "cuidar", "romper", "ensuciar", "olvidar"],
+    ["Usamos", "energía solar", "para calentar el agua de la casa.", "We use solar energy to heat the house's water.", "energía solar", "basura", "contaminación", "viento"],
+    ["Venus es el", "planeta", "más caliente de nuestro sistema.", "Venus is the hottest planet in our system.", "planeta", "estrella", "luna", "sol"]
+  ],
+  "dictionary": "La montaña - The mountain\nEl río - The river\nEl desierto - The desert\nEl bosque - The forest\nEl océano - The ocean\nLa isla - The island\nLa naturaleza - The nature\nProteger - To protect\nEl medio ambiente - The environment\nLa contaminación - The pollution\nReciclar - To recycle\nLa basura - The trash\nRegar - To water\nLa flor - The flower\nEl clima - The climate\nEl aire - The air\nLa tierra - The land / soil\nEl campo - The countryside\nEl valle - The valley\nLa selva - The jungle\nEl volcán - The volcano\nLa piedra - The stone\nEl hielo - The ice\nCuidar - To take care of\nLa energía solar - Solar energy\nEl planeta - The planet"
+}

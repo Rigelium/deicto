@@ -1,0 +1,31 @@
+{
+  "title": "Time and Dates",
+  "sentences": [
+    ["Hoy es", "lunes", "y tengo mucho trabajo.", "Today is Monday and I have a lot of work.", "lunes", "martes", "viernes", "sábado"],
+    ["", "Ayer", "fue un día muy divertido con mis amigos.", "Yesterday was a very fun day with my friends.", "Ayer", "Mañana", "Ahora", "Nunca"],
+    ["¿Qué vas a hacer", "mañana", "por la tarde?", "What are you going to do tomorrow afternoon?", "mañana", "ayer", "hoy", "luego"],
+    ["Mi cumpleaños es en el mes de", "marzo", ".", "My birthday is in the month of March.", "marzo", "mayo", "enero", "abril"],
+    ["Estamos en", "diciembre", "y hace mucho frío.", "We are in December and it is very cold.", "diciembre", "junio", "agosto", "julio"],
+    ["La", "semana", "tiene siete días.", "The week has seven days.", "semana", "hora", "fecha", "cita"],
+    ["El", "año", "próximo quiero viajar a Perú.", "Next year I want to travel to Peru.", "año", "mes", "siglo", "día"],
+    ["Tengo una cita con el médico el", "jueves", ".", "I have a doctor's appointment on Thursday.", "jueves", "miércoles", "domingo", "lunes"],
+    ["El", "fin de semana", "me gusta dormir hasta tarde.", "On the weekend I like to sleep in late.", "fin de semana", "calendario", "reloj", "momento"],
+    ["¿Qué", "fecha", "es hoy? ¿Diez o once?", "What is the date today? Tenth or eleventh?", "fecha", "hora", "tarde", "semana"],
+    ["Llego", "temprano", "a la oficina cada mañana.", "I arrive early at the office every morning.", "temprano", "tarde", "nunca", "luego"],
+    ["Lo siento, llego un poco", "tarde", "por el tráfico.", "I'm sorry, I'm arriving a bit late because of the traffic.", "tarde", "temprano", "ahora", "antes"],
+    ["Nos vemos", "luego", "en la cafetería.", "See you later in the cafeteria.", "luego", "antes", "siempre", "nunca"],
+    ["¿Qué", "hora", "es en tu reloj?", "What time is it on your watch?", "hora", "segundo", "minuto", "siglo"],
+    ["Es", "mediodía", "y ya tengo mucha hambre.", "It is midday and I am already very hungry.", "mediodía", "medianoche", "mañana", "noche"],
+    ["La fiesta termina a", "medianoche", ".", "The party ends at midnight.", "medianoche", "mediodía", "tarde", "temprano"],
+    ["", "Ahora", "no puedo hablar, estoy en una reunión.", "I can't talk right now; I'm in a meeting.", "Ahora", "Después", "Antes", "Ayer"],
+    ["Primero estudio y", "después", "veo la televisión.", "First I study and then (afterwards) I watch television.", "después", "antes", "ahora", "ayer"],
+    ["Lávate las manos", "antes", "de comer.", "Wash your hands before eating.", "antes", "después", "luego", "tarde"],
+    ["", "Normalmente", "bebo café por las mañanas.", "Normally I drink coffee in the mornings.", "Normalmente", "Nunca", "Mañana", "Ayer"],
+    ["", "Siempre", "hago deporte los sábados.", "I always do sports on Saturdays.", "Siempre", "Nunca", "A veces", "Hoy"],
+    ["", "Nunca", "como carne porque soy vegetariano.", "I never eat meat because I am a vegetarian.", "Nunca", "Siempre", "A veces", "Ahora"],
+    ["", "A veces", "voy al cine solo.", "Sometimes I go to the cinema alone.", "A veces", "Nunca", "Siempre", "Mañana"],
+    ["Este", "siglo", "es muy diferente al anterior.", "This century is very different from the previous one.", "siglo", "año", "mes", "día"],
+    ["Faltan pocos", "minutos", "para que empiece la película.", "There are a few minutes left before the movie starts.", "minutos", "horas", "días", "años"]
+  ],
+  "dictionary": "El lunes - Monday\nEl jueves - Thursday\nEl marzo - March\nEl diciembre - December\nLa semana - The week\nEl año - The year\nLa fecha - The date\nAyer - Yesterday\nMañana - Tomorrow / Morning\nHoy - Today\nLuego - Later\nTemprano - Early\nTarde - Late / Afternoon\nLa hora - The hour / time\nMediodía - Midday\nMedianoche - Midnight\nAhora - Now\nAntes - Before\nDespués - After / Afterwards\nNormalmente - Normally\nSiempre - Always\nNunca - Never\nA veces - Sometimes\nEl siglo - The century\nEl minuto - The minute"
+}

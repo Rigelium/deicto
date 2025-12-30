@@ -1,0 +1,31 @@
+{
+  "title": "Places in the City",
+  "sentences": [
+    ["Nos vemos en la", "plaza", "central a las siete.", "See you in the central square at seven.", "plaza", "calle", "acera", "esquina"],
+    ["El", "ayuntamiento", "está en un edificio muy antiguo.", "The town hall is in a very old building.", "ayuntamiento", "aeropuerto", "hospital", "banco"],
+    ["Tengo que ir a la", "comisaría", "para denunciar un robo.", "I have to go to the police station to report a robbery.", "comisaría", "farmacia", "biblioteca", "escuela"],
+    ["El", "supermercado", "cierra los domingos por la tarde.", "The supermarket closes on Sunday afternoons.", "supermercado", "cine", "teatro", "museo"],
+    ["Hay una", "fuente", "de agua muy bonita en el parque.", "There is a very beautiful water fountain in the park.", "fuente", "puerta", "ventana", "pared"],
+    ["Mañana voy al", "museo", "para ver la nueva exposición.", "Tomorrow I'm going to the museum to see the new exhibition.", "museo", "estadio", "puerto", "parking"],
+    ["El", "hospital", "está cerca de la estación de tren.", "The hospital is near the train station.", "hospital", "colegio", "banco", "cine"],
+    ["¿Dónde está el", "banco", "más cercano para sacar dinero?", "Where is the nearest bank to take out money?", "banco", "correo", "teatro", "parque"],
+    ["La", "biblioteca", "es un lugar perfecto para estudiar.", "The library is a perfect place to study.", "biblioteca", "librería", "farmacia", "oficina"],
+    ["Compré este libro en la", "librería", "de la esquina.", "I bought this book at the bookstore on the corner.", "librería", "biblioteca", "panadería", "carnicería"],
+    ["Voy a la", "panadería", "a comprar pan fresco.", "I'm going to the bakery to buy fresh bread.", "panadería", "farmacia", "comisaría", "fuente"],
+    ["Mi madre trabaja en una", "oficina", "en el centro.", "My mother works in an office downtown.", "oficina", "escuela", "tienda", "fábrica"],
+    ["Llevo a mis hijos al", "colegio", "cada mañana.", "I take my children to school every morning.", "colegio", "museo", "cine", "banco"],
+    ["¿Quieres ir al", "teatro", "a ver una obra de comedia?", "Do you want to go to the theater to see a comedy play?", "teatro", "estadio", "puerto", "parque"],
+    ["Hay mucha gente en el", "estadio", "para el partido.", "There are many people in the stadium for the match.", "estadio", "cine", "museo", "ayuntamiento"],
+    ["He dejado el coche en el", "parking", "público.", "I have left the car in the public parking lot.", "parking", "aeropuerto", "puerto", "hospital"],
+    ["La", "catedral", "de esta ciudad es impresionante.", "The cathedral of this city is impressive.", "catedral", "iglesia", "mezquita", "sinagoga"],
+    ["Tengo que enviar un paquete en", "correos", ".", "I have to send a package at the post office.", "correos", "ayuntamiento", "banco", "supermercado"],
+    ["El", "puerto", "está lleno de barcos de pescadores.", "The port is full of fishing boats.", "puerto", "aeropuerto", "estadio", "parque"],
+    ["Compro carne fresca en la", "carnicería", ".", "I buy fresh meat at the butcher shop.", "carnicería", "panadería", "farmacia", "librería"],
+    ["Voy a la", "peluquería", "porque tengo el pelo muy largo.", "I'm going to the hair salon because my hair is very long.", "peluquería", "oficina", "tienda", "escuela"],
+    ["Hay una", "farmacia", "que abre veinticuatro horas.", "There is a pharmacy that is open twenty-four hours.", "farmacia", "comisaría", "biblioteca", "panadería"],
+    ["El", "puente", "cruza el río hacia el barrio viejo.", "The bridge crosses the river toward the old neighborhood.", "puente", "muro", "techo", "suelo"],
+    ["¿Quieres tomar un café en esa", "cafetería", "?", "Do you want to have a coffee in that coffee shop?", "cafetería", "carnicería", "peluquería", "comisaría"],
+    ["El", "centro comercial", "es muy grande y tiene muchas tiendas.", "The shopping mall is very big and has many stores.", "centro comercial", "ayuntamiento", "hospital", "museo"]
+  ],
+  "dictionary": "La plaza - The square\nEl ayuntamiento - The town hall\nLa comisaría - The police station\nEl supermercado - The supermarket\nLa fuente - The fountain\nEl museo - The museum\nEl hospital - The hospital\nEl banco - The bank\nLa biblioteca - The library\nLa librería - The bookstore\nLa panadería - The bakery\nLa oficina - The office\nEl colegio - The school\nEl teatro - The theater\nEl estadio - The stadium\nEl parking - The parking lot\nLa catedral - The cathedral\nCorreos - The post office\nEl puerto - The port\nLa carnicería - The butcher shop\nLa peluquería - The hair salon\nLa farmacia - The pharmacy\nEl puente - The bridge\nLa cafetería - The coffee shop\nEl centro comercial - The shopping mall"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Weather and Seasons",
+  "sentences": [
+    ["En", "verano", "hace mucho calor y vamos a la piscina.", "In summer it is very hot and we go to the pool.", "verano", "invierno", "otoño", "primavera"],
+    ["Hoy está", "lloviendo", "mucho, no olvides tu paraguas.", "Today it is raining a lot; don't forget your umbrella.", "lloviendo", "nevando", "despejado", "soleado"],
+    ["En", "primavera", "todas las flores del jardín son muy bonitas.", "In spring all the flowers in the garden are very beautiful.", "primavera", "verano", "otoño", "invierno"],
+    ["Hace mucho", "frío", "en invierno y siempre llevo un abrigo.", "It is very cold in winter and I always wear a coat.", "frío", "calor", "viento", "sol"],
+    ["En", "otoño", "las hojas de los árboles caen al suelo.", "In autumn the leaves of the trees fall to the ground.", "otoño", "primavera", "verano", "invierno"],
+    ["Me encanta ver la", "nieve", "blanca en las montañas.", "I love to see the white snow on the mountains.", "nieve", "lluvia", "arena", "tierra"],
+    ["Hay una", "tormenta", "muy fuerte con muchos rayos y truenos.", "There is a very strong storm with many lightning bolts and thunder.", "tormenta", "nube", "niebla", "luz"],
+    ["Mañana va a hacer", "sol", "y podemos ir al parque.", "Tomorrow it is going to be sunny and we can go to the park.", "sol", "viento", "frío", "nieve"],
+    ["El cielo está muy", "nublado", ", creo que va a llover pronto.", "The sky is very cloudy; I think it is going to rain soon.", "nublado", "despejado", "azul", "claro"],
+    ["Hoy estamos a treinta", "grados", "y hace un calor increíble.", "Today we are at thirty degrees and it is incredibly hot.", "grados", "metros", "kilos", "minutos"],
+    ["Miro el", "tiempo", "en la televisión para saber qué ropa llevar.", "I watch the weather on television to know what clothes to wear.", "tiempo", "reloj", "mapa", "periódico"],
+    ["Hace mucho", "viento", "en la playa y la arena vuela.", "It is very windy at the beach and the sand is flying.", "viento", "sol", "frío", "calor"],
+    ["La", "temperatura", "baja mucho durante la noche.", "The temperature drops a lot during the night.", "temperatura", "estación", "suerte", "noticia"],
+    ["El cielo está", "despejado", "y se ven todas las estrellas.", "The sky is clear and all the stars can be seen.", "despejado", "nublado", "sucio", "cerrado"],
+    ["Ten cuidado, hay", "hielo", "en la carretera y es peligroso.", "Be careful; there is ice on the road and it is dangerous.", "hielo", "agua", "fuego", "aire"],
+    ["El suelo todavía está", "mojado", "por la lluvia de ayer.", "The ground is still wet from yesterday's rain.", "mojado", "seco", "limpio", "duro"],
+    ["En el desierto el aire es muy", "seco", "y no hay agua.", "In the desert the air is very dry and there is no water.", "seco", "mojado", "frío", "nublado"],
+    ["Hay mucha", "humedad", "en esta ciudad porque está cerca del mar.", "There is a lot of humidity in this city because it is near the sea.", "humedad", "nieve", "niebla", "tormenta"],
+    ["Mira, hay un", "arcoíris", "precioso después de la lluvia.", "Look, there is a beautiful rainbow after the rain.", "arcoíris", "trueno", "rayo", "sol"],
+    ["No veo nada por la", "niebla", "en la carretera esta mañana.", "I don't see anything because of the fog on the road this morning.", "niebla", "lluvia", "luz", "sombra"],
+    ["¿Me prestas tu", "paraguas", "? Está empezando a llover.", "Can you lend me your umbrella? It's starting to rain.", "paraguas", "abrigo", "gafas", "mochila"],
+    ["Mi", "estación", "favorita del año es el verano.", "My favorite season of the year is summer.", "estación", "lección", "dirección", "relación"],
+    ["El sonido del", "trueno", "me da un poco de miedo.", "The sound of thunder scares me a little.", "trueno", "rayo", "viento", "río"],
+    ["Un", "rayo", "iluminó todo el cielo oscuro.", "A lightning bolt illuminated the whole dark sky.", "rayo", "arcoíris", "sol", "fuego"],
+    ["¿Qué", "pronóstico", "hay para este fin de semana?", "What is the forecast for this weekend?", "pronóstico", "tiempo", "grado", "clima"]
+  ],
+  "dictionary": "El verano - The summer\nLlover - To rain\nLa primavera - The spring\nEl frío - The cold\nEl otoño - The autumn\nLa nieve - The snow\nLa tormenta - The storm\nEl sol - The sun\nNublado - Cloudy\nEl grado - The degree\nEl tiempo - The weather\nEl viento - The wind\nLa temperatura - The temperature\nDespejado - Clear (sky)\nEl hielo - The ice\nMojado - Wet\nSeco - Dry\nLa humedad - The humidity\nEl arcoíris - The rainbow\nLa niebla - The fog\nEl paraguas - The umbrella\nLa estación - The season\nEl trueno - The thunder\nEl rayo - The lightning bolt\nEl pronóstico - The forecast"
+}

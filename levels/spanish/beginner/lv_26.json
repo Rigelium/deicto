@@ -1,0 +1,31 @@
+{
+  "title": "Food and Drinks 2",
+  "sentences": [
+    ["La", "cebolla", "siempre me hace llorar cuando la corto.", "The onion always makes me cry when I cut it.", "cebolla", "patata", "manzana", "carne"],
+    ["Pon un poco de", "ajo", "en la salsa para dar más sabor.", "Put a little garlic in the sauce to give more flavor.", "ajo", "azúcar", "leche", "hielo"],
+    ["El", "marisco", "es muy típico en las ciudades de la costa.", "Seafood is very typical in coastal cities.", "marisco", "pollo", "huevo", "queso"],
+    ["¿Me pasas la", "sal", "y la pimienta, por favor?", "Can you pass me the salt and the pepper, please?", "sal", "agua", "leche", "sopa"],
+    ["Esta comida está muy", "picante", "y necesito beber agua.", "This food is very spicy and I need to drink water.", "picante", "dulce", "fría", "rica"],
+    ["Tienes que", "hervir", "el agua antes de poner la pasta.", "You have to boil the water before putting in the pasta.", "hervir", "freír", "asar", "cortar"],
+    ["Me gusta", "freír", "los huevos con mucho aceite.", "I like to fry eggs with a lot of oil.", "freír", "hervir", "beber", "comer"],
+    ["¿Quieres una", "galleta", "de chocolate con la leche?", "Do you want a chocolate cookie with the milk?", "galleta", "tarta", "sopa", "ensalada"],
+    ["Este postre es demasiado", "dulce", "para mí.", "This dessert is too sweet for me.", "dulce", "salado", "amargo", "picante"],
+    ["¿Prefieres", "vino", "tinto o vino blanco?", "Do you prefer red wine or white wine?", "vino", "cerveza", "zumo", "leche"],
+    ["Camarero, ¿me trae una", "cerveza", "muy fría?", "Waiter, can you bring me a very cold beer?", "cerveza", "leche", "sopa", "manzana"],
+    ["Pongo", "mantequilla", "en el pan tostado.", "I put butter on the toasted bread.", "mantequilla", "harina", "miel", "sal"],
+    ["Necesito comprar", "harina", "para hacer la masa de la pizza.", "I need to buy flour to make the pizza dough.", "harina", "azúcar", "mantequilla", "aceite"],
+    ["Pongo una cucharada de", "miel", "en mi té caliente.", "I put a spoonful of honey in my hot tea.", "miel", "sal", "vinagre", "ajo"],
+    ["En verano siempre como un", "helado", "de vainilla.", "In summer I always eat a vanilla ice cream.", "helado", "huevo", "pescado", "pan"],
+    ["Mi madre hizo una", "tarta", "de fresa para mi cumpleaños.", "My mother made a strawberry cake for my birthday.", "tarta", "ensalada", "sopa", "carne"],
+    ["Tienes que", "mezclar", "todos los ingredientes en este bol.", "You have to mix all the ingredients in this bowl.", "mezclar", "beber", "limpiar", "mirar"],
+    ["¿Puedes", "cortar", "el pan en trozos pequeños?", "Can you cut the bread into small pieces?", "cortar", "hervir", "beber", "traer"],
+    ["Voy a", "probar", "la sopa para ver si necesita más sal.", "I'm going to taste the soup to see if it needs more salt.", "probar", "vender", "cerrar", "abrir"],
+    ["El camarero va a", "servir", "la cena ahora mismo.", "The waiter is going to serve dinner right now.", "servir", "cocinar", "comprar", "lavar"],
+    ["Esta sopa está muy", "salada", ", no puedo comerla.", "This soup is very salty; I can't eat it.", "salada", "dulce", "rica", "fría"],
+    ["El café sin azúcar es muy", "amargo", ".", "Coffee without sugar is very bitter.", "amargo", "dulce", "picante", "caliente"],
+    ["Desayuno un", "yogur", "con cereales cada día.", "I have a yogurt with cereal every day for breakfast.", "yogur", "helado", "queso", "huevo"],
+    ["¿Quieres un", "refresco", "de limón con hielo?", "Do you want a lemon soda with ice?", "refresco", "vino", "aceite", "té"],
+    ["Me gusta mucho la", "pasta", "con salsa de tomate.", "I really like pasta with tomato sauce.", "pasta", "carne", "fruta", "sopa"]
+  ],
+  "dictionary": "La cebolla - The onion\nEl ajo - The garlic\nEl marisco - The seafood\nLa sal - The salt\nPicante - Spicy\nHervir - To boil\nFreír - To fry\nLa galleta - The cookie\nDulce - Sweet\nEl vino - The wine\nLa cerveza - The beer\nLa mantequilla - The butter\nLa harina - The flour\nLa miel - The honey\nEl helado - The ice cream\nLa tarta - The cake\nMezclar - To mix\nCortar - To cut\nProbar - To taste/try\nServir - To serve\nSalado/a - Salty\nAmargo/a - Bitter\nEl yogur - The yogurt\nEl refresco - The soft drink/soda\nLa pasta - The pasta"
+}

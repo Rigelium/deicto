@@ -1,0 +1,31 @@
+{
+  "title": "Hobbies and Leisure",
+  "sentences": [
+    ["En mi tiempo libre me gusta mucho", "leer", "novelas de misterio.", "In my free time I like to read mystery novels very much.", "leer", "escribir", "correr", "cantar"],
+    ["¿Quieres", "bailar", "conmigo en la fiesta de esta noche?", "Do you want to dance with me at tonight's party?", "bailar", "beber", "saltar", "dormir"],
+    ["Mi hobby favorito es", "viajar", "a países diferentes cada año.", "My favorite hobby is traveling to different countries every year.", "viajar", "trabajar", "estudiar", "limpiar"],
+    ["Los fines de semana salgo a", "correr", "por el parque.", "On weekends I go out running through the park.", "correr", "nadar", "cocinar", "dibujar"],
+    ["¿Prefieres", "jugar", "a los videojuegos solo o con amigos?", "Do you prefer playing video games alone or with friends?", "jugar", "mirar", "hacer", "ir"],
+    ["Ella saca muchas fotos con su", "cámara", "nueva.", "She takes many photos with her new camera.", "cámara", "mochila", "guitarra", "pelota"],
+    ["Vamos al", "estadio", "para ver el partido de fútbol.", "We are going to the stadium to see the soccer match.", "estadio", "museo", "cine", "teatro"],
+    ["Me encanta", "nadar", "en el mar durante el verano.", "I love swimming in the sea during the summer.", "nadar", "volar", "caminar", "subir"],
+    ["Mi hermana sabe", "pintar", "cuadros muy bonitos.", "My sister knows how to paint very beautiful pictures.", "pintar", "leer", "abrir", "vender"],
+    ["¿Vienes al", "concierto", "de rock esta noche?", "Are you coming to the rock concert tonight?", "concierto", "examen", "trabajo", "colegio"],
+    ["A mi abuelo le gusta hacer", "jardinería", "en su casa.", "My grandfather likes to do gardening at his house.", "jardinería", "cocina", "deporte", "música"],
+    ["Siempre", "escucho", "música mientras trabajo en la oficina.", "I always listen to music while I work in the office.", "escucho", "veo", "toco", "hago"],
+    ["¿Quieres ir de", "compras", "al centro comercial el sábado?", "Do you want to go shopping at the mall on Saturday?", "compras", "vacaciones", "excursión", "fiesta"],
+    ["Hacemos una", "excursión", "a la montaña para caminar.", "We are going on a trip/hike to the mountain to walk.", "excursión", "película", "cena", "clase"],
+    ["Me gusta", "cocinar", "cenas especiales para mi familia.", "I like to cook special dinners for my family.", "cocinar", "comer", "beber", "limpiar"],
+    ["Ella practica", "yoga", "todas las mañanas para relajarse.", "She practices yoga every morning to relax.", "yoga", "fútbol", "tenis", "ajedrez"],
+    ["¿Qué", "deporte", "practicas tú habitualmente?", "What sport do you usually practice?", "deporte", "idioma", "instrumento", "juego"],
+    ["Me gusta ir al", "cine", "para ver las películas de acción.", "I like to go to the cinema to see action movies.", "cine", "parque", "banco", "baño"],
+    ["Mi", "pasatiempo", "favorito es la fotografía.", "My favorite pastime is photography.", "pasatiempo", "trabajo", "problema", "sueño"],
+    ["Jugamos un", "partido", "de tenis por la tarde.", "We are playing a tennis match in the afternoon.", "partido", "concierto", "baile", "viaje"],
+    ["Tengo una", "colección", "de monedas muy antigua.", "I have a very old coin collection.", "colección", "canción", "lección", "dirección"],
+    ["A veces vamos a", "acampar", "cerca del lago con amigos.", "Sometimes we go camping near the lake with friends.", "acampar", "nadar", "correr", "bailar"],
+    ["¿Quieres", "quedar", "con nosotros para tomar algo?", "Do you want to meet up with us for a drink?", "quedar", "salir", "volver", "entrar"],
+    ["Me gusta", "dibujar", "en mi cuaderno cuando estoy aburrido.", "I like to draw in my notebook when I am bored.", "dibujar", "leer", "cantar", "cocinar"],
+    ["Es importante tener tiempo para", "descansar", "y divertirse.", "It is important to have time to rest and have fun.", "descansar", "trabajar", "sufrir", "limpiar"]
+  ],
+  "dictionary": "Leer - To read\nBailar - To dance\nViajar - To travel\nCorrer - To run\nJugar - To play\nLa cámara - The camera\nEl estadio - The stadium\nNadar - To swim\nPintar - To paint\nEl concierto - The concert\nLa jardinería - The gardening\nEscuchar - To listen\nIr de compras - To go shopping\nLa excursión - The hike / trip\nCocinar - To cook\nEl yoga - The yoga\nEl deporte - The sport\nEl cine - The cinema\nEl pasatiempo - The pastime\nEl partido - The match / game\nLa colección - The collection\nAcampar - To camp\nQuedar - To meet up\nDibujar - To draw\nDescansar - To rest"
+}
