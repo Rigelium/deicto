@@ -369,12 +369,12 @@
           return 'play to get stars';
         }
         if (starCount==5){
-          return 'level complete';
+          return 'You got all the stars, congrats!';
         }
         if (reviewMs <= 0){
-          return 'ready for review';
+          return 'Level ready for the next review';
         }
-        let output = 'Review: ';
+        let output = 'Round complete! Next review in: ';
         const reviewMin = reviewMs/60000;
         
         const minutesLeft = Math.floor(reviewMin) % 60;
