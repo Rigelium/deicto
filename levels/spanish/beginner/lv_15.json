@@ -1,0 +1,31 @@
+{
+  "title": "Family and Relationships 1",
+  "sentences": [
+    ["Mi", "madre", "es profesora de español.", "My mother is a Spanish teacher.", "madre", "padre", "hija", "tía"],
+    ["¿Cómo se llama tu", "padre", "?", "What is your father's name?", "padre", "hijo", "hermano", "abuelo"],
+    ["Mis", "abuelos", "viven en un pueblo muy pequeño.", "My grandparents live in a very small village.", "abuelos", "nietos", "primos", "sobrinos"],
+    ["¿Tienes", "hermanos", "o eres hijo único?", "Do you have siblings or are you an only child?", "hermanos", "padres", "tíos", "primos"],
+    ["Su", "hijo", "estudia medicina en la universidad.", "His/her son studies medicine at the university.", "hijo", "marido", "yerno", "nieto"],
+    ["Mi", "hija", "toca el piano desde los cinco años.", "My daughter has played the piano since she was five.", "hija", "mujer", "nuera", "nieta"],
+    ["El", "primo", "de Juan vive en Argentina.", "Juan's cousin lives in Argentina.", "primo", "sobrino", "cuñado", "suegro"],
+    ["Mi", "tía", "siempre nos trae regalos por Navidad.", "My aunt always brings us gifts for Christmas.", "tía", "madre", "abuela", "suegra"],
+    ["¿Cómo se llama tu", "sobrino", ", el hijo de tu hermano?", "What is your nephew's name, your brother's son?", "sobrino", "nieto", "primo", "hijo"],
+    ["Mi", "sobrina", "es muy inteligente y divertida.", "My niece is very intelligent and fun.", "sobrina", "hija", "nieta", "prima"],
+    ["Mi", "marido", "trabaja en una oficina en el centro.", "My husband works in an office downtown.", "marido", "novio", "padre", "hermano"],
+    ["Su", "mujer", "es una ingeniera muy famosa.", "His wife is a very famous engineer.", "mujer", "novia", "madre", "hermana"],
+    ["El", "novio", "de Ana es muy simpático.", "Ana's boyfriend is very nice.", "novio", "marido", "yerno", "padre"],
+    ["Mi", "novia", "vive en otra ciudad, pero nos vemos mucho.", "My girlfriend lives in another city, but we see each other a lot.", "novia", "mujer", "nuera", "madre"],
+    ["¿Te llevas bien con tu", "cuñado", "?", "Do you get along well with your brother-in-law?", "cuñado", "suegro", "yerno", "primo"],
+    ["Mi", "suegra", "cocina una paella increíble.", "My mother-in-law cooks an incredible paella.", "suegra", "tía", "abuela", "madre"],
+    ["¿Conoces a mi", "yerno", ", el marido de mi hija?", "Do you know my son-in-law, my daughter's husband?", "yerno", "nuera", "cuñado", "nieto"],
+    ["Su", "nuera", "es de Italia y habla cuatro idiomas.", "His/her daughter-in-law is from Italy and speaks four languages.", "nuera", "yerno", "cuñada", "nieta"],
+    ["Somos una", "familia", "muy grande y unida.", "We are a very big and close-knit family.", "familia", "gente", "pareja", "comunidad"],
+    ["El", "nieto", "de Pedro es todavía un bebé.", "Pedro's grandson is still a baby.", "nieto", "hijo", "sobrino", "abuelo"],
+    ["Mi", "nieta", "tiene los ojos azules como yo.", "My granddaughter has blue eyes like me.", "nieta", "hija", "sobrina", "abuela"],
+    ["¿Tienes muchos", "parientes", "en esta ciudad?", "Do you have many relatives in this city?", "parientes", "amigos", "vecinos", "compañeros"],
+    ["Mis padres se", "divorciaron", "hace dos años.", "My parents divorced two years ago.", "divorciaron", "casaron", "conocieron", "separaron"],
+    ["Ella se", "casa", "el próximo sábado en la playa.", "She is getting married next Saturday on the beach.", "casa", "divorcia", "separa", "conoce"],
+    ["Me llevo", "bien", "con toda mi familia.", "I get along well with all my family.", "bien", "mal", "mucho", "poco"]
+  ],
+  "dictionary": "La madre - The mother\nEl padre - The father\nLos abuelos - The grandparents\nEl hermano / La hermana - The brother/sister\nEl hijo / La hija - The son/daughter\nEl primo / La prima - The cousin\nEl tío / La tía - The uncle/aunt\nEl sobrino / La sobrina - The nephew/niece\nEl marido - The husband\nLa mujer - The wife\nEl novio / La novia - The boyfriend/girlfriend\nEl cuñado / La cuñada - The brother-in-law/sister-in-law\nEl suegro / La suegra - The father-in-law/mother-in-law\nEl yerno - The son-in-law\nLa nuera - The daughter-in-law\nLa familia - The family\nEl nieto / La nieta - The grandson/granddaughter\nLos parientes - The relatives\nDivorciarse - To get divorced\nCasarse - To get married\nBien - Well"
+}
