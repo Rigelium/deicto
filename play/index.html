@@ -305,12 +305,14 @@
           `;
         }
 
+              let reviewMs = Number(retrieveVariable(`nextReview${localPath}`)) - Date.now();
+        let reviewString = reviewToString(reviewMs, starCount);
           
           document.getElementById('main-box').innerHTML = `
           <div class='box1' style='flex-direction: column; align-items: center; gap: 10px;'>
             <a>Level complete!</a>
             <div style'display: flex; gap: 5px;'>${starsHTML}</div>
-            <a>Next review in:</a>
+            <a>Next review in: ${reviewString}</a>
             <div class='box1' onclick='window.location.href=("../levels/")'><a>Return to levels</a></div>
           </div>
           `;
@@ -342,6 +344,46 @@
     window.speechSynthesis.speak(utterance);
     }*/
 
+
+
+
+
+      function reviewToString(reviewMs, starCount){
+        if (starCount==0){
+          return 'play to get stars';
+        }
+        if (starCount==5){
+          return 'level complete';
+        }
+        if (reviewMs <= 0){
+          return 'ready for review';
+        }
+        let output = 'Review: ';
+        const reviewMin = reviewMs/60000;
+        
+        const minutesLeft = Math.floor(reviewMin) % 60;
+        const hoursLeft = Math.floor(reviewMin/60) % 24;
+        const daysLeft = Math.floor(reviewMin/60/24); 
+
+        if (reviewMin < 1){
+          output += `${Math.floor(reviewMs/1000)}s`
+          return output;
+        }
+        if (daysLeft != 0) { 
+          output += `${daysLeft}d `
+        }
+        if (hoursLeft != 0) { 
+          output += `${hoursLeft}h `
+        }
+        if (minutesLeft != 0) { 
+          output += `${minutesLeft}m`
+        }
+      
+        return output;
+      }
+
+
+    
 function playText(text, langCode) {
     const utterance = new SpeechSynthesisUtterance(text);
     const voices = window.speechSynthesis.getVoices();
