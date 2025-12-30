@@ -1,0 +1,31 @@
+{
+  "title": "Education and Learning 1",
+  "sentences": [
+    ["Mi", "escuela", "está muy cerca de mi casa.", "My school is very close to my house.", "escuela", "oficina", "tienda", "farmacia"],
+    ["Estudio ingeniería en la", "universidad", ".", "I study engineering at the university.", "universidad", "biblioteca", "estación", "plaza"],
+    ["¿Cuál es tu", "asignatura", "favorita este semestre?", "What is your favorite subject this semester?", "asignatura", "nota", "beca", "aula"],
+    ["Tengo un", "examen", "de matemáticas el próximo viernes.", "I have a math exam next Friday.", "examen", "título", "libro", "bolígrafo"],
+    ["Saqué una buena", "nota", "en el trabajo de historia.", "I got a good grade on the history assignment.", "nota", "pregunta", "lección", "mochila"],
+    ["El", "profesor", "de música es muy simpático.", "The music teacher is very nice.", "profesor", "alumno", "jefe", "médico"],
+    ["Hay veinte", "alumnos", "en mi clase de español.", "There are twenty students in my Spanish class.", "alumnos", "profesores", "libros", "cuadernos"],
+    ["Necesito comprar un", "cuaderno", "para tomar apuntes.", "I need to buy a notebook to take notes.", "cuaderno", "bolígrafo", "estante", "mapa"],
+    ["¿Me prestas un", "bolígrafo", "? El mío no escribe.", "Can you lend me a pen? Mine doesn't write.", "bolígrafo", "cuaderno", "libro", "título"],
+    ["Llevo todos mis libros dentro de la", "mochila", ".", "I carry all my books inside the backpack.", "mochila", "bolsa", "maleta", "caja"],
+    ["El", "aula", "número diez está en el segundo piso.", "Classroom number ten is on the second floor.", "aula", "pizarra", "biblioteca", "beca"],
+    ["La profesora escribe los ejemplos en la", "pizarra", ".", "The teacher writes the examples on the blackboard.", "pizarra", "mesa", "silla", "ventana"],
+    ["Voy a la", "biblioteca", "para estudiar en silencio.", "I'm going to the library to study in silence.", "biblioteca", "librería", "cafetería", "cine"],
+    ["He pedido una", "beca", "para estudiar en el extranjero.", "I have applied for a scholarship to study abroad.", "beca", "nota", "asignatura", "título"],
+    ["Quiero obtener mi", "título", "universitario este año.", "I want to get my university degree this year.", "título", "examen", "libro", "cuaderno"],
+    ["Tengo que", "estudiar", "mucho para el examen final.", "I have to study a lot for the final exam.", "estudiar", "jugar", "dormir", "bailar"],
+    ["Es muy divertido", "aprender", "un idioma nuevo.", "It is very fun to learn a new language.", "aprender", "enseñar", "borrar", "perder"],
+    ["Mi tía va a", "enseñar", "francés en un colegio.", "My aunt is going to teach French at a school.", "enseñar", "aprender", "estudiar", "mirar"],
+    ["¡Qué bien! He logrado", "aprobar", "todas las materias.", "Great! I have managed to pass all the subjects.", "aprobar", "suspender", "escribir", "leer"],
+    ["Estoy triste porque voy a", "suspender", "el examen.", "I am sad because I am going to fail the exam.", "suspender", "aprobar", "preguntar", "contestar"],
+    ["Tenemos que", "escribir", "una redacción sobre las vacaciones.", "We have to write an essay about the holidays.", "escribir", "leer", "dibujar", "pintar"],
+    ["Me gusta mucho", "leer", "libros de ciencia ficción.", "I like reading science fiction books very much.", "leer", "escribir", "correr", "cantar"],
+    ["Puedes", "preguntar", "al profesor si tienes dudas.", "You can ask the teacher if you have doubts.", "preguntar", "contestar", "abrir", "cerrar"],
+    ["Debes", "contestar", "todas las preguntas del examen.", "You must answer all the questions on the exam.", "contestar", "preguntar", "olvidar", "romper"],
+    ["La", "lección", "de hoy es muy interesante.", "Today's lesson is very interesting.", "lección", "nota", "beca", "aula"]
+  ],
+  "dictionary": "La escuela - The school\nLa universidad - The university\nLa asignatura - The subject\nEl examen - The exam\nLa nota - The grade\nEl profesor / La profesora - The teacher\nEl alumno / La alumna - The student\nEl cuaderno - The notebook\nEl bolígrafo - The pen\nLa mochila - The backpack\nEl aula - The classroom\nLa pizarra - The blackboard\nLa biblioteca - The library\nLa beca - The scholarship\nEl título - The degree / title\nEstudiar - To study\nAprender - To learn\nEnseñar - To teach\nAprobar - To pass\nSuspender - To fail\nEscribir - To write\nLeer - To read\nPreguntar - To ask\nContestar - To answer\nLa lección - The lesson"
+}

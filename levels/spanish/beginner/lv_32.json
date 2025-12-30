@@ -1,0 +1,31 @@
+{
+  "title": "Technology and Media",
+  "sentences": [
+    ["Uso mi", "ordenador", "portátil para trabajar en la cafetería.", "I use my laptop computer to work in the coffee shop.", "ordenador", "televisor", "ascensor", "ventilador"],
+    ["¿Cuál es la", "contraseña", "del Wi-Fi?", "What is the Wi-Fi password?", "contraseña", "noticia", "cuenta", "pantalla"],
+    ["Tengo que", "cargar", "mi móvil porque no tiene batería.", "I have to charge my mobile because it has no battery.", "cargar", "borrar", "subir", "llamar"],
+    ["He recibido un", "mensaje", "de texto de mi hermano.", "I received a text message from my brother.", "mensaje", "archivo", "perfil", "ratón"],
+    ["¿Me pasas tus", "auriculares", "para escuchar música?", "Can you pass me your headphones to listen to music?", "auriculares", "altavoces", "gafas", "relojes"],
+    ["Mañana voy a", "subir", "una foto nueva a mi red social.", "Tomorrow I am going to upload a new photo to my social network.", "subir", "descargar", "imprimir", "apagar"],
+    ["Puedes", "descargar", "esta aplicación gratis en tu teléfono.", "You can download this application for free on your phone.", "descargar", "borrar", "enviar", "navegar"],
+    ["La", "pantalla", "de mi tablet está un poco sucia.", "The screen of my tablet is a bit dirty.", "pantalla", "teclado", "batería", "cámara"],
+    ["Uso el", "ratón", "para moverme por la página web.", "I use the mouse to move through the webpage.", "ratón", "teclado", "cable", "enchufe"],
+    ["No puedo escribir bien porque el", "teclado", "está roto.", "I can't write well because the keyboard is broken.", "teclado", "ratón", "monitor", "cargador"],
+    ["¿Has leído el", "correo electrónico", "que te envié ayer?", "Have you read the email I sent you yesterday?", "correo electrónico", "periódico", "libro", "mensaje"],
+    ["Necesito un", "cargador", "nuevo para mi portátil.", "I need a new charger for my laptop.", "cargador", "enchufe", "altavoz", "perfil"],
+    ["El", "altavoz", "del coche suena muy fuerte.", "The car speaker sounds very loud.", "altavoz", "auricular", "micrófono", "monitor"],
+    ["Me gusta", "navegar", "por internet antes de dormir.", "I like to surf/browse the internet before sleeping.", "navegar", "correr", "nadar", "cocinar"],
+    ["Voy a", "borrar", "los archivos que no necesito.", "I am going to delete the files I don't need.", "borrar", "guardar", "abrir", "imprimir"],
+    ["No olvides", "guardar", "el documento antes de cerrar el programa.", "Don't forget to save the document before closing the program.", "guardar", "borrar", "enviar", "perder"],
+    ["¿Puedes", "compartir", "tu ubicación conmigo?", "Can you share your location with me?", "compartir", "recibir", "apagar", "buscar"],
+    ["Tengo muchas fotos guardadas en esta", "carpeta", ".", "I have many photos saved in this folder.", "carpeta", "pizarra", "estantería", "caja"],
+    ["Hay un", "enlace", "en el texto para más información.", "There is a link in the text for more information.", "enlace", "mensaje", "vídeo", "juego"],
+    ["¿Cuál es tu", "perfil", "en esta aplicación?", "What is your profile on this app?", "perfil", "nombre", "número", "página"],
+    ["El", "vídeo", "que publicaste es muy divertido.", "The video you posted is very funny.", "vídeo", "foto", "enlace", "mensaje"],
+    ["La", "impresora", "no tiene papel, tengo que comprar más.", "The printer has no paper; I have to buy more.", "impresora", "pantalla", "televisión", "cámara"],
+    ["Quiero", "imprimir", "estas fotos para ponerlas en la pared.", "I want to print these photos to put them on the wall.", "imprimir", "borrar", "subir", "descargar"],
+    ["¿Cómo se puede", "apagar", "este dispositivo?", "How can this device be turned off?", "apagar", "encender", "cargar", "romper"],
+    ["Tienes que", "encender", "la luz para ver mejor.", "You have to turn on the light to see better.", "encender", "apagar", "borrar", "subir"]
+  ],
+  "dictionary": "El ordenador - The computer\nLa contraseña - The password\nCargar - To charge\nEl mensaje - The message\nLos auriculares - The headphones\nSubir - To upload\nDescargar - To download\nLa pantalla - The screen\nEl ratón - The mouse\nEl teclado - The keyboard\nEl correo electrónico - The email\nEl cargador - The charger\nEl altavoz - The speaker\nNavegar - To surf / To browse\nBorrar - To delete\nGuardar - To save\nCompartir - To share\nLa carpeta - The folder\nEl enlace - The link\nEl perfil - The profile\nEl vídeo - The video\nLa impresora - The printer\nImprimir - To print\nApagar - To turn off\nEncender - To turn on"
+}

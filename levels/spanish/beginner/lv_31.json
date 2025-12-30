@@ -1,0 +1,31 @@
+{
+  "title": "Household chores",
+  "sentences": [
+    ["Los sábados siempre", "limpio", "el cuarto de baño.", "On Saturdays I always clean the bathroom.", "limpio", "ensucio", "abro", "rompo"],
+    ["¿Puedes", "barrer", "el suelo de la cocina con la escoba?", "Can you sweep the kitchen floor with the broom?", "barrer", "fregar", "planchar", "tender"],
+    ["Tengo que", "fregar", "los platos después de cenar.", "I have to wash/scrub the dishes after dinner.", "fregar", "cocinar", "comer", "beber"],
+    ["Mi madre", "plancha", "las camisas por la tarde.", "My mother irons the shirts in the afternoon.", "plancha", "lava", "tira", "riega"],
+    ["Tenemos que hacer la", "colada", "porque no tengo ropa limpia.", "We have to do the laundry because I don't have clean clothes.", "colada", "comida", "cama", "compra"],
+    ["Te toca", "tirar", "la basura al contenedor de la calle.", "It is your turn to throw the trash into the street container.", "tirar", "recoger", "abrir", "limpiar"],
+    ["Siempre", "hago", "la cama antes de salir de casa.", "I always make the bed before leaving the house.", "hago", "pongo", "quito", "lavo"],
+    ["Ayúdame a", "poner", "la mesa para la cena, por favor.", "Help me set the table for dinner, please.", "poner", "quitar", "fregar", "barrer"],
+    ["La", "lavadora", "está llena de ropa sucia.", "The washing machine is full of dirty clothes.", "lavadora", "nevera", "cocina", "estantería"],
+    ["Paso la", "aspiradora", "por la alfombra del salón.", "I run the vacuum cleaner over the living room rug.", "aspiradora", "escoba", "fregona", "plancha"],
+    ["Tienes que", "regar", "las plantas del balcón.", "You have to water the balcony plants.", "regar", "cortar", "mirar", "tocar"],
+    ["Voy a", "ordenar", "mi habitación ahora mismo.", "I am going to tidy up my room right now.", "ordenar", "ensuciar", "perder", "buscar"],
+    ["Vamos a", "quitar", "la mesa después de comer.", "We are going to clear the table after eating.", "quitar", "poner", "fregar", "barrer"],
+    ["Uso la", "fregona", "para limpiar el suelo mojado.", "I use the mop to clean the wet floor.", "fregona", "escoba", "aspiradora", "toalla"],
+    ["El", "lavavajillas", "ya ha terminado de lavar los vasos.", "The dishwasher has already finished washing the glasses.", "lavavajillas", "horno", "microondas", "fregadero"],
+    ["Yo", "seco", "los platos con un trapo limpio.", "I dry the dishes with a clean rag.", "seco", "mojo", "lavo", "rompo"],
+    ["", "Lavo", "mi ropa una vez a la semana.", "I wash my clothes once a week.", "Lavo", "Plancho", "Seco", "Tiro"],
+    ["Tengo que", "arreglar", "la silla rota del salón.", "I have to fix the broken chair in the living room.", "arreglar", "romper", "mirar", "vender"],
+    ["Quito el", "polvo", "de todas las estanterías.", "I remove the dust from all the shelves.", "polvo", "hielo", "agua", "fuego"],
+    ["¿Puedes usar la", "escoba", "para limpiar el patio?", "Can you use the broom to clean the patio?", "escoba", "aspiradora", "fregona", "plancha"],
+    ["Tengo que", "tender", "la ropa en la terraza para que se seque.", "I have to hang the clothes on the terrace so they dry.", "tender", "doblar", "lavar", "planchar"],
+    ["Mi hermano", "cocina", "la cena hoy.", "My brother cooks dinner today.", "cocina", "come", "fregó", "limpia"],
+    ["", "Friego", "el suelo de toda la casa los viernes.", "I scrub/mop the floor of the whole house on Fridays.", "Friego", "Barro", "Limpio", "Riego"],
+    ["¿Quién", "saca", "la basura en tu casa?", "Who takes out the trash in your house?", "saca", "mete", "hace", "pone"],
+    ["", "Doblo", "la ropa después de secarla.", "I fold the clothes after drying them.", "Doblo", "Plancho", "Lavo", "Tiro"]
+  ],
+  "dictionary": "Limpiar - To clean\nBarrer - To sweep\nFregar - To scrub / To wash (dishes/floor)\nPlanchar - To iron\nLa colada - The laundry\nTirar - To throw / To take out\nHacer la cama - To make the bed\nPoner la mesa - To set the table\nLa lavadora - The washing machine\nLa aspiradora - The vacuum cleaner\nRegar - To water\nOrdenar - To organize / To tidy up\nQuitar la mesa - To clear the table\nLa fregona - The mop\nEl lavavajillas - The dishwasher\nSecar - To dry\nLavar - To wash\nArreglar - To fix\nEl polvo - The dust\nLa escoba - The broom\nTender - To hang (clothes)\nCocinar - To cook\nSacar la basura - To take out the trash\nDoblar - To fold"
+}

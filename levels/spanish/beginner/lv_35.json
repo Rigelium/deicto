@@ -1,0 +1,31 @@
+{
+  "title": "Education and Learning 2",
+  "sentences": [
+    ["No encuentro mis", "apuntes", "de la clase de ayer.", "I can't find my notes from yesterday's class.", "apuntes", "libros", "bolígrafos", "exámenes"],
+    ["Tengo que hacer los", "deberes", "de matemáticas para mañana.", "I have to do the math homework for tomorrow.", "deberes", "títulos", "becas", "aulas"],
+    ["¿Puedes", "borrar", "la pizarra, por favor?", "Can you erase the blackboard, please?", "borrar", "escribir", "pintar", "leer"],
+    ["El", "recreo", "es el momento favorito de los niños.", "Recess is the children's favorite moment.", "recreo", "examen", "curso", "título"],
+    ["Tengo que", "entregar", "el trabajo antes del viernes.", "I have to hand in the assignment before Friday.", "entregar", "borrar", "perder", "suspender"],
+    ["Necesito un", "diccionario", "para traducir este texto.", "I need a dictionary to translate this text.", "diccionario", "cuaderno", "bolígrafo", "estante"],
+    ["Quiero aprender otro", "idioma", "el año que viene.", "I want to learn another language next year.", "idioma", "título", "examen", "clase"],
+    ["Este", "semestre", "tengo cinco asignaturas muy difíciles.", "This semester I have five very difficult subjects.", "semestre", "siglo", "momento", "recreo"],
+    ["¿En qué", "curso", "estás tú ahora?", "What grade/year are you in now?", "curso", "aula", "beca", "nota"],
+    ["Tengo que", "repasar", "la lección para el examen.", "I have to review the lesson for the exam.", "repasar", "borrar", "jugar", "dormir"],
+    ["¿Me prestas tu", "goma", "para borrar este error?", "Can you lend me your eraser to erase this mistake?", "goma", "tiza", "pizarra", "mochila"],
+    ["El profesor usa una", "tiza", "blanca para escribir.", "The teacher uses white chalk to write.", "tiza", "goma", "mochila", "regla"],
+    ["He hecho un", "resumen", "de todo el libro.", "I have made a summary of the whole book.", "resumen", "examen", "título", "recreo"],
+    ["Mi", "compañero", "de clase es muy inteligente.", "My classmate is very intelligent.", "compañero", "profesor", "jefe", "médico"],
+    ["Mañana es la ceremonia de", "graduación", ".", "Tomorrow is the graduation ceremony.", "graduación", "lección", "beca", "nota"],
+    ["Estoy muy feliz por mi", "éxito", "en los estudios.", "I am very happy about my success in my studies.", "éxito", "error", "problema", "duda"],
+    ["¿Sabes", "traducir", "esta frase al español?", "Do you know how to translate this sentence into Spanish?", "traducir", "borrar", "perder", "entregar"],
+    ["La", "facultad", "de medicina está en el otro edificio.", "The medical faculty is in the other building.", "facultad", "escuela", "pizarra", "aula"],
+    ["Uso un", "subrayador", "para marcar lo más importante.", "I use a highlighter to mark the most important things.", "subrayador", "bolígrafo", "cuaderno", "diccionario"],
+    ["Me gusta", "investigar", "temas nuevos en internet.", "I like to research new topics on the internet.", "investigar", "borrar", "jugar", "dormir"],
+    ["Tengo que", "practicar", "más mi pronunciación.", "I have to practice my pronunciation more.", "practicar", "borrar", "perder", "olvidar"],
+    ["Recibí mi", "diploma", "después de terminar el curso.", "I received my diploma after finishing the course.", "diploma", "beca", "nota", "aula"],
+    ["El", "horario", "de clases cambia la próxima semana.", "The class schedule changes next week.", "horario", "calendario", "tiempo", "momento"],
+    ["¿Tienes una", "regla", "para medir esta línea?", "Do you have a ruler to measure this line?", "regla", "goma", "tiza", "mochila"],
+    ["Es un", "conocimiento", "muy útil para el futuro.", "It is very useful knowledge for the future.", "conocimiento", "examen", "recreo", "error"]
+  ],
+  "dictionary": "Los apuntes - The notes\nLos deberes - The homework\nBorrar - To erase\nEl recreo - The recess\nEntregar - To hand in\nEl diccionario - The dictionary\nEl idioma - The language\nEl semestre - The semester\nEl curso - The grade / year / course\nRepasar - To review\nLa goma - The eraser\nLa tiza - The chalk\nEl resumen - The summary\nEl compañero / La compañera - The classmate\nLa graduación - The graduation\nEl éxito - The success\nTraducir - To translate\nLa facultad - The faculty / department\nEl subrayador - The highlighter\nInvestigar - To research\nPracticar - To practice\nEl diploma - The diploma\nEl horario - The schedule\nLa regla - The ruler\nEl conocimiento - The knowledge"
+}
