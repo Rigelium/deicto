@@ -1,0 +1,31 @@
+{
+  "title": "Shopping and Services 1",
+  "sentences": [
+    ["¿Cuánto", "cuesta", "esta camiseta roja?", "How much does this red t-shirt cost?", "cuesta", "paga", "vende", "compra"],
+    ["Tengo que ir al", "supermercado", "porque la nevera está vacía.", "I have to go to the supermarket because the fridge is empty.", "supermercado", "banco", "museo", "cine"],
+    ["¿Aceptas pagos con", "tarjeta", "o solo efectivo?", "Do you accept card payments or only cash?", "tarjeta", "billete", "moneda", "cartera"],
+    ["Necesito", "comprar", "un regalo para el cumpleaños de mi madre.", "I need to buy a gift for my mother's birthday.", "comprar", "vender", "mirar", "perder"],
+    ["Esta tienda tiene unos", "precios", "muy buenos.", "This store has very good prices.", "precios", "libros", "relojes", "bolsos"],
+    ["¿Dónde está el", "probador", "para verme esta chaqueta?", "Where is the fitting room to try on this jacket?", "probador", "pasillo", "techo", "suelo"],
+    ["Voy a la", "caja", "para pagar mis cosas.", "I'm going to the checkout to pay for my things.", "caja", "puerta", "ventana", "mesa"],
+    ["Quiero", "devolver", "estos pantalones porque son pequeños.", "I want to return these pants because they are small.", "devolver", "comprar", "limpiar", "abrir"],
+    ["Guarda siempre el", "ticket", "de compra por si acaso.", "Always keep the receipt just in case.", "ticket", "mapa", "bolso", "sobre"],
+    ["Hay mucha", "cola", "en la carnicería hoy.", "There is a long line at the butcher shop today.", "cola", "agua", "luz", "paz"],
+    ["¿Me puedes dar una", "bolsa", "de plástico, por favor?", "Can you give me a plastic bag, please?", "bolsa", "caja", "cartera", "maleta"],
+    ["Esta tienda está de", "rebajas", "y todo es más barato.", "This store is on sale and everything is cheaper.", "rebajas", "fiesta", "vacaciones", "clase"],
+    ["El", "vendedor", "me ayudó a encontrar mi talla.", "The shop assistant helped me find my size.", "vendedor", "médico", "profesor", "piloto"],
+    ["Busco una", "zapatería", "para comprar unas botas nuevas.", "I'm looking for a shoe store to buy some new boots.", "zapatería", "panadería", "librería", "farmacia"],
+    ["La", "frutería", "tiene unas naranjas muy frescas hoy.", "The fruit shop has some very fresh oranges today.", "frutería", "oficina", "comisaría", "estadio"],
+    ["¿Cuál es el", "horario", "de apertura de la tienda?", "What is the store's opening hours?", "horario", "precio", "nombre", "lugar"],
+    ["No tengo mucho", "dinero", "en la cartera ahora mismo.", "I don't have much money in my wallet right now.", "dinero", "papel", "agua", "tiempo"],
+    ["¿Me das el", "cambio", "en monedas de un euro?", "Will you give me the change in one-euro coins?", "cambio", "precio", "bolso", "ticket"],
+    ["Esa", "tienda", "de ropa es muy famosa en esta ciudad.", "That clothing store is very famous in this city.", "tienda", "casa", "escuela", "calle"],
+    ["¿Tienen esta camisa en una", "talla", "más grande?", "Do you have this shirt in a larger size?", "talla", "bolsa", "caja", "fila"],
+    ["El", "cliente", "siempre tiene la razón.", "The customer is always right.", "cliente", "vendedor", "guía", "piloto"],
+    ["Solo estoy", "mirando", ", gracias.", "I'm just looking, thank you.", "mirando", "comprando", "pagando", "comiendo"],
+    ["¿Dónde está el", "pasillo", "de las bebidas?", "Where is the beverage aisle?", "pasillo", "probador", "techo", "suelo"],
+    ["Esta oferta es", "gratis", "si compras dos unidades.", "This offer is free if you buy two units.", "gratis", "cara", "sucia", "rota"],
+    ["Necesito", "cambiar", "estos zapatos por otros más cómodos.", "I need to exchange these shoes for more comfortable ones.", "cambiar", "vender", "romper", "limpiar"]
+  ],
+  "dictionary": "Cuesta / Costar - To cost\nEl supermercado - The supermarket\nLa tarjeta - The card\nComprar - To buy\nEl precio - The price\nEl probador - The fitting room\nLa caja - The checkout / box\nDevolver - To return\nEl ticket - The receipt\nLa cola - The line / queue\nLa bolsa - The bag\nLas rebajas - The sales\nEl vendedor - The shop assistant\nLa zapatería - The shoe store\nLa frutería - The fruit shop\nEl horario - The schedule\nEl dinero - The money\nEl cambio - The change\nLa tienda - The shop / store\nLa talla - The size\nEl cliente - The customer\nMirar - To look\nEl pasillo - The aisle\nGratis - Free\nCambiar - To exchange"
+}

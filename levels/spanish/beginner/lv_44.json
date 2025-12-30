@@ -1,0 +1,31 @@
+{
+  "title": "Adjective collection 3",
+  "sentences": [
+    ["El camino al parque es muy", "largo", "y estoy cansado.", "The path to the park is very long and I am tired.", "largo", "corto", "estrecho", "pesado"],
+    ["Llevo pantalones", "cortos", "porque hace mucho calor.", "I wear shorts because it is very hot.", "cortos", "largos", "duros", "llenos"],
+    ["Este jersey es muy", "ancho", "para mí, necesito uno pequeño.", "This sweater is very wide/loose for me; I need a small one.", "ancho", "estrecho", "ligero", "roto"],
+    ["La calle es tan", "estrecha", "que el coche no puede pasar.", "The street is so narrow that the car cannot pass.", "estrecha", "ancha", "limpia", "nueva"],
+    ["Esta maleta es muy", "pesada", "y no puedo llevarla solo.", "This suitcase is very heavy and I cannot carry it alone.", "pesada", "ligera", "vacía", "útil"],
+    ["Uso una mochila", "ligera", "para ir a caminar a la montaña.", "I use a light backpack to go walking in the mountains.", "ligera", "pesada", "oscura", "antigua"],
+    ["Mi ordenador es muy", "moderno", "y funciona perfectamente.", "My computer is very modern and works perfectly.", "moderno", "antiguo", "sucio", "blando"],
+    ["Vivimos en un edificio", "antiguo", "en el centro de la ciudad.", "We live in an old building in the city center.", "antiguo", "nuevo", "brillante", "lleno"],
+    ["Hoy el sol está muy", "brillante", "y el cielo está azul.", "Today the sun is very bright and the sky is blue.", "brillante", "oscuro", "roto", "pobre"],
+    ["La habitación está muy", "oscura", ", ¿puedes encender la luz?", "The room is very dark; can you turn on the light?", "oscura", "brillante", "limpia", "barata"],
+    ["El pan está", "duro", "porque es de ayer.", "The bread is hard because it's from yesterday.", "duro", "blando", "rico", "nuevo"],
+    ["El colchón de mi cama es muy", "blando", "y cómodo.", "My bed mattress is very soft and comfortable.", "blando", "duro", "pesado", "antiguo"],
+    ["Ese hombre es muy", "rico", "y tiene muchos negocios.", "That man is very rich and has many businesses.", "rico", "pobre", "barato", "inútil"],
+    ["Es un barrio", "pobre", "pero la gente es muy amable.", "It is a poor neighborhood but the people are very kind.", "pobre", "rico", "caro", "útil"],
+    ["Este reloj es demasiado", "caro", "para mi presupuesto.", "This watch is too expensive for my budget.", "caro", "barato", "ligero", "corto"],
+    ["Compré estas manzanas muy", "baratas", "en el mercado.", "I bought these apples very cheap at the market.", "baratas", "caras", "sucias", "llenas"],
+    ["Este mapa es muy", "útil", "para no perderse en el bosque.", "This map is very useful to not get lost in the forest.", "útil", "inútil", "roto", "blando"],
+    ["Ese paraguas está roto y es", "inútil", "ahora mismo.", "That umbrella is broken and it is useless right now.", "inútil", "útil", "nuevo", "moderno"],
+    ["El vaso está", "lleno", "de zumo de naranja fresco.", "The glass is full of fresh orange juice.", "lleno", "vacío", "sucio", "roto"],
+    ["La botella de agua está", "vacía", ", tengo que comprar más.", "The water bottle is empty; I have to buy more.", "vacía", "llena", "limpia", "antigua"],
+    ["Mi móvil está", "roto", "y no puedo hacer llamadas.", "My mobile is broken and I cannot make calls.", "roto", "arreglado", "nuevo", "moderno"],
+    ["El coche ya está", "arreglado", "y funciona bien.", "The car is already fixed and it works well.", "arreglado", "roto", "sucio", "inútil"],
+    ["Tu camisa blanca está muy", "limpia", "y planchada.", "Your white shirt is very clean and ironed.", "limpia", "sucia", "oscura", "vieja"],
+    ["Tienes los zapatos muy", "sucios", "por el barro del camino.", "Your shoes are very dirty from the mud on the path.", "sucios", "limpios", "baratos", "útiles"],
+    ["Me gusta mucho el olor de un libro", "nuevo", ".", "I really like the smell of a new book.", "nuevo", "viejo", "duro", "triste"]
+  ],
+  "dictionary": "Largo - Long\nCorto - Short\nAncho - Wide / Loose\nEstrecho - Narrow\nPesado - Heavy\nLigero - Light\nModerno - Modern\nAntiguo - Old / Ancient\nBrillante - Bright\nOscuro - Dark\nDuro - Hard\nBlando - Soft\nRico - Rich\nPobre - Poor\nCaro - Expensive\nBarato - Cheap\nÚtil - Useful\nInútil - Useless\nLleno - Full\nVacío - Empty\nRoto - Broken\nArreglado - Fixed / Repaired\nLimpio - Clean\nSucio - Dirty\nNuevo - New"
+}

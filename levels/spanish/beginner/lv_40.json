@@ -1,0 +1,31 @@
+{
+  "title": "Sports and Hobbies 1",
+  "sentences": [
+    ["Mi deporte favorito es el", "fútbol", "y juego todos los domingos.", "My favorite sport is soccer and I play every Sunday.", "fútbol", "baloncesto", "tenis", "yoga"],
+    ["¿Quieres jugar al", "baloncesto", "en el parque esta tarde?", "Do you want to play basketball in the park this afternoon?", "baloncesto", "natación", "ciclismo", "ajedrez"],
+    ["Necesito una", "raqueta", "nueva para el partido de tenis.", "I need a new racket for the tennis match.", "raqueta", "pelota", "bicicleta", "medalla"],
+    ["La", "pelota", "se ha quedado en el tejado del vecino.", "The ball stayed (got stuck) on the neighbor's roof.", "pelota", "raqueta", "zapatilla", "mochila"],
+    ["Mi", "equipo", "siempre gana los partidos importantes.", "My team always wins the important matches.", "equipo", "entrenador", "estadio", "árbitro"],
+    ["Es muy difícil", "ganar", "contra ese jugador profesional.", "It is very difficult to win against that professional player.", "ganar", "perder", "entrenar", "correr"],
+    ["A nadie le gusta", "perder", "una final de campeonato.", "Nobody likes to lose a championship final.", "perder", "ganar", "jugar", "saltar"],
+    ["Mañana tenemos un", "partido", "contra el colegio vecino.", "Tomorrow we have a match against the neighboring school.", "partido", "recreo", "concierto", "viaje"],
+    ["Practico", "natación", "en la piscina municipal.", "I practice swimming at the municipal pool.", "natación", "ciclismo", "fútbol", "tenis"],
+    ["Prefiero nadar en la", "piscina", "porque el mar está frío.", "I prefer to swim in the pool because the sea is cold.", "piscina", "playa", "montaña", "pista"],
+    ["Me gusta", "correr", "por la mañana cuando hace fresco.", "I like to run in the morning when it's cool.", "correr", "nadar", "dormir", "comer"],
+    ["Ellos", "entrenan", "tres veces por semana en el gimnasio.", "They train three times a week at the gym.", "entrenan", "juegan", "ganan", "pierden"],
+    ["El", "ciclismo", "es un deporte muy popular en España.", "Cycling is a very popular sport in Spain.", "ciclismo", "voleibol", "béisbol", "boxeo"],
+    ["¿Sabes jugar al", "ajedrez", "o prefieres las cartas?", "Do you know how to play chess or do you prefer cards?", "ajedrez", "fútbol", "tenis", "golf"],
+    ["El", "estadio", "está lleno de gente animando al equipo.", "The stadium is full of people cheering for the team.", "estadio", "museo", "cine", "parque"],
+    ["Me compré una", "bicicleta", "de montaña muy ligera.", "I bought a very light mountain bike.", "bicicleta", "raqueta", "pelota", "mochila"],
+    ["Juan es el", "capitán", "del equipo de voleibol.", "Juan is the captain of the volleyball team.", "capitán", "entrenador", "árbitro", "jugador"],
+    ["Ganamos una", "medalla", "de plata en la competición.", "We won a silver medal in the competition.", "medalla", "copa", "pelota", "mochila"],
+    ["Nuestro", "entrenador", "es muy estricto pero muy bueno.", "Our coach is very strict but very good.", "entrenador", "capitán", "árbitro", "socio"],
+    ["Practico", "yoga", "para relajarme después del trabajo.", "I practice yoga to relax after work.", "yoga", "boxeo", "fútbol", "ciclismo"],
+    ["Los niños están jugando al", "voleibol", "en la arena.", "The children are playing volleyball in the sand.", "voleibol", "baloncesto", "ajedrez", "tenis"],
+    ["El", "senderismo", "es la mejor forma de ver la naturaleza.", "Hiking is the best way to see nature.", "senderismo", "natación", "boxeo", "fútbol"],
+    ["Necesito unas", "zapatillas", "de deporte nuevas.", "I need some new sneakers (sports shoes).", "zapatillas", "botas", "sandalias", "calcetines"],
+    ["El", "árbitro", "pitó el final del encuentro.", "The referee whistled the end of the match.", "árbitro", "entrenador", "capitán", "socio"],
+    ["Vamos al", "gimnasio", "para levantar pesas.", "We are going to the gym to lift weights.", "gimnasio", "estadio", "parque", "cine"]
+  ],
+  "dictionary": "El fútbol - Soccer\nEl baloncesto - Basketball\nEl tenis - Tennis\nLa raqueta - The racket\nLa pelota - The ball\nEl equipo - The team\nGanar - To win\nPerder - To lose\nEl partido - The match/game\nLa natación - Swimming\nLa piscina - The pool\nCorrer - To run\nEntrenar - To train\nEl ciclismo - Cycling\nEl ajedrez - Chess\nEl estadio - The stadium\nLa bicicleta - The bike\nEl capitán - The captain\nLa medalla - The medal\nEl entrenador - The coach\nEl yoga - Yoga\nEl voleibol - Volleyball\nEl senderismo - Hiking\nLas zapatillas - The sneakers\nEl gimnasio - The gym"
+}

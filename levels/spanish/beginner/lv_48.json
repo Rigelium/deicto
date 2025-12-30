@@ -1,0 +1,31 @@
+{
+  "title": "Shopping and Services 2",
+  "sentences": [
+    ["Tengo que pagar la", "cuenta", "del restaurante.", "I have to pay the restaurant bill.", "cuenta", "moneda", "bolsa", "talla"],
+    ["¿Me puedes dar la", "factura", "de mi compra?", "Can you give me the invoice for my purchase?", "factura", "mapa", "llave", "bolso"],
+    ["El", "cajero automático", "no funciona hoy.", "The ATM is not working today.", "cajero automático", "probador", "pasillo", "vendedor"],
+    ["Voy a la", "tintorería", "para limpiar mi abrigo.", "I'm going to the dry cleaner to clean my coat.", "tintorería", "panadería", "librería", "farmacia"],
+    ["¿Dónde está la", "ventanilla", "para comprar billetes?", "Where is the counter/window to buy tickets?", "ventanilla", "puerta", "caja", "mesa"],
+    ["El", "banco", "abre a las ocho y media.", "The bank opens at eight-thirty.", "banco", "museo", "cine", "parque"],
+    ["Tengo que renovar mi", "carné de conducir", ".", "I have to renew my driver's license.", "carné de conducir", "pasaporte", "billete", "ticket"],
+    ["¿Cuánto es el", "total", "de la compra?", "How much is the total of the purchase?", "total", "cambio", "precio", "descuento"],
+    ["La tienda está", "cerrada", "por vacaciones.", "The shop is closed for holidays.", "cerrada", "abierta", "rota", "sucia"],
+    ["Necesito una", "tarjeta de regalo", "para mi amigo.", "I need a gift card for my friend.", "tarjeta de regalo", "cartera", "bolsa", "moneda"],
+    ["El", "fontanero", "viene mañana para arreglar el grifo.", "The plumber is coming tomorrow to fix the tap.", "fontanero", "profesor", "médico", "piloto"],
+    ["He perdido mi", "recibo", "de la luz.", "I lost my electricity receipt/bill.", "recibo", "factura", "sobre", "mapa"],
+    ["¿Puedes", "pedir", "una pizza por teléfono?", "Can you order a pizza by phone?", "pedir", "dar", "vender", "pagar"],
+    ["No tengo suelto, solo tengo", "billetes", "grandes.", "I don't have change; I only have large bills.", "billetes", "monedas", "tarjetas", "bolsas"],
+    ["El servicio de", "atención al cliente", "es muy lento.", "Customer service is very slow.", "atención al cliente", "probador", "vendedor", "guía"],
+    ["Quiero abrir una", "cuenta de ahorros", ".", "I want to open a savings account.", "cuenta de ahorros", "tarjeta", "factura", "moneda"],
+    ["La peluquería está llena y necesito", "cita", ".", "The hair salon is full and I need an appointment.", "cita", "hora", "fecha", "precio"],
+    ["El paquete llegó a", "correos", "ayer.", "The package arrived at the post office yesterday.", "correos", "banco", "estadio", "puerto"],
+    ["¿Me das un", "presupuesto", "para la reforma?", "Can you give me a quote/budget for the renovation?", "presupuesto", "precio", "cambio", "total"],
+    ["El", "taller", "está arreglando mi coche.", "The garage/workshop is fixing my car.", "taller", "oficina", "escuela", "tienda"],
+    ["No puedo pagar en", "efectivo", "ahora mismo.", "I can't pay in cash right now.", "efectivo", "tarjeta", "billete", "moneda"],
+    ["El precio incluye el", "IVA", ".", "The price includes VAT.", "IVA", "descuento", "cambio", "total"],
+    ["¿Cuál es el", "código postal", "de tu dirección?", "What is the zip code of your address?", "código postal", "número", "nombre", "calle"],
+    ["La", "farmacia de guardia", "está en esta calle.", "The on-call pharmacy is on this street.", "farmacia de guardia", "comisaría", "ayuntamiento", "librería"],
+    ["Tengo una", "queja", "sobre este producto.", "I have a complaint about this product.", "queja", "idea", "sorpresa", "verdad"]
+  ],
+  "dictionary": "La cuenta - The bill (restaurant)\nLa factura - The invoice / bill (utility)\nEl cajero automático - The ATM\nLa tintorería - The dry cleaner\nLa ventanilla - The counter / service window\nEl banco - The bank\nEl carné de conducir - The driver's license\nEl total - The total\nCerrado/a - Closed\nLa tarjeta de regalo - The gift card\nEl fontanero - The plumber\nEl recibo - The receipt / bill\nPedir - To order / To ask for\nEl billete - The banknote / bill\nAtención al cliente - Customer service\nLa cuenta de ahorros - The savings account\nLa cita - The appointment\nCorreos - The post office\nEl presupuesto - The quote / budget\nEl taller - The workshop / garage\nEfectivo - Cash\nEl IVA - The VAT (tax)\nEl código postal - The zip code\nFarmacia de guardia - On-call pharmacy\nLa queja - The complaint"
+}

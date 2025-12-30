@@ -1,0 +1,31 @@
+{
+  "title": "Sports and Hobbies 2",
+  "sentences": [
+    ["Me encanta hacer", "surf", "cuando las olas son grandes.", "I love surfing when the waves are big.", "surf", "esquí", "boxeo", "tenis"],
+    ["En invierno siempre vamos a la montaña para", "esquiar", ".", "In winter we always go to the mountains to ski.", "esquiar", "nadar", "correr", "bailar"],
+    ["Mi hermano practica", "boxeo", "en el gimnasio del barrio.", "My brother practices boxing at the neighborhood gym.", "boxeo", "yoga", "ciclismo", "fútbol"],
+    ["El", "kárate", "es un arte marcial muy disciplinado.", "Karate is a very disciplined martial art.", "kárate", "surf", "baloncesto", "ajedrez"],
+    ["¡Qué buen gol! Acaba de", "marcar", "el primer tanto.", "What a good goal! He just scored the first point.", "marcar", "perder", "parar", "saltar"],
+    ["Tienes que", "saltar", "muy alto para encestar la pelota.", "You have to jump very high to basket the ball.", "saltar", "correr", "nadar", "andar"],
+    ["Hago", "ejercicio", "en casa siguiendo videos de internet.", "I do exercise at home following internet videos.", "ejercicio", "partido", "viaje", "examen"],
+    ["El", "patinaje", "sobre hielo es muy difícil pero elegante.", "Ice skating is very difficult but elegant.", "patinaje", "ciclismo", "natación", "surf"],
+    ["Mañana voy a", "montar a caballo", "con mi familia.", "Tomorrow I am going to go horseback riding with my family.", "montar a caballo", "correr", "nadar", "saltar"],
+    ["Me gusta la", "pesca", "porque es una actividad muy tranquila.", "I like fishing because it is a very quiet activity.", "pesca", "caza", "lucha", "carrera"],
+    ["¿Quieres ir a jugar al", "golf", "este fin de semana?", "Do you want to go play golf this weekend?", "golf", "boxeo", "kárate", "fútbol"],
+    ["La", "lucha", "libre es un deporte muy popular en México.", "Wrestling is a very popular sport in Mexico.", "lucha", "pesca", "yoga", "natación"],
+    ["Juan corre en una", "carrera", "de diez kilómetros mañana.", "Juan is running in a ten-kilometer race tomorrow.", "carrera", "pelota", "raqueta", "medalla"],
+    ["A veces hago", "submarinismo", "para ver los peces de colores.", "Sometimes I go scuba diving to see the colorful fish.", "submarinismo", "esquí", "ciclismo", "boxeo"],
+    ["El", "atletismo", "incluye muchas disciplinas diferentes.", "Athletics (Track and Field) includes many different disciplines.", "atletismo", "tenis", "ajedrez", "golf"],
+    ["Tengo que comprar un", "casco", "nuevo para ir en bici.", "I have to buy a new helmet to go on my bike.", "casco", "balón", "guante", "bate"],
+    ["Usa", "guantes", "de boxeo para no hacerte daño.", "Use boxing gloves so you don't hurt yourself.", "guantes", "calcetines", "zapatos", "gafas"],
+    ["El", "balonmano", "es un deporte de equipo muy rápido.", "Handball is a very fast team sport.", "balonmano", "fútbol", "tenis", "golf"],
+    ["Me gusta mucho la", "danza", "clásica.", "I really like classical dance.", "danza", "lucha", "pesca", "carrera"],
+    ["¿Sabes", "tocar", "la guitarra o el piano?", "Do you know how to play the guitar or the piano?", "tocar", "jugar", "hacer", "ver"],
+    ["Mi pasatiempo favorito es", "sacar fotos", "de paisajes.", "My favorite pastime is taking photos of landscapes.", "sacar fotos", "pintar", "leer", "cocinar"],
+    ["¿Quieres", "apostar", "algo para el partido de hoy?", "Do you want to bet something for today's match?", "apostar", "perder", "ganar", "marcar"],
+    ["Él es un", "aficionado", "al Real Madrid desde pequeño.", "He has been a fan (amateur/enthusiast) of Real Madrid since he was little.", "aficionado", "jugador", "árbitro", "entrenador"],
+    ["La", "pista", "de tenis está ocupada ahora mismo.", "The tennis court is occupied right now.", "pista", "piscina", "estadio", "meta"],
+    ["Por fin llegué a la", "meta", "después de mucho esfuerzo.", "I finally reached the finish line after much effort.", "meta", "pista", "pelota", "red"]
+  ],
+  "dictionary": "El surf - Surfing\nEsquiar - To ski\nEl boxeo - Boxing\nEl kárate - Karate\nMarcar - To score\nSaltar - To jump\nEl ejercicio - The exercise\nEl patinaje - Skating\nMontar a caballo - To ride a horse\nLa pesca - Fishing\nEl golf - Golf\nLa lucha - Wrestling / Fight\nLa carrera - The race\nEl submarinismo - Scuba diving\nEl atletismo - Athletics (Track and field)\nEl casco - The helmet\nLos guantes - The gloves\nEl balonmano - Handball\nLa danza - Dance\nTocar - To play (an instrument)\nSacar fotos - To take photos\nApostar - To bet\nAficionado/a - Fan / Amateur\nLa pista - The court / track\nLa meta - The finish line / goal"
+}
