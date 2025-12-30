@@ -1,9 +1,0 @@
-{
-  "title": "Testing 3",
-  "sentences": [
-    ["", "Hola", ", ¿cómo estás?", "Hello, how are you?", "Hola", "Adiós", "Gracias", "Perdón"],
-    ["Yo", "soy", "de España.", "I am from Spain.", "soy", "estoy", "tengo", "eres"],
-    ["", "Hasta luego", ", nos vemos.", "See you later, see you.", "Hasta luego", "Hola", "Gracias", "Perdón"]
-  ],
-  "dictionary": "Hola - Hello\nSer/Estar - To be\nTener - To have\nQuerer - To want\nIr - To go\nGustar - To like\nHablar - To speak\nGracias - Thank you\nMucho gusto - Nice to meet you\n¿Cómo? - How?"
-}
