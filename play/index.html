@@ -305,15 +305,15 @@
           `;
         }
 
-              let reviewMs = Number(retrieveVariable(`nextReview${localPath}`)) - Date.now();
-        let reviewString = reviewToString(reviewMs, starCount);
+          let reviewMs = Number(retrieveVariable(`nextReview${localPath}`)) - Date.now();
+          let reviewString = reviewToString(reviewMs, starCount);
           
           document.getElementById('main-box').innerHTML = `
           <div class='box1' style='flex-direction: column; align-items: center; gap: 10px;'>
-            <a>Level complete!</a>
+            <a style='font-weight: bold; font-size: 2rem;'>Level complete!</a>
             <div style'display: flex; gap: 5px;'>${starsHTML}</div>
-            <a>Next review in: ${reviewString}</a>
-            <div class='box1' onclick='window.location.href=("../levels/")'><a>Return to levels</a></div>
+            <a>${reviewString}</a>
+            <div class='box1' style='background: var(--boxgradient1)' onclick='window.location.href=("../levels/")'><a>Return to levels</a></div>
           </div>
           `;
             console.log('U have reached the end screen GGZ!!'); ////<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                           END SCREEN
