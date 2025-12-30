@@ -194,14 +194,18 @@
     const answer = [];
     const answerText = [];
     let answerGiven = 0;
-    for(let i = 0; i < 4; i++){
-      answer[i] = document.createElement('div');
-      answer[i].className = "answer";
-      
-      answerText[i] = document.createElement('a');
-      answerText[i].textContent = sentencesHu[reordered[currentSentence]][i+4];
+    let shuffled = [3, 2, 1, 0];
 
-      answer[i].addEventListener('click', () =>{
+      
+      
+    for(let i = 0; i < 4; i++){
+      answer[shuffled[i]] = document.createElement('div');
+      answer[shuffled[i]].className = "answer";
+      
+      answerText[shuffled[i]] = document.createElement('a');
+      answerText[shuffled[i]].textContent = sentencesHu[reordered[currentSentence]][shuffled[i]+4];
+
+      answer[shuffled[i]].addEventListener('click', () =>{
         if(answerGiven == 0){
         const rightAnswer = document.getElementById('hidden');
         rightAnswer.textContent = sentencesHu[reordered[currentSentence]][1].split('(')[0];
@@ -218,7 +222,7 @@
           
           
         showContinue(fullSentence);
-        if (answerText[i].textContent==sentencesHu[reordered[currentSentence]][1]){
+        if (answerText[shuffled[i]].textContent==sentencesHu[reordered[currentSentence]][1]){
           //CORRECT CHOICE
 
           if(currentSentence == sentencesHu.length-1) {
@@ -245,7 +249,7 @@
           }
 
           
-          answer[i].style.background = "var(--boxgradient1)";
+          answer[shuffled[i]].style.background = "var(--boxgradient1)";
           currentSentence++;
           if(currentSentence != sentencesHu.length){
             localStorage.setItem(`currentSentence${localPath}`, currentSentence)
@@ -259,14 +263,14 @@
 
           
           //localStorage.setItem(`reordered${localPath}-${i}`, i)
-          answer[i].style.background = "var(--boxgradient2)";
+          answer[shuffled[i]].style.background = "var(--boxgradient2)";
         }
         answerGiven = 1;
         }
       });
       
-      answerContainer.appendChild(answer[i]);
-      answer[i].appendChild(answerText[i]);
+      answerContainer.appendChild(answer[shuffled[i]]);
+      answer[shuffled[i]].appendChild(answerText[i]);
     }
     
     //GENERATE THE CONTINUE BUTTON
@@ -321,17 +325,17 @@
         if(currentSentence == sentencesHu.length) {
 
 
-        let starsHTML = '';
-        for (let i = 0; i < starCount; i++) {
-          starsHTML += `
-          <img style = 'height: 20px; width: auto;' src='../assets/starfilled.png'>\n
-          `;
-        }
-        for (let i = 0; i < 5-starCount; i++) {
-          starsHTML += `
-          <img style = 'height: 20px; width: auto;' src='../assets/starhollow.png'>\n
-          `;
-        }
+          let starsHTML = '';
+          for (let i = 0; i < starCount; i++) {
+            starsHTML += `
+            <img style = 'height: 20px; width: auto;' src='../assets/starfilled.png'>\n
+            `;
+          }
+          for (let i = 0; i < 5-starCount; i++) {
+            starsHTML += `
+            <img style = 'height: 20px; width: auto;' src='../assets/starhollow.png'>\n
+            `;
+          }
 
           let reviewMs = Number(retrieveVariable(`nextReview${localPath}`)) - Date.now();
           let reviewString = reviewToString(reviewMs, starCount);
