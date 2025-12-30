@@ -1,0 +1,21 @@
+{
+  "title": "Colors",
+  "sentences": [
+    ["El cielo está muy", "azul", "hoy porque hace sol.", "The sky is very blue today because it's sunny.", "azul", "rojo", "verde", "amarillo"],
+    ["¿Prefieres la manzana", "roja", "o la verde?", "Do you prefer the red apple or the green one?", "roja", "blanca", "negra", "gris"],
+    ["Mira esas nubes", "blancas", "en el cielo.", "Look at those white clouds in the sky.", "blancas", "moradas", "naranjas", "marrones"],
+    ["La noche está muy", "negra", "y no veo nada.", "The night is very black and I don't see anything.", "negra", "dorada", "plateada", "rosa"],
+    ["Los árboles son de color", "verde", "en primavera.", "The trees are green in spring.", "verde", "amarillo", "azul", "rojo"],
+    ["Mis zapatos nuevos son", "marrones", "y muy cómodos.", "My new shoes are brown and very comfortable.", "marrones", "grises", "negros", "blancos"],
+    ["El sol es grande y", "amarillo", ".", "The sun is big and yellow.", "amarillo", "naranja", "rojo", "azul"],
+    ["Me gustan mucho las rosas", "rosas", "del jardín de mi tía.", "I really like the pink roses from my aunt's garden.", "rosas", "moradas", "blancas", "rojas"],
+    ["Mi gato es", "gris", "y tiene los ojos grandes.", "My cat is gray and has big eyes.", "gris", "negro", "blanco", "marrón"],
+    ["El zumo de naranja es de color", "naranja", ".", "Orange juice is orange.", "naranja", "amarillo", "rojo", "verde"],
+    ["Compré unas uvas", "moradas", "muy dulces en el mercado.", "I bought some very sweet purple grapes at the market.", "moradas", "verdes", "negras", "rojas"],
+    ["Ella tiene un anillo", "dorado", "muy caro.", "She has a very expensive gold ring.", "dorado", "plateado", "gris", "blanco"],
+    ["El coche de mi padre es", "plateado", "y muy rápido.", "My father's car is silver and very fast.", "plateado", "dorado", "negro", "azul"],
+    ["El chocolate es", "marrón", "y sabe muy rico.", "Chocolate is brown and tastes very delicious.", "marrón", "negro", "blanco", "gris"],
+    ["Dibujé un corazón", "rojo", "en mi cuaderno para ti.", "I drew a red heart in my notebook for you.", "rojo", "rosa", "morado", "azul"]
+  ],
+  "dictionary": "El color - The color\nEl azul - Blue\nEl rojo - Red\nEl verde - Green\nEl blanco - White\nEl negro - Black\nEl amarillo - Yellow\nEl gris - Gray\nEl naranja - Orange\nEl marrón - Brown\nEl rosa - Pink\nEl morado - Purple\nEl dorado - Gold\nEl plateado - Silver"
+}

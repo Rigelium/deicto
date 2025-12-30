@@ -1,0 +1,31 @@
+{
+  "title": "Noun collection 1",
+  "sentences": [
+    ["Necesito comprar una", "maleta", "nueva para mi viaje.", "I need to buy a new suitcase for my trip.", "maleta", "mochila", "bolsa", "cartera"],
+    ["¿Dónde dejaste las", "llaves", "del coche?", "Where did you leave the car keys?", "llaves", "puertas", "ventanas", "luces"],
+    ["Pongo mi", "teléfono", "encima de la mesa.", "I put my phone on top of the table.", "teléfono", "reloj", "cuaderno", "espejo"],
+    ["El", "puente", "cruza el río hacia el otro lado.", "The bridge crosses the river to the other side.", "puente", "camino", "parque", "bosque"],
+    ["¿Tienes un", "bolígrafo", "para escribir una nota?", "Do you have a pen to write a note?", "bolígrafo", "lápiz", "papel", "libro"],
+    ["Mañana voy a la", "biblioteca", "a estudiar un poco.", "Tomorrow I'm going to the library to study a bit.", "biblioteca", "escuela", "tienda", "oficina"],
+    ["Me gusta mirar el", "paisaje", "desde la ventana del tren.", "I like looking at the landscape from the train window.", "paisaje", "cielo", "suelo", "mar"],
+    ["La", "esquina", "de esta calle es muy peligrosa.", "The corner of this street is very dangerous.", "esquina", "acera", "carretera", "plaza"],
+    ["¿Puedes cerrar la", "puerta", "por favor?", "Can you close the door please?", "puerta", "ventana", "caja", "maleta"],
+    ["Hay mucha", "gente", "en el concierto de hoy.", "There are many people at today's concert.", "gente", "familia", "amigos", "niños"],
+    ["El", "reloj", "marca las tres de la tarde.", "The clock marks three in the afternoon.", "reloj", "calendario", "teléfono", "mapa"],
+    ["Mi", "cartera", "está vacía, no tengo dinero.", "My wallet is empty, I don't have money.", "cartera", "mochila", "bolsa", "maleta"],
+    ["¿Quieres un", "vaso", "de agua fría?", "Do you want a glass of cold water?", "vaso", "plato", "tenedor", "cuchillo"],
+    ["La", "luz", "de la habitación es muy brillante.", "The light in the room is very bright.", "luz", "sombra", "pared", "techo"],
+    ["Busco mi", "paraguas", "porque está lloviendo.", "I'm looking for my umbrella because it's raining.", "paraguas", "abrigo", "sombrero", "gafas"],
+    ["El", "suelo", "está mojado, ten cuidado.", "The floor is wet, be careful.", "suelo", "techo", "pared", "muro"],
+    ["¿Qué hay dentro de esa", "caja", "de cartón?", "What is inside that cardboard box?", "caja", "bolsa", "maleta", "cartera"],
+    ["El", "espejo", "del baño está sucio.", "The bathroom mirror is dirty.", "espejo", "cuadro", "reloj", "vidrio"],
+    ["Tengo un", "mapa", "para encontrar el camino.", "I have a map to find the way.", "mapa", "libro", "cuaderno", "periódico"],
+    ["La", "pared", "de mi cuarto es de color azul.", "The wall of my room is blue.", "pared", "puerta", "ventana", "techo"],
+    ["¿Me prestas tu", "cuaderno", "para copiar la tarea?", "Can you lend me your notebook to copy the homework?", "cuaderno", "libro", "papel", "bolígrafo"],
+    ["Hay un", "árbol", "muy grande delante de mi casa.", "There is a very big tree in front of my house.", "árbol", "flor", "jardín", "bosque"],
+    ["La", "ventana", "está abierta y entra aire fresco.", "The window is open and fresh air is coming in.", "ventana", "puerta", "pared", "esquina"],
+    ["Compré una", "revista", "en el quiosco de la plaza.", "I bought a magazine at the kiosk in the square.", "revista", "periódico", "libro", "mapa"],
+    ["El", "camino", "al pueblo es muy largo.", "The path to the village is very long.", "camino", "puente", "calle", "río"]
+  ],
+  "dictionary": "La maleta - The suitcase\nLa llave - The key\nEl bolígrafo - The pen\nLa esquina - The corner\nLa cartera - The wallet\nEl vaso - The glass\nEl paraguas - The umbrella\nEl suelo - The floor\nLa caja - The box\nEl espejo - The mirror"
+}

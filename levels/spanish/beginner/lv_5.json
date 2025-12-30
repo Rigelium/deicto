@@ -1,0 +1,31 @@
+{
+  "title": "Verb collection 1",
+  "sentences": [
+    ["¿A qué hora", "empieza", "la película en el cine?", "What time does the movie start at the cinema?", "empieza", "termina", "abre", "cierra"],
+    ["Mañana", "compro", "un regalo para el cumpleaños de mi madre.", "Tomorrow I'm buying a gift for my mother's birthday.", "compro", "vendo", "traigo", "llevo"],
+    ["¿Puedes", "abrir", "la ventana? Hace mucho calor.", "Can you open the window? It's very hot.", "abrir", "cerrar", "mirar", "tocar"],
+    ["Siempre", "desayuno", "café con leche y pan.", "I always have coffee with milk and bread for breakfast.", "desayuno", "almuerzo", "cenó", "bebo"],
+    ["Mis amigos", "viven", "en un apartamento cerca de la playa.", "My friends live in an apartment near the beach.", "viven", "están", "vienen", "van"],
+    ["¿Qué", "haces", "en tu tiempo libre?", "What do you do in your free time?", "haces", "dices", "sabes", "quieres"],
+    ["Ella", "aprende", "español porque quiere viajar a Madrid.", "She is learning Spanish because she wants to travel to Madrid.", "aprende", "enseña", "escribe", "lee"],
+    ["No", "encuentro", "mi pasaporte por ninguna parte.", "I can't find my passport anywhere.", "encuentro", "busco", "pierdo", "miro"],
+    ["¿Quieres", "cenar", "conmigo en ese restaurante nuevo?", "Do you want to have dinner with me at that new restaurant?", "cenar", "comer", "beber", "cocinar"],
+    ["Él", "conduce", "muy despacio cuando hay mucha lluvia.", "He drives very slowly when there is a lot of rain.", "conduce", "camina", "corre", "vuela"],
+    ["¿Me", "ayudas", "con estas maletas tan pesadas?", "Can you help me with these very heavy suitcases?", "ayudas", "llamas", "miras", "traes"],
+    ["Nosotros", "esperamos", "el autobús en la parada.", "We wait for the bus at the stop.", "esperamos", "llegamos", "salimos", "subimos"],
+    ["¿Sabes", "cocinar", "paella valenciana?", "Do you know how to cook Valencian paella?", "cocinar", "comer", "vender", "preparar"],
+    ["Ellos", "escuchan", "música mientras estudian.", "They listen to music while they study.", "escuchan", "miran", "hablan", "tocan"],
+    ["¿A qué hora", "vuelves", "a casa hoy?", "What time are you coming back home today?", "vuelves", "sales", "vas", "vienes"],
+    ["Mi perro", "corre", "detrás de la pelota en el jardín.", "My dog runs after the ball in the garden.", "corre", "salta", "camina", "duerme"],
+    ["¿Puedes", "repetir", "la pregunta, por favor?", "Can you repeat the question, please?", "repetir", "decir", "hablar", "escribir"],
+    ["Hoy", "termino", "mi trabajo más temprano.", "Today I finish my work earlier.", "termino", "empiezo", "hago", "salgo"],
+    ["¿Dónde", "pones", "las llaves cuando llegas?", "Where do you put the keys when you arrive?", "pones", "traes", "llevas", "dejas"],
+    ["Ella", "mira", "las fotos de sus vacaciones.", "She looks at the photos of her vacation.", "mira", "ve", "escucha", "toca"],
+    ["¿Por qué", "llamas", "tan tarde por teléfono?", "Why are you calling so late on the phone?", "llamas", "dices", "hablas", "preguntas"],
+    ["Nosotros", "caminamos", "por el parque todas las mañanas.", "We walk through the park every morning.", "caminamos", "corremos", "saltamos", "viajamos"],
+    ["¿Qué", "bebes", "? ¿Agua o zumo?", "What are you drinking? Water or juice?", "bebes", "comes", "tomas", "quieres"],
+    ["Él", "escribe", "un mensaje de texto a su novia.", "He writes a text message to his girlfriend.", "escribe", "lee", "dice", "envía"],
+    ["¿Cuándo", "viajas", "a México?", "When are you traveling to Mexico?", "viajas", "vas", "vienes", "vuelves"]
+  ],
+  "dictionary": "Empieza - It starts\nCompra - He/she buys\nAbrir - To open\nCerrar - To close\nVivir - To live\nHacer - To do/make\nAprender - To learn\nEncontrar - To find\nCenar - To have dinner\nAyudar - To help"
+}

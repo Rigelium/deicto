@@ -1,0 +1,31 @@
+{
+  "title": "Professions 2",
+  "sentences": [
+    ["Mi hermana es", "científica", "y hace experimentos en el laboratorio.", "My sister is a scientist and does experiments in the laboratory.", "científica", "artista", "escritora", "jueza"],
+    ["¿Conoces al", "electricista", "que arregla las luces?", "Do you know the electrician who fixes the lights?", "electricista", "fontanero", "carpintero", "arquitecto"],
+    ["Esa", "modelo", "es muy alta y camina muy bien.", "That model is very tall and walks very well.", "modelo", "actriz", "cantante", "dependienta"],
+    ["El", "granjero", "vive en el campo con sus vacas.", "The farmer lives in the countryside with his cows.", "granjero", "jardinero", "bombero", "marinero"],
+    ["Su madre es", "jueza", "y trabaja en el tribunal.", "Her mother is a judge and works in the court.", "jueza", "policía", "secretaria", "dentista"],
+    ["Llamo al", "fontanero", "porque la cocina tiene mucha agua.", "I call the plumber because the kitchen has a lot of water.", "fontanero", "electricista", "mecánico", "albañil"],
+    ["¿Qué vende la", "vendedora", "en el centro comercial?", "What does the saleswoman sell in the shopping mall?", "vendedora", "enfermera", "periodista", "cocinera"],
+    ["El", "pintor", "usa muchos colores en sus cuadros.", "The painter uses many colors in his paintings.", "pintor", "fotógrafo", "músico", "actor"],
+    ["Ella estudia para ser", "bióloga", "y salvar el bosque.", "She is studying to be a biologist and save the forest.", "bióloga", "médica", "profesora", "veterinaria"],
+    ["Mi abuelo era", "carpintero", "y hacía mesas de madera.", "My grandfather was a carpenter and made wooden tables.", "carpintero", "albañil", "arquitecto", "ingeniero"],
+    ["¿Eres una", "empleada", "nueva en esta fábrica?", "Are you a new employee in this factory?", "empleada", "jefa", "turista", "estudiante"],
+    ["El", "taxista", "nos lleva rápido al aeropuerto.", "The taxi driver takes us quickly to the airport.", "taxista", "piloto", "conductor", "cartero"],
+    ["Escuchamos a una", "cantante", "con una voz increíble.", "We listen to a singer with an incredible voice.", "cantante", "música", "actriz", "periodista"],
+    ["El", "albañil", "está construyendo un edificio moderno.", "The bricklayer is building a modern building.", "albañil", "pintor", "mecánico", "fontanero"],
+    ["La", "azafata", "nos ayuda con las maletas en el avión.", "The flight attendant helps us with the bags on the plane.", "azafata", "piloto", "guía", "enfermera"],
+    ["Ese", "diseñador", "hace ropa muy original.", "That designer makes very original clothes.", "diseñador", "artista", "vendedor", "escritor"],
+    ["Voy a ver a la", "psicóloga", "todos los lunes.", "I go to see the psychologist every Monday.", "psicóloga", "dentista", "veterinaria", "médica"],
+    ["El", "bibliotecario", "me recomienda un libro de historia.", "The librarian recommends a history book to me.", "bibliotecario", "profesor", "estudiante", "escritor"],
+    ["Mi tía trabaja como", "traductora", "en una empresa de idiomas.", "My aunt works as a translator in a language company.", "traductora", "periodista", "secretaria", "escritora"],
+    ["¿Tu tío todavía es", "marinero", "en ese barco?", "Is your uncle still a sailor on that ship?", "marinero", "piloto", "soldado", "bombero"],
+    ["La", "guía", "nos cuenta la historia del museo.", "The guide tells us the history of the museum.", "guía", "jefa", "vendedora", "modelo"],
+    ["Mi hermano quiere ser", "soldado", "para servir al país.", "My brother wants to be a soldier to serve the country.", "soldado", "policía", "bombero", "marinero"],
+    ["El", "economista", "dice que la empresa gana dinero.", "The economist says the company is making money.", "economista", "abogado", "jefe", "empleado"],
+    ["La", "arqueóloga", "encontró objetos muy antiguos.", "The archaeologist found very ancient objects.", "arqueóloga", "científica", "artista", "fotógrafa"],
+    ["El", "limpiador", "termina su trabajo muy tarde.", "The cleaner finishes his work very late.", "limpiador", "jardinero", "cartero", "panadero"]
+  ],
+  "dictionary": "El científico / La científica - The scientist\nEl electricista / La electricista - The electrician\nEl granjero / La granjera - The farmer\nEl juez / La jueza - The judge\nEl fontanero / La fontanera - The plumber\nEl carpintero / La carpintera - The carpenter\nEl albañil - The bricklayer\nEl azafato / La azafata - The flight attendant\nEl guía / La guía - The guide\nEl traductor / La traductora - The translator"
+}
