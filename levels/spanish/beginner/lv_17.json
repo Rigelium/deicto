@@ -1,0 +1,31 @@
+{
+  "title": "Body parts and Health 1",
+  "sentences": [
+    ["Me duele mucho la", "cabeza", "después de trabajar tanto.", "My head hurts a lot after working so much.", "cabeza", "pierna", "mano", "oreja"],
+    ["Lávate las", "manos", "con jabón antes de comer.", "Wash your hands with soap before eating.", "manos", "pies", "orejas", "gafas"],
+    ["Él tiene los", "ojos", "azules como su abuelo.", "He has blue eyes like his grandfather.", "ojos", "dientes", "dedos", "brazos"],
+    ["Me rompí la", "pierna", "jugando al fútbol ayer.", "I broke my leg playing soccer yesterday.", "pierna", "espalda", "nariz", "boca"],
+    ["Abre la", "boca", ", quiero ver tus dientes.", "Open your mouth; I want to see your teeth.", "boca", "mano", "garganta", "cara"],
+    ["Siento que el", "corazón", "late muy rápido.", "I feel that my heart is beating very fast.", "corazón", "estómago", "cuello", "cuerpo"],
+    ["Me duele el", "estómago", "porque comí demasiado.", "My stomach hurts because I ate too much.", "estómago", "brazo", "pie", "pecho"],
+    ["¿Tienes algo para el", "dolor", "de espalda?", "Do you have something for back pain?", "dolor", "error", "calor", "olor"],
+    ["El niño tiene las", "orejas", "muy pequeñas.", "The boy has very small ears.", "orejas", "manos", "piernas", "caras"],
+    ["Uso los", "pies", "para caminar y correr por el parque.", "I use my feet to walk and run through the park.", "pies", "brazos", "ojos", "dedos"],
+    ["Ella se puso una crema en el", "brazo", "izquierdo.", "She put a cream on her left arm.", "brazo", "cuello", "estómago", "pie"],
+    ["Tienes los", "dientes", "muy blancos y sanos.", "You have very white and healthy teeth.", "dientes", "ojos", "dedos", "labios"],
+    ["Tienes mucha", "fiebre", ", debes ir al médico ahora.", "You have a high fever; you must go to the doctor now.", "fiebre", "sangre", "fuerza", "tos"],
+    ["Necesito una", "pastilla", "para que se me pase el dolor.", "I need a pill so that the pain goes away.", "pastilla", "comida", "bebida", "fruta"],
+    ["Me duele el", "cuello", "por dormir en una mala posición.", "My neck hurts from sleeping in a bad position.", "cuello", "brazo", "pecho", "estómago"],
+    ["¿Sabes dónde está la", "farmacia", "más cercana?", "Do you know where the nearest pharmacy is?", "farmacia", "escuela", "biblioteca", "oficina"],
+    ["Hoy me siento muy", "enfermo", "y no puedo ir a clase.", "Today I feel very sick and I cannot go to class.", "enfermo", "sano", "feliz", "cansado"],
+    ["Es importante estar", "sano", "para hacer mucho deporte.", "It is important to be healthy to do a lot of sports.", "sano", "enfermo", "débil", "triste"],
+    ["La", "sangre", "es de color rojo brillante.", "Blood is a bright red color.", "sangre", "piel", "leche", "agua"],
+    ["Tienes los", "dedos", "muy largos, ¿tocas el piano?", "You have very long fingers; do you play the piano?", "dedos", "pies", "brazos", "ojos"],
+    ["El", "médico", "me dijo que necesito descansar.", "The doctor told me that I need to rest.", "médico", "enfermero", "profesor", "jefe"],
+    ["Me duele la", "garganta", "cuando hablo mucho.", "My throat hurts when I talk a lot.", "garganta", "boca", "nariz", "oreja"],
+    ["Mi abuela tiene la", "espalda", "un poco encorvada.", "My grandmother has a slightly curved back.", "espalda", "pierna", "mano", "cabeza"],
+    ["Hacer ejercicio es muy bueno para el", "cuerpo", "humano.", "Doing exercise is very good for the human body.", "cuerpo", "corazón", "estómago", "cerebro"],
+    ["Tengo la", "nariz", "roja por el frío de la calle.", "My nose is red from the cold on the street.", "nariz", "boca", "oreja", "cara"]
+  ],
+  "dictionary": "La cabeza - The head\nLas manos - The hands\nLos ojos - The eyes\nLa pierna - The leg\nLa boca - The mouth\nEl corazón - The heart\nEl estómago - The stomach\nEl dolor - The pain/ache\nLas orejas - The ears\nLos pies - The feet\nEl brazo - The arm\nLos dientes - The teeth\nLa fiebre - The fever\nLa pastilla - The pill\nEl cuello - The neck\nLa farmacia - The pharmacy\nEnfermo/a - Sick\nSano/a - Healthy\nLa sangre - The blood\nLos dedos - The fingers\nEl médico / La médica - The doctor\nLa garganta - The throat\nLa espalda - The back\nEl cuerpo - The body\nLa naríz - The nose"
+}

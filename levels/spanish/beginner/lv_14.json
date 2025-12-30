@@ -1,0 +1,31 @@
+{
+  "title": "Noun collection 2",
+  "sentences": [
+    ["¿Dónde está la", "cuchara", "para la sopa?", "Where is the spoon for the soup?", "cuchara", "tenedor", "cuchillo", "plato"],
+    ["Me gusta leer en el", "sofá", "del salón.", "I like to read on the sofa in the living room.", "sofá", "silla", "cama", "suelo"],
+    ["No puedo ver bien sin mis", "gafas", ".", "I can't see well without my glasses.", "gafas", "llaves", "fotos", "monedas"],
+    ["Voy a la", "farmacia", "a comprar medicina.", "I'm going to the pharmacy to buy medicine.", "farmacia", "biblioteca", "tienda", "escuela"],
+    ["Este verano queremos ir a la", "playa", "en Valencia.", "This summer we want to go to the beach in Valencia.", "playa", "montaña", "bosque", "río"],
+    ["¿Me prestas tu", "peine", "un momento?", "Can you lend me your comb for a moment?", "peine", "espejo", "jabón", "toalla"],
+    ["Ten cuidado al bajar la", "escalera", ".", "Be careful when going down the stairs.", "escalera", "puerta", "ventana", "pared"],
+    ["La", "sartén", "está muy caliente, no la toques.", "The frying pan is very hot, don't touch it.", "sartén", "olla", "plato", "vaso"],
+    ["Apaga la", "televisión", "antes de dormir.", "Turn off the television before sleeping.", "televisión", "luz", "puerta", "radio"],
+    ["Pongo el ordenador sobre el", "escritorio", ".", "I put the computer on the desk.", "escritorio", "cajón", "estante", "suelo"],
+    ["Los niños juegan en el", "parque", "por la tarde.", "The children play in the park in the afternoon.", "parque", "cine", "banco", "museo"],
+    ["Desde aquí se ve la", "montaña", "con nieve.", "From here you can see the mountain with snow.", "montaña", "playa", "isla", "selva"],
+    ["Necesito una", "toalla", "limpia para la ducha.", "I need a clean towel for the shower.", "toalla", "sábana", "manta", "almohada"],
+    ["La", "cama", "es muy cómoda y grande.", "The bed is very comfortable and big.", "cama", "silla", "mesa", "alfombra"],
+    ["El pollo está en el", "horno", "cocinándose.", "The chicken is in the oven cooking.", "horno", "nevera", "microondas", "fregadero"],
+    ["La", "alfombra", "del pasillo es de color rojo.", "The hallway rug is red.", "alfombra", "cortina", "pared", "puerta"],
+    ["Busco un", "banco", "para sacar dinero.", "I'm looking for a bank to take out money.", "banco", "supermercado", "correos", "ayuntamiento"],
+    ["Lávate las manos con", "jabón", "antes de comer.", "Wash your hands with soap before eating.", "jabón", "agua", "champú", "crema"],
+    ["El", "río", "pasa por el centro del pueblo.", "The river passes through the center of the village.", "río", "mar", "lago", "estanque"],
+    ["Encendemos la", "lámpara", "porque está muy oscuro.", "We turn on the lamp because it's very dark.", "lámpara", "vela", "linterna", "fuego"],
+    ["He roto un", "plato", "en la cocina sin querer.", "I accidentally broke a plate in the kitchen.", "plato", "vaso", "taza", "bol"],
+    ["Llevo las llaves dentro del", "bolso", ".", "I carry the keys inside the bag.", "bolso", "bolsillo", "mochila", "maleta"],
+    ["¿Quieres ir al", "cine", "esta noche?", "Do you want to go to the cinema tonight?", "cine", "teatro", "concierto", "museo"],
+    ["La", "almohada", "es demasiado blanda para mí.", "The pillow is too soft for me.", "almohada", "manta", "sábana", "cama"],
+    ["Uso el", "cepillo de dientes", "después de cada comida.", "I use the toothbrush after every meal.", "cepillo de dientes", "peine", "jabón", "champú"]
+  ],
+  "dictionary": "La cuchara - The spoon\nEl sofá - The sofa\nLas gafas - The glasses\nLa farmacia - The pharmacy\nLa playa - The beach\nEl peine - The comb\nLa escalera - The stairs\nLa sartén - The frying pan\nLa televisión - The television\nEl escritorio - The desk\nEl parque - The park\nLa montaña - The mountain\nLa toalla - The towel\nLa cama - The bed\nEl horno - The oven\nLa alfombra - The rug\nEl banco - The bank\nEl jabón - The soap\nEl río - The river\nLa lámpara - The lamp\nEl plato - The plate\nEl bolso - The bag\nEl cine - The cinema\nLa almohada - The pillow\nEl cepillo de dientes - The toothbrush"
+}

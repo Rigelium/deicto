@@ -1,0 +1,31 @@
+{
+  "title": "Noun collection 3",
+  "sentences": [
+    ["El", "ascensor", "no funciona y tengo que subir a pie.", "The elevator doesn't work and I have to go up on foot.", "ascensor", "puente", "semáforo", "techo"],
+    ["Abre las", "cortinas", "para que entre la luz.", "Open the curtains so the light comes in.", "cortinas", "paredes", "puertas", "ventanas"],
+    ["Llevo mis libros en la", "mochila", "porque pesan mucho.", "I carry my books in the backpack because they weigh a lot.", "mochila", "cartera", "maleta", "caja"],
+    ["No salgo de casa porque hay mucha", "lluvia", ".", "I don't leave the house because there is a lot of rain.", "lluvia", "nieve", "sol", "nube"],
+    ["Hoy el", "sol", "está muy fuerte, ponte crema.", "Today the sun is very strong; put on cream.", "sol", "luna", "viento", "cielo"],
+    ["La", "luna", "está llena y brilla mucho esta noche.", "The moon is full and shines a lot tonight.", "luna", "estrella", "nube", "tierra"],
+    ["Hay miles de", "estrellas", "en el cielo oscuro.", "There are thousands of stars in the dark sky.", "estrellas", "lunas", "nubes", "aves"],
+    ["Mi apartamento tiene un", "balcón", "con vistas al parque.", "My apartment has a balcony with views of the park.", "balcón", "sótano", "garaje", "techo"],
+    ["Necesito unas", "tijeras", "para cortar este papel.", "I need some scissors to cut this paper.", "tijeras", "llaves", "gafas", "monedas"],
+    ["¿Tienes una", "moneda", "de un euro para la máquina?", "Do you have a one-euro coin for the machine?", "moneda", "cartera", "bolsa", "tarjeta"],
+    ["Pongo la fruta en una", "bolsa", "de plástico.", "I put the fruit in a plastic bag.", "bolsa", "caja", "mochila", "maleta"],
+    ["La profesora escribe la tarea en la", "pizarra", ".", "The teacher writes the homework on the blackboard.", "pizarra", "mesa", "silla", "pared"],
+    ["El", "techo", "de esta habitación es muy alto.", "The ceiling of this room is very high.", "techo", "suelo", "muro", "pasillo"],
+    ["Caminamos por el", "bosque", "entre los árboles.", "We walk through the forest among the trees.", "bosque", "playa", "río", "puente"],
+    ["Me gusta mucho vivir en este", "barrio", "porque es tranquilo.", "I really like living in this neighborhood because it's quiet.", "barrio", "pueblo", "campo", "centro"],
+    ["He comprado un", "regalo", "especial para tu hermano.", "I bought a special gift for your brother.", "regalo", "precio", "descuento", "error"],
+    ["Ayer escuché una", "noticia", "muy buena en la radio.", "Yesterday I heard very good news on the radio.", "noticia", "revista", "novela", "historia"],
+    ["Encendemos el", "fuego", "porque hace frío en la cabaña.", "We light the fire because it's cold in the cabin.", "fuego", "humo", "agua", "viento"],
+    ["Hace mucho", "viento", "y se vuelan las hojas.", "There is a lot of wind and the leaves are flying away.", "viento", "sol", "calor", "frío"],
+    ["Mira esa", "nube", "negra, creo que va a llover.", "Look at that black cloud; I think it's going to rain.", "nube", "estrella", "luna", "sol"],
+    ["¡Mucha", "suerte", "en tu examen de mañana!", "Good luck on your exam tomorrow!", "suerte", "verdad", "tiempo", "manera"],
+    ["Pon los libros en la", "estantería", "del salón.", "Put the books on the shelf in the living room.", "estantería", "escritorio", "cajón", "mesa"],
+    ["No puedo dormir por el", "ruido", "de la calle.", "I can't sleep because of the noise from the street.", "ruido", "sonido", "viento", "silencio"],
+    ["Buscamos la", "sombra", "de un árbol porque hace calor.", "We look for the shade of a tree because it's hot.", "sombra", "luz", "nube", "pared"],
+    ["La", "arena", "de la playa está muy caliente hoy.", "The sand on the beach is very hot today.", "arena", "agua", "piedra", "tierra"]
+  ],
+  "dictionary": "El ascensor - The elevator\nLa cortina - The curtain\nLa mochila - The backpack\nLa lluvia - The rain\nEl sol - The sun\nLa luna - The moon\nLa estrella - The star\nEl balcón - The balcony\nLas tijeras - The scissors\nLa moneda - The coin\nLa bolsa - The bag\nLa pizarra - The blackboard\nEl techo - The ceiling\nEl bosque - The forest\nEl barrio - The neighborhood\nEl regalo - The gift\nLa noticia - The news\nEl fuego - The fire\nEl viento - The wind\nLa nube - The cloud\nLa suerte - The luck\nLa estantería - The shelf\nEl ruido - The noise\nLa sombra - The shade\nLa arena - The sand"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Transportation 1",
+  "sentences": [
+    ["", "Viajo", "en tren porque es más rápido que el coche.", "I travel by train because it's faster than the car.", "Viajo", "Camino", "Corro", "Nado"],
+    ["El", "autobús", "llega tarde hoy por el tráfico.", "The bus arrives late today because of the traffic.", "autobús", "avión", "barco", "metro"],
+    ["¿Dónde puedo comprar un", "billete", "para ir a Madrid?", "Where can I buy a ticket to go to Madrid?", "billete", "coche", "pasaporte", "mapa"],
+    ["Me gusta ir al trabajo en", "bicicleta", "cuando hace buen tiempo.", "I like to go to work by bicycle when the weather is good.", "bicicleta", "avión", "taxi", "tren"],
+    ["¿A qué hora sale tu", "avión", "mañana?", "What time does your plane leave tomorrow?", "avión", "barco", "metro", "moto"],
+    ["Esperamos al metro en la", "estación", "central.", "We wait for the subway at the central station.", "estación", "parada", "puerto", "aeropuerto"],
+    ["Tengo que llamar a un", "taxi", "para ir al aeropuerto.", "I have to call a taxi to go to the airport.", "taxi", "conductor", "piloto", "mecánico"],
+    ["El", "barco", "cruza el mar hacia la isla.", "The ship crosses the sea toward the island.", "barco", "coche", "avión", "tren"],
+    ["¿Prefieres viajar en", "coche", "o en transporte público?", "Do you prefer to travel by car or by public transport?", "coche", "pie", "caballo", "avión"],
+    ["Voy a la", "parada", "a esperar el autobús número diez.", "I go to the stop to wait for bus number ten.", "parada", "estación", "oficina", "tienda"],
+    ["Mi tío tiene una", "moto", "muy ruidosa.", "My uncle has a very noisy motorcycle.", "moto", "bici", "furgoneta", "camión"],
+    ["Hay muchos", "pasajeros", "en la sala de espera.", "There are many passengers in the waiting room.", "pasajeros", "conductores", "pilotos", "turistas"],
+    ["Tengo que", "conducir", "muchas horas para llegar al pueblo.", "I have to drive many hours to get to the village.", "conducir", "volar", "viajar", "caminar"],
+    ["¿Dónde está el", "aeropuerto", "internacional?", "Where is the international airport?", "aeropuerto", "puerto", "museo", "hospital"],
+    ["El", "metro", "de esta ciudad es muy moderno y limpio.", "The subway in this city is very modern and clean.", "metro", "tranvía", "tren", "autobús"],
+    ["Puse mis maletas en el", "maletero", "del coche.", "I put my suitcases in the trunk of the car.", "maletero", "techo", "asiento", "suelo"],
+    ["¿Quieres", "viajar", "por Europa este verano?", "Do you want to travel through Europe this summer?", "viajar", "trabajar", "estudiar", "vivir"],
+    ["Tenemos que", "subir", "al tren ahora mismo.", "We have to get on the train right now.", "subir", "bajar", "salir", "venir"],
+    ["¿En qué parada tenemos que", "bajar", "?", "At which stop do we have to get off?", "bajar", "subir", "entrar", "parar"],
+    ["El", "puerto", "está lleno de barcos pequeños.", "The port is full of small boats.", "puerto", "aeropuerto", "parque", "río"],
+    ["No olvides tu", "pasaporte", "antes de salir de casa.", "Don't forget your passport before leaving home.", "pasaporte", "billete", "cartera", "maleta"],
+    ["Este", "viaje", "va a ser muy divertido.", "This trip is going to be very fun.", "viaje", "vuelo", "camino", "paseo"],
+    ["El", "semáforo", "está en rojo, tienes que parar.", "The traffic light is red, you have to stop.", "semáforo", "cruce", "puente", "suelo"],
+    ["¿Llevas mucha", "gasolina", "en el depósito?", "Are you carrying a lot of gasoline in the tank?", "gasolina", "agua", "aceite", "comida"],
+    ["La", "carretera", "está vacía esta noche.", "The road is empty tonight.", "carretera", "calle", "acera", "esquina"]
+  ],
+  "dictionary": "Viajar - To travel\nEl autobús - The bus\nEl billete - The ticket\nLa bicicleta - The bicycle\nEl avión - The plane\nLa estación - The station\nEl taxi - The taxi\nEl barco - The ship\nEl coche - The car\nLa parada - The stop\nLa moto - The motorcycle\nEl pasajero / La pasajera - The passenger\nConducir - To drive\nEl aeropuerto - The airport\nEl metro - The subway\nEl maletero - The trunk\nSubir - To get on / go up\nBajar - To get off / go down\nEl puerto - The port\nEl pasaporte - The passport\nEl viaje - The trip\nEl semáforo - The traffic light\nLa gasolina - The gasoline\nLa carretera - The road"
+}

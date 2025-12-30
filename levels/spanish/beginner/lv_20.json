@@ -1,0 +1,31 @@
+{
+  "title": "Animals and Pets",
+  "sentences": [
+    ["Mi", "perro", "ladra cuando alguien llama a la puerta.", "My dog barks when someone knocks at the door.", "perro", "gato", "pájaro", "conejo"],
+    ["El", "gato", "duerme todo el día encima del sofá.", "The cat sleeps all day on top of the sofa.", "gato", "perro", "ratón", "pez"],
+    ["Tengo un", "pájaro", "que canta muy bien por las mañanas.", "I have a bird that sings very well in the mornings.", "pájaro", "mono", "león", "elefante"],
+    ["El", "caballo", "corre muy rápido por el campo.", "The horse runs very fast through the field.", "caballo", "cerdo", "pato", "lobo"],
+    ["La", "vaca", "nos da leche fresca cada día.", "The cow gives us fresh milk every day.", "vaca", "oveja", "gallina", "jirafa"],
+    ["Las", "ovejas", "tienen mucha lana blanca y suave.", "The sheep have a lot of white and soft wool.", "ovejas", "vacas", "tigres", "arañas"],
+    ["¿Tienes un", "conejo", "en casa o prefieres un hámster?", "Do you have a rabbit at home or do you prefer a hamster?", "conejo", "caballo", "lobo", "león"],
+    ["El", "pez", "nada en la pecera del salón.", "The fish swims in the fish tank in the living room.", "pez", "pájaro", "gato", "mono"],
+    ["La", "tortuga", "camina muy lento por el jardín.", "The turtle walks very slowly through the garden.", "tortuga", "mariposa", "abeja", "serpiente"],
+    ["El", "león", "es el rey de la selva.", "The lion is the king of the jungle.", "león", "tigre", "elefante", "mono"],
+    ["El", "elefante", "tiene una nariz muy larga llamada trompa.", "The elephant has a very long nose called a trunk.", "elefante", "jirafa", "caballo", "perro"],
+    ["Hay una", "araña", "grande en el rincón del techo.", "There is a large spider in the corner of the ceiling.", "araña", "mariposa", "abeja", "hormiga"],
+    ["La", "abeja", "vuela de flor en flor para hacer miel.", "The bee flies from flower to flower to make honey.", "abeja", "araña", "mosca", "serpiente"],
+    ["No me gustan las", "serpientes", "porque me dan miedo.", "I don't like snakes because they scare me.", "serpientes", "mariposas", "tortugas", "gallinas"],
+    ["El", "mono", "salta de árbol en árbol en la selva.", "The monkey jumps from tree to tree in the jungle.", "mono", "león", "elefante", "gato"],
+    ["La", "gallina", "pone un huevo todas las mañanas.", "The hen lays an egg every morning.", "gallina", "pato", "pájaro", "vaca"],
+    ["El", "cerdo", "vive en la granja y es muy inteligente.", "The pig lives on the farm and is very intelligent.", "cerdo", "caballo", "lobo", "tigre"],
+    ["El", "tigre", "tiene rayas negras en su cuerpo naranja.", "The tiger has black stripes on its orange body.", "tigre", "león", "gato", "perro"],
+    ["¿Has visto una", "jirafa", "en el zoo? Es muy alta.", "Have you seen a giraffe at the zoo? It's very tall.", "jirafa", "elefante", "vaca", "oveja"],
+    ["El", "ratón", "come un trozo de queso en la cocina.", "The mouse eats a piece of cheese in the kitchen.", "ratón", "gato", "perro", "pájaro"],
+    ["El", "pato", "nada tranquilamente en el lago del parque.", "The duck swims calmly in the park's lake.", "pato", "pollo", "pájaro", "caballo"],
+    ["El", "lobo", "vive en el bosque y aúlla a la luna.", "The wolf lives in the forest and howls at the moon.", "lobo", "perro", "gato", "tigre"],
+    ["Mi perro tiene la", "cola", "muy corta y movida.", "My dog has a very short and wiggly tail.", "cola", "oreja", "pata", "boca"],
+    ["Los", "delfines", "son animales marinos muy inteligentes.", "Dolphins are very intelligent marine animals.", "delfines", "peces", "tiburones", "ballenas"],
+    ["La", "mariposa", "tiene alas de muchos colores.", "The butterfly has wings of many colors.", "mariposa", "abeja", "araña", "mosca"]
+  ],
+  "dictionary": "El perro - The dog\nEl gato - The cat\nEl pájaro - The bird\nEl caballo - The horse\nLa vaca - The cow\nLa oveja - The sheep\nEl conejo - The rabbit\nEl pez - The fish\nLa tortuga - The turtle\nEl león - The lion\nEl elefante - The elephant\nLa araña - The spider\nLa abeja - The bee\nLa serpiente - The snake\nEl mono - The monkey\nLa gallina - The hen\nEl cerdo - The pig\nEl tigre - The tiger\nLa jirafa - The giraffe\nEl ratón - The mouse\nEl pato - The duck\nEl lobo - The wolf\nLa cola - The tail\nEl delfín - The dolphin\nLa mariposa - The butterfly"
+}

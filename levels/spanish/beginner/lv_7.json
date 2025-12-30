@@ -1,0 +1,31 @@
+{
+  "title": "Numbers",
+  "sentences": [
+    ["Tengo", "quince", "años y estudio en el instituto.", "I am fifteen years old and I study at high school.", "quince", "cinco", "cincuenta", "cero"],
+    ["Este libro cuesta", "veinte", "euros en la tienda.", "This book costs twenty euros in the shop.", "veinte", "doce", "dos", "doscientos"],
+    ["¿Me das", "tres", "manzanas rojas, por favor?", "Can you give me three red apples, please?", "tres", "trece", "treinta", "trescientos"],
+    ["En mi clase somos", "treinta", "estudiantes.", "In my class there are thirty students.", "treinta", "tres", "trece", "trescientos"],
+    ["Vivo en el número", "siete", "de esta calle.", "I live at number seven on this street.", "siete", "seis", "setenta", "diecisiete"],
+    ["Son las", "ocho", "de la mañana y tengo sueño.", "It is eight in the morning and I am sleepy.", "ocho", "ochenta", "dieciocho", "once"],
+    ["Hay", "cien", "personas esperando en la plaza.", "There are a hundred people waiting in the square.", "cien", "cincuenta", "cinco", "mil"],
+    ["Mi número de teléfono tiene muchos", "ceros", ".", "My phone number has many zeros.", "ceros", "unos", "doses", "nueves"],
+    ["Necesito", "diez", "minutos para terminar mi tarea.", "I need ten minutes to finish my homework.", "diez", "diecisiete", "diecinueve", "dos"],
+    ["El billete de avión cuesta", "quinientos", "dólares.", "The plane ticket costs five hundred dollars.", "quinientos", "quince", "cincuenta", "quince mil"],
+    ["Hoy es el", "cuarto", "día de mis vacaciones.", "Today is the fourth day of my vacation.", "cuarto", "cuatro", "cuarenta", "catorce"],
+    ["Tengo", "dos", "hermanos mayores que yo.", "I have two brothers older than me.", "dos", "doce", "doscientos", "veinte"],
+    ["¿Puedes traerme", "seis", "vasos para la cena?", "Can you bring me six glasses for dinner?", "seis", "sesenta", "dieciséis", "setenta"],
+    ["Faltan", "cincuenta", "páginas para terminar el libro.", "There are fifty pages left to finish the book.", "cincuenta", "cinco", "quince", "quinientos"],
+    ["Mi abuela cumple", "ochenta", "años este domingo.", "My grandmother turns eighty years old this Sunday.", "ochenta", "ocho", "dieciocho", "ochocientos"],
+    ["Hay", "doce", "meses en un año.", "There are twelve months in a year.", "doce", "dos", "veinte", "doscientos"],
+    ["Compré una docena de huevos, son", "doce", "unidades.", "I bought a dozen eggs, they are twelve units.", "doce", "diez", "once", "trece"],
+    ["¿Tienes", "cincuenta", "céntimos para el café?", "Do you have fifty cents for coffee?", "cincuenta", "cinco", "quince", "quinientos"],
+    ["El tren sale en", "cuarenta", "minutos.", "The train leaves in forty minutes.", "cuarenta", "cuatro", "catorce", "cuatrocientos"],
+    ["Somos", "cuatro", "personas en mi familia.", "We are four people in my family.", "cuatro", "cuarenta", "catorce", "cuarto"],
+    ["¿Cuánto es", "nueve", "más uno?", "How much is nine plus one?", "nueve", "diez", "ocho", "siete"],
+    ["Este edificio tiene", "veintiuno", "pisos.", "This building has twenty-one floors.", "veintiuno", "uno", "once", "treinta"],
+    ["Hay", "mil", "gramos en un kilo.", "There are a thousand grams in a kilo.", "mil", "cien", "diez", "un millón"],
+    ["Mi casa está a", "trescientos", "metros de aquí.", "My house is three hundred meters from here.", "trescientos", "treinta", "trece", "tres"],
+    ["¿Puedes contar hasta", "cien", "en español?", "Can you count to a hundred in Spanish?", "cien", "diez", "uno", "mil"]
+  ],
+  "dictionary": "Cero - Zero\nDos - Two\nTres - Three\nCuatro - Four\nCuarto - Fourth\nSeis - Six\nSiete - Seven\nOcho - Eight\nNueve - Nine\nDiez - Ten\nDoce - Twelve\nQuince - Fifteen\nVeinte - Twenty\nVeintiuno - Twenty-one\nTreinta - Thirty\nCuarenta - Forty\nCincuenta - Fifty\nOchenta - Eighty\nCien - One hundred\nTrescientos - Three hundred\nQuinientos - Five hundred\nMil - One thousand"
+}

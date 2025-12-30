@@ -1,0 +1,31 @@
+{
+  "title": "Transportation 2",
+  "sentences": [
+    ["¿A qué hora", "vuela", "el avión hacia Londres?", "What time does the plane fly toward London?", "vuela", "conduce", "camina", "corre"],
+    ["El", "camión", "lleva mucha carga por la carretera.", "The truck carries a lot of cargo on the road.", "camión", "coche", "autobús", "taxi"],
+    ["Necesito", "aparcar", "el coche en un lugar seguro.", "I need to park the car in a safe place.", "aparcar", "conducir", "parar", "bajar"],
+    ["Ponte el", "cinturón de seguridad", "antes de salir.", "Put on the seatbelt before leaving.", "cinturón de seguridad", "casco", "bolso", "abrigo"],
+    ["¿Dónde está la", "gasolinera", "más cercana?", "Where is the nearest gas station?", "gasolinera", "estación", "parada", "oficina"],
+    ["Tienes que", "girar", "en la próxima esquina.", "You have to turn at the next corner.", "girar", "cruzar", "parar", "esperar"],
+    ["El", "tranvía", "pasa por el centro de la ciudad.", "The tram passes through the city center.", "tranvía", "metro", "tren", "avión"],
+    ["Cuidado, el", "paso de cebra", "está un poco lejos.", "Watch out, the crosswalk is a bit far away.", "paso de cebra", "puente", "carril", "semáforo"],
+    ["Mi bicicleta tiene una", "rueda", "pinchada.", "My bicycle has a flat tire (wheel).", "rueda", "puerta", "ventana", "luz"],
+    ["Lo siento, el tren tiene un", "retraso", "de veinte minutos.", "I'm sorry, the train has a twenty-minute delay.", "retraso", "viaje", "asiento", "camino"],
+    ["¿Cuál es mi número de", "asiento", "en el autobús?", "What is my seat number on the bus?", "asiento", "billete", "coche", "puerta"],
+    ["No puedes conducir por ese", "carril", ", es para bus.", "You can't drive in that lane; it's for buses.", "carril", "puente", "suelo", "camino"],
+    ["Tenemos que", "facturar", "las maletas antes del vuelo.", "We have to check in the bags before the flight.", "facturar", "comprar", "abrir", "vender"],
+    ["Si vas en moto, siempre usa el", "casco", ".", "If you go by motorcycle, always use the helmet.", "casco", "cinturón", "sombrero", "gafas"],
+    ["¡Corre! Vamos a", "perder", "el tren si no te das prisa.", "Run! We are going to miss (lose) the train if you don't hurry.", "perder", "ganar", "encontrar", "buscar"],
+    ["Sigue", "recto", "hasta el final de la calle.", "Keep going straight until the end of the street.", "recto", "izquierda", "derecha", "atrás"],
+    ["Camina por la", "acera", "para estar más seguro.", "Walk on the sidewalk to be safer.", "acera", "carretera", "calle", "puente"],
+    ["El", "motor", "del coche hace un ruido extraño.", "The car engine is making a strange noise.", "motor", "maletero", "asiento", "techo"],
+    ["¿Quieres", "cruzar", "el río por el puente viejo?", "Do you want to cross the river via the old bridge?", "cruzar", "mirar", "subir", "bajar"],
+    ["He dejado el coche en el", "parking", "del centro.", "I have left the car in the parking lot downtown.", "parking", "puerto", "aeropuerto", "parque"],
+    ["Mira el", "mapa", "para ver dónde estamos ahora.", "Look at the map to see where we are now.", "mapa", "libro", "teléfono", "reloj"],
+    ["¿Tienes hecha la", "reserva", "del hotel?", "Do you have the hotel reservation made?", "reserva", "maleta", "cuenta", "llave"],
+    ["Gira", "a la derecha", "después del semáforo.", "Turn to the right after the traffic light.", "a la derecha", "a la izquierda", "todo recto", "atrás"],
+    ["El museo está", "a la izquierda", "de la catedral.", "The museum is to the left of the cathedral.", "a la izquierda", "a la derecha", "recto", "lejos"],
+    ["La", "furgoneta", "es blanca y muy grande.", "The van is white and very large.", "furgoneta", "bici", "moto", "taxi"]
+  ],
+  "dictionary": "Volar - To fly\nEl camión - The truck\nAparcar - To park\nEl cinturón de seguridad - The seatbelt\nLa gasolinera - The gas station\nGirar - To turn\nEl tranvía - The tram\nEl paso de cebra - The crosswalk\nLa rueda - The wheel/tire\nEl retraso - The delay\nEl asiento - The seat\nEl carril - The lane\nFacturar - To check in (luggage)\nEl casco - The helmet\nPerder - To lose/miss\nRecto - Straight\nLa acera - The sidewalk\nEl motor - The engine\nCruzar - To cross\nEl parking - The parking lot\nEl mapa - The map\nLa reserva - The reservation\nA la derecha - To the right\nA la izquierda - To the left\nLa furgoneta - The van"
+}
