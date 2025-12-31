@@ -1,9 +1,19 @@
 {
-  "title": "Transportation",
+  "title": "Transportation 1",
   "sentences": [
-    ["", "你好 (nǐ hǎo)", "！", "Hello!", "谢谢 (xiè xiè)", "你好 (nǐ hǎo)", "再见 (zài jiàn)", "对不起 (duì bù qǐ)"],
-  
-    ["", "再见 (zài jiàn)", "，明天见。", "Goodbye, see you tomorrow.", "你好 (nǐ hǎo)", "晚安 (wǎn ān)", "早安 (zǎo ān)", "再见 (zài jiàn)"]
+    ["Umai", "pagejäs", ", nas et kitu!", "I was late for my train again!", "pagejäs", "näč", "kiatäs", "kialie"],
+    ["", "Navveska ykmantu", "an eit tevsede je vys šardetna em liotasta ju.", "Public transportation in our city is very affordable for the average person.", "Navveska ykmantu", "Vagu", "Kialnas", "Umai"],
+    ["¿", "Qué", "tal?", "How is it going?", "Qué", "Quién", "Cómo", "Dónde"],
+    ["Mucho", "gusto", "en conocerte.", "Nice to meet you.", "gusto", "tiempo", "suerte", "hambre"],
+    ["Yo", "tengo", "una pregunta.", "I have a question.", "tengo", "quiero", "voy", "soy"],
+    ["Él", "está", "en la casa.", "He is in the house.", "está", "es", "hay", "tiene"],
+    ["¿", "Hablas", "español?", "Do you speak Spanish?", "Hablas", "Comes", "Vives", "Escribes"],
+    ["Me", "gusta", "la música.", "I like the music.", "gusta", "encanta", "quiero", "falta"],
+    ["¿Dónde", "está", "el baño?", "Where is the bathroom?", "está", "es", "va", "tiene"],
+    ["Yo", "quiero", "un café.", "I want a coffee.", "quiero", "tengo", "puedo", "soy"],
+    ["", "Gracias", "por tu ayuda.", "Thank you for your help.", "Gracias", "Hola", "Por favor", "De nada"],
+
+    ["", "Hasta luego", ", nos vemos.", "See you later, see you.", "Hasta luego", "Hola", "Gracias", "Perdón"]
   ],
-  "dictionary": "你好 (nǐ hǎo) - Hello\n是 (shì) - to be (am/is/are)\n谢谢 (xiè xiè) - Thank you\n爱 (ài) - to love\n去 (qù) - to go\n叫 (jiào) - to be called\n有 (yǒu) - to have/there is\n认识 (rèn shí) - to know/recognize\n再见 (zài jiàn) - Goodbye\n不 (bù) - not (negation)"
+  "dictionary": "Pageje - To be late\nNavveska ykmantu - Public transportation"
 }
