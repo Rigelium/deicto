@@ -1,0 +1,31 @@
+{
+  "title": "Work and business 1",
+  "sentences": [
+    ["Mañana tengo una", "entrevista", "de trabajo en una empresa grande.", "Tomorrow I have a job interview at a large company.", "entrevista", "reunión", "pausa", "beca"],
+    ["Mi", "jefe", "es muy exigente pero aprendo mucho con él.", "My boss is very demanding, but I learn a lot from him.", "jefe", "compañero", "cliente", "alumno"],
+    ["Trabajo en una", "oficina", "en el centro de la ciudad.", "I work in an office in the city center.", "oficina", "fábrica", "tienda", "escuela"],
+    ["¿A qué se dedica tu", "empresa", "?", "What does your company do?", "empresa", "escuela", "familia", "oficina"],
+    ["He firmado un", "contrato", "por un año.", "I have signed a contract for one year.", "contrato", "título", "recibo", "mapa"],
+    ["Estoy muy contento con mi", "sueldo", "este mes.", "I am very happy with my salary this month.", "sueldo", "precio", "cambio", "dinero"],
+    ["Mi", "compañero", "de trabajo me ayuda con los informes.", "My coworker helps me with the reports.", "compañero", "jefe", "cliente", "vecino"],
+    ["Tengo que enviar este", "informe", "antes de las cinco.", "I have to send this report before five.", "informe", "mensaje", "correo", "libro"],
+    ["¿Cuál es tu", "horario", "de trabajo?", "What is your work schedule?", "horario", "precio", "nombre", "lugar"],
+    ["Hoy trabajo en el", "turno", "de tarde.", "Today I work the afternoon shift.", "turno", "momento", "lugar", "día"],
+    ["Llevo tres meses", "desempleado", "y busco trabajo.", "I have been unemployed for three months and I am looking for a job.", "desempleado", "trabajador", "cansado", "rico"],
+    ["La", "secretaria", "organiza todas las llamadas del director.", "The secretary organizes all the director's calls.", "secretaria", "jefa", "cliente", "guía"],
+    ["Somos diez", "empleados", "en este departamento.", "We are ten employees in this department.", "empleados", "jefes", "clientes", "socios"],
+    ["Quiero", "ganar", "más dinero para comprar un coche.", "I want to earn more money to buy a car.", "ganar", "perder", "gastar", "ahorrar"],
+    ["No debemos", "gastar", "todo el presupuesto en publicidad.", "We shouldn't spend the whole budget on advertising.", "gastar", "ganar", "vender", "comprar"],
+    ["Busco un", "puesto", "de diseñador gráfico.", "I am looking for a position as a graphic designer.", "puesto", "lugar", "asiento", "aula"],
+    ["Mañana tengo una", "reunión", "con el equipo de ventas.", "Tomorrow I have a meeting with the sales team.", "reunión", "fiesta", "cita", "clase"],
+    ["Necesito", "imprimir", "estos documentos para la firma.", "I need to print these documents for the signature.", "imprimir", "borrar", "subir", "leer"],
+    ["¿Cuántos días de", "vacaciones", "tienes al año?", "How many vacation days do you have per year?", "vacaciones", "recreos", "clases", "fiestas"],
+    ["El", "negocio", "va muy bien este semestre.", "The business is going very well this semester.", "negocio", "trabajo", "estudio", "viaje"],
+    ["Mañana hay una", "huelga", "de transporte y no puedo ir a la oficina.", "Tomorrow there is a transport strike and I cannot go to the office.", "huelga", "fiesta", "reunión", "feria"],
+    ["¿Puedes", "llamar", "al cliente para confirmar la cita?", "Can you call the client to confirm the appointment?", "llamar", "escribir", "enviar", "mirar"],
+    ["Mi", "profesión", "es muy creativa.", "My profession is very creative.", "profesión", "empresa", "oficina", "tarea"],
+    ["Tengo mucho", "éxito", "con mis nuevos proyectos.", "I have a lot of success with my new projects.", "éxito", "error", "miedo", "sueño"],
+    ["Tengo que", "organizar", "mi escritorio antes de empezar.", "I have to organize my desk before starting.", "organizar", "limpiar", "romper", "cerrar"]
+  ],
+  "dictionary": "La entrevista - The interview\nEl jefe / La jefa - The boss\nLa oficina - The office\nLa empresa - The company\nEl contrato - The contract\nEl sueldo - The salary\nEl compañero / La compañera - The coworker\nEl informe - The report\nEl horario - The schedule\nEl turno - The shift\nDesempleado/a - Unemployed\nEl empleado / La empleada - The employee\nGanar - To earn / win\nGastar - To spend\nEl puesto - The position / job\nLa reunión - The meeting\nImprimir - To print\nLas vacaciones - The vacations\nEl negocio - The business\nLa huelga - The strike\nLlamar - To call\nLa profesión - The profession\nEl éxito - The success\nOrganizar - To organize"
+}

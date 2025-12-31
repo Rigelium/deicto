@@ -1,0 +1,31 @@
+{
+  "title": "Adjective collection 4",
+  "sentences": [
+    ["Mi hermano es muy", "alto", "y juega al baloncesto.", "My brother is very tall and plays basketball.", "alto", "bajo", "gordo", "flaco"],
+    ["Yo soy un poco", "bajo", "para mi edad.", "I am a bit short for my age.", "bajo", "alto", "ruidoso", "cómodo"],
+    ["Tu perro está muy", "gordo", "porque come mucho.", "Your dog is very fat because he eats a lot.", "gordo", "flaco", "largo", "estrecho"],
+    ["Ella está muy", "flaca", "desde que hace tanto deporte.", "She is very thin since she does so much sport.", "flaca", "gorda", "ancha", "pesada"],
+    ["Este sofá es muy", "cómodo", "para dormir la siesta.", "This sofa is very comfortable for taking a nap.", "cómodo", "incómodo", "ruidoso", "peligroso"],
+    ["Esa silla de madera es muy", "incómoda", ".", "That wooden chair is very uncomfortable.", "incómoda", "cómoda", "blanda", "ligera"],
+    ["El centro de la ciudad es muy", "ruidoso", "por el tráfico.", "The city center is very noisy because of the traffic.", "ruidoso", "silencioso", "tranquilo", "limpio"],
+    ["Me gusta este parque porque es muy", "silencioso", ".", "I like this park because it is very silent.", "silencioso", "ruidoso", "sucio", "peligroso"],
+    ["Es", "peligroso", "caminar por aquí de noche.", "It is dangerous to walk around here at night.", "peligroso", "seguro", "divertido", "fácil"],
+    ["Este barrio es muy", "seguro", "y tranquilo.", "This neighborhood is very safe and quiet.", "seguro", "peligroso", "sucio", "ruidoso"],
+    ["El examen de español fue muy", "fácil", "para mí.", "The Spanish exam was very easy for me.", "fácil", "difícil", "aburrido", "largo"],
+    ["Aprender a conducir es un poco", "difícil", "al principio.", "Learning to drive is a bit difficult at first.", "difícil", "fácil", "barato", "rápido"],
+    ["Esa película es muy", "divertida", "y me gusta mucho.", "That movie is very fun and I like it a lot.", "divertida", "aburrida", "triste", "seria"],
+    ["El libro de historia es un poco", "aburrido", ".", "The history book is a bit boring.", "aburrido", "divertido", "nuevo", "brillante"],
+    ["Este vaso es de cristal", "fino", "y se rompe fácil.", "This glass is made of thin/fine glass and breaks easily.", "fino", "grueso", "pesado", "duro"],
+    ["Lleva un abrigo", "grueso", "porque va a nevar.", "Wear a thick coat because it is going to snow.", "grueso", "fino", "ligero", "corto"],
+    ["El suelo de la cocina está muy", "resbaladizo", ".", "The kitchen floor is very slippery.", "resbaladizo", "seco", "duro", "blando"],
+    ["Esta comida está", "picante", "y necesito beber agua.", "This food is spicy and I need to drink water.", "picante", "dulce", "salada", "amarga"],
+    ["El café sin azúcar es muy", "amargo", ".", "Coffee without sugar is very bitter.", "amargo", "dulce", "salado", "picante"],
+    ["Este postre está demasiado", "dulce", "para mi gusto.", "This dessert is too sweet for my taste.", "dulce", "amargo", "salado", "ácido"],
+    ["El limón es una fruta muy", "ácida", ".", "The lemon is a very acidic/sour fruit.", "ácida", "dulce", "amarga", "salada"],
+    ["La sopa está un poco", "salada", ", ponle menos sal.", "The soup is a bit salty; put less salt in it.", "salada", "dulce", "ácida", "sosa"],
+    ["La comida está un poco", "sosa", ", necesita más sal.", "The food is a bit bland/tasteless; it needs more salt.", "sosa", "salada", "picante", "amarga"],
+    ["Este cuchillo no corta, está", "desafilado", ".", "This knife doesn't cut; it is blunt/dull.", "desafilado", "afilado", "roto", "nuevo"],
+    ["Ten cuidado, ese cristal está muy", "afilado", ".", "Be careful; that glass is very sharp.", "afilado", "desafilado", "blando", "ligero"]
+  ],
+  "dictionary": "Alto - Tall\nBajo - Short\nGordo - Fat\nFlaco - Thin\nCómodo - Comfortable\nIncómodo - Uncomfortable\nRuidoso - Noisy\nSilencioso - Silent\nPeligroso - Dangerous\nSeguro - Safe\nFácil - Easy\nDifícil - Difficult\nDivertido - Fun\nAburrido - Boring\nFino - Fine/Thin\nGrueso - Thick\nResbaladizo - Slippery\nPicante - Spicy\nAmargo - Bitter\nDulce - Sweet\nÁcido - Sour/Acidic\nSalado - Salty\nSoso - Bland/Tasteless\nDesafilado - Blunt/Dull\nAfilado - Sharp"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Adverb collection 2",
+  "sentences": [
+    ["", "Raramente", "como pizza durante la semana.", "I rarely eat pizza during the week.", "Raramente", "Siempre", "Mucho", "Bien"],
+    ["", "Seguramente", "vamos a ganar el partido de hoy.", "We are surely going to win today's match.", "Seguramente", "Nunca", "Mal", "Atrás"],
+    ["", "Quizás", "venga a verte mañana por la tarde.", "Perhaps I'll come to see you tomorrow afternoon.", "Quizás", "Ya", "Todavía", "Casi"],
+    ["", "Tal vez", "necesites una chaqueta nueva para el frío.", "Maybe you need a new jacket for the cold.", "Tal vez", "Siempre", "Nunca", "Fuerte"],
+    ["", "Apenas", "tengo tiempo para descansar hoy.", "I hardly/barely have time to rest today.", "Apenas", "Mucho", "Bastante", "Bien"],
+    ["", "Inclusive", "mi perro sabe que es hora de comer.", "Even my dog knows it's time to eat.", "Inclusive", "Nunca", "Atrás", "Lejos"],
+    ["", "Además", "de estudiar, me gusta hacer deporte.", "Besides studying, I like to do sports.", "Además", "Menos", "Cerca", "Fuera"],
+    ["¿Puedes poner los libros", "allá", "en la mesa?", "Can you put the books over there on the table?", "allá", "aquí", "dentro", "arriba"],
+    ["Camina hacia", "adelante", "sin mirar atrás.", "Walk forward without looking back.", "adelante", "arriba", "abajo", "fuera"],
+    ["No mires hacia", "atrás", ", sigue tu camino.", "Don't look back; follow your path.", "atrás", "adelante", "encima", "lejos"],
+    ["El gato está", "encima", "del armario de la cocina.", "The cat is on top of the kitchen cupboard.", "encima", "debajo", "lejos", "fuera"],
+    ["Pon el papel", "debajo", "de la puerta para que no se mueva.", "Put the paper under the door so it doesn't move.", "debajo", "arriba", "fuera", "lejos"],
+    ["Abre la ventana,", "afuera", "hace un día muy bonito.", "Open the window; outside it's a very beautiful day.", "afuera", "adentro", "lejos", "cerca"],
+    ["Entra en casa,", "adentro", "estamos más calientes.", "Come into the house; inside we are warmer.", "adentro", "afuera", "arriba", "abajo"],
+    ["", "Efectivamente", ", tenías razón sobre el precio.", "Indeed, you were right about the price.", "Efectivamente", "Mal", "Nunca", "Poco"],
+    ["", "Afortunadamente", ", no perdimos el tren.", "Fortunately, we didn't miss the train.", "Afortunadamente", "Raramente", "Mal", "Poco"],
+    ["", "Desgraciadamente", ", no puedo ir a tu fiesta.", "Unfortunately, I can't go to your party.", "Desgraciadamente", "Bien", "Siempre", "Mucho"],
+    ["", "Especialmente", "me gusta este helado de fresa.", "I especially like this strawberry ice cream.", "Especialmente", "Poco", "Casi", "Mal"],
+    ["", "Generalmente", "me levanto a las siete.", "I generally get up at seven.", "Generalmente", "Nunca", "Atrás", "Fuera"],
+    ["¿Puedes hablar más", "alto", "? No te escucho.", "Can you speak louder? I can't hear you.", "alto", "bajo", "despacio", "mal"],
+    ["Ella habla muy", "bajo", "y nadie la entiende.", "She speaks very softly/low and nobody understands her.", "bajo", "alto", "rápido", "bien"],
+    ["", "Siquiera", "me saludó cuando me vio.", "He/she didn't even greet me when he/she saw me.", "Siquiera", "Mucho", "Siempre", "Bien"],
+    ["Come", "menos", "azúcar para estar más sano.", "Eat less sugar to be healthier.", "menos", "más", "bien", "mal"],
+    ["Quiero", "más", "un poco de agua, por favor.", "I want a little more water, please.", "más", "menos", "poco", "mal"],
+    ["¿", "Acaso", "no te gusta la comida de este lugar?", "By any chance/Perhaps you don't like the food here?", "Acaso", "Siempre", "Nunca", "Bien"]
+  ],
+  "dictionary": "Raramente - Rarely\nSeguramente - Surely\nQuizás - Perhaps\nTal vez - Maybe\nApenas - Barely/Hardly\nInclusive - Even\nAdemás - Besides/Furthermore\nAllá - Over there\nAdelante - Forward\nAtrás - Back/Behind\nEncima - On top\nDebajo - Underneath\nAfuera - Outside\nAdentro - Inside\nEfectivamente - Indeed\nAfortunadamente - Fortunately\nDesgraciadamente - Unfortunately\nEspecialmente - Especially\nGeneralmente - Generally\nAlto - Loudly\nBajo - Quietly/Low\nSiquiera - Even (negation)\nMenos - Less\nMás - More\nAcaso - Perhaps/Maybe"
+}

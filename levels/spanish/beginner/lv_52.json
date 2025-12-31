@@ -1,0 +1,31 @@
+{
+  "title": "Art and Entertainment",
+  "sentences": [
+    ["Fuimos al", "museo", "para ver las estatuas romanas.", "We went to the museum to see the Roman statues.", "museo", "estadio", "puerto", "parking"],
+    ["Tu", "pintura", "es la más colorida de la exposición.", "Your painting is the most colorful one in the exhibition.", "pintura", "escultura", "música", "danza"],
+    ["La", "escultura", "de mármol es muy pesada.", "The marble sculpture is very heavy.", "escultura", "pintura", "postal", "foto"],
+    ["¿Quieres ir al", "cine", "a ver la nueva de acción?", "Do you want to go to the cinema to see the new action one?", "cine", "teatro", "museo", "parque"],
+    ["Esa", "película", "me hizo llorar mucho.", "That movie made me cry a lot.", "película", "obra", "pintura", "canción"],
+    ["El", "actor", "principal es muy guapo.", "The main actor is very handsome.", "actor", "director", "cantante", "guía"],
+    ["Ella es la mejor", "actriz", "de este año.", "She is the best actress of this year.", "actriz", "pintora", "bailarina", "reina"],
+    ["Mañana hay una función en el", "teatro", "municipal.", "Tomorrow there is a performance at the municipal theater.", "teatro", "cine", "museo", "estadio"],
+    ["La", "obra de teatro", "duró tres horas.", "The play lasted three hours.", "obra de teatro", "película", "pintura", "escultura"],
+    ["El", "concierto", "de rock fue increíble.", "The rock concert was incredible.", "concierto", "recreo", "examen", "viaje"],
+    ["Escucho", "música", "clásica para estudiar.", "I listen to classical music to study.", "música", "literatura", "danza", "pintura"],
+    ["Mi", "cantante", "favorito va a venir a la ciudad.", "My favorite singer is going to come to the city.", "cantante", "actor", "director", "pintor"],
+    ["El", "bailarín", "saltó muy alto en el escenario.", "The dancer jumped very high on the stage.", "bailarín", "pintor", "escritor", "director"],
+    ["Hice un", "dibujo", "de mi gato en el cuaderno.", "I made a drawing of my cat in the notebook.", "dibujo", "poesía", "guion", "cuadro"],
+    ["Ese", "artista", "usa colores muy brillantes.", "That artist uses very bright colors.", "artista", "público", "guion", "recreo"],
+    ["Él es un cantante muy", "famoso", "en todo el mundo.", "He is a very famous singer all over the world.", "famoso", "tímido", "vago", "serio"],
+    ["El", "público", "aplaudió mucho al final.", "The audience applauded a lot at the end.", "público", "escenario", "personaje", "guion"],
+    ["Los músicos ya están en el", "escenario", ".", "The musicians are already on the stage.", "escenario", "museo", "cine", "teatro"],
+    ["Hay una nueva", "galería", "de arte en mi calle.", "There is a new art gallery on my street.", "galería", "estación", "comisaría", "oficina"],
+    ["La", "exposición", "de fotografía es gratis.", "The photography exhibition is free.", "exposición", "asignatura", "nota", "beca"],
+    ["Me encanta la", "literatura", "española antigua.", "I love old Spanish literature.", "literatura", "pintura", "danza", "música"],
+    ["Escribí una", "poesía", "para mi novia.", "I wrote a poem for my girlfriend.", "poesía", "dibujo", "guion", "cuadro"],
+    ["El", "guion", "de la película es un poco aburrido.", "The script of the movie is a bit boring.", "guion", "personaje", "escenario", "público"],
+    ["Mi", "personaje", "favorito muere al final.", "My favorite character dies at the end.", "personaje", "actor", "director", "artista"],
+    ["El", "director", "de la película ganó un premio.", "The movie director won an award.", "director", "actor", "cantante", "bailarín"]
+  ],
+  "dictionary": "Museo - Museum\nPintura - Painting\nEscultura - Sculpture\nCine - Cinema\nPelícula - Movie\nActor - Actor\nActriz - Actress\nTeatro - Theater\nObra de teatro - Play\nConcierto - Concert\nMúsica - Music\nCantante - Singer\nBailarín - Dancer\nDibujo - Drawing\nArtista - Artist\nFamoso - Famous\nPúblico - Audience/Public\nEscenario - Stage\nGalería - Gallery\nExposición - Exhibition\nLiteratura - Literature\nPoesía - Poetry\nGuion - Script\nPersonaje - Character\nDirector - Director"
+}

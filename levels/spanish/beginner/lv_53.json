@@ -1,0 +1,31 @@
+{
+  "title": "Media and Communication",
+  "sentences": [
+    ["He leído una", "noticia", "muy importante en internet.", "I have read a very important piece of news on the internet.", "noticia", "revista", "radio", "cámara"],
+    ["Mi abuelo todavía lee el", "periódico", "cada mañana.", "My grandfather still reads the newspaper every morning.", "periódico", "anuncio", "canal", "micrófono"],
+    ["Esta", "revista", "de moda tiene fotos muy bonitas.", "This fashion magazine has very beautiful photos.", "revista", "prensa", "noticia", "entrevista"],
+    ["Me gusta escuchar la", "radio", "mientras conduzco.", "I like to listen to the radio while I drive.", "radio", "televisión", "prensa", "publicación"],
+    ["Paso demasiado tiempo en las", "redes sociales", ".", "I spend too much time on social media.", "redes sociales", "noticias", "entrevistas", "cámaras"],
+    ["La", "prensa", "está esperando al presidente en la puerta.", "The press is waiting for the president at the door.", "prensa", "radio", "noticia", "anuncio"],
+    ["He visto un", "anuncio", "de un coche nuevo en la tele.", "I saw an advertisement for a new car on TV.", "anuncio", "titular", "perfil", "seguidor"],
+    ["Necesito más", "información", "sobre este tema.", "I need more information about this topic.", "información", "opinión", "notificación", "publicación"],
+    ["El periodista le hizo una", "entrevista", "al actor.", "The journalist did an interview with the actor.", "entrevista", "revista", "noticia", "canal"],
+    ["El", "reportero", "está hablando en directo desde la calle.", "The reporter is talking live from the street.", "reportero", "seguidor", "anuncio", "perfil"],
+    ["Te voy a", "llamar", "por teléfono esta tarde.", "I am going to call you on the phone this afternoon.", "llamar", "grabar", "enviar", "publicar"],
+    ["Voy a", "grabar", "un vídeo para mi canal de YouTube.", "I am going to record a video for my YouTube channel.", "grabar", "llamar", "borrar", "leer"],
+    ["Habla cerca del", "micrófono", "para que se escuche bien.", "Speak close to the microphone so it can be heard well.", "micrófono", "titular", "anuncio", "perfil"],
+    ["Esta", "cámara", "saca unas fotos de mucha calidad.", "This camera takes very high-quality photos.", "cámara", "radio", "prensa", "revista"],
+    ["Tu última", "publicación", "tiene muchos 'me gusta'.", "Your last post has many 'likes'.", "publicación", "noticia", "entrevista", "radio"],
+    ["Ese cantante tiene un millón de", "seguidores", ".", "That singer has a million followers.", "seguidores", "reporteros", "periodistas", "anuncios"],
+    ["Tienes que actualizar tu", "perfil", "con una foto nueva.", "You have to update your profile with a new photo.", "perfil", "titular", "canal", "radio"],
+    ["Me ha llegado una", "notificación", "al móvil ahora mismo.", "I just got a notification on my mobile right now.", "notificación", "información", "opinión", "noticia"],
+    ["El programa de televisión es", "en directo", ".", "The television show is live.", "en directo", "grabado", "aburrido", "famoso"],
+    ["En mi", "opinión", ", el periodismo es muy necesario.", "In my opinion, journalism is very necessary.", "opinión", "noticia", "información", "anuncio"],
+    ["¿Me puedes", "enviar", "el enlace por WhatsApp?", "Can you send me the link via WhatsApp?", "enviar", "grabar", "llamar", "mirar"],
+    ["El", "titular", "del periódico es muy impactante.", "The newspaper headline is very shocking.", "titular", "anuncio", "perfil", "seguidor"],
+    ["Mi", "programa", "favorito empieza a las nueve.", "My favorite show starts at nine.", "programa", "periódico", "canal", "micrófono"],
+    ["¿En qué", "canal", "ponen el partido de fútbol?", "On which channel are they showing the soccer match?", "canal", "periódico", "revista", "anuncio"],
+    ["La", "periodista", "escribe artículos muy interesantes.", "The journalist writes very interesting articles.", "periodista", "actriz", "cantante", "guía"]
+  ],
+  "dictionary": "La noticia - The news\nEl periódico - The newspaper\nLa revista - The magazine\nLa radio - The radio\nLas redes sociales - Social media\nLa prensa - The press\nEl anuncio - The advertisement\nLa información - The information\nLa entrevista - The interview\nEl reportero - The reporter\nLlamar - To call\nGrabar - To record\nEl micrófono - The microphone\nLa cámara - The camera\nLa publicación - The post/publication\nEl seguidor - The follower\nEl perfil - The profile\nLa notificación - The notification\nEn directo - Live\nLa opinión - The opinion\nEnviar - To send\nEl titular - The headline\nEl programa - The program/show\nEl canal - The channel\nEl periodista - The journalist"
+}
