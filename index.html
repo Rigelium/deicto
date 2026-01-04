@@ -26,6 +26,17 @@
     <div style="height: 90px;"></div>
 
 
+    <!-- ADD COURSES // ALL COURSES -->
+    <div id="add-courses" class="centerfix" style="width: 100%; height: 100%; flex-direction: column; display: none; background-color: var(--bgcolor); z-index: 100;">
+      <a style="font-size: 2rem;">All courses</a>
+        <div class="box1" style="justify-content: flex-start; gap: 10px;">
+          <img src="assets/flags/Spanish.png" style="width: 30%; border-radius: 10px;"><a style="font-size: 2rem; font-weight: bold;">Spanish</a><div class="box2">
+          <a>Add</a>
+        </div>
+      </div>
+    </div>
+
+
     <div class="box1" style="flex-direction: column;">
     <a style="font-size: 1.5rem; font-weight: bold;">My courses</a>
     <div class="box1" style="background-color: var(--bgcolor); height: 60px; width: 95%; overflow: hidden; justify-content: space-between;">
@@ -50,7 +61,7 @@
         <img src="assets/flags/Spanish.png" style="height: 60%;">
         <a>Spanish</a>
     </div></div>
-    <div class = 'box2' style="width: 20%;">
+    <div onclick='document.getElementById("add-courses").style.display = "flex"' class = 'box2' style="width: 20%;">
         
         </div>
       </div>
