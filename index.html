@@ -61,7 +61,7 @@
         <img src="assets/flags/Spanish.png" style="height: 60%;">
         <a>Spanish</a>
     </div></div>
-    <div onclick='document.getElementById("add-courses").style.display = "flex"' class = 'box2' style="width: 20%;">
+    <div onclick='displayCourses()' class = 'box2' style="width: 20%;">
         
         </div>
       </div>
@@ -104,7 +104,14 @@
       }
 
 
-  
+      displayCourses(){
+        const courseContainer = document.getElementById("add-courses");
+        window.location.href += '#add_course';
+
+
+        
+        courseContainer.style.display = "flex";
+      }
 
       const input = document.getElementById('input');
       const btn = document.getElementById('btn');
