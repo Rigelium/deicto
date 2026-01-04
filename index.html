@@ -81,7 +81,7 @@
       let difLevel = retrieveVariable("difLevel", "beginner");
       
       let courses = null;
-      window.onload = 'loadCourses';
+      window.onload = loadCourses();
       async function loadCourses() {
         try {
           const response = await fetch('levels/courses.json');
