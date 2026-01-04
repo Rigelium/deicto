@@ -76,6 +76,15 @@
     <script>
       //language parameters are already defined
 
+      async function loadCourses('../levels/courses.json') {
+        try {
+          const response = await fetch();
+          const courses = await response.json();
+        } catch(error){
+          console.log(error);
+        }
+      }
+
       let language = retrieveVariable("language", 'Spanish');
       let langCodeTTS = retrieveVariable("langCodeTTS", 'es-ES'); 
       let difLevel = retrieveVariable("difLevel", "beginner");
