@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "name": "Spanish",
+      "langCode": "es-ES",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "German",
+      "langCode": "de-DE",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "French",
+      "langCode": "fr-FR",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Italian",
+      "langCode": "es-ES",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    }
+  ]
+}
