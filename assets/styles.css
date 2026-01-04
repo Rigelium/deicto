@@ -13,11 +13,12 @@
        --blueish: #28a0f4;
        --grayish: #5e6474;
        --boxshadow1: #000000ba;
+       --bgcolor: #242125;
      }
      body{
        font-family: arial;
        color: var(--fontcolor2);
-       background-color: #242125;
+       background-color: var(--bgcolor);
      }
 .box1{
        border-radius: 5px;
