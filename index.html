@@ -85,7 +85,8 @@
       async function loadCourses() {
         try {
           const response = await fetch('levels/courses.json');
-          courses = await response.json();
+          coursesJSON = await response.json();
+          courses = coursesJSON.courses;
         } catch(error) {
           console.log(error);
         }
