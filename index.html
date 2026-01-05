@@ -132,6 +132,9 @@
 
       function addCourse(newCourse) {
         myCourses = [newCourse].concat(myCourses);
+        for (let i = 0; i < courses.length; i++) {
+          localStorage.setItem(`myCourses-${i}`, myCourses[i]);
+        }
       }
 
 
