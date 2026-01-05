@@ -106,8 +106,14 @@
 
       function displayCourses(){
         const courseContainer = document.getElementById("add-courses");
-        window.location.href += '#add_course';
 
+        let coursesHTML = "";
+        for(let i = 0; i < courses.length ; i++){
+          coursesHTML += `
+          
+          
+          `
+        }
 
         
         courseContainer.style.display = "flex";
