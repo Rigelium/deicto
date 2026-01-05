@@ -32,21 +32,10 @@
       <div id='course-list' style='overflow-y: auto;'></div>
     </div>
 
-    <!-- LANGUAGE MENU -->
-    <div class="box1" style="margin-top: 10px; flex-direction: column;">
-      <div style="justify-content: space-between; gap: 10px;">
-        <div style="width: 40%">
-          <img src="assets/flags/Spanish.png" style="width: 100%; border-radius: 10px;">
-          <a>Spanish</a>
-        </div>
-      </div>
-    <div class="box2" onclick="window.location.href = 'levels/'">
-      <a>Levels</a>
-    </div>
-    </div>
 
     
 
+    <!-- MY COURSES -->
     <div class="box1" style="flex-direction: column;">
     <a style="font-size: 1.5rem; font-weight: bold;">My courses</a>
     <div class="box1" style="background-color: var(--bgcolor); height: 60px; width: 95%; overflow: hidden; justify-content: space-between;">
@@ -57,7 +46,19 @@
         </div>
       </div>
     </div>
-    
+
+    <!-- LANGUAGE MENU -->
+    <div class="box1" style="margin-top: 10px; flex-direction: column;">
+      <div style="justify-content: space-between; gap: 10px;">
+        <div style="width: 40%">
+          <img id='menu-flag' src="assets/flags/Spanish.png" style="width: 100%; border-radius: 10px;">
+          <a id='menu-lang-name'>Spanish</a>
+        </div>
+      </div>
+    <div class="box2" onclick="window.location.href = 'levels/'">
+      <a>Levels</a>
+    </div>
+    </div>
 
     <div id='options' class='box1 centerfix' class='centerfix' style='width: 80%; flex-direction: column; display: none;'>
       <a style='font-size: 2rem;'>Menu</a>
@@ -152,6 +153,11 @@
         localStorage.setItem("language", courses[langID].name);
         localStorage.setItem("langCodeTTS", courses[langID].langCode);
         console.log(`changed to ${courses[langID].name}`);
+        
+        const menuLangName = document.getElementById('menu-lang-name');
+        const menuFlag = document.getElementById('menu-flag');
+        menuLangName.textContent = courses[langID].name;
+        menuFlag.src = `assets/flags/${courses[langID].name}.png`;
       }
 
       
