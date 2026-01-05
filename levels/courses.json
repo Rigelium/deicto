@@ -61,6 +61,21 @@
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
+      "name": "Turkish",
+      "langCode": "tr-TR",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Czech",
+      "langCode": "cz-CZ",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Slovak",
+      "langCode": "sk-SK",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
       "name": "Romanian",
       "langCode": "ro-RO",
       "difLevels": ["beginner", "intermediate", "advanced"]
