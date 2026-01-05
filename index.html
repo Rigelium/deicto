@@ -81,6 +81,11 @@
 
     
     <script>
+      let myCourses = [];
+      myCourses[0] = retrieveVariable('myCourses-0', 0);
+      for (let i = 1; i < courses.length ; i++) {
+        myCourses[i] = retrieveVariable(`myCourses-${i}` , null);
+      }
       //language parameters are already defined
 
       let language = retrieveVariable("language", 'Spanish');
