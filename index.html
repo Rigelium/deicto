@@ -100,7 +100,7 @@
         for(let i = 0; i < courses.length ; i++){
           coursesHTML += `
           <div class="box1" style="justify-content: flex-start; gap: 10px;">
-            <img onclick = 'changeLang(${i})' src="assets/flags/${courses[i].name}.png" style="width: 30%; border-radius: 10px;">
+            <img src="assets/flags/${courses[i].name}.png" style="width: 30%; border-radius: 10px;">
             <a style="font-size: 2rem; font-weight: bold;">${courses[i].name}</a>
             <div onclick='addCourse(${i})' class="box2">
               <a>Add</a>
@@ -119,7 +119,7 @@
         for (let i = 0; i < courses.length; i++) {
           if (myCourses[i] != -1){
             flagsHTML += `
-            <img src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 80%; border-radius: 5px; aspect-ratio: 3 / 2;'>
+            <img onclick = 'changeLang(${myCourses[i]})' src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 80%; border-radius: 5px; aspect-ratio: 3 / 2;'>
             `;
           }
         }
