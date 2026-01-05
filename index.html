@@ -189,8 +189,8 @@ const codeInput = document.getElementById('code-input');
       function updateMenu(chLang){
         const menuLangName = document.getElementById('menu-lang-name');
         const menuFlag = document.getElementById('menu-flag');
-        menuLangName.textContent = chLang.name;
-        menuFlag.src = `assets/flags/${chLang.name}.png`;
+        menuLangName.textContent = chLang;
+        menuFlag.src = `assets/flags/${chLang}.png`;
       }
       
       function retrieveVariable(varName, defaultValue) {
