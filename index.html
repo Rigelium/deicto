@@ -124,7 +124,6 @@
           }
         }
         flagContainer.innerHTML = flagsHTML;
-        displayFlags();
       }
 
       function addCourse(newCourse) {
@@ -132,6 +131,7 @@
         for (let i = 0; i < courses.length; i++) {
           localStorage.setItem(`myCourses-${i}`, myCourses[i]);
         }
+        displayFlags();
       }
 
 
