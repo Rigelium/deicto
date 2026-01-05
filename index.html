@@ -100,7 +100,7 @@
         for(let i = 0; i < courses.length ; i++){
           coursesHTML += `
           <div class="box1" style="justify-content: flex-start; gap: 10px;">
-            <img src="assets/flags/${courses[i].name}.png" style="width: 30%; border-radius: 10px;">
+            <img onclick = 'changeLang(${i})' src="assets/flags/${courses[i].name}.png" style="width: 30%; border-radius: 10px;">
             <a style="font-size: 2rem; font-weight: bold;">${courses[i].name}</a>
             <div onclick='addCourse(${i})' class="box2">
               <a>Add</a>
@@ -134,6 +134,11 @@
         displayFlags();
       }
 
+      function changeLang(langID){
+        localStorage.setItem("language", courses[langID].name);
+        localStorage.setItem("langCodeTTS", courses[langID].langCode);
+        console.log(`changed to ${courses[langID].name}`);
+      }
 
       
       const input = document.getElementById('input');
