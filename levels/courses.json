@@ -31,6 +31,11 @@
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
+      "name": "Chinese",
+      "langCode": "zh-CN",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
       "name": "Portuguese",
       "langCode": "br-PT",
       "difLevels": ["beginner", "intermediate", "advanced"]
