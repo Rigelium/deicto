@@ -21,6 +21,21 @@
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
+      "name": "Japanese",
+      "langCode": "jp",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Korean",
+      "langCode": "kr",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Portuguese",
+      "langCode": "br-PT",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
       "name": "Russian",
       "langCode": "ru-RU",
       "difLevels": ["beginner", "intermediate", "advanced"]
@@ -38,6 +53,16 @@
     {
       "name": "Dutch",
       "langCode": "nl-NL",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Greek",
+      "langCode": "el-GR",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Romanian",
+      "langCode": "ro-RO",
       "difLevels": ["beginner", "intermediate", "advanced"]
     }
   ]
