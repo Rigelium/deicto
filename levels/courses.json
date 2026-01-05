@@ -6,18 +6,38 @@
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
-      "name": "German",
-      "langCode": "de-DE",
-      "difLevels": ["beginner", "intermediate", "advanced"]
-    },
-    {
       "name": "French",
       "langCode": "fr-FR",
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
+      "name": "German",
+      "langCode": "de-DE",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
       "name": "Italian",
       "langCode": "es-ES",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Russian",
+      "langCode": "ru-RU",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Polish",
+      "langCode": "pl-PL",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Hungarian",
+      "langCode": "hu-HU",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
+      "name": "Dutch",
+      "langCode": "nl-NL",
       "difLevels": ["beginner", "intermediate", "advanced"]
     }
   ]
