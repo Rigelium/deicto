@@ -116,9 +116,11 @@
         const flagContainer = document.getElementById('flag-container');
 
         for (let i = 0; i < courses.length; i++) {
-          flagsHTML += `
-          <img src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 80%; border-radius: 5px; aspect-ratio: 3 / 2;'>
-          `;
+          if (myCourse[i] != -1){
+            flagsHTML += `
+            <img src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 80%; border-radius: 5px; aspect-ratio: 3 / 2;'>
+            `;
+          }
         }
         flagContainer.innerHTML = flagsHTML;
       }
