@@ -112,13 +112,13 @@
       }
 
       function displayFlags() {
-        let flagsHTML = `
-        <img src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 80%; border-radius: 5px; aspect-ratio: 3 / 2;'>
-        `;
+        let flagsHTML = '';
         const flagContainer = document.getElementById('flag-container');
 
         for (let i = 0; i < courses.length; ) {
-          
+          flagsHTML += `
+          <img src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 80%; border-radius: 5px; aspect-ratio: 3 / 2;'>
+          `;
         }
         flagContainer.innerHTML = flagsHTML;
       }
