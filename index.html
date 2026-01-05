@@ -131,7 +131,8 @@
       }
 
       function addCourse(newCourse) {
-        return newCourse.concat(myCourses);
+        let newCourseArr[0] = newCourse;
+        myCourses = newCourseArr.concat(myCourses);
       }
 
 
