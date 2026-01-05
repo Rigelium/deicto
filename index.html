@@ -103,9 +103,9 @@
       }
 
       function loadList() {
-        myCourses[0] = retrieveVariable('myCourses-0', 0);
+        myCourses[0] = Number(retrieveVariable('myCourses-0', 0));
         for (let i = 1; i < courses.length ; i++) {
-          myCourses[i] = retrieveVariable(`myCourses-${i}` , null);
+          myCourses[i] = Number(retrieveVariable(`myCourses-${i}` , -1));
         }
       }
 
