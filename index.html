@@ -81,6 +81,7 @@
           console.log(error);
         }
         loadList();
+        loadFlags();
       }
 
       function loadList() {
@@ -123,6 +124,7 @@
           }
         }
         flagContainer.innerHTML = flagsHTML;
+        loadFlags();
       }
 
       function addCourse(newCourse) {
