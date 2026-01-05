@@ -120,7 +120,7 @@
           <div class="box1" style="justify-content: flex-start; gap: 10px;">
             <img src="assets/flags/${courses[i].name}.png" style="width: 30%; border-radius: 10px;">
             <a style="font-size: 2rem; font-weight: bold;">${courses[i].name}</a>
-            <div class="box2">
+            <div onclick='addCourse(${i})' class="box2">
               <a>Add</a>
             </div>
           </div>
@@ -130,6 +130,9 @@
         courseContainer.style.display = "flex";
       }
 
+      function addCourse(newCourse) {
+        newCourse.concat(myCourses);
+      }
 
 
       
