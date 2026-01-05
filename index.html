@@ -84,6 +84,8 @@
       let language = retrieveVariable("language", 'Spanish');
       let langCodeTTS = retrieveVariable("langCodeTTS", 'es-ES'); 
       let difLevel = retrieveVariable("difLevel", "beginner");
+
+      updateMenu(language);
       
       let courses = null;
       window.onload = loadCourses();
@@ -155,11 +157,8 @@
         localStorage.setItem("language", courses[langID].name);
         localStorage.setItem("langCodeTTS", courses[langID].langCode);
         console.log(`changed to ${courses[langID].name}`);
-        
-        const menuLangName = document.getElementById('menu-lang-name');
-        const menuFlag = document.getElementById('menu-flag');
-        menuLangName.textContent = courses[langID].name;
-        menuFlag.src = `assets/flags/${courses[langID].name}.png`;
+
+        updateMenu(courses[langID].name);
       }
 
       
@@ -186,8 +185,13 @@ const codeInput = document.getElementById('code-input');
          console.log("changed code to " + codeInput.value);
       }
 
-      
-
+              
+      function updateMenu(chLang){
+        const menuLangName = document.getElementById('menu-lang-name');
+        const menuFlag = document.getElementById('menu-flag');
+        menuLangName.textContent = chLang.name;
+        menuFlag.src = `assets/flags/${chLang.name}.png`;
+      }
       
       function retrieveVariable(varName, defaultValue) {
         try {
