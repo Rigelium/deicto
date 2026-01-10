@@ -1,0 +1,31 @@
+{
+  "title": "Hétköznapi C1 kifejezések 1.",
+  "sentences": [
+    ["Öt nehéz vizsga után végre ", "kipipálhatom", " ezt a hetet is.", "After five difficult exams, I can finally check off this week too.", "kipipálhatom", "kivághatom", "kifoghatom", "kifejezhetem"],
+    ["A kétórás vonatkésés miatt teljesen ", "ráment", " a napom az utazásra.", "Because of the two-hour train delay, my whole day was spent on traveling.", "ráment", "elment", "belement", "kiment"],
+    ["Először nem értettem a géprajzot, de aztán ", "leesett", " a tantusz.", "At first I didn't understand the engineering drawing, but then the penny dropped.", "leesett", "kiesett", "beugrott", "lemaradt"],
+    ["Reméltem, hogy az AutoCAD nem fogja ", "beadni", " a kulcsot a vizsga közepén.", "I hoped that AutoCAD wouldn't give up the ghost in the middle of the exam.", "beadni", "eladni", "kiadni", "feladni"],
+    ["A tanár ", "kiszúrt", " velem, mert a legnehezebb modellt adta nekem.", "The teacher picked on me/messed with me because he gave me the most difficult model.", "kiszúrt", "beszúrt", "elszúrt", "kiszállt"],
+    ["Bár sokat tanultam, mégis ", "kifogott", " rajtam az aszimmetrikus alkatrész.", "Although I studied a lot, the asymmetrical part still got the better of me.", "kifogott", "elkapott", "kifogyott", "lefogott"],
+    ["Fél óráig csak mértem, mire végre ", "dűlőre", " jutottam a nézetekkel.", "I was measuring for half an hour until I finally came to a decision about the views.", "dűlőre", "dűlőbe", "végére", "pontra"],
+    ["A laptopom néha ", "megmakacsolja", " magát és nagyon belassul.", "My laptop sometimes gets stubborn and slows down a lot.", "megmakacsolja", "megerősíti", "megunja", "megállítja"],
+    ["A nehéz vizsgahét után a hétvégén végre ", "helyrerázódik", " az életem.", "After the difficult exam week, my life will finally get back on track during the weekend.", "helyrerázódik", "helyreáll", "megjavul", "elindul"],
+    ["Annyira fáradt vagyok, hogy attól félek, mindjárt ", "beadom", " a kulcsot.", "I am so tired that I'm afraid I'm about to collapse / give up the ghost.", "beadom", "feladom", "kiadom", "eladom"],
+    ["A legjobb barátom ", "képben", " van a tanulmányaimmal, mindig segít.", "My best friend is in the loop with my studies, he always helps.", "képben", "keretben", "témában", "ügyben"],
+    ["A MÁV ma megint jól ", "kiszúrt", " az utasokkal.", "MÁV messed with the passengers again today.", "kiszúrt", "elment", "átvert", "kiszállt"],
+    ["Szerencsére a tanárnak a ", "helyén", " volt az esze, és látta, hogy tudom a tananyagot.", "Fortunately, the teacher had his head screwed on right and saw that I knew the material.", "helyén", "fején", "szívén", "kezén"],
+    ["Nem akarom a magyar nyelvet ", "sorsára", " hagyni a vizsgák miatt.", "I don't want to leave the Hungarian language to its fate because of the exams.", "sorsára", "végére", "helyére", "bajára"],
+    ["Amikor beugrott az ötlet, ", "gyorsan", " elindult a munka a CAD-ben.", "When the idea came, the work in CAD started quickly.", "gyorsan", "lassan", "azonnal", "hirtelen"],
+    ["A menetes furatok ábrázolása nem ", "fogott", " ki rajtam a vizsgán.", "Representing the threaded holes didn't get the better of me during the exam.", "fogott", "ment", "kelt", "állt"],
+    ["A mechatronika egy olyan szak, ahol mindig ", "képben", " kell lenni a technológiával.", "Mechatronics is a major where you always have to be up to date with technology.", "képben", "tudatban", "sorban", "helyen"],
+    ["Végre ", "kipipáltam", " a legnehezebb tárgyat is az indexemben.", "I finally checked off the most difficult subject in my grade book too.", "kipipáltam", "kivágtam", "megírtam", "letudtam"],
+    ["A hétvégi pihenés alatt biztosan ", "helyrerázódnak", " a gondolataim.", "During the weekend rest, my thoughts will surely get back on track.", "helyrerázódnak", "megnyugszanak", "elülnek", "tisztulnak"],
+    ["Ha a gép ", "beadja", " a kulcsot, újra kell kezdenem a rajzot.", "If the machine gives up the ghost, I have to start the drawing over.", "beadja", "feladja", "kiadja", "eladja"],
+    ["A tantusz csak akkor ", "esett", " le, amikor megláttam az alkatrész metszetét.", "The penny only dropped when I saw the cross-section of the part.", "esett", "fordult", "tűnt", "jött"],
+    ["Nem hagyhattam ", "sorsára", " a barátomat a buszmegállóban.", "I couldn't leave my friend to his fate at the bus stop.", "sorsára", "magára", "bajára", "helyére"],
+    ["A tanár néha ", "fanyalog", " a túl egyszerű megoldásokon.", "The teacher sometimes grumbles about solutions that are too simple.", "fanyalog", "örül", "nevet", "csodálkozik"],
+    ["Bármilyen nehéz volt a modell, ", "kitettem", " magamért és befejeztem.", "No matter how hard the model was, I did my best and finished it.", "kitettem", "megtettem", "beletettem", "eltettem"],
+    ["A vizsgaidőszak után mindenki ", "helyrerázódik", " egy kicsit.", "After the exam period, everyone recovers a bit / gets back on track.", "helyrerázódik", "megpihen", "megújul", "felébred"]
+  ],
+  "dictionary": "Kipipál - To check off / To finish\nRámegy az ideje - To spend/waste one's time on\nLeesik a tantusz - The penny drops / To suddenly understand\nBeadja a kulcsot - To give up the ghost / To break down\nKiszúr valakivel - To mess with someone / To pick on\nKifog rajta - To get the better of someone\nDűlőre jut - To reach a decision / To solve\nMegmakacsolja magát - To get stubborn\nHelyrerázódik - To get back on track / To recover\nKépben van - To be in the loop / To be informed\nSorsára hagy - To leave to its fate\nFanyalog - To grumble / To show dissatisfaction\nKitesz magáért - To do one's best / To excel"
+}
