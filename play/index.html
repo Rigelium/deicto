@@ -79,7 +79,7 @@
     // COURSE SETTINGS
     let language = retrieveVariable("language", 'Spanish');
     let langCodeTTS = retrieveVariable("langCodeTTS", 'es-ES'); 
-    let difLevel = retrieveVariable("difLevel", "beginner");
+    let difLevel = retrieveVariable(`${language}-difLevel`, "beginner");
     // LEVEL SETTING
     let currentLevel = retrieveVariable("currentLevel", "1"); 
 
