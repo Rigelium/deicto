@@ -113,6 +113,8 @@
         const courseContainer = document.getElementById("add-courses");
         const courseList = document.getElementById("course-list");
         
+        history.pushState({ popup: true }, "");
+        
 
         let coursesHTML = "";
         for(let i = 0; i < courses.length ; i++){
@@ -132,7 +134,6 @@
 
       function hideCourses() {
         document.getElementById('add-courses').style.display = 'none';
-        history.back();
       }
       
       window.addEventListener('popstate', (event) => {
