@@ -83,7 +83,7 @@
     {
       "name": "Romanian",
       "langCode": "ro-RO",
-      "difLevels": ["beginner", "intermediate", "advanced"]
+      "difLevels": ["intermediate", "advanced"]
     }
   ]
 }
