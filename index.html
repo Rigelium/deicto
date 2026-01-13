@@ -125,9 +125,14 @@
         let coursesHTML = "";
         for(let i = 0; i < courses.length ; i++){
           coursesHTML += `
-          <div class="box1" style="justify-content: flex-start; gap: 10px;">
-            <img src="assets/flags/${courses[i].name}.png" style="width: 30%; border-radius: 10px;">
-            <a style="font-size: 2rem; font-weight: bold;">${courses[i].name}</a>
+          <div class="box1" style="justify-content: space-between; gap: 10px; margin-top: 10px;">
+            <div style="display: flex;">
+              <img src="assets/flags/${courses[i].name}.png" style="width: 30%; aspect-ratio: 3 / 2; border-radius: 10px;">
+              <div style="display: flex; flex-direction: column;">
+                <a style="font-size: 1.5rem; font-weight: bold;">${courses[i].name}</a>
+                <a style="color: var(--fontcolor3)">beginner, intermediate, advanced</a>
+              </div>
+            </div>
             <div onclick='addCourse(${i})' class="box2">
               <a>Add</a>
             </div>
