@@ -40,10 +40,10 @@
     <div class="box1" style="flex-direction: column;">
     <a style="font-size: 1.5rem; font-weight: bold;">My courses</a>
     <div class="box1" style="background-color: var(--bgcolor); height: 60px; width: 95%; overflow: hidden; justify-content: space-between;">
-    <div id='flag-container' style="overflow-x: auto; display: flex; gap: 10px; width: 70%">
+    <div id='flag-container' style="overflow-x: auto; display: flex; gap: 10px; width: 75%; border-radius: 5px;">
     </div>
-    <div onclick='displayCourses()' class = 'box2' style="width: 20%;">
-        
+    <div onclick='displayCourses()' class = 'box2' style="width: 15%;">
+        <img src="assets/plus.png" style='height: 100%;'>
         </div>
       </div>
     </div>
@@ -154,7 +154,7 @@
         for (let i = 0; i < courses.length; i++) {
           if (myCourses[i] != -1){
             flagsHTML += `
-            <img onclick = 'changeLang(${myCourses[i]})' src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 80%; border-radius: 5px; aspect-ratio: 3 / 2;'>
+            <img onclick = 'changeLang(${myCourses[i]})' src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 100%; border-radius: 5px; aspect-ratio: 3 / 2;'>
             `;
           }
         }
