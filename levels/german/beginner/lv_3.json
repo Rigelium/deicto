@@ -1,0 +1,31 @@
+{
+  "title": "Noun collection 1",
+  "sentences": [
+    ["Das ", "Haus", " ist sehr alt und groß.", "The house is very old and big.", "Haus", "Auto", "Buch", "Brot"],
+    ["Ich fahre mit dem ", "Auto", " zur Arbeit.", "I go to work by car.", "Auto", "Haus", "Fahrrad", "Boot"],
+    ["Auf dem Tisch liegt ein ", "Buch", ".", "There is a book lying on the table.", "Buch", "Brot", "Glas", "Kind"],
+    ["Der ", "Tisch", " ist aus Holz.", "The table is made of wood.", "Tisch", "Stuhl", "Baum", "Park"],
+    ["Ich sitze auf einem ", "Stuhl", ".", "I am sitting on a chair.", "Stuhl", "Tisch", "Schrank", "Platz"],
+    ["Das ", "Brot", " schmeckt sehr gut.", "The bread tastes very good.", "Brot", "Buch", "Wasser", "Bier"],
+    ["Ich trinke ein Glas ", "Wasser", ".", "I am drinking a glass of water.", "Wasser", "Brot", "Bier", "Salz"],
+    ["Die ", "Sonne", " scheint heute hell.", "The sun is shining brightly today.", "Sonne", "Blume", "Stadt", "Welt"],
+    ["Der ", "Baum", " im Garten ist sehr hoch.", "The tree in the garden is very tall.", "Baum", "Tisch", "Stuhl", "Park"],
+    ["Ich kaufe eine ", "Blume", " für meine Mutter.", "I am buying a flower for my mother.", "Blume", "Sonne", "Stadt", "Tasche"],
+    ["Die ", "Stadt", " ist nachts sehr laut.", "The city is very loud at night.", "Stadt", "Blume", "Sonne", "Schule"],
+    ["In der ", "Schule", " lernen wir viel.", "In school, we learn a lot.", "Schule", "Tasche", "Küche", "Straße"],
+    ["Meine ", "Tasche", " ist blau und schwer.", "My bag is blue and heavy.", "Tasche", "Blume", "Schule", "Stadt"],
+    ["Das ", "Kind", " spielt im Garten.", "The child is playing in the garden.", "Kind", "Buch", "Haus", "Brot"],
+    ["Wir gehen in den ", "Park", ".", "We are going into the park.", "Park", "Tisch", "Baum", "Flur"],
+    ["Das ", "Fenster", " ist leider kaputt.", "The window is unfortunately broken.", "Fenster", "Zimmer", "Auto", "Haus"],
+    ["Die ", "Tür", " ist offen.", "The door is open.", "Tür", "Stadt", "Tasche", "Blume"],
+    ["In der ", "Küche", " kochen wir.", "In the kitchen, we cook.", "Küche", "Schule", "Straße", "Tasche"],
+    ["Die ", "Straße", " ist sehr breit.", "The street is very wide.", "Straße", "Stadt", "Schule", "Küche"],
+    ["Ich brauche einen ", "Schlüssel", " für meine Wohnung.", "I need a key for my apartment.", "Schlüssel", "Apfel", "Hund", "Kaffee"],
+    ["Der ", "Hund", " schläft im Korb.", "The dog is sleeping in the basket.", "Hund", "Schlüssel", "Apfel", "Kaffee"],
+    ["Ich esse einen roten ", "Apfel", ".", "I am eating a red apple.", "Apfel", "Schlüssel", "Hund", "Kaffee"],
+    ["Der ", "Kaffee", " ist noch sehr heiß.", "The coffee is still very hot.", "Kaffee", "Hund", "Apfel", "Zucker"],
+    ["Möchtest du ", "Zucker", " in deinen Tee?", "Would you like sugar in your tea?", "Zucker", "Kaffee", "Apfel", "Wein"],
+    ["Ein Glas ", "Wein", " am Abend ist schön.", "A glass of wine in the evening is nice.", "Wein", "Wasser", "Zucker", "Brot"]
+  ],
+  "dictionary": "das Haus - house\ndas Auto - car\ndas Buch - book\nder Tisch - table\nder Stuhl - chair\ndas Brot - bread\ndas Wasser - water\ndie Sonne - sun\nder Baum - tree\ndie Blume - flower\ndie Stadt - city\ndie Schule - school\ndie Tasche - bag\ndas Kind - child\nder Park - park\ndas Fenster - window\ndie Tür - door\ndie Küche - kitchen\ndie Straße - street\nder Schlüssel - key\nder Hund - dog\nder Apfel - apple\nder Kaffee - coffee\nder Zucker - sugar\nder Wein - wine"
+}

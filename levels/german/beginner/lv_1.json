@@ -1,0 +1,31 @@
+{
+  "title": "Greetings and Introductions",
+  "sentences": [
+    ["Hallo, ich ", "bin", " Julia.", "Hello, I am Julia.", "bin", "bist", "ist", "sind"],
+    ["Wie ", "geht", " es dir?", "How are you?", "geht", "läuft", "macht", "sieht"],
+    ["Mir geht es ", "gut", ", danke.", "I am doing well, thanks.", "gut", "schlecht", "müde", "kalt"],
+    ["Wie ", "heißt", " du?", "What is your name?", "heißt", "wohnst", "kommst", "lernst"],
+    ["Ich ", "heiße", " Lukas.", "My name is Lukas.", "heiße", "wohne", "komme", "lerne"],
+    ["Freut ", "mich", ".", "Nice to meet you (it pleases me).", "mich", "dich", "uns", "euch"],
+    ["Woher ", "kommst", " du?", "Where are you from?", "kommst", "wohnst", "gehst", "lernst"],
+    ["Ich ", "komme", " aus Deutschland.", "I come from Germany.", "komme", "wohne", "gehe", "lerne"],
+    ["Wo ", "wohnst", " du?", "Where do you live?", "wohnst", "kommst", "gehst", "arbeitest"],
+    ["Ich ", "wohne", " in Berlin.", "I live in Berlin.", "wohne", "komme", "gehe", "arbeite"],
+    ["Guten ", "Morgen", ", wie war deine Nacht?", "Good morning, how was your night?", "Morgen", "Tag", "Abend", "Mittag"],
+    ["Guten ", "Tag", ", alles klar?", "Good day, everything alright?", "Tag", "Abend", "Morgen", "Mittag"],
+    ["Guten ", "Abend", ", was machst du heute?", "Good evening, what are you doing today?", "Abend", "Tag", "Morgen", "Mittag"],
+    ["Gute ", "Nacht", ", schlaf gut!", "Good night, sleep well!", "Nacht", "Zeit", "Reise", "Fahrt"],
+    ["Bis ", "bald", ", wir sehen uns!", "See you soon, we'll see each other!", "bald", "heute", "jetzt", "morgen"],
+    ["", "Tschüss", ", bis morgen!", "Bye, see you tomorrow!", "Tschüss", "Hallo", "Danke", "Bitte"],
+    ["Wer ", "ist", " das?", "Who is that?", "ist", "sind", "bin", "bist"],
+    ["Das ", "ist", " meine Freundin.", "That is my girlfriend/friend.", "ist", "sind", "bin", "bist"],
+    ["Wie ", "alt", " bist du?", "How old are you?", "alt", "groß", "jung", "klein"],
+    ["Ich bin zwanzig ", "Jahre", " alt.", "I am twenty years old.", "Jahre", "Monate", "Wochen", "Tage"],
+    ["Was ", "machst", " du beruflich?", "What do you do for a living?", "machst", "arbeitest", "lernst", "tust"],
+    ["Ich bin ", "Student", ".", "I am a (male) student.", "Student", "Lehrer", "Arzt", "Kellner"],
+    ["", "Entschuldigung", ", hast du kurz Zeit?", "Excuse me, do you have a moment?", "Entschuldigung", "Hilfe", "Pause", "Arbeit"],
+    ["Vielen ", "Dank", " für deine Hilfe.", "Many thanks for your help.", "Dank", "Spaß", "Erfolg", "Wunsch"],
+    ["Gern ", "geschehen", "!", "You're welcome!", "geschehen", "gemacht", "getan", "gesehen"]
+  ],
+ "dictionary": "hallo - hello\nder Morgen - morning\nder Tag - day\nder Abend - evening\ndie Nacht - night\nder Mittag - noon\ndas Jahr (Pl. die Jahre) - year\nder Student - student (male)\nEntschuldigung - excuse me / apology\nVielen Dank - thanks a lot\ndie Hilfe - help\ndie Zeit - time\nGern geschehen - You're welcome\ngut - good\nbald - soon\nalt - old\nheißt / heißen - to be called\nkommen - to come\nwohnen - to live (in a place)\nmachen - to do / make\nist / sein - is / to be"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Rooms and Furniture 2",
+  "sentences": [
+    ["Der ", "Kühlschrank", " ist in der Küche.", "The refrigerator is in the kitchen.", "Kühlschrank", "Wasserkocher", "Staubsauger", "Herd"],
+    ["Wir backen eine Pizza im ", "Ofen", ".", "We are baking a pizza in the oven.", "Ofen", "Topf", "Schrank", "Keller"],
+    ["Ich stelle das Glas in die ", "Spülmaschine", ".", "I put the glass in the dishwasher.", "Spülmaschine", "Waschmaschine", "Mikrowelle", "Kaffeemaschine"],
+    ["Die ", "Waschmaschine", " steht im Keller.", "The washing machine is in the basement.", "Waschmaschine", "Spülmaschine", "Mikrowelle", "Pfanne"],
+    ["Ich brauche eine ", "Gabel", " zum Essen.", "I need a fork to eat.", "Gabel", "Pfanne", "Tasse", "Schüssel"],
+    ["Das ", "Messer", " ist sehr scharf.", "The knife is very sharp.", "Messer", "Brot", "Glas", "Handtuch"],
+    ["Wo ist der ", "Löffel", " für die Suppe?", "Where is the spoon for the soup?", "Löffel", "Kühlschrank", "Ofen", "Herd"],
+    ["Der ", "Teller", " ist aus weißer Keramik.", "The plate is made of white ceramic.", "Teller", "Löffel", "Schlüssel", "Tisch"],
+    ["Ich trinke Tee aus einer ", "Tasse", ".", "I am drinking tea from a cup/mug.", "Tasse", "Gabel", "Pfanne", "Pflanze"],
+    ["Der ", "Wasserkocher", " macht schnell heißes Wasser.", "The kettle makes hot water quickly.", "Wasserkocher", "Fernseher", "Staubsauger", "Kühlschrank"],
+    ["Die ", "Kaffeemaschine", " ist leider kaputt.", "The coffee machine is unfortunately broken.", "Kaffeemaschine", "Spülmaschine", "Waschmaschine", "Mikrowelle"],
+    ["Ich schalte den ", "Fernseher", " ein.", "I turn on the TV.", "Fernseher", "Wasserkocher", "Staubsauger", "Herd"],
+    ["Die ", "Fernbedienung", " liegt auf dem Sofa.", "The remote control is lying on the sofa.", "Fernbedienung", "Lampe", "Wand", "Decke"],
+    ["Das ", "Radio", " spielt gute Musik.", "The radio is playing good music.", "Radio", "Bild", "Bett", "Regal"],
+    ["Ich brauche eine ", "Pfanne", " für das Ei.", "I need a pan for the egg.", "Pfanne", "Gabel", "Tasse", "Mikrowelle"],
+    ["Der ", "Topf", " steht auf dem Herd.", "The pot is on the stove.", "Topf", "Ofen", "Löffel", "Teller"],
+    ["Wir kochen auf dem ", "Elektroherd", ".", "We cook on the electric stove.", "Elektroherd", "Kühlschrank", "Wasserkocher", "Fernseher"],
+    ["Die ", "Mikrowelle", " ist sehr praktisch.", "The microwave is very practical.", "Mikrowelle", "Spülmaschine", "Waschmaschine", "Kaffeemaschine"],
+    ["Ich sauge Staub mit dem ", "Staubsauger", ".", "I vacuum with the vacuum cleaner.", "Staubsauger", "Wasserkocher", "Fernseher", "Kühlschrank"],
+    ["Das ", "Bügeleisen", " ist noch sehr heiß.", "The iron is still very hot.", "Bügeleisen", "Radio", "Bild", "Messer"],
+    ["Ich liege auf der ", "Matratze", ".", "I am lying on the mattress.", "Matratze", "Decke", "Wand", "Lampe"],
+    ["Der ", "Mülleimer", " ist schon wieder voll.", "The trash can is full again.", "Mülleimer", "Kühlschrank", "Teller", "Topf"],
+    ["Die ", "Dusche", " ist im Badezimmer.", "The shower is in the bathroom.", "Dusche", "Küche", "Straße", "Stadt"],
+    ["Ich wasche meine Hände im ", "Waschbecken", ".", "I wash my hands in the sink.", "Waschbecken", "Bett", "Sofa", "Haus"],
+    ["Das ", "Handtuch", " ist im Schrank.", "The towel is in the closet.", "Handtuch", "Messer", "Brot", "Glas"]
+  ],
+  "dictionary": "der Kühlschrank - refrigerator\nder Ofen - oven\ndie Spülmaschine - dishwasher\ndie Waschmaschine - washing machine\nder Keller - basement\ndie Gabel - fork\ndas Messer - knife\nder Löffel - spoon\nder Teller - plate\ndie Tasse - cup/mug\nder Wasserkocher - kettle\ndie Kaffeemaschine - coffee machine\nder Fernseher - TV\ndie Fernbedienung - remote control\ndas Radio - radio\ndie Pfanne - pan\nder Topf - pot\nder Elektroherd (Herd) - electric stove\ndie Mikrowelle - microwave\nder Staubsauger - vacuum cleaner\ndas Bügeleisen - iron\ndie Matratze - mattress\nder Mülleimer - trash can\ndie Dusche - shower\ndas Waschbecken - sink\ndas Handtuch - towel"
+}

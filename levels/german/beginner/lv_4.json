@@ -1,0 +1,31 @@
+{
+  "title": "Rooms and Furniture 1",
+  "sentences": [
+    ["Das ", "Wohnzimmer", " ist sehr gemütlich.", "The living room is very cozy.", "Wohnzimmer", "Schlafzimmer", "Badezimmer", "Arbeitszimmer"],
+    ["Ich schlafe in meinem ", "Schlafzimmer", ".", "I sleep in my bedroom.", "Schlafzimmer", "Wohnzimmer", "Badezimmer", "Arbeitszimmer"],
+    ["Das ", "Bett", " ist groß und weich.", "The bed is big and soft.", "Bett", "Sofa", "Regal", "Bild"],
+    ["Im Flur steht ein großer ", "Spiegel", ".", "There is a large mirror in the hallway.", "Spiegel", "Schrank", "Teppich", "Vorhang"],
+    ["Ich hänge meine Kleidung in den ", "Schrank", ".", "I hang my clothes in the closet.", "Schrank", "Teppich", "Spiegel", "Vorhang"],
+    ["Die ", "Lampe", " steht auf dem Tisch.", "The lamp is on the table.", "Lampe", "Decke", "Wand", "Küche"],
+    ["Wir sitzen alle auf dem ", "Sofa", ".", "We are all sitting on the sofa.", "Sofa", "Bett", "Regal", "Bild"],
+    ["Die Bücher stehen im ", "Regal", ".", "The books are in the shelf.", "Regal", "Sofa", "Bett", "Bild"],
+    ["Der ", "Teppich", " liegt auf dem Boden.", "The rug lies on the floor.", "Teppich", "Spiegel", "Schrank", "Vorhang"],
+    ["An der ", "Wand", " hängt ein schönes Bild.", "A beautiful picture hangs on the wall.", "Wand", "Decke", "Lampe", "Küche"],
+    ["Das ", "Bild", " zeigt einen Wald.", "The picture shows a forest.", "Bild", "Sofa", "Bett", "Regal"],
+    ["Das ", "Badezimmer", " ist leider sehr klein.", "The bathroom is unfortunately very small.", "Badezimmer", "Wohnzimmer", "Schlafzimmer", "Esszimmer"],
+    ["Wir essen im ", "Esszimmer", ".", "We eat in the dining room.", "Esszimmer", "Badezimmer", "Schlafzimmer", "Wohnzimmer"],
+    ["Mein ", "Schreibtisch", " ist im Arbeitszimmer.", "My desk is in the office/study.", "Schreibtisch", "Teppich", "Spiegel", "Schrank"],
+    ["Ich öffne den ", "Vorhang", " am Morgen.", "I open the curtain in the morning.", "Vorhang", "Spiegel", "Schrank", "Teppich"],
+    ["Der ", "Boden", " ist aus Stein.", "The floor is made of stone.", "Boden", "Tisch", "Baum", "Park"],
+    ["Die ", "Decke", " ist weiß gestrichen.", "The ceiling is painted white.", "Decke", "Wand", "Lampe", "Küche"],
+    ["Im ", "Flur", " hängen die Jacken.", "The jackets hang in the hallway.", "Flur", "Park", "Tisch", "Baum"],
+    ["Jedes ", "Zimmer", " hat ein Fenster.", "Every room has a window.", "Zimmer", "Haus", "Auto", "Buch"],
+    ["Die ", "Küche", " ist modern eingerichtet.", "The kitchen is modernly furnished.", "Küche", "Wand", "Decke", "Lampe"],
+    ["Der ", "Sessel", " ist sehr bequem.", "The armchair is very comfortable.", "Sessel", "Tisch", "Baum", "Park"],
+    ["Das ", "Kissen", " liegt auf dem Bett.", "The pillow lies on the bed.", "Kissen", "Bett", "Sofa", "Regal"],
+    ["In der Ecke steht eine ", "Pflanze", ".", "There is a plant in the corner.", "Pflanze", "Lampe", "Wand", "Decke"],
+    ["Das ", "Arbeitszimmer", " ist sehr hell.", "The study/office is very bright.", "Arbeitszimmer", "Wohnzimmer", "Badezimmer", "Schlafzimmer"],
+    ["Ich brauche ein neues ", "Licht", ".", "I need a new light.", "Licht", "Haus", "Auto", "Bett"]
+  ],
+  "dictionary": "das Wohnzimmer - living room\ndas Schlafzimmer - bedroom\ndas Bett - bed\nder Spiegel - mirror\nder Schrank - closet/cupboard\ndie Lampe - lamp\ndas Sofa - sofa\ndas Regal - shelf\nder Teppich - rug/carpet\ndie Wand - wall\ndas Bild - picture\ndas Badezimmer - bathroom\ndas Esszimmer - dining room\nder Schreibtisch - desk\nder Vorhang - curtain\nder Boden - floor\ndie Decke - ceiling\nder Flur - hallway\ndas Zimmer - room\ndie Küche - kitchen\nder Sessel - armchair\ndas Kissen - pillow\ndie Pflanze - plant\ndas Arbeitszimmer - study/office\ndas Licht - light"
+}
