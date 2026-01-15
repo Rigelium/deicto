@@ -95,6 +95,7 @@
       
       //language parameters are already defined
 
+      
       let language = retrieveVariable("language", 'Spanish');
       let langCodeTTS = retrieveVariable("langCodeTTS", 'es-ES'); 
       let difLevel = retrieveVariable(`${language}-difLevel`, "beginner");
@@ -111,6 +112,7 @@
         } catch(error) {
           console.log(error);
         }
+        loadDifs(stringToId(language));
         loadList();
         displayFlags();
       }
@@ -241,6 +243,13 @@ const codeInput = document.getElementById('code-input');
         const menuFlag = document.getElementById('menu-flag');
         menuLangName.textContent = chLang;
         menuFlag.src = `assets/flags/${chLang}.png`;
+      }
+
+      function stringToId(string){
+        for (let i = 0; i < courses.length; i++){
+          if (string == courses[i].name)
+            return i;
+        }
       }
       
       function retrieveVariable(varName, defaultValue) {
