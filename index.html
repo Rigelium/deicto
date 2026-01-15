@@ -206,11 +206,17 @@
         
         let difHTML = "";
         for (let i = 0; i < difList.length; i++){
-        difHTML += `
-        <div class="box3" onclick="localStorage.setItem('${courses[langID].name}-difLevel', '${difList[i]}')">
-          <a>${difList[i]}</a>
-        </div>`;
-        }
+
+          let boxType = 'box3';
+          if ( localStorage.getItem(`${courses[langID].name}-difLevel`) == ${difList[i]} ) {
+            boxType = 'box2';
+          }
+          
+          difHTML += `
+          <div class="${boxType}" onclick="localStorage.setItem('${courses[langID].name}-difLevel', '${difList[i]}'; loadDifs(${langID}))">
+            <a>${difList[i]}</a>
+          </div>`;
+          }
         difContainer.innerHTML = difHTML;
       }
       
