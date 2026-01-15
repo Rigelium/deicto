@@ -205,7 +205,7 @@
         for (let i = 0; i < difList.length; i++){
         let difHTML = "";
         difHTML += `
-        <div class="box3">
+        <div class="box3" onclick="localStorage.setItem('${language}-difLevel', difList[i])">
           <a>${difList[i]}</a>
         </div>`;
         }
