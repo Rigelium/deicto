@@ -221,7 +221,8 @@
       }
       
       function generatePdf(lvNumber, lvTitle, sentencesPdf) {
-        
+
+        let currentPage = 1;
         const img = new Image();
         img.src = ('../assets/logo.png');
         const flag = new Image();
@@ -247,10 +248,6 @@
         doc.text(`Lv. ${lvNumber} - ${lvTitle}, printable version`, 60, 20);
         doc.text(`Visit rigelium.github.io/deicto/ for more exercises`, 60, 25);
 
-        //splitting line
-        doc.setLineDash([2, 2]);
-        doc.line(160, 40, 160, 297);
-
 
         //entries
         const entryHeight = 20;
@@ -269,9 +266,9 @@
         doc.line(160, 0, 160, 297);
           } 
 
-          if (i % 2 == 0){
+          if (i % 2 == 1){
             doc.setFillColor(220, 220, 220); 
-            doc.rect(0, totalHeight-10, pageWidth, entryHeight, 'F');
+            doc.rect(0, totalHeight-5, pageWidth, entryHeight, 'F');
           }
           
           doc.setTextColor(0, 0, 0);
