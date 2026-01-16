@@ -258,10 +258,10 @@
         for (let i = 0; i < levelData.sentences.length; i++) {
           let answers = randomizeOrder([4, 5, 6, 7]);
           totalHeight += entryHeight;  
-          if (totalHeight >= 260) {
-            let lineTop = 0;
+          if (totalHeight >= 260 || i == levelData.sentences.length-1) {
+            let lineTop = 40;
             if (currentPage > 1){
-              lineTop = 40;
+              lineTop = 0;
             }
             //splitting line
         doc.setLineDash([2, 2]);
