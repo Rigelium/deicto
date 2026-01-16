@@ -259,7 +259,7 @@
 
 
         for (let i = 0; i < levelData.sentences.length; i++) {
-          let answers = [4, 5, 6, 7];
+          let answers = randomizeOrder([4, 5, 6, 7]);
           totalHeight += entryHeight;  
           if (totalHeight >= 260) {
             doc.addPage();
@@ -278,7 +278,7 @@
           doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight);
           doc.setTextColor(100, 100, 100);
           doc.text(sentencesPdf[i][3], 10, totalHeight + 5);
-          doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]}`, 10, totalHeight + 10);
+          doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + 10);
           
         }
         
@@ -301,6 +301,18 @@
           return defaultValue;
         }
       }
+
+
+      function randomizeOrder(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        // Pick a random index from 0 to i
+        const j = Math.floor(Math.random() * (i + 1));
+        
+        // Swap elements at i and j
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
       
     </script>
   </body>
