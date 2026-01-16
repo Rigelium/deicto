@@ -211,6 +211,8 @@
       function toPdf(lvNumber, lvTitle) {
         const img = new Image();
         img.src = ('../assets/logo.png');
+        const flag = new Image();
+        flag.src = (`../assets/flags/${language}.png`);
 
         
         const { jsPDF } = window.jspdf;
@@ -221,10 +223,11 @@
         doc.rect(0, 0, pageWidth, 40, 'F');
 
         doc.addImage(img, 'PNG', 10, 10, 46.877, 20);
+        doc.addImage(flag, 'PNG', pageWidth - 40 , 10, 30, 20);
 
         doc.setTextColor(255, 255, 255);
         doc.setFontSize(15);
-        doc.text(`Course ${language} - ${difLevel}`, 60, 15);
+        doc.text(`${language} - ${difLevel}`, 60, 15);
         doc.setTextColor(200, 200, 200);
         doc.setFontSize(10);
         doc.text(`Lv. ${lvNumber} - ${lvTitle}, printable version`, 60, 20);
