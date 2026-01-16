@@ -127,7 +127,7 @@
             </div>
           </div>
           <div style="display: flex; flex-direction: column; width: 20%; gap: 5px;">
-            <div class="box3" onclick="toPdf()">
+            <div class="box3" onclick="toPdf(${levelNumber}, ${levelTitle})">
               <img src="../assets/book.png" style="height: 1rem;">
               <a>notes</a>
             </div>
@@ -208,12 +208,12 @@
       }
 
 
-      function toPdf() {
+      function toPdf(lvNumber, lvTitle) {
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
 
         doc.setFontSize(20);
-        doc.text("Testing pdf files", 10, 20);
+        doc.text(`Lv. ${lvNumber} - ${lvTitle}, printable version`, 10, 20);
 
         doc.save("test.pdf");
       }
