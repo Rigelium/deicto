@@ -208,19 +208,20 @@
       }
 
 
-      async function fetchDataPdf() {
-                try {
-            const responsePdf = await fetch(path + "lv_" + lvNumber + ".json");
-            levelDataPdf = await responsePdf.json();
-          } catch(error) {
-            console.log(error);
-          } 
-        sentencesPdf = levelDataPdf.sentences[lvNumber];
-        return sentencesPdf;
+      async function fetchDataPdf(lvNumber) {
+        try {
+          const responsePdf = await fetch(path + "lv_" + lvNumber + ".json");
+          levelDataPdf = await responsePdf.json();
+        } catch(error) {
+          console.log(error);
+        } finally {
+          let sentencesPdf = levelDataPdf.sentences[lvNumber];
+          return sentencesPdf;      
+        }
       }
       
       function toPdf(lvNumber, lvTitle) {
-        sentencesPdf = fetchDataPdf();
+        sentencesPdf = fetchDataPdf(lvNumber);
 
 
 
