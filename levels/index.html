@@ -221,8 +221,12 @@
         doc.rect(0, 0, pageWidth, 40, 'F');
 
         doc.addImage(img, 'PNG', 10, 10, 46.877, 20);
+
+        doc.setTextColor(255, 255, 255);
         doc.setFontSize(15);
         doc.text(`Course ${language} - ${difLevel}`, 60, 10);
+        doc.setTextColor(200, 200, 200);
+        doc.setFontSize(10);
         doc.text(`Lv. ${lvNumber} - ${lvTitle}, printable version`, 60, 20);
 
         doc.save("test.pdf");
