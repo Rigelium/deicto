@@ -208,7 +208,7 @@
       }
 
 
-      async function fetchDataPdf(lvNumber) {
+      async function toPdf(lvNumber, lvTitle) {
         try {
           const responsePdf = await fetch(path + "lv_" + lvNumber + ".json");
           levelDataPdf = await responsePdf.json();
@@ -216,11 +216,11 @@
           console.log(error);
         } finally {
           let sentencesPdf = levelDataPdf.sentences[lvNumber];
-          return sentencesPdf;      
+          generatePdf(lvNumber, lvTitle, sentencesPdf);
         }
       }
       
-      function toPdf(lvNumber, lvTitle) {
+      function generatePdf(lvNumber, lvTitle, sentencesPdf) {
         sentencesPdf = fetchDataPdf(lvNumber);
 
 
