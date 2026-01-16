@@ -209,10 +209,15 @@
 
 
       function toPdf(lvNumber, lvTitle) {
+        const img = new Image();
+        img.src = ('../assets/logo.png');
+
+        
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
 
-        doc.setFontSize(20);
+        doc.addImage(img, 'PNG', 10, 10, 50, 50);
+        doc.setFontSize(10);
         doc.text(`Lv. ${lvNumber} - ${lvTitle}, printable version`, 10, 20);
 
         doc.save("test.pdf");
