@@ -233,6 +233,10 @@
         doc.text(`Lv. ${lvNumber} - ${lvTitle}, printable version`, 60, 20);
         doc.text(`Visit rigelium.github.io/deicto/ for more exercises`, 60, 25);
 
+
+        doc.setLineDash([2, 2]);
+        doc.line(150, 0, 150, 297);
+
         doc.save("test.pdf");
       }
 
