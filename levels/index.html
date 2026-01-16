@@ -279,8 +279,8 @@
           
           doc.setTextColor(0, 0, 0);
           doc.text(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, 10, totalHeight);
-          doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight);
-          doc.setTextColor(100, 100, 100);
+          doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight + 5);
+          doc.setTextColor(180, 180, 180);
           doc.text(sentencesPdf[i][3], 10, totalHeight + 5);
           doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + 10);
           
