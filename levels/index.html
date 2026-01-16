@@ -269,10 +269,11 @@
         doc.line(160, 0, 160, 297);
           } 
 
-     //     if (i % 2 == 0){
-       //     doc.setFillColor(220, 220, 220); 
-         //   doc.rect(0, totalHeight, pageWidth, totalHeight + entryHeight, 'F');
-          //}
+          if (i % 2 == 0){
+            doc.setFillColor(220, 220, 220); 
+            doc.rect(0, totalHeight, pageWidth, totalHeight + entryHeight, 'F');
+          }
+          
           doc.setTextColor(0, 0, 0);
           doc.text(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, 10, totalHeight);
           doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight);
