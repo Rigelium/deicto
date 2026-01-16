@@ -237,7 +237,7 @@
         doc.setLineDash([2, 2]);
         doc.line(150, 0, 150, 297);
 
-        doc.save("test.pdf");
+        doc.save(`${language}_${difLevel}_${lvNumber}_${lvTitle}.pdf`);
       }
 
 
