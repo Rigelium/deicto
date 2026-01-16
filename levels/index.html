@@ -216,6 +216,10 @@
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
 
+        const pageWidth = doc.internal.pageSize.getWidth();
+        doc.setFillColor(41, 128, 185); 
+        doc.rect(0, 0, pageWidth, 40, 'F');
+
         doc.addImage(img, 'PNG', 10, 10, 46.877, 20);
         doc.setFontSize(15);
         doc.text(`Course ${language} - ${difLevel}`, 60, 10);
