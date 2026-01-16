@@ -238,6 +238,17 @@
         doc.setLineDash([5, 2]);
         doc.line(160, 40, 160, 297);
 
+
+        //entries
+        const entryHeight = 20;
+        const baseHeight = 50;
+
+        for (let i = 0; i < levelData.sentences.length; i++) {
+      
+          const totalHeight = entryHeight + baseHeight;   
+          doc.text(`Sentence ${i}`, 10, totalHeight;
+        }
+        
         //saving
         doc.save(`${language}_${difLevel}_${lvNumber}_${lvTitle}.pdf`);
       }
