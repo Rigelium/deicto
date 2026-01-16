@@ -218,6 +218,7 @@
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
 
+        //header
         const pageWidth = doc.internal.pageSize.getWidth();
         doc.setFillColor(36, 33, 37); 
         doc.rect(0, 0, pageWidth, 40, 'F');
@@ -233,10 +234,11 @@
         doc.text(`Lv. ${lvNumber} - ${lvTitle}, printable version`, 60, 20);
         doc.text(`Visit rigelium.github.io/deicto/ for more exercises`, 60, 25);
 
-
+        //splitting line
         doc.setLineDash([2, 2]);
-        doc.line(150, 0, 150, 297);
+        doc.line(160, 60, 160, 297);
 
+        //saving
         doc.save(`${language}_${difLevel}_${lvNumber}_${lvTitle}.pdf`);
       }
 
