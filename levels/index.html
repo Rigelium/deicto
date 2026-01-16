@@ -253,19 +253,19 @@
         const entryHeight = 20;
         const baseHeight = 50;
         let totalHeight = baseHeight - entryHeight;  
+        let lineTop = 40;
 
 
         for (let i = 0; i < levelData.sentences.length; i++) {
           let answers = randomizeOrder([4, 5, 6, 7]);
           totalHeight += entryHeight;  
           if (totalHeight >= 260) {
-            let lineTop = 40;
             if (currentPage > 1){
               lineTop = 0;
             }
             //splitting line
-        doc.setLineDash([2, 2]);
-        doc.line(160, lineTop, 160, 297);
+            doc.setLineDash([2, 2]);
+            doc.line(160, lineTop, 160, 297);
 
             doc.addPage();
             currentPage++;
@@ -286,6 +286,9 @@
           doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + 10);
           
         }
+        //splitting line
+        doc.setLineDash([2, 2]);
+        doc.line(160, lineTop, 160, 297);
         
         //saving
         doc.save(`${language}_${difLevel}_${lvNumber}_${lvTitle}.pdf`);
