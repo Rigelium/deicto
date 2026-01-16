@@ -245,10 +245,10 @@
 
         for (let i = 0; i < levelData.sentences.length; i++) {
           let answers = [4, 5, 6, 7];
-          const totalHeight = entryHeight*i + baseHeight;  
+          let totalHeight = entryHeight*i + baseHeight;  
           if (totalHeight >= 200) {
             doc.addPage();
-            totalHeight += -200;
+            totalHeight = totalHeight-200;
           } 
           doc.setTextColor(0, 0, 0);
           doc.text(`${i}. ${levelData.sentences[i][0]} ........................ ${levelData.sentences[i][2]}`, 10, totalHeight);
