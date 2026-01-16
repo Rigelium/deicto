@@ -248,14 +248,14 @@
         doc.text(`Visit rigelium.github.io/deicto/ for more exercises`, 60, 25);
 
         //splitting line
-        doc.setLineDash([5, 2]);
+        doc.setLineDash([2, 2]);
         doc.line(160, 40, 160, 297);
 
 
         //entries
         const entryHeight = 20;
         const baseHeight = 50;
-        let totalHeight = baseHeight;  
+        let totalHeight = baseHeight - entryHeight;  
 
 
         for (let i = 0; i < levelData.sentences.length; i++) {
@@ -264,6 +264,9 @@
           if (totalHeight >= 260) {
             doc.addPage();
             totalHeight = totalHeight-260;
+                   //splitting line
+        doc.setLineDash([2, 2]);
+        doc.line(160, 0, 160, 297);
           } 
 
      //     if (i % 2 == 0){
