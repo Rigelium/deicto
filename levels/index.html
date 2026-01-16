@@ -247,7 +247,7 @@
 
         for (let i = 0; i < levelData.sentences.length; i++) {
           let answers = [4, 5, 6, 7];
-          totalHeight += entryHeight*i;  
+          totalHeight += entryHeight;  
           if (totalHeight >= 260) {
             doc.addPage();
             totalHeight = totalHeight-260;
