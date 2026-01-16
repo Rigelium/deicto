@@ -259,11 +259,17 @@
           let answers = randomizeOrder([4, 5, 6, 7]);
           totalHeight += entryHeight;  
           if (totalHeight >= 260) {
+            let lineTop = 0;
+            if (currentPage > 1){
+              lineTop = 40;
+            }
+            //splitting line
+        doc.setLineDash([2, 2]);
+        doc.line(160, lineTop, 160, 297);
+
             doc.addPage();
             totalHeight = totalHeight-260;
-                   //splitting line
-        doc.setLineDash([2, 2]);
-        doc.line(160, 0, 160, 297);
+        
           } 
 
           if (i % 2 == 1){
