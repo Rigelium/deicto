@@ -209,6 +209,17 @@
 
 
       function toPdf(lvNumber, lvTitle) {
+        try {
+            const responsePdf = await fetch(path + "lv_" + lvNumber + ".json");
+            levelDataPdf = await responsePdf.json();
+          } catch(error) {
+            console.log(error);
+          } 
+        sentencesPdf = levelDataPdf.sentences[lvNumber];
+
+
+
+        
         const img = new Image();
         img.src = ('../assets/logo.png');
         const flag = new Image();
@@ -253,17 +264,17 @@
             totalHeight = totalHeight-260;
           } 
 
-          if (i % 2 == 0){
-            doc.setFillColor(220, 220, 220); 
-            doc.rect(0, totalHeight, pageWidth, totalHeight + entryHeight, 'F');
-          }
+     //     if (i % 2 == 0){
+       //     doc.setFillColor(220, 220, 220); 
+         //   doc.rect(0, totalHeight, pageWidth, totalHeight + entryHeight, 'F');
+          //}
           
           doc.setTextColor(0, 0, 0);
-          doc.text(`${i}. ${levelData.sentences[i][0]} ........................ ${levelData.sentences[i][2]}`, 10, totalHeight);
-          doc.text(`${levelData.sentences[i][1]}`, 170, totalHeight);
+          doc.text(`${i}. ${sentencesPdf[0]} ........................ ${sentencesPdf[2]}`, 10, totalHeight);
+          doc.text(`${sentencesPdf[1]}`, 170, totalHeight);
           doc.setTextColor(100, 100, 100);
-          doc.text(levelData.sentences[i][3], 10, totalHeight + 5);
-          doc.text(`a.) ${levelData.sentences[i][answers[0]]} b.) ${levelData.sentences[i][answers[1]]}`, 10, totalHeight + 10);
+          doc.text(sentencesPdf[3], 10, totalHeight + 5);
+          doc.text(`a.) ${sentencesPdf[answers[0]]} b.) ${sentencesPdf[answers[1]]}`, 10, totalHeight + 10);
           
         }
         
