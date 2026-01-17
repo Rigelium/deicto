@@ -265,6 +265,7 @@
 
         //header
         const pageWidth = doc.internal.pageSize.getWidth();
+        
         doc.setFillColor(36, 33, 37); 
         doc.rect(0, 0, pageWidth, 40, 'F');
 
@@ -304,7 +305,7 @@
 
         for (let i = 0; i < levelData.sentences.length; i++) {
           let answers = randomizeOrder([4, 5, 6, 7]);
-          totalHeight += entryHeight;  
+          totalHeight += entryHeight; 
           if (totalHeight >= maxHeight) {
             if (currentPage > 1){
               lineTop = 0;
@@ -318,6 +319,7 @@
             totalHeight = 20;
         
           } 
+          let originalHeight = totalHeight;
 
           if (i % 2 == 1){
             doc.setFillColor(220, 220, 220); 
@@ -327,9 +329,6 @@
           doc.setTextColor(0, 0, 0);
           doc.setFont(specialFont);
           addText(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`);
-          // is
-          doc.setFont(specialFont);
-          doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight + textHeight);
           // EN: What is this?
           doc.setTextColor(50, 50, 50);
           doc.setFont("helvetica", "normal");
@@ -338,6 +337,9 @@
           doc.setFont(specialFont);
           doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + textHeight * 2);
           doc.setFont("helvetica", "normal");
+                    // is
+          doc.setFont(specialFont);
+          doc.text(`${sentencesPdf[i][1]}`, 170, originalHeight+(totalHeight-originalHeight)/2 + textHeight);
         }
         //splitting line
         doc.setLineDash([2, 2]);
@@ -378,6 +380,7 @@
     </script>
   </body>
 </html>
+
 
 
 
