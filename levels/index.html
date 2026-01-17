@@ -286,7 +286,7 @@
         const maxHeight = 280;
         let totalHeight = baseHeight - entryHeight;  
         let lineTop = 40;
-        const textHeight = 5;
+        const textHeight = 4;
         const maxWidth = 150;
 
         function addText(text) {
@@ -321,7 +321,7 @@
 
           if (i % 2 == 1){
             doc.setFillColor(220, 220, 220); 
-            doc.rect(0, totalHeight-6, pageWidth, entryHeight, 'F');
+            doc.rect(0, totalHeight-8, pageWidth, entryHeight, 'F');
           }
           // What .......... this?
           doc.setTextColor(0, 0, 0);
@@ -329,11 +329,11 @@
           addText(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`);
           // is
           doc.setFont(specialFont);
-          doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight + 5);
+          doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight + textHeight);
           // EN: What is this?
           doc.setTextColor(50, 50, 50);
           doc.setFont("helvetica", "normal");
-          doc.text(sentencesPdf[i][3], 10, totalHeight + 5);
+          doc.text(sentencesPdf[i][3], 10, totalHeight + textHeight);
           // is does makes knows
           doc.setFont(specialFont);
           doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + 10);
@@ -378,6 +378,7 @@
     </script>
   </body>
 </html>
+
 
 
 
