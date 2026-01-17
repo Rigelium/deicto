@@ -235,7 +235,7 @@
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
         
-        if (language = 'Hungarian') {
+        if (language == 'Hungarian') {
           await loadFont(doc, "Arial", "Arial.txt");
           doc.setFont('Arial');
         }
@@ -341,5 +341,6 @@
     </script>
   </body>
 </html>
+
 
 
