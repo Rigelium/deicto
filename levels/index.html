@@ -321,7 +321,7 @@
 
           if (i % 2 == 1){
             doc.setFillColor(220, 220, 220); 
-            doc.rect(0, totalHeight-4, pageWidth, entryHeight, 'F');
+            doc.rect(0, totalHeight-5, pageWidth, entryHeight, 'F');
           }
           // What .......... this?
           doc.setTextColor(0, 0, 0);
@@ -336,7 +336,7 @@
           doc.text(sentencesPdf[i][3], 10, totalHeight + textHeight);
           // is does makes knows
           doc.setFont(specialFont);
-          doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + 10);
+          doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + textHeight * 2);
           doc.setFont("helvetica", "normal");
         }
         //splitting line
@@ -378,6 +378,7 @@
     </script>
   </body>
 </html>
+
 
 
 
