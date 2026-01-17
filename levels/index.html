@@ -321,7 +321,7 @@
           } 
           let originalHeight = totalHeight;
 
-          let extraLines = doc.splitTextToSize(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, maxWidth).length + doc.splitTextToSize(sentencesPdf[i][3], maxWidth).length + doc.splitTextToSize(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + textHeight * 2, maxWidth).length - 3;
+          let extraLines = doc.splitTextToSize(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, maxWidth).length + doc.splitTextToSize(sentencesPdf[i][3], maxWidth).length + doc.splitTextToSize(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, maxWidth).length - 3;
           
           if (i % 2 == 1){
             doc.setFillColor(220, 220, 220); 
@@ -335,10 +335,10 @@
           // EN: What is this?
           doc.setTextColor(50, 50, 50);
           doc.setFont("helvetica", "normal");
-          doc.text(sentencesPdf[i][3], 10, totalHeight + textHeight);
+          addText(sentencesPdf[i][3]);
           // is does makes knows
           doc.setFont(specialFont);
-          doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + textHeight * 2);
+          addText(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`);
           doc.setFont("helvetica", "normal");
                     // is
           doc.setFont(specialFont);
@@ -383,6 +383,7 @@
     </script>
   </body>
 </html>
+
 
 
 
