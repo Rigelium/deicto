@@ -210,23 +210,35 @@
 
       async function toPdf(lvNumber, lvTitle) {
         try {
-          let fontString = "default";
           const responsePdf = await fetch(path + "lv_" + lvNumber + ".json");
           levelDataPdf = await responsePdf.json();
-          if (language = 'Hungarian') {
-            const responseFont = await fetch ("assets/fonts/Arial.json");
-            fontString = await responseFont.text();
-          }
         } catch(error) {
           console.log(error);
         } finally {
           let sentencesPdf = levelDataPdf.sentences;
-          generatePdf(lvNumber, lvTitle, sentencesPdf, fontString);
+          generatePdf(lvNumber, lvTitle, sentencesPdf);
         }
       }
-      
-      function generatePdf(lvNumber, lvTitle, sentencesPdf, fontString) {
 
+
+      async function loadFont(doc, fontName, fileName) {
+        const responseFont = await fetch ("assets/fonts/${fileName}");
+        fontString = await responseFont.text();
+        
+        doc.addFileToVFS(fileName, fontString);
+        doc.addFont(fileName, fontName, "normal");
+        console.log(`${fontName} loaded!`);
+      }
+      
+      async function generatePdf(lvNumber, lvTitle, sentencesPdf) {
+
+        const { jsPDF } = window.jspdf;
+        const doc = new jsPDF();
+        
+        if (language = 'Hungarian') {
+          await loadFont(doc, "Arial", "Arial.txt");
+          doc.setFont('Arial');
+        }
         let currentPage = 1;
         const img = new Image();
         img.src = ('../assets/logo.png');
@@ -234,8 +246,7 @@
         flag.src = (`../assets/flags/${language}.png`);
 
         
-        const { jsPDF } = window.jspdf;
-        const doc = new jsPDF();
+     
 
         //header
         const pageWidth = doc.internal.pageSize.getWidth();
@@ -330,4 +341,5 @@
     </script>
   </body>
 </html>
+
 
