@@ -1,0 +1,21 @@
+{
+  "title": "Japanese Introductions",
+  "sentences": [
+    ["", "こんにちは(konnichiwa)", "、元気？", "Hello, are you well?", "こんにちは(konnichiwa)", "おやすみ(oyasumi)", "さよなら(sayonara)", "ありがとう(arigatou)"],
+    ["名前は", "なに(nani)", "？", "What is (your) name?", "なに(nani)", "どこ(doko)", "だれ(dare)", "いつ(itsu)"],
+    ["私はケン", "だよ(dayo)", ".", "I am Ken.", "だよ(dayo)", "じゃない(janai)", "から(kara)", "まで(made)"],
+    ["よろしく", "ね(ne)", ".", "Nice to meet you (casual).", "ね(ne)", "よ(yo)", "か(ka)", "は(wa)"],
+    ["日本", "から(kara)", "来たよ。", "I came from Japan.", "から(kara)", "まで(made)", "だけ(dake)", "より(yori)"],
+    ["今は東京に", "住んでる(sunderu)", ".", "I'm living in Tokyo now.", "住んでる(sunderu)", "行ってる(itteru)", "見てる(miteru)", "食べてる(tabeteru)"],
+    ["これは", "だれ(dare)", "の？", "Whose is this?", "だれ(dare)", "なに(nani)", "どこ(doko)", "いつ(itsu)"],
+    ["", "ありがとう(arigatou)", ".", "Thank you.", "ありがとう(arigatou)", "ごめん(gomen)", "おねがい(onegai)", "いいよ(iiyo)"],
+    ["", "ごめん(gomen)", "、遅くなった。", "Sorry, I'm late.", "ごめん(gomen)", "ありがとう(arigatou)", "おねがい(onegai)", "いいよ(iiyo)"],
+    ["うん、", "いいよ(iiyo)", ".", "Yeah, it's fine.", "いいよ(iiyo)", "だめだよ(damedayo)", "違うよ(chigauyo)", "嫌だよ(iyadayo)"],
+    ["お腹が", "空いた(suita)", ".", "I'm hungry.", "空いた(suita)", "痛い(itai)", "いっぱい(ippai)", "熱い(atsui)"],
+    ["", "美味しい(oishii)", "ね！", "It's delicious, isn't it!", "美味しい(oishii)", "まずい(mazui)", "辛い(karai)", "甘い(amai)"],
+    ["また", "明日(ashita)", "ね。", "See you tomorrow.", "明日(ashita)", "昨日(kinou)", "今日(kyou)", "今夜(konya)"],
+    ["もう", "寝る(neru)", "時間だよ。", "It's already time to sleep.", "寝る(neru)", "行く(iku)", "飲む(nomu)", "遊ぶ(asobu)"],
+    ["", "おやすみ(oyasumi)", ".", "Good night.", "おやすみ(oyasumi)", "こんにちは(konnichiwa)", "さよなら(sayonara)", "ありがとう(arigatou)"]
+  ],
+  "dictionary": "こんにちは (konnichiwa) - hello\nなに (nani) - what\nだよ (dayo) - is/am (casual)\nから (kara) - from\n住んでる (sunderu) - living\nだれ (dare) - who\nありがとう (arigatou) - thank you\nごめん (gomen) - sorry\nいいよ (iiyo) - it's okay/good\n美味しい (oishii) - delicious\n明日 (ashita) - tomorrow\nおやすみ (oyasumi) - good night"
+}
