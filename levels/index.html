@@ -342,8 +342,8 @@
           doc.setFont("helvetica", "normal");
                     // is
           setSpecialFont();
-          const lines = doc.splitTextToSize(`${sentencesPdf[i][1]}`, 50);
-          doc.text(lines, 170, originalHeight+(totalHeight-originalHeight)/2 + textHeight - textHeight * (lines.length - 1));
+          const lines = doc.splitTextToSize(`${sentencesPdf[i][1]}`, 40);
+          doc.text(lines, 163, originalHeight+(totalHeight-originalHeight)/2 + textHeight - textHeight * (lines.length - 1) / 2);
           //doc.text(`${sentencesPdf[i][1]}`, 170, originalHeight+(totalHeight-originalHeight)/2 + textHeight);
         }
         //splitting line
@@ -385,6 +385,7 @@
     </script>
   </body>
 </html>
+
 
 
 
