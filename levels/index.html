@@ -321,10 +321,13 @@
           } 
           let originalHeight = totalHeight;
 
+          let extraLines = doc.splitTextToSize(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, maxWidth).length + doc.splitTextToSize(sentencesPdf[i][3], maxWidth).length + doc.splitTextToSize(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + textHeight * 2, maxWidth).length - 3;
+          
           if (i % 2 == 1){
             doc.setFillColor(220, 220, 220); 
-            doc.rect(0, totalHeight-5, pageWidth, entryHeight, 'F');
+            doc.rect(0, totalHeight-5, pageWidth, entryHeight + extraLines * textHeight, 'F');
           }
+
           // What .......... this?
           doc.setTextColor(0, 0, 0);
           doc.setFont(specialFont);
@@ -380,6 +383,7 @@
     </script>
   </body>
 </html>
+
 
 
 
