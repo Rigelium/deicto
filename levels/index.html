@@ -210,17 +210,22 @@
 
       async function toPdf(lvNumber, lvTitle) {
         try {
+          let fontString = "default";
           const responsePdf = await fetch(path + "lv_" + lvNumber + ".json");
           levelDataPdf = await responsePdf.json();
+          if (language = 'Hungarian') {
+            const responseFont = await fetch ("assets/fonts/Arial.json");
+            fontString = await responseFont.text();
+          }
         } catch(error) {
           console.log(error);
         } finally {
           let sentencesPdf = levelDataPdf.sentences;
-          generatePdf(lvNumber, lvTitle, sentencesPdf);
+          generatePdf(lvNumber, lvTitle, sentencesPdf, fontString);
         }
       }
       
-      function generatePdf(lvNumber, lvTitle, sentencesPdf) {
+      function generatePdf(lvNumber, lvTitle, sentencesPdf, fontString) {
 
         let currentPage = 1;
         const img = new Image();
@@ -325,3 +330,4 @@
     </script>
   </body>
 </html>
+
