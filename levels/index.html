@@ -223,7 +223,7 @@
 
       async function loadFont(doc, fontName, fileName) {
         const responseFont = await fetch ("assets/fonts/${fileName}");
-        fontString = await responseFont.text();
+        const fontString = await responseFont.text();
         
         doc.addFileToVFS(fileName, fontString);
         doc.addFont(fileName, fontName, "normal");
@@ -239,6 +239,7 @@
           await loadFont(doc, "Arial", "Arial.txt");
           doc.setFont('Arial');
         }
+        
         let currentPage = 1;
         const img = new Image();
         img.src = ('../assets/logo.png');
@@ -341,6 +342,7 @@
     </script>
   </body>
 </html>
+
 
 
 
