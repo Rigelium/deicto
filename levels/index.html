@@ -246,6 +246,10 @@
           await loadFont(doc, "Gmarket", "Gmarket_KR.txt");
           specialFont = "Gmarket";
         }
+        if (language == 'Japanese') {
+          await loadFont(doc, "HinaMincho", "HinaMincho_JP.txt");
+          specialFont = "HinaMincho";
+        }
 
 
         doc.setFont(specialFont);
@@ -355,6 +359,7 @@
     </script>
   </body>
 </html>
+
 
 
 
