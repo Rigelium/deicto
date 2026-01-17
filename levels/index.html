@@ -222,7 +222,7 @@
 
 
       async function loadFont(doc, fontName, fileName) {
-        const responseFont = await fetch (`assets/fonts/${fileName}`);
+        const responseFont = await fetch (`../assets/fonts/${fileName}`);
         const fontString = await responseFont.text();
         
         doc.addFileToVFS(fileName, fontString);
@@ -342,6 +342,7 @@
     </script>
   </body>
 </html>
+
 
 
 
