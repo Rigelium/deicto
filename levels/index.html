@@ -232,13 +232,24 @@
       
       async function generatePdf(lvNumber, lvTitle, sentencesPdf) {
 
+        
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
+        let specialFont = "none";
+
         
         if (language == 'Hungarian' || language == 'Russian') {
           await loadFont(doc, "Arial", "Arial.txt");
-          doc.setFont('Arial');
+          specialFont = "Arial";
         }
+        if (language == 'Korean') {
+          await loadFont(doc, "Gmarket", "Gmarket_KR.txt");
+          specialFont = "Gmarket";
+        }
+
+
+        doc.setFont(specialFont);
+
         
         let currentPage = 1;
         const img = new Image();
@@ -344,6 +355,7 @@
     </script>
   </body>
 </html>
+
 
 
 
