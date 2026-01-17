@@ -235,7 +235,7 @@
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
         
-        if (language == 'Hungarian') {
+        if (language == 'Hungarian' || language == 'Russian') {
           await loadFont(doc, "Arial", "Arial.txt");
           doc.setFont('Arial');
         }
@@ -269,14 +269,16 @@
         //entries
         const entryHeight = 20;
         const baseHeight = 50;
+        const maxHeight = 260;
         let totalHeight = baseHeight - entryHeight;  
         let lineTop = 40;
+        
 
 
         for (let i = 0; i < levelData.sentences.length; i++) {
           let answers = randomizeOrder([4, 5, 6, 7]);
           totalHeight += entryHeight;  
-          if (totalHeight >= 260) {
+          if (totalHeight >= maxHeight) {
             if (currentPage > 1){
               lineTop = 0;
             }
@@ -286,13 +288,13 @@
 
             doc.addPage();
             currentPage++;
-            totalHeight = totalHeight-260;
+            totalHeight = totalHeight-maxHeight;
         
           } 
 
           if (i % 2 == 1){
             doc.setFillColor(220, 220, 220); 
-            doc.rect(0, totalHeight-5, pageWidth, entryHeight, 'F');
+            doc.rect(0, totalHeight-6, pageWidth, entryHeight, 'F');
           }
           
           doc.setTextColor(0, 0, 0);
@@ -342,6 +344,7 @@
     </script>
   </body>
 </html>
+
 
 
 
