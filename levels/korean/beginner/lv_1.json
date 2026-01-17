@@ -1,0 +1,21 @@
+{
+  "title": "Korean Greetings",
+  "sentences": [
+    ["", "안녕하세요(annyeong-haseyo)", ", 잘 지냈어요?", "Hello, have you been well?", "안녕하세요(annyeong-haseyo)", "미안해요(mian-haeyo)", "고마워요(goma-woyo)", "반가워요(bang-gawoyo)"],
+    ["이름이 ", "뭐예요(mwo-yeyo)", "?", "What is your name?", "뭐예요(mwo-yeyo)", "어디예요(eodi-yeyo)", "누구예요(nugu-yeyo)", "언제예요(eonje-yeyo)"],
+    ["저는 수지", "예요(yeyo)", ".", "I am Suji.", "예요(yeyo)", "이에요(ieyo)", "하고(hago)", "에서(eseo)"],
+    ["만나서 ", "반가워요(bang-gawoyo)", ".", "Nice to meet you.", "반가워요(bang-gawoyo)", "고마워요(goma-woyo)", "미안해요(mian-haeyo)", "괜찮아요(gwaenchan-ayo)"],
+    ["도와줘서 정말 ", "고마워요(goma-woyo)", ".", "Thank you so much for helping.", "고마워요(goma-woyo)", "미안해요(mian-haeyo)", "반가워요(bang-gawoyo)", "괜찮아요(gwaenchan-ayo)"],
+    ["늦어서 ", "미안해요(mian-haeyo)", ".", "I'm sorry for being late.", "미안해요(mian-haeyo)", "고마워요(goma-woyo)", "반가워요(bang-gawoyo)", "괜찮아요(gwaenchan-ayo)"],
+    ["아니에요, ", "괜찮아요(gwaenchan-ayo)", ".", "No, it's okay.", "괜찮아요(gwaenchan-ayo)", "미안해요(mian-haeyo)", "고마워요(goma-woyo)", "반가워요(bang-gawoyo)"],
+    ["", "어디(eodi)", "에 살아요?", "Where do you live?", "어디(eodi)", "뭐(mwo)", "누구(nugu)", "언제(eonje)"],
+    ["저는 서울", "에서(eseo)", " 왔어요.", "I came from Seoul.", "에서(eseo)", "하고(hago)", "보다(boda)", "처럼(cheoreom)"],
+    ["이것은 ", "뭐예요(mwo-yeyo)", "?", "What is this?", "뭐예요(mwo-yeyo)", "어디예요(eodi-yeyo)", "누구예요(nugu-yeyo)", "언제예요(eonje-yeyo)"],
+    ["잘 ", "먹겠습니다(jal meok-gesseumnida)", ".", "I will eat well (Before a meal).", "먹겠습니다(jal meok-gesseumnida)", "지냈어요(jinaesseoyo)", "있어요(isseoyo)", "없어요(eopseoyo)"],
+    ["정말 ", "맛있어요(mas-isseoyo)", ".", "It's really delicious.", "맛있어요(mas-isseoyo)", "맛없어요(mas-eopseoyo)", "좋아요(jo-ayo)", "싫어요(sil-eoyo)"],
+    ["다음에 ", "봐요(bwayo)", ".", "See you next time.", "봐요(bwayo)", "가요(gayo)", "와요(wayo)", "해요(haeyo)"],
+    ["안녕히 ", "계세요(gye-seyo)", ".", "Goodbye (to person staying).", "계세요(gye-seyo)", "가세요(ga-seyo)", "오세요(o-seyo)", "하세요(ha-seyo)"],
+    ["잘 ", "자요(jayo)", ".", "Sleep well.", "자요(jayo)", "가요(gayo)", "와요(wayo)", "먹어요(meogeoyo)"]
+  ],
+  "dictionary": "안녕하세요 (annyeong-haseyo) - Hello\n뭐예요 (mwo-yeyo) - what is / what are\n반가워요 (bang-gawoyo) - nice to meet you\n고마워요 (goma-woyo) - thank you\n미안해요 (mian-haeyo) - sorry\n괜찮아요 (gwaenchan-ayo) - it's okay\n어디 (eodi) - where\n에서 (eseo) - from (location)\n맛있어요 (mas-isseoyo) - delicious\n봐요 (bwayo) - see / look\n안녕히 계세요 (annyeong-hi gye-seyo) - goodbye (staying)\n잘 자요 (jal jayo) - sleep well"
+}
