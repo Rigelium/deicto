@@ -286,7 +286,19 @@
         const maxHeight = 260;
         let totalHeight = baseHeight - entryHeight;  
         let lineTop = 40;
-        
+        const textHeight = 10;
+
+        function addText(text) {
+          // 1. Split text into lines
+          const lines = doc.splitTextToSize(text, maxWidth);
+          
+          // 2. Draw the text (doc.text handles arrays automatically)
+          doc.text(lines, 10, totalHeight);
+
+          // 3. Increment Y based on how many lines were created
+          // If it's 1 line, it adds 10. If it's 3 lines, it adds 30.
+          totalHeight += (lines.length - 1) * textHeight;
+        }
 
 
         for (let i = 0; i < levelData.sentences.length; i++) {
@@ -365,6 +377,7 @@
     </script>
   </body>
 </html>
+
 
 
 
