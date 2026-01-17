@@ -252,6 +252,11 @@
         }
 
 
+        function setSpecialFont() {
+          if (specialFont != 'none') {
+            doc.setFont(specialFont);
+          }
+        }
 
         
         let currentPage = 1;
@@ -325,18 +330,19 @@
 
           // What .......... this?
           doc.setTextColor(0, 0, 0);
-          doc.setFont(specialFont);
+
+          setSpecialFont();
           addText(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, 0);
           // EN: What is this?
           doc.setTextColor(50, 50, 50);
           doc.setFont("helvetica", "normal");
           addText(sentencesPdf[i][3], 1);
           // is does makes knows
-          doc.setFont(specialFont);
+          setSpecialFont();
           addText(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 2);
           doc.setFont("helvetica", "normal");
                     // is
-          doc.setFont(specialFont);
+          setSpecialFont();
           doc.text(`${sentencesPdf[i][1]}`, 170, originalHeight+(totalHeight-originalHeight)/2 + textHeight);
         }
         //splitting line
@@ -378,6 +384,7 @@
     </script>
   </body>
 </html>
+
 
 
 
