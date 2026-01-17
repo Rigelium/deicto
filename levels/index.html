@@ -252,7 +252,6 @@
         }
 
 
-        doc.setFont(specialFont);
 
         
         let currentPage = 1;
@@ -311,14 +310,21 @@
             doc.setFillColor(220, 220, 220); 
             doc.rect(0, totalHeight-6, pageWidth, entryHeight, 'F');
           }
-          
+          // What .......... this?
           doc.setTextColor(0, 0, 0);
+          doc.setFont(specialFont);
           doc.text(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, 10, totalHeight);
+          // is
+          doc.setFont(specialFont);
           doc.text(`${sentencesPdf[i][1]}`, 170, totalHeight + 5);
+          // EN: What is this?
           doc.setTextColor(50, 50, 50);
+          doc.setFont("helvetica", "normal");
           doc.text(sentencesPdf[i][3], 10, totalHeight + 5);
+          // is does makes knows
+          doc.setFont(specialFont);
           doc.text(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`, 10, totalHeight + 10);
-          
+          doc.setFont("helvetica", "normal");
         }
         //splitting line
         doc.setLineDash([2, 2]);
@@ -359,6 +365,7 @@
     </script>
   </body>
 </html>
+
 
 
 
