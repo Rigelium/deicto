@@ -290,15 +290,10 @@
         const textHeight = 4;
         const maxWidth = 150;
 
-        function addText(text) {
-          // 1. Split text into lines
+        function addText(text, elementIndex) {
+        
           const lines = doc.splitTextToSize(text, maxWidth);
-          
-          // 2. Draw the text (doc.text handles arrays automatically)
-          doc.text(lines, 10, totalHeight);
-
-          // 3. Increment Y based on how many lines were created
-          // If it's 1 line, it adds 10. If it's 3 lines, it adds 30.
+          doc.text(lines, 10, totalHeight + elementIndex * textHeight);
           totalHeight += (lines.length - 1) * textHeight;
         }
 
@@ -331,15 +326,15 @@
           // What .......... this?
           doc.setTextColor(0, 0, 0);
           doc.setFont(specialFont);
-          addText(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`);
+          addText(`${i+1}. ${sentencesPdf[i][0]} ........................ ${sentencesPdf[i][2]}`, 0);
           // EN: What is this?
           doc.setTextColor(50, 50, 50);
           doc.setFont("helvetica", "normal");
-          addText(sentencesPdf[i][3]);
+          addText(sentencesPdf[i][3], 1);
           // is does makes knows
           doc.setFont(specialFont);
           addText(`a.) ${sentencesPdf[i][answers[0]]} b.) ${sentencesPdf[i][answers[1]]} c.) ${sentencesPdf[i][answers[2]]} d.) ${sentencesPdf[i][answers[3]]}`);
-          doc.setFont("helvetica", "normal");
+          doc.setFont("helvetica", "normal", 2);
                     // is
           doc.setFont(specialFont);
           doc.text(`${sentencesPdf[i][1]}`, 170, originalHeight+(totalHeight-originalHeight)/2 + textHeight);
@@ -383,6 +378,7 @@
     </script>
   </body>
 </html>
+
 
 
 
