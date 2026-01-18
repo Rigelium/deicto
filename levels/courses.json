@@ -22,12 +22,12 @@
     },
     {
       "name": "Japanese",
-      "langCode": "jp",
+      "langCode": "ja",
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
       "name": "Korean",
-      "langCode": "kr",
+      "langCode": "ko",
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "Portuguese",
-      "langCode": "br-PT",
+      "langCode": "pt-BR",
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
