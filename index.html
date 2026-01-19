@@ -287,23 +287,17 @@ const codeInput = document.getElementById('code-input');
         }
       }
 
-      function backupLocalStorage() {
-    // 1. Collect all data into an object
+function backupLocalStorage() {
     const data = JSON.stringify(localStorage);
+    // Encode the string to Base64
+    const scrambled = btoa(unescape(encodeURIComponent(data))); 
 
-    // 2. Create a Blob with the data
-    const blob = new Blob([data], { type: "text/plain" });
-
-    // 3. Create a temporary anchor element to trigger download
+    const blob = new Blob([scrambled], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
-    
     link.href = url;
-    link.download = "backup.txt"; // The name of the file
+    link.download = "backup.txt";
     link.click();
-
-    // 4. Cleanup
-    URL.revokeObjectURL(url);
 }
 
       
