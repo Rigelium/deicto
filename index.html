@@ -302,7 +302,7 @@ function backupLocalStorage() {
 
       
 
-      document.getElementById('fileInput').addEventListener('change', function(event) {
+document.getElementById('fileInput').addEventListener('change', function(event) {
     const file = event.target.files[0];
     if (!file) return;
 
@@ -310,14 +310,29 @@ function backupLocalStorage() {
 
     reader.onload = function(e) {
         try {
-    // Decode the Base64 back to a JSON string
-    const decoded = decodeURIComponent(escape(atob(e.target.result)));
-    const contents = JSON.parse(decoded);
-    
-    // ... rest of your restore logic
-} catch (err) {
-    alert("Error: File is corrupted or invalid.");
-}
+            // 1. Decode the Base64 back to a JSON string
+            const decoded = decodeURIComponent(escape(atob(e.target.result)));
+            
+            // 2. Parse that string into a JavaScript Object
+            const contents = JSON.parse(decoded);
+            
+            // 3. (Optional) Clear current storage if you want a clean overwrite
+            // localStorage.clear();
+
+            // 4. Loop through the object and save each key-value pair to localStorage
+            Object.keys(contents).forEach(key => {
+                localStorage.setItem(key, contents[key]);
+            });
+
+            alert("Backup restored successfully!");
+
+            // 5. Reload the page so the app UI updates with the new data
+            location.reload(); 
+            
+        } catch (err) {
+            console.error(err); // Helpful for debugging in the console
+            alert("Error: File is corrupted or invalid.");
+        }
     };
 
     reader.readAsText(file);
