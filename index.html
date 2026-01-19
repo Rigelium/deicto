@@ -78,7 +78,7 @@
     <div class="box1" style="margin-top: 10px; display: flex; flex-direction: column; gap: 10px;">
       <a style="font-size: 1.5rem; font-weight: bold;">Manage progress</a>
       <a style="color: var(--fontcolor3)">Download a backup of your Deicto progress, store the file somewhere securely</a><div style="display: flex; gap: 5px;">
-        <div onclick="" class="box3">
+        <div onclick="backupLocalStorage()" class="box3">
           <a>Export progress</a>
         </div>
         <input type="file" id="fileInput" accept=".txt" class="box3">
@@ -286,6 +286,48 @@ const codeInput = document.getElementById('code-input');
           return defaultValue;
         }
       }
+
+      function backupLocalStorage() {
+    // 1. Collect all data into an object
+    const data = JSON.stringify(localStorage);
+
+    // 2. Create a Blob with the data
+    const blob = new Blob([data], { type: "text/plain" });
+
+    // 3. Create a temporary anchor element to trigger download
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    
+    link.href = url;
+    link.download = "backup.txt"; // The name of the file
+    link.click();
+
+    // 4. Cleanup
+    URL.revokeObjectURL(url);
+}
+
+      
+
+      document.getElementById('fileInput').addEventListener('change', function(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function(e) {
+        try {
+    // Decode the Base64 back to a JSON string
+    const decoded = decodeURIComponent(escape(atob(e.target.result)));
+    const contents = JSON.parse(decoded);
+    
+    // ... rest of your restore logic
+} catch (err) {
+    alert("Error: File is corrupted or invalid.");
+}
+    };
+
+    reader.readAsText(file);
+});
       
     </script>
   </body>
