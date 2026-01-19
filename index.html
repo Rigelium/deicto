@@ -296,7 +296,9 @@ function backupLocalStorage() {
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.href = url;
-    link.download = "backup.txt";
+
+    currentDate = new Date;
+    link.download = `deicto_backup_${currentDate.getDate()}-${currentDate.getMonth() + 1}-${currentDate.getYear() - 100}_${currentDate.getHours()}-${String(currentDate.getMinutes()).padStart(2, '0')}`;
     link.click();
 }
 
@@ -324,7 +326,6 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
                 localStorage.setItem(key, contents[key]);
             });
 
-            alert("Backup restored successfully!");
 
             // 5. Reload the page so the app UI updates with the new data
             location.reload(); 
