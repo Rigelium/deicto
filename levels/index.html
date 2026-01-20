@@ -69,7 +69,7 @@
         try { //looking for header
           const response = await fetch(`${path}header.json`);
           levelData = await response.json();
-          for (let checkedLv = 1; checkedLv <= levelData.length) {
+          for (let checkedLv = 1; checkedLv <= levelData.length; checkedLv++;) {
             const title = levelData[checkedLv - 1].title;
             const numOfSentences = levelData[checkedLv - 1].numOfSentences; 
             dispLevel(checkedLv, title, numOfSentences); 
@@ -400,6 +400,7 @@
     </script>
   </body>
 </html>
+
 
 
 
