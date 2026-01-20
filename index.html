@@ -251,6 +251,8 @@
         localStorage.setItem("langCodeTTS", courses[langID].langCode);
         console.log(`changed to ${courses[langID].name}`);
 
+        hideCourse(langID);
+        addCourse(langID);
         updateMenu(courses[langID].name);
         loadDifs(langID);
       }
