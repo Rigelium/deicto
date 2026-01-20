@@ -207,7 +207,7 @@
         for (let i = 0; i < courses.length; i++) {
           if (myCourses[i] != -1){
             flagsHTML += `
-            <img onclick = 'changeLang(${myCourses[i]}); hideCourse(${myCourses[i]}); addCourse(${myCourses[i]})' src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 100%; border-radius: 5px; aspect-ratio: 3 / 2;'>
+            <img onclick = 'changeLang(${myCourses[i]})' src='assets/flags/${courses[myCourses[i]].name}.png' style='height: 100%; border-radius: 5px; aspect-ratio: 3 / 2;'>
             `;
           }
         }
