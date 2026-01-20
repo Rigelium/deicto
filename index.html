@@ -323,6 +323,7 @@ document.getElementById('fileInput').addEventListener('change', function(event) 
             // 3. (Optional) Clear current storage if you want a clean overwrite
             // localStorage.clear();
 
+          localStorage.clear();
             // 4. Loop through the object and save each key-value pair to localStorage
             Object.keys(contents).forEach(key => {
                 localStorage.setItem(key, contents[key]);
