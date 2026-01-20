@@ -1,0 +1,31 @@
+{
+  "title": "Weather and Nature 2",
+  "sentences": [
+    ["Der", "Fluss", "ist nach dem Regen sehr breit.", "The river is very wide after the rain.", "Fluss", "Berg", "See", "Wald"],
+    ["Wir beobachten den", "Sonnenuntergang", "am Meer.", "We are watching the sunset by the sea.", "Sonnenuntergang", "Sonnenaufgang", "Regenbogen", "Blitz"],
+    ["Die", "Wüste", "ist ein sehr trockener Ort.", "The desert is a very dry place.", "Wüste", "Küste", "Natur", "Luft"],
+    ["In diesem Park blühen viele bunte", "Blumen", ".", "In this park many colorful flowers are blooming.", "Blumen", "Bäume", "Steine", "Blätter"],
+    ["Der", "Gipfel", "des Berges ist mit Schnee bedeckt.", "The summit of the mountain is covered with snow.", "Gipfel", "Fluss", "Wald", "Park"],
+    ["Die", "Insel", "ist nur mit dem Boot erreichbar.", "The island is only reachable by boat.", "Insel", "Stadt", "Wiese", "Welt"],
+    ["Auf der", "Wiese", "spielen die Kinder.", "The children are playing on the meadow.", "Wiese", "Wüste", "Küste", "Erde"],
+    ["Der", "Ozean", "ist unglaublich tief und blau.", "The ocean is incredibly deep and blue.", "Ozean", "Fluss", "See", "Regen"],
+    ["Ich sammle schöne", "Steine", "am Strand.", "I collect beautiful stones on the beach.", "Steine", "Blumen", "Bäume", "Vögel"],
+    ["Es herrscht eine große", "Trockenheit", "in der Region.", "There is a great drought in the region.", "Trockenheit", "Feuchtigkeit", "Kälte", "Hitze"],
+    ["Die", "Landschaft", "verändert sich im Herbst.", "The landscape changes in autumn.", "Landschaft", "Umwelt", "Natur", "Luft"],
+    ["Der", "Mond", "leuchtet heute Nacht sehr hell.", "The moon is shining very brightly tonight.", "Mond", "Himmel", "Stern", "Blitz"],
+    ["Das", "Tal", "liegt zwischen zwei hohen Bergen.", "The valley lies between two high mountains.", "Tal", "Gipfel", "Wald", "Ufer"],
+    ["Wir sitzen am", "Ufer", "und angeln.", "We are sitting on the bank/shore and fishing.", "Ufer", "Gipfel", "Wald", "Himmel"],
+    ["Die", "Aussicht", "von hier oben ist fantastisch.", "The view from up here is fantastic.", "Aussicht", "Natur", "Kultur", "Zeit"],
+    ["Es ist heute eine hohe", "Luftfeuchtigkeit", ".", "There is high humidity today.", "Luftfeuchtigkeit", "Temperatur", "Trockenheit", "Hitze"],
+    ["Die", "Eiszeit", "liegt viele Jahre zurück.", "The ice age was many years ago.", "Eiszeit", "Jahreszeit", "Freizeit", "Arbeitszeit"],
+    ["Welche", "Jahreszeit", "magst du am liebsten?", "Which season do you like best?", "Jahreszeit", "Eiszeit", "Freizeit", "Arbeitszeit"],
+    ["Der", "Schatten", "der Bäume ist im Sommer kühl.", "The shadow of the trees is cool in summer.", "Schatten", "Licht", "Himmel", "Wind"],
+    ["Die", "Wellen", "am Meer sind heute sehr hoch.", "The waves at the sea are very high today.", "Wellen", "Steine", "Blumen", "Vögel"],
+    ["Ich mag das", "Gras", "zwischen meinen Zehen.", "I like the grass between my toes.", "Gras", "Wasser", "Land", "Dorf"],
+    ["Ein", "Vulkan", "kann sehr gefährlich sein.", "A volcano can be very dangerous.", "Vulkan", "Berg", "See", "Wald"],
+    ["Der", "Bach", "plätschert leise im Wald.", "The brook ripples quietly in the forest.", "Bach", "Fluss", "Ozean", "See"],
+    ["Wir schützen seltene", "Tierarten", ".", "We protect rare animal species.", "Tierarten", "Pflanzen", "Steine", "Blätter"],
+    ["Die", "Naturkatastrophe", "hat viel zerstört.", "The natural disaster destroyed a lot.", "Naturkatastrophe", "Umwelt", "Landschaft", "Luft"]
+  ],
+  "dictionary": "der Fluss - river\nder Sonnenuntergang - sunset\ndie Wüste - desert\ndie Blume (Pl. Blumen) - flower\nder Gipfel - summit / peak\ndie Insel - island\ndie Wiese - meadow\nder Ozean - ocean\nder Stein (Pl. Steine) - stone / rock\ndie Trockenheit - drought / dryness\ndie Landschaft - landscape\nder Mond - moon\ndas Tal - valley\ndas Ufer - shore / bank\ndie Aussicht - view\ndie Luftfeuchtigkeit - humidity\ndie Eiszeit - ice age\ndie Jahreszeit - season\nder Schatten - shadow / shade\ndie Welle (Pl. Wellen) - wave\ndas Gras - grass\nder Vulkan - volcano\nder Bach - brook / stream\ndie Tierart (Pl. Tierarten) - animal species\ndie Naturkatastrophe - natural disaster"
+}

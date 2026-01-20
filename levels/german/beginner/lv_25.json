@@ -1,0 +1,31 @@
+{
+  "title": "Health and Medicine 1",
+  "sentences": [
+    ["Ich bin leider", "krank", "und bleibe im Bett.", "I am unfortunately sick and am staying in bed.", "krank", "gesund", "müde", "traurig"],
+    ["Haben Sie hohes", "Fieber", "?", "Do you have a high fever?", "Fieber", "Glück", "Geld", "Wasser"],
+    ["Ich habe heute einen starken", "Husten", ".", "I have a strong cough today.", "Husten", "Schnupfen", "Schmerz", "Durst"],
+    ["Ich brauche ein", "Medikament", "gegen die Schmerzen.", "I need a medicine for the pain.", "Medikament", "Buch", "Heft", "Bild"],
+    ["Gehen Sie bitte schnell zum", "Arzt", ".", "Please go to the doctor quickly.", "Arzt", "Chef", "Lehrer", "Partner"],
+    ["In der", "Apotheke", "kaufe ich Tabletten.", "I buy tablets in the pharmacy.", "Apotheke", "Schule", "Küche", "Tasche"],
+    ["Mein Rücken tut", "weh", ".", "My back hurts.", "weh", "gut", "schlecht", "bereit"],
+    ["Er hat heute starke", "Schmerzen", ".", "He has strong pain today.", "Schmerzen", "Aufgaben", "Bilder", "Briefe"],
+    ["Der", "Patient", "wartet im Zimmer.", "The patient is waiting in the room.", "Patient", "Lehrer", "Schüler", "Partner"],
+    ["Ich habe einen", "Termin", "beim Zahnarzt.", "I have an appointment at the dentist.", "Termin", "Bericht", "Vertrag", "Auftrag"],
+    ["Haben Sie eine", "Krankenversicherung", "?", "Do you have health insurance?", "Krankenversicherung", "Speisekarte", "Präsentation", "Umkleidekabine"],
+    ["Ich brauche ein", "Rezept", "für die Pillen.", "I need a prescription for the pills.", "Rezept", "Brot", "Bild", "Buch"],
+    ["Ruh dich bitte ein wenig", "aus", ".", "Please rest a little bit.", "aus", "an", "auf", "mit"],
+    ["Die", "Spritze", "tat gar nicht weh.", "The injection didn't hurt at all.", "Spritze", "Tasche", "Flasche", "Suppe"],
+    ["Ich habe eine", "Allergie", "gegen Pollen.", "I have an allergy to pollen.", "Allergie", "Frage", "Pause", "Stelle"],
+    ["Mein", "Blutdruck", "ist heute zu hoch.", "My blood pressure is too high today.", "Blutdruck", "Bericht", "Vertrag", "Anzug"],
+    ["Haben Sie ein", "Pflaster", "für die Wunde?", "Do you have a band-aid for the wound?", "Pflaster", "Messer", "Glas", "Bett"],
+    ["Die Wunde muss in Ruhe", "heilen", ".", "The wound must heal in peace.", "heilen", "kommen", "gehen", "sehen"],
+    ["Ich fühle mich heute sehr", "schwach", ".", "I feel very weak today.", "schwach", "stark", "reich", "froh"],
+    ["Nehmen Sie zwei", "Tabletten", "am Tag.", "Take two tablets a day.", "Tabletten", "Hosen", "Mützen", "Jacken"],
+    ["Ich habe eine schlimme", "Erkältung", "bekommen.", "I got a bad cold.", "Erkältung", "Kleidung", "Wohnung", "Heizung"],
+    ["Das", "Krankenhaus", "ist gleich um die Ecke.", "The hospital is just around the corner.", "Krankenhaus", "Kaufhaus", "Rathaus", "Badezimmer"],
+    ["Ich habe mir den Arm", "gebrochen", ".", "I broke my arm.", "gebrochen", "gesehen", "gehört", "gegessen"],
+    ["Haben Sie auch einen", "Schnupfen", "?", "Do you also have a runny nose?", "Schnupfen", "Husten", "Schmerz", "Hunger"],
+    ["Ich wünsche Ihnen eine gute", "Besserung", ".", "I wish you a speedy recovery.", "Besserung", "Hilfe", "Zeit", "Nachricht"]
+  ],
+  "dictionary": "krank - sick\ndas Fieber - fever\nder Husten - cough\ndas Medikament - medicine / medication\nder Arzt - doctor\ndie Apotheke - pharmacy\nweh tun - to hurt\nder Schmerz (Pl. Schmerzen) - pain\nder Patient - patient\nder Termin - appointment\nder Zahnarzt - dentist\ndie Krankenversicherung - health insurance\ndas Rezept - prescription\nsich ausruhen - to rest\ndie Spritze - injection / shot\ndie Allergie - allergy\nder Blutdruck - blood pressure\ndas Pflaster - band-aid / plaster\nheilen - to heal\nschwach - weak\ndie Tablette (Pl. Tabletten) - tablet / pill\ndie Erkältung - cold\ndas Krankenhaus - hospital\ngebrochen - broken\nder Schnupfen - runny nose / sniffles\ndie Besserung - recovery / improvement"
+}

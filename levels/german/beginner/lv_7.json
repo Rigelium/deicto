@@ -1,0 +1,31 @@
+{
+  "title": "Food and Drinks 1",
+  "sentences": [
+    ["Ich esse gerne frisches ", "Obst", " zum Frühstück.", "I like eating fresh fruit for breakfast.", "Obst", "Brot", "Gemüse", "Fleisch"],
+    ["Trinken Sie lieber Kaffee oder ", "Tee", "?", "Do you (formal) prefer drinking coffee or tea?", "Tee", "Saft", "Wein", "Kaffee"],
+    ["Das ", "Gemüse", " ist sehr gesund.", "The vegetables are very healthy.", "Gemüse", "Obst", "Fleisch", "Brot"],
+    ["Kaufst du bitte eine Packung ", "Milch", "?", "Will you (informal) please buy a carton of milk?", "Milch", "Butter", "Wurst", "Suppe"],
+    ["Ich möchte ein Glas ", "Orangensaft", " bestellen.", "I would like to order a glass of orange juice.", "Orangensaft", "Apfelsaft", "Zucker", "Kaffee"],
+    ["Möchten Sie ", "Zucker", " in Ihren Kaffee?", "Would you (formal) like sugar in your coffee?", "Zucker", "Salz", "Pfeffer", "Käse"],
+    ["Das ", "Fleisch", " schmeckt heute hervorragend.", "The meat tastes excellent today.", "Fleisch", "Brot", "Obst", "Gemüse"],
+    ["Ich esse mein Brot am liebsten mit ", "Käse", ".", "I like eating my bread best with cheese.", "Käse", "Fisch", "Schinken", "Apfel"],
+    ["Hast du das ", "Salz", " auf dem Tisch gesehen?", "Have you (informal) seen the salt on the table?", "Salz", "Wasser", "Bier", "Öl"],
+    ["Wir brauchen noch ", "Eier", " für den Kuchen.", "We still need eggs for the cake.", "Eier", "Äpfel", "Kartoffeln", "Nudeln"],
+    ["Essen Sie gerne ", "Fisch", "?", "Do you (formal) like eating fish?", "Fisch", "Käse", "Schinken", "Apfel"],
+    ["Ich koche heute eine heiße ", "Suppe", ".", "I am cooking a hot soup today.", "Suppe", "Milch", "Butter", "Wurst"],
+    ["Die ", "Kartoffeln", " müssen noch zehn Minuten kochen.", "The potatoes have to cook for another ten minutes.", "Kartoffeln", "Äpfel", "Eier", "Nudeln"],
+    ["Isst du lieber Reis oder ", "Nudeln", "?", "Do you (informal) prefer eating rice or pasta?", "Nudeln", "Eier", "Kartoffeln", "Äpfel"],
+    ["Das ", "Hähnchen", " ist fast fertig.", "The chicken is almost ready.", "Hähnchen", "Wasser", "Bier", "Brot"],
+    ["Ich hätte gerne einen ", "Apfelsaft", ".", "I would like an apple juice.", "Apfelsaft", "Orangensaft", "Kaffee", "Wein"],
+    ["Möchten Sie ein Glas ", "Rotwein", "?", "Would you (formal) like a glass of red wine?", "Rotwein", "Apfelsaft", "Kaffee", "Zucker"],
+    ["Ich mag keine ", "Butter", " auf meinem Brot.", "I don't like butter on my bread.", "Butter", "Milch", "Suppe", "Wurst"],
+    ["Der ", "Schinken", " kommt aus Italien.", "The ham comes from Italy.", "Schinken", "Käse", "Fisch", "Apfel"],
+    ["Wo ist der ", "Pfeffer", "?", "Where is the pepper?", "Pfeffer", "Zucker", "Salz", "Käse"],
+    ["Ich trinke ein kühles ", "Bier", ".", "I am drinking a cool beer.", "Bier", "Wasser", "Salz", "Brot"],
+    ["Wir essen heute ", "Reis", " mit Gemüse.", "We are eating rice with vegetables today.", "Reis", "Zucker", "Salz", "Pfeffer"],
+    ["Die ", "Wurst", " ist sehr würzig.", "The sausage is very spicy/savory.", "Wurst", "Milch", "Butter", "Suppe"],
+    ["Ich kaufe rote ", "Äpfel", ".", "I am buying red apples.", "Äpfel", "Eier", "Kartoffeln", "Nudeln"],
+    ["Nehmen Sie auch ", "Öl", " für den Salat?", "Are you (formal) also taking/using oil for the salad?", "Öl", "Salz", "Wasser", "Bier"]
+  ],
+  "dictionary": "das Obst - fruit\nder Tee - tea\ndas Gemüse - vegetables\ndie Milch - milk\nder Orangensaft - orange juice\nder Zucker - sugar\ndas Fleisch - meat\nder Käse - cheese\ndas Salz - salt\ndie Eier - eggs\nder Fisch - fish\ndie Suppe - soup\ndie Kartoffeln - potatoes\ndie Nudeln - pasta\ndas Hähnchen - chicken\nder Apfelsaft - apple juice\nder Rotwein - red wine\ndie Butter - butter\nder Schinken - ham\nder Pfeffer - pepper\ndas Bier - beer\nder Reis - rice\ndie Wurst - sausage\ndie Äpfel - apples\ndas Öl - oil"
+}

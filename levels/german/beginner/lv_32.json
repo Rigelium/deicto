@@ -1,0 +1,31 @@
+{
+  "title": "City and Transportation 2",
+  "sentences": [
+    ["Die", "Brücke", "führt über den Fluss.", "The bridge leads over the river.", "Brücke", "Straße", "Ampel", "Ecke"],
+    ["Ich muss mein Fahrrad am Bahnhof", "abschließen", ".", "I have to lock my bicycle at the station.", "abschließen", "mieten", "fahren", "parken"],
+    ["Der", "Bahnsteig", "ist heute sehr voll.", "The platform is very crowded today.", "Bahnsteig", "Flughafen", "Parkplatz", "Hafen"],
+    ["Wo befindet sich der nächste", "Geldautomat", "?", "Where is the nearest ATM located?", "Geldautomat", "Fahrplan", "Fahrschein", "Bahnsteig"],
+    ["Wir gehen heute Abend in das kleine", "Kino", ".", "We are going to the small cinema tonight.", "Kino", "Dorf", "Land", "Meer"],
+    ["Das", "Rathaus", "ist ein sehr altes Gebäude.", "The city hall is a very old building.", "Rathaus", "Kaufhaus", "Krankenhaus", "Büro"],
+    ["An der nächsten", "Kreuzung", "fahren wir nach links.", "At the next intersection we drive to the left.", "Kreuzung", "Brücke", "Ampel", "Ecke"],
+    ["Ich habe mein Auto im", "Parkhaus", "abgestellt.", "I parked my car in the parking garage.", "Parkhaus", "Kaufhaus", "Rathaus", "Badezimmer"],
+    ["Gibt es hier einen", "Radweg", "?", "Is there a bicycle path here?", "Radweg", "Fahrplan", "Bahnsteig", "Hafen"],
+    ["Der", "Hafen", "ist besonders nachts sehr schön.", "The harbor is especially beautiful at night.", "Hafen", "Bahnhof", "Flughafen", "Marktplatz"],
+    ["Ich muss mein Handy an der", "Ladestation", "aufladen.", "I have to charge my phone at the charging station.", "Ladestation", "Tankstelle", "Bushaltestelle", "Apotheke"],
+    ["Der", "Pendler", "fährt jeden Tag mit dem Zug.", "The commuter travels by train every day.", "Pendler", "Lehrer", "Arzt", "Chef"],
+    ["Die", "Einbahnstraße", "darf man nur in eine Richtung befahren.", "The one-way street may only be driven in one direction.", "Einbahnstraße", "Autobahn", "Straßenbahn", "U-Bahn"],
+    ["Wir treffen uns am", "Brunnen", "auf dem Marktplatz.", "We are meeting at the fountain on the market square.", "Brunnen", "Fluss", "Wald", "Park"],
+    ["Wo ist der", "Eingang", "zum Museum?", "Where is the entrance to the museum?", "Eingang", "Ausgang", "Weg", "Platz"],
+    ["Bitte benutzen Sie den", "Ausgang", "auf der rechten Seite.", "Please use the exit on the right side.", "Ausgang", "Eingang", "Weg", "Platz"],
+    ["Die", "Baustelle", "verursacht viel Stau.", "The construction site is causing a lot of traffic jam.", "Baustelle", "Tankstelle", "Haltestelle", "Apotheke"],
+    ["Es gibt viel", "Verkehr", "auf den Straßen.", "There is a lot of traffic on the streets.", "Verkehr", "Wetter", "Glück", "Geld"],
+    ["Ich warte am", "Schalter", "auf meine Fahrkarte.", "I am waiting at the counter for my ticket.", "Schalter", "Spiegel", "Tisch", "Schrank"],
+    ["Der", "Tunnel", "ist zwei Kilometer lang.", "The tunnel is two kilometers long.", "Tunnel", "Weg", "Wald", "Park"],
+    ["Haben Sie eine", "Parkscheibe", "im Auto?", "Do you have a parking disc in the car?", "Parkscheibe", "Fahrkarte", "Quittung", "Tüte"],
+    ["Der", "Bürgersteig", "ist hier sehr schmal.", "The sidewalk is very narrow here.", "Bürgersteig", "Radweg", "Fahrplan", "Bahnsteig"],
+    ["Wir überqueren den", "Platz", "vor der Kirche.", "We cross the square in front of the church.", "Platz", "Weg", "Wald", "Park"],
+    ["Die", "U-Bahn-Station", "ist direkt unter uns.", "The subway station is directly beneath us.", "U-Bahn-Station", "Autobahn", "Tankstelle", "Tankstelle"],
+    ["Gute", "Reise", "und kommen Sie gut an!", "Have a good trip and arrive safely!", "Reise", "Zeit", "Hilfe", "Pause"]
+  ],
+  "dictionary": "die Brücke - bridge\nabschließen - to lock\nder Bahnsteig - platform\nder Geldautomat - ATM\ndas Kino - cinema\ndas Rathaus - city hall\ndie Kreuzung - intersection\ndas Parkhaus - parking garage\nder Radweg - bicycle path\nder Hafen - harbor\ndie Ladestation - charging station\nder Pendler - commuter\ndie Einbahnstraße - one-way street\nder Brunnen - fountain\nder Eingang - entrance\nder Ausgang - exit\ndie Baustelle - construction site\nder Verkehr - traffic\nder Schalter - counter / window\nder Tunnel - tunnel\ndie Parkscheibe - parking disc\nder Bürgersteig - sidewalk\nder Platz - square / place\ndie U-Bahn-Station - subway station\ndie Reise - journey / trip"
+}

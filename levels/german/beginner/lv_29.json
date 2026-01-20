@@ -1,0 +1,31 @@
+{
+  "title": "Shopping and Services 2",
+  "sentences": [
+    ["Ich möchte ein", "Konto", "bei dieser Bank eröffnen.", "I want to open an account at this bank.", "Konto", "Bild", "Buch", "Brot"],
+    ["Können Sie mir das Paket bitte", "liefern", "?", "Can you please deliver the package to me?", "liefern", "kochen", "spielen", "schlafen"],
+    ["Ich habe einen Termin zur", "Massage", ".", "I have an appointment for a massage.", "Massage", "Schule", "Pause", "Klasse"],
+    ["Wo kann ich diese Flaschen", "abgeben", "?", "Where can I return these bottles?", "abgeben", "kochen", "spielen", "schlafen"],
+    ["Der", "Kundenservice", "ist sehr freundlich.", "The customer service is very friendly.", "Kundenservice", "Geldautomat", "Friseursalon", "Supermarkt"],
+    ["Ich muss meinen", "Vertrag", "leider kündigen.", "Unfortunately, I have to cancel my contract.", "Vertrag", "Bericht", "Brief", "Zettel"],
+    ["Haben Sie eine", "Garantie", "auf dieses Gerät?", "Do you have a guarantee on this device?", "Garantie", "Hilfe", "Zeit", "Nachricht"],
+    ["Die", "Lieferung", "dauert drei Werktage.", "The delivery takes three working days.", "Lieferung", "Pause", "Arbeit", "Stelle"],
+    ["Ich brauche eine", "Quittung", "für die Firma.", "I need a receipt for the company.", "Quittung", "Tüte", "Jacke", "Hose"],
+    ["Können Sie mir das", "Wechselgeld", "bar geben?", "Can you give me the change in cash?", "Wechselgeld", "Geschenk", "Wetter", "Geld"],
+    ["Die", "Reinigung", "ist heute geschlossen.", "The dry cleaner's is today closed.", "Reinigung", "Apotheke", "Schule", "Küche"],
+    ["Ich möchte diese Schuhe", "reparieren", "lassen.", "I want to have these shoes repaired.", "reparieren", "kochen", "spielen", "schlafen"],
+    ["Wo ist der", "Briefkasten", "in dieser Straße?", "Where is the mailbox in this street?", "Briefkasten", "Bahnhof", "Flughafen", "Park"],
+    ["Ich habe ein Paket bei der Post", "abgeholt", ".", "I picked up a package at the post office.", "abgeholt", "gekocht", "gespielt", "geschlafen"],
+    ["Die", "Versandkosten", "sind im Preis enthalten.", "The shipping costs are included in the price.", "Versandkosten", "Hausaufgaben", "Vokabeln", "Noten"],
+    ["Haben Sie dieses Kleid in einer anderen", "Farbe", "?", "Do you have this dress in another color?", "Farbe", "Größe", "Hilfe", "Zeit"],
+    ["Ich möchte eine", "Versicherung", "abschließen.", "I want to take out an insurance policy.", "Versicherung", "Erkältung", "Kleidung", "Wohnung"],
+    ["Die", "Werkstatt", "hat mein Auto repariert.", "The workshop repaired my car.", "Werkstatt", "Apotheke", "Schule", "Küche"],
+    ["Ich suche einen", "Parkplatz", "in der Nähe.", "I am looking for a parking spot nearby.", "Parkplatz", "Bahnhof", "Flughafen", "Wald"],
+    ["Haben Sie", "Prospekte", "über die Angebote?", "Do you have brochures about the offers?", "Prospekte", "Bücher", "Hefte", "Zeugnisse"],
+    ["Ich möchte meine", "Handynummer", "behalten.", "I want to keep my mobile number.", "Handynummer", "Visitenkarte", "Rechnung", "Pause"],
+    ["Das Gerät ist leider", "defekt", ".", "The device is unfortunately defective.", "defekt", "krank", "müde", "traurig"],
+    ["Können Sie mir den", "Beleg", "ausdrucken?", "Can you print the receipt for me?", "Beleg", "Film", "Wald", "Weg"],
+    ["Ich habe meine", "Geheimzahl", "vergessen.", "I forgot my PIN.", "Geheimzahl", "Hilfe", "Zeit", "Nachricht"],
+    ["Die", "Sparkasse", "ist gleich da vorne.", "The savings bank is right there in front.", "Sparkasse", "Apotheke", "Schule", "Küche"]
+  ],
+  "dictionary": "das Konto - account\nliefern - to deliver\ndie Massage - massage\nabgeben - to hand in / return\nder Kundenservice - customer service\nder Vertrag - contract\ndie Garantie - guarantee\ndie Lieferung - delivery\ndie Quittung - receipt\ndas Wechselgeld - change (money)\ndie Reinigung - dry cleaner's\nreparieren - to repair\nder Briefkasten - mailbox\nabholen - to pick up\ndie Versandkosten - shipping costs\ndie Farbe - color\ndie Versicherung - insurance\ndie Werkstatt - workshop / garage\nder Parkplatz - parking spot\nder Prospekt (Pl. Prospekte) - brochure\ndie Handynummer - mobile number\ndefekt - defective / broken\nder Beleg - receipt / voucher\ndie Geheimzahl - PIN (number)\ndie Sparkasse - savings bank"
+}

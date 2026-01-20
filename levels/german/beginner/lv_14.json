@@ -1,0 +1,31 @@
+{
+  "title": "Noun collection 2",
+  "sentences": [
+    ["Hast du heute schon die", "Zeitung", "gelesen?", "Have you read the newspaper today?", "Zeitung", "Karte", "Reise", "Nachricht"],
+    ["Wie wird das", "Wetter", "am nächsten Wochenende?", "How will the weather be next weekend?", "Wetter", "Geld", "Tier", "Meer"],
+    ["Wir planen eine lange", "Reise", "nach Asien.", "We are planning a long journey to Asia.", "Reise", "Zeitung", "Karte", "Nachricht"],
+    ["Wann machen Sie Ihren nächsten", "Urlaub", "?", "When are you taking your next vacation?", "Urlaub", "Bahnhof", "Flughafen", "Park"],
+    ["Der Zug kommt pünktlich am", "Bahnhof", "an.", "The train arrives at the station on time.", "Bahnhof", "Urlaub", "Flughafen", "Park"],
+    ["Mein Flug startet morgen am", "Flughafen", "Frankfurt.", "My flight starts tomorrow at the Frankfurt airport.", "Flughafen", "Bahnhof", "Urlaub", "Park"],
+    ["Können Sie mir die", "Karte", "auf Ihrem Handy zeigen?", "Can you show me the map on your phone?", "Karte", "Zeitung", "Reise", "Nachricht"],
+    ["Ich möchte am Abend einen spannenden", "Film", "sehen.", "I want to watch an exciting movie in the evening.", "Film", "Urlaub", "Park", "Weg"],
+    ["Das ist ein schönes", "Geschenk", "für deine Schwester.", "That is a beautiful gift for your sister.", "Geschenk", "Wetter", "Geld", "Tier"],
+    ["Hast du genug", "Geld", "für das Ticket?", "Do you have enough money for the ticket?", "Geld", "Wetter", "Geschenk", "Tier"],
+    ["Ich muss meine", "Kleidung", "für die Reise einpacken.", "I have to pack my clothes for the trip.", "Kleidung", "Zeitung", "Hilfe", "Antwort"],
+    ["Das", "Tier", "im Garten sieht sehr süß aus.", "The animal in the garden looks very cute.", "Tier", "Wetter", "Geld", "Meer"],
+    ["Wir gehen oft im", "Park", "spazieren.", "We often go for a walk in the park.", "Park", "Urlaub", "Bahnhof", "Flughafen"],
+    ["Ich bade gerne im blauen", "Meer", ".", "I like swimming in the blue sea.", "Meer", "Wetter", "Geld", "Tier"],
+    ["Der", "Wald", "ist im Herbst besonders schön.", "The forest is especially beautiful in autumn.", "Wald", "Park", "Urlaub", "Weg"],
+    ["Ich habe eine wichtige", "Nachricht", "bekommen.", "I received an important message.", "Nachricht", "Zeitung", "Reise", "Karte"],
+    ["Haben Sie eine", "Antwort", "auf meine Frage?", "Do you have an answer to my question?", "Antwort", "Nachricht", "Hilfe", "Zeit"],
+    ["Das ist ein großes", "Problem", "für uns alle.", "That is a big problem for all of us.", "Problem", "Geschenk", "Wetter", "Geld"],
+    ["Wo hast du den", "Schlüssel", "hingelegt?", "Where did you put the key?", "Schlüssel", "Film", "Wald", "Weg"],
+    ["Ich brauche mehr", "Licht", "zum Lesen.", "I need more light to read.", "Licht", "Wetter", "Geld", "Tier"],
+    ["Kennen Sie den", "Weg", "zum Museum?", "Do you know the way to the museum?", "Weg", "Film", "Wald", "Schlüssel"],
+    ["Vielen Dank für deine", "Hilfe", "beim Umzug.", "Many thanks for your help with the move.", "Hilfe", "Antwort", "Nachricht", "Zeit"],
+    ["Wir haben leider nicht mehr viel", "Zeit", ".", "Unfortunately, we don't have much time left.", "Zeit", "Hilfe", "Antwort", "Nachricht"],
+    ["Ich schicke Ihnen heute noch ein", "Bild", "vom Haus.", "I am sending you a picture of the house today.", "Bild", "Geld", "Tier", "Meer"],
+    ["Die", "Welt", "ist voller Überraschungen.", "The world is full of surprises.", "Welt", "Reise", "Zeitung", "Karte"]
+  ],
+  "dictionary": "die Zeitung - newspaper\ndas Wetter - weather\ndie Reise - journey / trip\nder Urlaub - vacation / holiday\nder Bahnhof - train station\nder Flughafen - airport\ndie Karte - map / card\nder Film - movie / film\ndas Geschenk - gift / present\ndas Geld - money\ndie Kleidung - clothes\ndas Tier - animal\nder Park - park\ndas Meer - sea\nder Wald - forest\ndie Nachricht - message / news\ndie Antwort - answer\ndas Problem - problem\nder Schlüssel - key\ndas Licht - light\nder Weg - way / path\ndie Hilfe - help\ndie Zeit - time\ndas Bild - picture / image\ndie Welt - world"
+}

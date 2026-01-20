@@ -1,0 +1,31 @@
+{
+  "title": "The Human Body 2",
+  "sentences": [
+    ["Mein", "Herz", "schlägt nach dem Sport sehr schnell.", "My heart beats very fast after sports.", "Herz", "Blut", "Knie", "Kinn"],
+    ["Die", "Lunge", "braucht frischen Sauerstoff.", "The lungs need fresh oxygen.", "Lunge", "Haut", "Faust", "Stirn"],
+    ["Ich habe starke Schmerzen im linken", "Knie", ".", "I have strong pain in my left knee.", "Knie", "Herz", "Blut", "Kinn"],
+    ["Er hat sich den", "Ellenbogen", "an der Tür gestoßen.", "He bumped his elbow on the door.", "Ellenbogen", "Knochen", "Muskel", "Magen"],
+    ["Die Wunde am Finger", "blutet", "ein wenig.", "The wound on the finger is bleeding a little.", "blutet", "schwitzt", "atmet", "beugt"],
+    ["Unsere", "Haut", "schützt den ganzen Körper.", "Our skin protects the entire body.", "Haut", "Lunge", "Faust", "Stirn"],
+    ["Ich kann meinen kleinen Finger nicht", "bewegen", ".", "I cannot move my pinky finger.", "bewegen", "atmen", "schlagen", "bluten"],
+    ["Mein", "Magen", "ist nach dem großen Essen sehr voll.", "My stomach is very full after the big meal.", "Magen", "Knochen", "Muskel", "Ellenbogen"],
+    ["Atmen", "Sie bitte tief ein und wieder aus.", "Please breathe in deeply and out again.", "Atmen", "Schwitzen", "Bluten", "Bewegen"],
+    ["Der", "Knochen", "im Arm ist leider gebrochen.", "The bone in the arm is unfortunately broken.", "Knochen", "Magen", "Muskel", "Ellenbogen"],
+    ["Die", "Zunge", "hilft uns beim Schmecken.", "The tongue helps us with tasting.", "Zunge", "Lippe", "Wange", "Stirn"],
+    ["Das menschliche", "Gehirn", "ist sehr komplex.", "The human brain is very complex.", "Gehirn", "Herz", "Blut", "Knie"],
+    ["Meine", "Lippen", "sind im Winter oft trocken.", "My lips are often dry in winter.", "Lippen", "Augenbrauen", "Wangen", "Zähne"],
+    ["Ich habe mir den kleinen", "Zeh", "am Tisch gestoßen.", "I bumped my pinky toe on the table.", "Zeh", "Finger", "Arm", "Hals"],
+    ["Beugen", "Sie bitte langsam Ihren Arm.", "Please bend your arm slowly.", "Beugen", "Atmen", "Schwitzen", "Bluten"],
+    ["Das", "Gelenk", "an der Hand tut weh.", "The joint on the hand hurts.", "Gelenk", "Herz", "Blut", "Knie"],
+    ["Das Kind hat rote", "Wangen", "von der Kälte.", "The child has red cheeks from the cold.", "Wangen", "Lippen", "Augenbrauen", "Zähne"],
+    ["Ihre", "Augenbrauen", "sind sehr dunkel.", "Your eyebrows are very dark.", "Augenbrauen", "Lippen", "Wangen", "Zähne"],
+    ["Ich", "schwitze", "bei dieser Hitze sehr stark.", "I sweat very much in this heat.", "schwitze", "blute", "atme", "beuge"],
+    ["Das menschliche", "Skelett", "besteht aus vielen Knochen.", "The human skeleton consists of many bones.", "Skelett", "Gehirn", "Herz", "Blut"],
+    ["Er trainiert jeden Tag einen anderen", "Muskel", ".", "He trains a different muscle every day.", "Muskel", "Knochen", "Magen", "Ellenbogen"],
+    ["Das", "Blut", "transportiert Sauerstoff durch den Körper.", "Blood transports oxygen through the body.", "Blut", "Herz", "Knie", "Kinn"],
+    ["Er macht eine", "Faust", ", weil er wütend ist.", "He makes a fist because he is angry.", "Faust", "Haut", "Lunge", "Stirn"],
+    ["Seine", "Stirn", "ist wegen des Fiebers sehr heiß.", "His forehead is very hot because of the fever.", "Stirn", "Haut", "Lunge", "Faust"],
+    ["Ich habe ein kleines Muttermal am", "Kinn", ".", "I have a small mole on my chin.", "Kinn", "Herz", "Blut", "Knie"]
+  ],
+  "dictionary": "das Herz - heart\ndie Lunge - lung\ndas Knie - knee\nder Ellenbogen - elbow\nbluten - to bleed\ndie Haut - skin\nbewegen - to move\nder Magen - stomach\natmen - to breathe\nder Knochen - bone\ndie Zunge - tongue\ndas Gehirn - brain\ndie Lippe (Pl. die Lippen) - lip\nder Zeh - toe\nbeugen - to bend\ndas Gelenk - joint\ndie Wange (Pl. die Wangen) - cheek\ndie Augenbraue (Pl. die Augenbrauen) - eyebrow\nschwitzen - to sweat\ndas Skelett - skeleton\nder Muskel - muscle\ndas Blut - blood\ndie Faust - fist\ndie Stirn - forehead\ndas Kinn - chin"
+}

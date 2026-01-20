@@ -1,0 +1,31 @@
+{
+  "title": "City and Transportation 1",
+  "sentences": [
+    ["Wo ist die nächste", "Bushaltestelle", "?", "Where is the nearest bus stop?", "Bushaltestelle", "Tankstelle", "Apotheke", "Schule"],
+    ["Der Bus", "fährt", "alle zehn Minuten.", "The bus runs every ten minutes.", "fährt", "geht", "läuft", "macht"],
+    ["Ich brauche einen", "Fahrschein", "für die U-Bahn.", "I need a ticket for the subway.", "Fahrschein", "Ausweis", "Pass", "Zettel"],
+    ["Wie", "komme", "ich am besten zum Bahnhof?", "What is the best way for me to get to the station?", "komme", "gehe", "fahre", "laufe"],
+    ["Die Straße ist heute sehr", "belebt", ".", "The street is very busy today.", "belebt", "ruhig", "klar", "sauber"],
+    ["Wir nehmen die", "Straßenbahn", "bis zum Marktplatz.", "We are taking the tram to the market square.", "Straßenbahn", "Autobahn", "Tankstelle", "Haltestelle"],
+    ["Das Museum befindet sich im", "Stadtzentrum", ".", "The museum is located in the city center.", "Stadtzentrum", "Krankenhaus", "Kaufhaus", "Rathaus"],
+    ["Überqueren Sie bitte die Straße an der", "Ampel", ".", "Please cross the street at the traffic light.", "Ampel", "Ecke", "Fahrt", "Tafel"],
+    ["Der Zug hat leider eine halbe Stunde", "Verspätung", ".", "The train is unfortunately half an hour late.", "Verspätung", "Erkältung", "Besserung", "Anzeige"],
+    ["Wo kann ich hier ein Auto", "mieten", "?", "Where can I rent a car here?", "mieten", "kaufen", "suchen", "finden"],
+    ["Ich gehe heute lieber zu", "Fuß", "in die Stadt.", "I prefer to go into town on foot today.", "Fuß", "Arm", "Hals", "Bauch"],
+    ["Fahren Sie bitte", "geradeaus", "bis zur nächsten Kreuzung.", "Please drive straight ahead until the next intersection.", "geradeaus", "links", "rechts", "oben"],
+    ["Das", "Taxi", "wartet bereits vor dem Hotel.", "The taxi is already waiting in front of the hotel.", "Taxi", "Fahrrad", "Auto", "Schiff"],
+    ["Wo ist die nächste", "Tankstelle", "?", "Where is the nearest gas station?", "Tankstelle", "Bushaltestelle", "Post", "Bank"],
+    ["In der Stadt gibt es viele", "Sehenswürdigkeiten", ".", "There are many sights in the city.", "Sehenswürdigkeiten", "Hausaufgaben", "Briefmarken", "Nachrichten"],
+    ["Der Parkplatz vor dem Haus ist leider", "voll", ".", "The parking lot in front of the house is unfortunately full.", "voll", "leer", "schmutzig", "sauber"],
+    ["Ich", "steige", "an der nächsten Station aus.", "I'm getting off at the next station.", "steige", "gehe", "fahre", "komme"],
+    ["Biegen Sie an der", "Ecke", "nach rechts ab.", "Turn right at the corner.", "Ecke", "Ampel", "Straße", "Fahrt"],
+    ["Das Fahrrad ist ein praktisches", "Verkehrsmittel", ".", "The bicycle is a practical means of transport.", "Verkehrsmittel", "Medikament", "Geschenk", "Wunder"],
+    ["Wo finde ich den", "Fahrplan", "für diesen Bus?", "Where can I find the timetable for this bus?", "Fahrplan", "Bericht", "Vertrag", "Termin"],
+    ["Wir müssen an der nächsten Haltestelle", "umsteigen", ".", "We have to change at the next stop.", "umsteigen", "aussteigen", "einsteigen", "aufsteigen"],
+    ["Die", "Autobahn", "ist wegen eines Unfalls gesperrt.", "The highway is closed because of an accident.", "Autobahn", "Straßenbahn", "U-Bahn", "S-Bahn"],
+    ["In der", "Stadtmitte", "ist das Parken sehr teuer.", "Parking is very expensive in the city center.", "Stadtmitte", "Wohnung", "Schule", "Küche"],
+    ["Der", "Flughafen", "ist weit weg von hier.", "The airport is far away from here.", "Flughafen", "Bahnhof", "Hafen", "Marktplatz"],
+    ["Wie lange dauert die", "Fahrt", "mit der U-Bahn?", "How long does the trip with the subway take?", "Fahrt", "Zeit", "Hilfe", "Pause"]
+  ],
+  "dictionary": "die Bushaltestelle - bus stop\nfahren - to drive / travel\nder Fahrschein - ticket\nkommen - to come / get to\nbelebt - busy / lively\ndie Straßenbahn - tram\ndas Stadtzentrum - city center\ndie Ampel - traffic light\ndie Verspätung - delay\nmieten - to rent\nder Fuß - foot\ngeradeaus - straight ahead\ndas Taxi - taxi\ndie Tankstelle - gas station\ndie Sehenswürdigkeit (Pl. Sehenswürdigkeiten) - sight / tourist attraction\nvoll - full\naussteigen - to get off / exit (a vehicle)\ndie Ecke - corner\ndas Verkehrsmittel - means of transport\nder Fahrplan - timetable / schedule\numsteigen - to change (trains/buses)\ndie Autobahn - highway / motorway\ndie Stadtmitte - city center / downtown\nder Flughafen - airport\ndie Fahrt - trip / journey"
+}

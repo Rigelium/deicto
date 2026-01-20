@@ -1,0 +1,31 @@
+{
+  "title": "Sports and Hobbies 1",
+  "sentences": [
+    ["Ich spiele am Wochenende oft", "Fußball", ".", "I often play soccer on the weekend.", "Fußball", "Tennis", "Basketball", "Golf"],
+    ["Mein liebstes", "Hobby", "ist das Lesen.", "My favorite hobby is reading.", "Hobby", "Spiel", "Thema", "Wort"],
+    ["Gehst du gerne im Park", "joggen", "?", "Do you like to go jogging in the park?", "joggen", "schwimmen", "tanzen", "singen"],
+    ["Ich", "schwimme", "jeden Morgen im See.", "I swim in the lake every morning.", "schwimme", "jogge", "koche", "male"],
+    ["Wir", "wandern", "gerne in den Bergen.", "We like to hike in the mountains.", "wandern", "schwimmen", "joggen", "tanzen"],
+    ["Spielst du ein", "Instrument", "?", "Do you play an instrument?", "Instrument", "Beispiel", "Heft", "Buch"],
+    ["Ich höre am liebsten klassische", "Musik", ".", "I like listening to classical music best.", "Musik", "Natur", "Kultur", "Luft"],
+    ["Tanzen", "Sie gerne auf Partys?", "Do you like to dance at parties?", "Tanzen", "Singen", "Kochen", "Malen"],
+    ["Ich", "male", "in meiner Freizeit oft Bilder.", "I often paint pictures in my free time.", "male", "koche", "schwimme", "jogge"],
+    ["Gehen wir heute ins", "Fitnessstudio", "?", "Are we going to the gym today?", "Fitnessstudio", "Krankenhaus", "Rathaus", "Kaufhaus"],
+    ["Mein Sohn spielt leidenschaftlich", "Basketball", ".", "My son plays basketball passionately.", "Basketball", "Fußball", "Tennis", "Golf"],
+    ["Ich", "koche", "gerne für meine Freunde.", "I like to cook for my friends.", "koche", "male", "schwimme", "jogge"],
+    ["Fährst du oft mit dem", "Fahrrad", "?", "Do you often ride the bicycle?", "Fahrrad", "Auto", "Taxi", "Schiff"],
+    ["Wir schauen am Abend gerne", "Filme", ".", "We like to watch movies in the evening.", "Filme", "Bücher", "Briefe", "Bilder"],
+    ["Singst", "du in einem Chor?", "Do you sing in a choir?", "Singst", "Tanzt", "Malst", "Kochst"],
+    ["Ich", "fotografiere", "gerne die Natur.", "I like to photograph nature.", "fotografiere", "male", "koche", "schwimme"],
+    ["Haben Sie ein interessantes", "Hobby", "?", "Do you have an interesting hobby?", "Hobby", "Bericht", "Vertrag", "Termin"],
+    ["Ich spiele gerne", "Schach", "mit meinem Vater.", "I like to play chess with my father.", "Schach", "Fußball", "Tennis", "Basketball"],
+    ["Wir gehen im Winter oft", "skifahren", ".", "We often go skiing in winter.", "skifahren", "schwimmen", "joggen", "tanzen"],
+    ["Treiben Sie regelmäßig", "Sport", "?", "Do you exercise regularly?", "Sport", "Musik", "Arbeit", "Pause"],
+    ["Ich interessiere mich für moderne", "Kunst", ".", "I am interested in modern art.", "Kunst", "Natur", "Kultur", "Luft"],
+    ["Mein Hobby ist das", "Gärtnern", ".", "My hobby is gardening.", "Gärtnern", "Kochen", "Malen", "Singen"],
+    ["Ich sammle alte", "Münzen", ".", "I collect old coins.", "Münzen", "Bücher", "Briefe", "Bilder"],
+    ["Wir spielen", "Karten", "am Freitagabend.", "We play cards on Friday evening.", "Karten", "Bücher", "Hefte", "Briefe"],
+    ["Das", "Training", "fängt um 18 Uhr an.", "The training starts at 6 PM.", "Training", "Spiel", "Hobby", "Beispiel"]
+  ],
+  "dictionary": "der Fußball - soccer / football\ndas Hobby - hobby\njoggen - to jog\nschwimmen - to swim\nwandern - to hike\ndas Instrument - instrument\ndie Musik - music\ntanzen - to dance\nmalen - to paint / draw\ndas Fitnessstudio - gym\nder Basketball - basketball\nkochen - to cook\ndas Fahrrad - bicycle\nder Film (Pl. Filme) - movie\nsingen - to sing\nfotografieren - to photograph\ndas Schach - chess\nskifahren - to ski\nder Sport - sport / exercise\ndie Kunst - art\ndas Gärtnern - gardening\ndie Münze (Pl. Münzen) - coin\ndie Karte (Pl. Karten) - card\ndas Training - training / practice"
+}

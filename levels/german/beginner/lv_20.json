@@ -1,0 +1,31 @@
+{
+  "title": "Clothing and Fashion 2",
+  "sentences": [
+    ["Ich möchte diese Jacke gerne", "anprobieren", ".", "I would like to try on this jacket.", "anprobieren", "waschen", "bestellen", "passen"],
+    ["Diese Hose", "passt", "mir leider nicht.", "These pants unfortunately don't fit me.", "passt", "steht", "geht", "läuft"],
+    ["Das bunte Hemd", "steht", "dir sehr gut.", "The colorful shirt suits you very well.", "steht", "passt", "geht", "läuft"],
+    ["Ziehen Sie sich bitte für die Feier", "um", ".", "Please change your clothes for the party.", "um", "an", "aus", "mit"],
+    ["Der Pullover aus", "Wolle", "ist sehr warm.", "The wool sweater is very warm.", "Wolle", "Leder", "Seide", "Baumwolle"],
+    ["Ich trage am liebsten Kleidung aus", "Baumwolle", ".", "I prefer wearing clothes made of cotton.", "Baumwolle", "Wolle", "Leder", "Seide"],
+    ["Diese Schuhe sind aus echtem", "Leder", ".", "These shoes are made of real leather.", "Leder", "Wolle", "Seide", "Baumwolle"],
+    ["Mein neuer Anzug ist sehr", "elegant", ".", "My new suit is very elegant.", "elegant", "bequem", "eng", "weit"],
+    ["Ist dieses Kleid nicht ein bisschen zu", "eng", "?", "Isn't this dress a bit too tight?", "eng", "weit", "bequem", "elegant"],
+    ["Ich mag weite und", "bequeme", "Klamotten.", "I like loose and comfortable clothes.", "bequeme", "enge", "elegante", "schmutzige"],
+    ["Sie trägt eine goldene", "Kette", "um den Hals.", "She is wearing a golden necklace around her neck.", "Kette", "Brille", "Uhr", "Tasche"],
+    ["Hast du meinen silbernen", "Ring", "gesehen?", "Have you seen my silver ring?", "Ring", "Gürtel", "Hut", "Schal"],
+    ["Ich habe mein", "Portemonnaie", "in der Tasche.", "I have my wallet in the bag.", "Portemonnaie", "Geschenk", "Wetter", "Geld"],
+    ["Diese Ohrringe sind ein schöner", "Schmuck", ".", "These earrings are a beautiful piece of jewelry.", "Schmuck", "Stoff", "Stil", "Wert"],
+    ["Das Hemd ist leider", "schmutzig", "geworden.", "The shirt unfortunately got dirty.", "schmutzig", "sauber", "modern", "bequem"],
+    ["Ich muss meine Wäsche heute", "waschen", ".", "I have to wash my laundry today.", "waschen", "anprobieren", "umziehen", "passen"],
+    ["Gefällt Ihnen dieses", "Muster", "?", "Do you like this pattern?", "Muster", "Kleid", "Hemd", "Buch"],
+    ["Das Kleid ist mir viel zu", "weit", ".", "The dress is much too wide for me.", "weit", "eng", "bequem", "elegant"],
+    ["Ich ziehe mir nach der Arbeit die Schuhe", "aus", ".", "I take off my shoes after work.", "aus", "an", "um", "mit"],
+    ["Er trägt heute ein", "gestreiftes", "Hemd.", "He is wearing a striped shirt today.", "gestreiftes", "weißes", "neues", "schmutziges"],
+    ["Wir gehen heute in ein großes", "Kaufhaus", ".", "We are going to a large department store today.", "Kaufhaus", "Büro", "Haus", "Zimmer"],
+    ["Die", "Qualität", "des Stoffes ist sehr gut.", "The quality of the fabric is very good.", "Qualität", "Hilfe", "Zeit", "Nachricht"],
+    ["Wo ist die", "Umkleidekabine", "?", "Where is the changing room?", "Umkleidekabine", "Schule", "Klasse", "Pause"],
+    ["Ich finde diesen Stil sehr", "modern", ".", "I find this style very modern.", "modern", "schmutzig", "bequem", "eng"],
+    ["Das bunte T-Shirt ist mir zu", "auffällig", ".", "The colorful T-shirt is too flashy for me.", "auffällig", "bequem", "modern", "sauber"]
+  ],
+  "dictionary": "anprobieren - to try on\npassen - to fit\nstehen - to suit / look good on\numziehen - to change clothes\ndie Wolle - wool\ndie Baumwolle - cotton\ndas Leder - leather\nelegant - elegant\neng - tight\nbequem - comfortable\ndie Kette - necklace\nder Ring - ring\ndas Portemonnaie - wallet\nder Schmuck - jewelry\nschmutzig - dirty\nwaschen - to wash\ndas Muster - pattern\nweit - wide / loose\nausziehen - to take off (clothes/shoes)\ngestreift - striped\ndas Kaufhaus - department store\ndie Qualität - quality\ndie Umkleidekabine - changing room\nmodern - modern\nauffällig - flashy / conspicuous"
+}

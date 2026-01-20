@@ -1,0 +1,31 @@
+{
+  "title": "Shopping and Services 1",
+  "sentences": [
+    ["Wo ist der nächste", "Supermarkt", "?", "Where is the nearest supermarket?", "Supermarkt", "Park", "Wald", "Bahnhof"],
+    ["Wie viel", "kostet", "dieses Brot?", "How much does this bread cost?", "kostet", "macht", "geht", "läuft"],
+    ["Das ist ein sehr günstiger", "Preis", ".", "That is a very favorable price.", "Preis", "Bericht", "Vertrag", "Auftrag"],
+    ["Haben Sie heute ein", "Angebot", "?", "Do you have a special offer today?", "Angebot", "Büro", "Projekt", "Gespräch"],
+    ["Ich brauche eine", "Tüte", "für meine Einkäufe.", "I need a bag for my purchases.", "Tüte", "Jacke", "Hose", "Bluse"],
+    ["An welcher Kasse kann ich", "bezahlen", "?", "At which register can I pay?", "bezahlen", "bestellen", "kochen", "essen"],
+    ["Haben Sie", "Wechselgeld", "für 50 Euro?", "Do you have change for 50 Euro?", "Wechselgeld", "Geschenk", "Wetter", "Geld"],
+    ["Ich möchte diesen Rock gerne", "umtauschen", ".", "I would like to exchange this skirt.", "umtauschen", "anprobieren", "waschen", "passen"],
+    ["Haben Sie diesen Schuh in", "Größe", "40?", "Do you have this shoe in size 40?", "Größe", "Qualität", "Frist", "Hilfe"],
+    ["Wo sind die", "Umkleidekabinen", "?", "Where are the changing rooms?", "Umkleidekabinen", "Apotheken", "Schulen", "Pausen"],
+    ["Die", "Schlange", "an der Kasse ist sehr lang.", "The line at the register is very long.", "Schlange", "Nachricht", "Zeitung", "Reise"],
+    ["Ich suche die", "Post", ", um ein Paket zu schicken.", "I am looking for the post office to send a package.", "Post", "Bank", "Mensa", "Schule"],
+    ["Ich muss Geld am", "Geldautomaten", "abheben.", "I have to withdraw money from the ATM.", "Geldautomaten", "Schreibtisch", "Computer", "Mülleimer"],
+    ["Wo ist die nächste", "Bank", "?", "Where is the nearest bank?", "Bank", "Post", "Mensa", "Schule"],
+    ["Ich habe meinen", "Kassenbon", "verloren.", "I lost my receipt.", "Kassenbon", "Ausweis", "Schlüssel", "Film"],
+    ["Kann ich hier mit", "Karte", "zahlen?", "Can I pay with a card here?", "Karte", "Geld", "Tüte", "Preis"],
+    ["Wie sind die", "Öffnungszeiten", "des Ladens?", "What are the opening hours of the shop?", "Öffnungszeiten", "Hausaufgaben", "Vokabeln", "Noten"],
+    ["Ich brauche einen Termin beim", "Friseur", ".", "I need an appointment at the hairdresser.", "Friseur", "Arzt", "Chef", "Lehrer"],
+    ["Das Geschäft", "schließt", "um 20 Uhr.", "The shop closes at 8 PM.", "schließt", "öffnet", "macht", "geht"],
+    ["Gibt es auf diese Jacke einen", "Rabatt", "?", "Is there a discount on this jacket?", "Rabatt", "Preis", "Vertrag", "Bericht"],
+    ["Ich suche ein", "Geschenk", "für meine Mutter.", "I am looking for a gift for my mother.", "Geschenk", "Wetter", "Geld", "Tier"],
+    ["Verkaufen Sie auch", "Briefmarken", "?", "Do you also sell stamps?", "Briefmarken", "Zeitungen", "Reisen", "Karten"],
+    ["Wo finde ich die", "Obstabteilung", "?", "Where do I find the fruit department?", "Obstabteilung", "Apotheke", "Schule", "Klasse"],
+    ["Der", "Laden", "ist heute sehr voll.", "The shop is very crowded today.", "Laden", "Park", "Wald", "Weg"],
+    ["Haben Sie auch", "Bio-Produkte", "?", "Do you also have organic products?", "Bio-Produkte", "Zeugnisse", "Bücher", "Hefte"]
+  ],
+  "dictionary": "der Supermarkt - supermarket\nkosten - to cost\nder Preis - price\ndas Angebot - offer\ndie Tüte - bag\nbezahlen - to pay\ndas Wechselgeld - change (money)\numtauschen - to exchange / return\ndie Größe - size\ndie Umkleidekabine - changing room\ndie Schlange - line / queue\ndie Post - post office\nder Geldautomat - ATM\ndie Bank - bank\nder Kassenbon - receipt\ndie Karte - card\ndie Öffnungszeiten - opening hours\nder Friseur - hairdresser\nschließen - to close\nder Rabatt - discount\ndas Geschenk - gift\ndie Briefmarke - stamp\ndie Obstabteilung - fruit department\nder Laden - shop / store\ndas Bio-Produkt - organic product"
+}

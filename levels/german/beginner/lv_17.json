@@ -1,0 +1,31 @@
+{
+  "title": "Adverb collection 1",
+  "sentences": [
+    ["Ich trinke", "oft", "Kaffee am Nachmittag.", "I often drink coffee in the afternoon.", "oft", "selten", "nie", "immer"],
+    ["Kommen Sie", "heute", "zu unserem Meeting?", "Are you coming to our meeting today?", "heute", "morgen", "gestern", "bald"],
+    ["Wir haben", "fast", "alle Aufgaben erledigt.", "We have finished almost all tasks.", "fast", "sehr", "ziemlich", "besonders"],
+    ["Kommst du", "morgen", "bei mir vorbei?", "Are you coming over to my place tomorrow?", "morgen", "heute", "gestern", "bald"],
+    ["Ich bin", "sehr", "zufrieden mit dem Ergebnis.", "I am very satisfied with the result.", "sehr", "fast", "ziemlich", "besonders"],
+    ["", "Vielleicht", "regnet es am Abend.", "Perhaps it will rain in the evening.", "Vielleicht", "Hoffentlich", "Leider", "Sicher"],
+    ["", "Leider", "habe ich keine Zeit für ein Telefonat.", "Unfortunately, I have no time for a phone call.", "Leider", "Vielleicht", "Hoffentlich", "Sicher"],
+    ["Wir sehen uns", "bald", "wieder.", "We will see each other again soon.", "bald", "jetzt", "heute", "morgen"],
+    ["Bist du", "schon", "fertig mit der Arbeit?", "Are you already finished with work?", "schon", "erst", "noch", "gerade"],
+    ["Ich bin", "jetzt", "im Büro.", "I am in the office now.", "jetzt", "bald", "heute", "morgen"],
+    ["", "Gestern", "war das Wetter viel besser.", "Yesterday the weather was much better.", "Gestern", "Heute", "Morgen", "Bald"],
+    ["Er arbeitet", "besonders", "schnell und konzentriert.", "He works especially fast and focused.", "besonders", "fast", "sehr", "ziemlich"],
+    ["Wir essen", "manchmal", "Pizza in der Mittagspause.", "We sometimes eat pizza during the lunch break.", "manchmal", "oft", "selten", "nie"],
+    ["", "Hoffentlich", "klappt alles wie geplant.", "Hopefully, everything works out as planned.", "Hoffentlich", "Vielleicht", "Leider", "Sicher"],
+    ["Bleiben Sie bitte", "hier", "und warten Sie.", "Please stay here and wait.", "hier", "dort", "draußen", "drinnen"],
+    ["Es ist heute", "wirklich", "kalt draußen.", "It is really cold outside today.", "wirklich", "fast", "sehr", "ziemlich"],
+    ["Ich gehe", "nie", "ohne mein Handy aus dem Haus.", "I never leave the house without my phone.", "nie", "oft", "selten", "manchmal"],
+    ["Das ist eine", "ziemlich", "schwere Aufgabe.", "That is a fairly difficult task.", "ziemlich", "fast", "sehr", "besonders"],
+    ["Wir wohnen", "dort", "drüben in dem gelben Haus.", "We live over there in the yellow house.", "dort", "hier", "draußen", "drinnen"],
+    ["Ich bin", "immer", "pünktlich bei meinen Terminen.", "I am always on time for my appointments.", "immer", "nie", "oft", "selten"],
+    ["Gehen Sie", "gerne", "im Wald spazieren?", "Do you like going for walks in the forest?", "gerne", "oft", "selten", "nie"],
+    ["Es ist", "draußen", "schon sehr dunkel.", "It is already very dark outside.", "draußen", "drinnen", "oben", "unten"],
+    ["Wir müssen", "erst", "die Dokumente prüfen.", "We must check the documents first.", "erst", "schon", "noch", "gerade"],
+    ["", "Dann", "können wir eine Entscheidung treffen.", "Then we can make a decision.", "Dann", "Jetzt", "Bald", "Heute"],
+    ["Er spricht", "sogar", "vier verschiedene Sprachen.", "He even speaks four different languages.", "sogar", "fast", "sehr", "ziemlich"]
+  ],
+  "dictionary": "oft - often\nheute - today\nfast - almost\nmorgen - tomorrow\nsehr - very\nvielleicht - perhaps / maybe\nleider - unfortunately\nbald - soon\nschon - already\njetzt - now\ngestern - yesterday\nbesonders - especially\nmanchmal - sometimes\nhoffentlich - hopefully\nhier - here\nwirklich - really\nnie - never\nziemlich - fairly / quite\ndort - there\nimmer - always\ngerne - gladly / like to\ndraußen - outside\nerst - first / only (time)\ndann - then\nsogar - even"
+}

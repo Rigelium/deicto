@@ -1,0 +1,31 @@
+{
+  "title": "Education and School 1",
+  "sentences": [
+    ["In der", "Schule", "lernen wir viele interessante Dinge.", "In school we learn many interesting things.", "Schule", "Klasse", "Pause", "Aufgabe"],
+    ["Der", "Lehrer", "erklärt die neue Grammatik.", "The teacher is explaining the new grammar.", "Lehrer", "Schüler", "Direktor", "Partner"],
+    ["Hast du deine", "Hausaufgaben", "schon gemacht?", "Have you already done your homework?", "Hausaufgaben", "Bücher", "Fragen", "Noten"],
+    ["Wir schreiben heute einen wichtigen", "Test", ".", "We are writing an important test today.", "Test", "Text", "Brief", "Bericht"],
+    ["Möchten Sie dieses", "Buch", "ausleihen?", "Would you like to borrow this book?", "Buch", "Heft", "Wörterbuch", "Blatt"],
+    ["Ich habe mein", "Wörterbuch", "leider zu Hause vergessen.", "Unfortunately, I forgot my dictionary at home.", "Wörterbuch", "Buch", "Heft", "Blatt"],
+    ["In der", "Pause", "spielen die Kinder auf dem Hof.", "During the break, the children play in the yard.", "Pause", "Schule", "Klasse", "Stunde"],
+    ["Meine", "Lieblingsfach", "war schon immer Mathematik.", "My favorite subject has always been mathematics.", "Lieblingsfach", "Thema", "Wort", "Beispiel"],
+    ["Die", "Schülerin", "beantwortet die schwere Frage.", "The student (female) answers the difficult question.", "Schülerin", "Lehrerin", "Direktorin", "Partnerin"],
+    ["Können Sie das bitte an die", "Tafel", "schreiben?", "Can you please write that on the board?", "Tafel", "Tür", "Wand", "Tasche"],
+    ["Ich brauche einen neuen", "Bleistift", ".", "I need a new pencil.", "Bleistift", "Tisch", "Stuhl", "Schrank"],
+    ["Hast du ein", "Blatt", "Papier für mich?", "Do you have a sheet of paper for me?", "Blatt", "Buch", "Heft", "Wörterbuch"],
+    ["Die", "Klasse", "ist heute sehr ruhig.", "The class is very quiet today.", "Klasse", "Schule", "Pause", "Stunde"],
+    ["Ich lerne jeden Tag neue", "Vokabeln", ".", "I learn new vocabulary every day.", "Vokabeln", "Hausaufgaben", "Fragen", "Noten"],
+    ["Wann bekommt ihr eure", "Zeugnisse", "?", "When do you get your report cards?", "Zeugnisse", "Bücher", "Hefte", "Beispiele"],
+    ["Der", "Unterricht", "beginnt pünktlich um acht Uhr.", "The lesson starts punctually at eight o'clock.", "Unterricht", "Lehrer", "Schüler", "Partner"],
+    ["Ich mache eine", "Ausbildung", "als Mechatroniker.", "I am doing an apprenticeship as a mechatronics technician.", "Ausbildung", "Schule", "Pause", "Aufgabe"],
+    ["Sie möchte nach der Schule", "studieren", ".", "She wants to study at university after school.", "studieren", "lernen", "arbeiten", "spielen"],
+    ["Das", "Thema", "der heutigen Stunde ist Geschichte.", "The topic of today's lesson is history.", "Thema", "Buch", "Heft", "Wort"],
+    ["Haben Sie eine gute", "Note", "bekommen?", "Did you get a good grade?", "Note", "Pause", "Schule", "Stelle"],
+    ["Ich schreibe die Vokabeln in mein", "Heft", ".", "I write the vocabulary in my notebook.", "Heft", "Buch", "Blatt", "Wörterbuch"],
+    ["Können Sie mir ein", "Beispiel", "geben?", "Can you give me an example?", "Beispiel", "Thema", "Buch", "Heft"],
+    ["Wir haben heute keine", "Lust", "zu lernen.", "We have no desire to learn today.", "Lust", "Zeit", "Hilfe", "Frage"],
+    ["Der", "Kurs", "dauert insgesamt drei Monate.", "The course lasts three months in total.", "Kurs", "Lehrer", "Schüler", "Partner"],
+    ["Ich habe das", "Wort", "nicht verstanden.", "I didn't understand the word.", "Wort", "Buch", "Heft", "Thema"]
+  ],
+  "dictionary": "die Schule - school\nder Lehrer - teacher (male)\ndie Lehrerin - teacher (female)\ndie Hausaufgaben - homework\nder Test - test\ndas Buch - book\ndas Wörterbuch - dictionary\ndie Pause - break\ndas Lieblingsfach - favorite subject\ndie Schülerin - student (female)\nder Schüler - student (male)\ndie Tafel - chalkboard / board\nder Bleistift - pencil\ndas Blatt - sheet (of paper)\ndie Klasse - class / classroom\ndie Vokabeln - vocabulary\ndas Zeugnis (Pl. Zeugnisse) - report card\nder Unterricht - lesson / instruction\ndie Ausbildung - apprenticeship / training\nstudieren - to study (at university)\ndas Thema - topic\ndie Note - grade\ndas Heft - notebook\ndas Beispiel - example\ndie Lust - desire / mood\nder Kurs - course\ndas Wort - word\nHausaufgaben machen - to do homework"
+}

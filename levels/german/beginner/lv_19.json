@@ -1,0 +1,31 @@
+{
+  "title": "Clothing and Fashion 1",
+  "sentences": [
+    ["Ich trage heute ein blaues", "Hemd", ".", "I am wearing a blue shirt today.", "Hemd", "Kleid", "Buch", "Brot"],
+    ["Gefällt dir meine neue", "Jacke", "?", "Do you like my new jacket?", "Jacke", "Hose", "Bluse", "Tasche"],
+    ["Die", "Hose", "ist mir leider viel zu lang.", "The pants are unfortunately much too long for me.", "Hose", "Jacke", "Bluse", "Tasche"],
+    ["Sie trägt ein wunderschönes", "Kleid", ".", "She is wearing a beautiful dress.", "Kleid", "Hemd", "Buch", "Brot"],
+    ["Tragen Sie im Winter oft einen", "Mantel", "?", "Do you often wear a coat in winter?", "Mantel", "Anzug", "Gürtel", "Schuh"],
+    ["Ich brauche neue", "Schuhe", "für die Arbeit.", "I need new shoes for work.", "Schuhe", "Socken", "Hosen", "Jacken"],
+    ["Hast du meine roten", "Socken", "gesehen?", "Have you seen my red socks?", "Socken", "Schuhe", "Hosen", "Jacken"],
+    ["Im Sommer trage ich gerne ein", "T-Shirt", ".", "In summer I like wearing a T-shirt.", "T-Shirt", "Kleid", "Hemd", "Brot"],
+    ["Der", "Rock", "steht dir wirklich gut.", "The skirt really suits you well.", "Rock", "Mantel", "Anzug", "Schuh"],
+    ["Ich ziehe mir einen warmen", "Pullover", "an.", "I am putting on a warm sweater.", "Pullover", "Mantel", "Anzug", "Gürtel"],
+    ["Vergessen Sie Ihren", "Hut", "nicht!", "Don't forget your hat!", "Hut", "Mantel", "Anzug", "Gürtel"],
+    ["Ich binde mir den", "Schal", "um den Hals.", "I am tying the scarf around my neck.", "Schal", "Mantel", "Anzug", "Gürtel"],
+    ["Draußen ist es kalt, nimm deine", "Handschuhe", "mit.", "It's cold outside, take your gloves with you.", "Handschuhe", "Schuhe", "Socken", "Brillen"],
+    ["Die", "Brille", "liegt auf dem Tisch.", "The glasses are on the table.", "Brille", "Jacke", "Hose", "Tasche"],
+    ["Ich brauche einen neuen", "Gürtel", "für meine Hose.", "I need a new belt for my pants.", "Gürtel", "Mantel", "Anzug", "Schuh"],
+    ["Trägt er heute eine", "Krawatte", "?", "Is he wearing a tie today?", "Krawatte", "Jacke", "Hose", "Tasche"],
+    ["Der", "Anzug", "ist perfekt für die Hochzeit.", "The suit is perfect for the wedding.", "Anzug", "Mantel", "Gürtel", "Schuh"],
+    ["Ihre", "Bluse", "ist aus sehr feiner Seide.", "Your blouse is made of very fine silk.", "Bluse", "Jacke", "Hose", "Tasche"],
+    ["Ich ziehe meine", "Stiefel", "an, weil es regnet.", "I am putting on my boots because it's raining.", "Stiefel", "Schuhe", "Socken", "Handschuhe"],
+    ["Die Kinder tragen bunte", "Mützen", ".", "The children are wearing colorful beanies.", "Mützen", "Jacken", "Hosen", "Taschen"],
+    ["Ich habe meine", "Handtasche", "im Restaurant vergessen.", "I forgot my handbag in the restaurant.", "Handtasche", "Jacke", "Hose", "Bluse"],
+    ["Er trägt sportliche", "Turnschuhe", ".", "He is wearing athletic sneakers.", "Turnschuhe", "Stiefel", "Socken", "Handschuhe"],
+    ["Hast du einen", "Regenschirm", "dabei?", "Do you have an umbrella with you?", "Regenschirm", "Mantel", "Anzug", "Gürtel"],
+    ["Die", "Uhr", "war ein Geschenk von meinem Vater.", "The watch was a gift from my father.", "Uhr", "Jacke", "Hose", "Bluse"],
+    ["Ich kaufe mir ein neues Paar", "Jeans", ".", "I am buying myself a new pair of jeans.", "Jeans", "Socken", "Schuhe", "Handschuhe"]
+  ],
+  "dictionary": "das Hemd - shirt\ndie Jacke - jacket\ndie Hose - pants\ndas Kleid - dress\nder Mantel - coat\ndie Schuhe - shoes\ndie Socken - socks\ndas T-Shirt - T-shirt\nder Rock - skirt\nder Pullover - sweater\nder Hut - hat\nder Schal - scarf\ndie Handschuhe - gloves\ndie Brille - glasses\nder Gürtel - belt\ndie Krawatte - tie\nder Anzug - suit\ndie Bluse - blouse\ndie Stiefel - boots\ndie Mütze - beanie / cap\ndie Handtasche - handbag\ndie Turnschuhe - sneakers\nder Regenschirm - umbrella\ndie Uhr - watch\ndie Jeans - jeans"
+}

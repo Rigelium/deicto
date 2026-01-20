@@ -1,0 +1,31 @@
+{
+  "title": "Adverb collection 3",
+  "sentences": [
+    ["Ich habe", "kaum", "geschlafen heute Nacht.", "I hardly slept tonight.", "kaum", "völlig", "besonders", "fast"],
+    ["Das ist", "völlig", "in Ordnung für mich.", "That is completely fine with me.", "völlig", "kaum", "etwa", "beinahe"],
+    ["Wir treffen uns", "meistens", "am Freitagabend.", "We usually meet on Friday evening.", "meistens", "selten", "kaum", "überhaupt"],
+    ["Ich bin", "beinahe", "zu spät gekommen.", "I almost arrived too late.", "beinahe", "völlig", "etwa", "genauso"],
+    ["Es sind", "etwa", "zehn Kilometer bis zur Stadt.", "It is about ten kilometers to the city.", "etwa", "völlig", "genau", "kaum"],
+    ["Mein Bruder ist", "genauso", "groß wie ich.", "My brother is just as tall as I am.", "genauso", "etwa", "kaum", "völlig"],
+    ["Ich habe", "schon", "dreimal angerufen.", "I have already called three times.", "schon", "noch", "erst", "gerade"],
+    ["Bist du", "noch", "im Büro?", "Are you still in the office?", "noch", "schon", "erst", "gerade"],
+    ["Ich bin", "erst", "seit einer Stunde hier.", "I have only been here for an hour.", "erst", "schon", "noch", "gerade"],
+    ["Wir gehen", "jetzt", "nach Hause.", "We are going home now.", "jetzt", "bald", "vorher", "nachher"],
+    ["Ich muss", "vorher", "noch einkaufen gehen.", "I have to go shopping beforehand.", "vorher", "nachher", "jetzt", "bald"],
+    ["Wir können", "nachher", "darüber sprechen.", "We can talk about it afterwards.", "nachher", "vorher", "jetzt", "bald"],
+    ["Er kommt", "sicher", "zu deiner Party.", "He is certainly coming to your party.", "sicher", "vielleicht", "hoffentlich", "leider"],
+    ["Ich habe", "leider", "meinen Regenschirm vergessen.", "Unfortunately, I forgot my umbrella.", "leider", "sicher", "vielleicht", "hoffentlich"],
+    ["Wir sehen uns", "bald", "wieder.", "We will see each other again soon.", "bald", "jetzt", "vorher", "nachher"],
+    ["Hast du", "genug", "Geld für das Ticket?", "Do you have enough money for the ticket?", "genug", "kaum", "etwa", "völlig"],
+    ["Das ist", "wirklich", "eine gute Idee.", "That is really a good idea.", "wirklich", "kaum", "etwa", "beinahe"],
+    ["Ich bin", "oft", "im Park spazieren.", "I am often walking in the park.", "oft", "selten", "nie", "immer"],
+    ["Wir essen", "selten", "im Restaurant.", "We rarely eat in a restaurant.", "selten", "oft", "immer", "meistens"],
+    ["Ich werde", "nie", "vergessen, was du gesagt hast.", "I will never forget what you said.", "nie", "immer", "oft", "selten"],
+    ["Du hast", "immer", "recht.", "You are always right.", "immer", "nie", "oft", "selten"],
+    ["Das Fenster ist", "weit", "offen.", "The window is wide open.", "weit", "nah", "oben", "unten"],
+    ["Die Apotheke ist ganz", "nah", "bei mir.", "The pharmacy is very close to me.", "nah", "weit", "oben", "unten"],
+    ["Ich bin", "müde,", "trotzdem", "muss ich arbeiten.", "I am tired, nevertheless I must work.", "trotzdem", "deshalb", "sonst", "also"],
+    ["Ich habe Hunger,", "also", "koche ich etwas.", "I am hungry, so I am cooking something.", "also", "trotzdem", "sonst", "kaum"]
+  ],
+  "dictionary": "kaum - hardly / barely\nvöllig - completely\nmeistens - mostly / usually\nbeinahe - almost\netwa - about / approximately\ngenauso - just as / equally\nschon - already\nnoch - still\nerst - only / first\njetzt - now\nvorher - before / beforehand\nnachher - after / afterwards\nsicher - certainly / surely\nleider - unfortunately\nbald - soon\ngenug - enough\nwirklich - really\noft - often\nselten - rarely\nnie - never\nimmer - always\nweit - far / wide\nnah - near / close\ntrotzdem - nevertheless / anyway\nalso - so / therefore"
+}

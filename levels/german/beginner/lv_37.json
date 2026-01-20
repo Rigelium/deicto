@@ -1,0 +1,31 @@
+{
+  "title": "Weather and Nature 1",
+  "sentences": [
+    ["Heute scheint die", "Sonne", "den ganzen Tag.", "Today the sun is shining all day.", "Sonne", "Welt", "Zeit", "Hilfe"],
+    ["Morgen soll es leider den ganzen Tag", "regnen", ".", "Tomorrow it is unfortunately supposed to rain all day.", "regnen", "schneien", "stürmen", "donnern"],
+    ["Im Winter", "schneit", "es in den Bergen oft.", "In winter it often snows in the mountains.", "schneit", "regnet", "stürmt", "blitzt"],
+    ["Wie ist das", "Wetter", "heute in Berlin?", "How is the weather today in Berlin?", "Wetter", "Wasser", "Land", "Dorf"],
+    ["Es ist heute sehr", "windig", "draußen.", "It is very windy outside today.", "windig", "sonnig", "klar", "warm"],
+    ["Ich brauche eine Jacke, es ist", "kalt", ".", "I need a jacket, it is cold.", "kalt", "heiß", "trocken", "hell"],
+    ["Im Sommer ist es oft sehr", "heiß", ".", "In summer it is often very hot.", "heiß", "kalt", "nass", "dunkel"],
+    ["Hörst du den", "Donner", "von dem Gewitter?", "Do you hear the thunder from the storm?", "Donner", "Blitz", "Regen", "Wind"],
+    ["Siehst du den hellen", "Blitz", "am Himmel?", "Do you see the bright lightning in the sky?", "Blitz", "Donner", "Regen", "Stern"],
+    ["Es ist sehr", "neblig", ", man kann kaum etwas sehen.", "It is very foggy, one can hardly see anything.", "neblig", "sonnig", "windig", "warm"],
+    ["Der", "Himmel", "ist heute ganz blau.", "The sky is completely blue today.", "Himmel", "Wald", "Park", "Weg"],
+    ["Am Nachmittag gibt es ein starkes", "Gewitter", ".", "In the afternoon there is a strong thunderstorm.", "Gewitter", "Wetter", "Wasser", "Land"],
+    ["Die", "Temperatur", "liegt heute bei 20 Grad.", "The temperature is 20 degrees today.", "Temperatur", "Qualität", "Hilfe", "Zeit"],
+    ["Der", "Regenbogen", "sieht nach dem Regen wunderschön aus.", "The rainbow looks beautiful after the rain.", "Regenbogen", "Donner", "Blitz", "Wind"],
+    ["Wir machen einen Spaziergang im", "Wald", ".", "We are going for a walk in the forest.", "Wald", "Bahnhof", "Flughafen", "Marktplatz"],
+    ["Der", "See", "ist im Sommer perfekt zum Schwimmen.", "The lake is perfect for swimming in summer.", "See", "Berg", "Wald", "Park"],
+    ["Die", "Luft", "nach dem Regen ist sehr frisch.", "The air after the rain is very fresh.", "Luft", "Sonne", "Erde", "Welt"],
+    ["In der Nacht wird es ziemlich", "kühl", ".", "At night it gets quite cool.", "kühl", "heiß", "trocken", "hell"],
+    ["Es ist", "bewölkt", ", aber es regnet nicht.", "It is cloudy, but it is not raining.", "bewölkt", "sonnig", "klar", "windig"],
+    ["Die", "Erde", "ist nach dem Regen ganz nass.", "The ground/earth is completely wet after the rain.", "Erde", "Sonne", "Luft", "Welt"],
+    ["Im Herbst fallen die", "Blätter", "von den Bäumen.", "In autumn the leaves fall from the trees.", "Blätter", "Sterne", "Vögel", "Häuser"],
+    ["Es weht ein leichter", "Wind", "vom Meer.", "A light wind is blowing from the sea.", "Wind", "Donner", "Blitz", "Regen"],
+    ["Die", "Umwelt", "ist uns sehr wichtig.", "The environment is very important to us.", "Umwelt", "Zeitung", "Reise", "Karte"],
+    ["Wie viele", "Grad", "haben wir heute?", "How many degrees do we have today?", "Grad", "Geld", "Zeit", "Hilfe"],
+    ["Das", "Klima", "verändert sich weltweit.", "The climate is changing worldwide.", "Klima", "Wetter", "Wasser", "Land"]
+  ],
+  "dictionary": "die Sonne - sun\nregnen - to rain\nschneien - to snow\ndas Wetter - weather\nwindig - windy\nkalt - cold\nheiß - hot\nder Donner - thunder\nder Blitz - lightning\nneblig - foggy\nder Himmel - sky\ndas Gewitter - thunderstorm\ndie Temperatur - temperature\nder Regenbogen - rainbow\nder Wald - forest\nder See - lake\ndie Luft - air\nkühl - cool\nbewölkt - cloudy\ndie Erde - earth / ground\ndas Blatt (Pl. die Blätter) - leaf\nder Wind - wind\ndie Umwelt - environment\ndas Grad - degree\ndas Klima - climate"
+}

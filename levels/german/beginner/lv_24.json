@@ -1,0 +1,31 @@
+{
+  "title": "Adverb collection 2",
+  "sentences": [
+    ["Ich bin", "früher", "oft ins Kino gegangen.", "I used to go to the cinema often.", "früher", "später", "zuerst", "zuletzt"],
+    ["Können wir das", "später", "besprechen?", "Can we discuss that later?", "später", "früher", "zuerst", "zuletzt"],
+    ["", "Zuerst", "müssen wir die Dokumente lesen.", "First we must read the documents.", "Zuerst", "Zuletzt", "Mittlerweile", "Überall"],
+    ["Wann haben Sie ihn", "zuletzt", "gesehen?", "When did you see him last?", "zuletzt", "zuerst", "früher", "später"],
+    ["Ich habe", "überall", "nach meinem Schlüssel gesucht.", "I searched everywhere for my key.", "überall", "nirgendwo", "hinten", "vorn"],
+    ["Ich kann meine Brille", "nirgendwo", "finden.", "I can find my glasses nowhere.", "nirgendwo", "überall", "oben", "unten"],
+    ["Ich habe ihn", "vorgestern", "im Supermarkt getroffen.", "I met him at the supermarket the day before yesterday.", "vorgestern", "übermorgen", "mittlerweile", "gerade"],
+    ["", "Übermorgen", "fahre ich nach Berlin.", "The day after tomorrow I am going to Berlin.", "Übermorgen", "Vorgestern", "Gerade", "Endlich"],
+    ["", "Mittlerweile", "verstehe ich fast alles.", "By now I understand almost everything.", "Mittlerweile", "Vorgestern", "Übermorgen", "Zuerst"],
+    ["Das Auto ist schön,", "allerdings", "ist es sehr teuer.", "The car is beautiful, however it is very expensive.", "allerdings", "trotzdem", "deshalb", "sonst"],
+    ["Es regnet, aber wir gehen", "trotzdem", "spazieren.", "It is raining, but we are going for a walk anyway.", "trotzdem", "allerdings", "deshalb", "sonst"],
+    ["Ich bin krank,", "deshalb", "bleibe ich zu Hause.", "I am sick, therefore I am staying at home.", "deshalb", "trotzdem", "allerdings", "sonst"],
+    ["Beeil dich,", "sonst", "verpassen wir den Bus.", "Hurry up, otherwise we will miss the bus.", "sonst", "allerdings", "deshalb", "trotzdem"],
+    ["Ich esse", "selten", "Fleisch.", "I rarely eat meat.", "selten", "meistens", "gerade", "endlich"],
+    ["Abends trinke ich", "meistens", "einen Tee.", "In the evening I mostly drink a tea.", "meistens", "selten", "gerade", "endlich"],
+    ["Ich telefoniere", "gerade", "mit meiner Mutter.", "I am talking to my mother right now.", "gerade", "endlich", "selten", "meistens"],
+    ["Hast du", "endlich", "deine Hausaufgaben gemacht?", "Have you finally done your homework?", "endlich", "gerade", "selten", "meistens"],
+    ["", "Plötzlich", "hat es angefangen zu regnen.", "Suddenly it started to rain.", "Plötzlich", "Zuerst", "Zuletzt", "Mittlerweile"],
+    ["Der Lehrer steht", "vorn", "an der Tafel.", "The teacher is standing at the front by the board.", "vorn", "hinten", "oben", "unten"],
+    ["Wir sitzen im Auto lieber", "hinten", ".", "We prefer to sit in the back in the car.", "hinten", "vorn", "oben", "unten"],
+    ["Das Schlafzimmer ist", "oben", ".", "The bedroom is upstairs.", "oben", "unten", "vorn", "hinten"],
+    ["Die Küche befindet sich", "unten", ".", "The kitchen is located downstairs.", "unten", "oben", "vorn", "hinten"],
+    ["Biegen Sie an der Kreuzung nach", "links", "ab.", "Turn left at the intersection.", "links", "rechts", "gerade", "hinten"],
+    ["Mein Haus ist auf der", "rechten", "Seite.", "My house is on the right side.", "rechten", "linken", "oberen", "unteren"],
+    ["Das verstehe ich", "überhaupt", "nicht.", "I don't understand that at all.", "überhaupt", "allerdings", "sonst", "plötzlich"]
+  ],
+  "dictionary": "früher - earlier / formerly\nspäter - later\nzuerst - first / at first\nzuletzt - last / recently\nüberall - everywhere\nnirgendwo - nowhere\nvorgestern - day before yesterday\nübermorgen - day after tomorrow\nmittlerweile - by now / meanwhile\nallerdings - however\ntrotzdem - nevertheless / anyway\ndeshalb - therefore / that's why\nsonst - otherwise\nselten - rarely\nmeistens - mostly\ngerade - just / right now\nendlich - finally\nplötzlich - suddenly\nvorn - in front / at the front\nhinten - in the back / behind\noben - upstairs / above\nunten - downstairs / below\nlinks - left\nrechts - right\nüberhaupt - at all / anyway\ndie Hausaufgaben - homework\ndie Tafel - chalkboard / board\ndie Kreuzung - intersection"
+}

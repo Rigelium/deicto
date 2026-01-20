@@ -1,0 +1,31 @@
+{
+  "title": "Adjective collection 3",
+  "sentences": [
+    ["Ich bin sehr", "stolz", "auf dich.", "I am very proud of you.", "stolz", "klug", "faul", "fleißig"],
+    ["Das war eine", "mutige", "Entscheidung.", "That was a brave decision.", "mutige", "kluge", "faule", "fleißige"],
+    ["Er ist ein sehr", "kluger", "Junge.", "He is a very smart boy.", "kluger", "dummer", "fauler", "fleißiger"],
+    ["Heute bin ich ein bisschen", "faul", ".", "Today I am a bit lazy.", "faul", "fleißig", "stolz", "klug"],
+    ["Sie ist eine", "fleißige", "Schülerin.", "She is a hardworking student.", "fleißige", "faule", "mutige", "kluge"],
+    ["Der See ist hier sehr", "tief", ".", "The lake is very deep here.", "tief", "flach", "hart", "weich"],
+    ["Das Wasser am Strand ist", "flach", ".", "The water at the beach is shallow.", "flach", "tief", "weich", "hart"],
+    ["Er träumt davon,", "reich", "zu sein.", "He dreams of being rich.", "reich", "arm", "gesund", "krank"],
+    ["Das ist ein", "armes", "Land.", "That is a poor country.", "armes", "reiches", "gesundes", "krankes"],
+    ["Das Kissen ist wunderbar", "weich", ".", "The pillow is wonderfully soft.", "weich", "hart", "tief", "flach"],
+    ["Die Matratze ist mir zu", "hart", ".", "The mattress is too hard for me.", "hart", "weich", "flach", "tief"],
+    ["Die Küche ist jetzt wieder", "sauber", ".", "The kitchen is clean again now.", "sauber", "schmutzig", "leer", "voll"],
+    ["Deine Hände sind ganz", "schmutzig", ".", "Your hands are quite dirty.", "schmutzig", "sauber", "voll", "leer"],
+    ["Viel Gemüse zu essen ist", "gesund", ".", "Eating lots of vegetables is healthy.", "gesund", "krank", "reich", "arm"],
+    ["Die Flasche ist fast", "leer", ".", "The bottle is almost empty.", "leer", "voll", "sauber", "schmutzig"],
+    ["Der Bus war heute Morgen sehr", "voll", ".", "The bus was very full this morning.", "voll", "leer", "sauber", "schmutzig"],
+    ["Das Fenster ist noch", "offen", ".", "The window is still open.", "offen", "geschlossen", "möglich", "unmöglich"],
+    ["Die Tür ist leider", "geschlossen", ".", "The door is unfortunately closed.", "geschlossen", "offen", "unmöglich", "möglich"],
+    ["Es ist", "möglich", ", den Termin zu ändern.", "It is possible to change the appointment.", "möglich", "unmöglich", "offen", "geschlossen"],
+    ["Das ist eine", "unmögliche", "Aufgabe.", "That is an impossible task.", "unmögliche", "mögliche", "offene", "geschlossene"],
+    ["Seien Sie bitte", "pünktlich", "im Büro.", "Please be on time in the office.", "pünktlich", "unpünktlich", "glücklich", "traurig"],
+    ["Mein Bruder ist immer", "unpünktlich", ".", "My brother is always unpunctual.", "unpünktlich", "pünktlich", "traurig", "glücklich"],
+    ["Sie sieht heute sehr", "glücklich", "aus.", "She looks very happy today.", "glücklich", "traurig", "unpünktlich", "pünktlich"],
+    ["Er ist mit seinem Job", "unzufrieden", ".", "He is dissatisfied with his job.", "unzufrieden", "zufrieden", "neugierig", "stolz"],
+    ["Die Kinder sind sehr", "neugierig", ".", "The children are very curious.", "neugierig", "unzufrieden", "stolz", "faul"]
+  ],
+  "dictionary": "stolz - proud\nmutig - brave\nklug - smart / clever\ndumm - stupid\nfaul - lazy\nfleißig - hardworking\ntief - deep\nflach - flat / shallow\nreich - rich\narm - poor\nweich - soft\nhart - hard\nsauber - clean\nschmutzig - dirty\ngesund - healthy\nkrank - sick\nleer - empty\nvoll - full\noffen - open\ngeschlossen - closed\nmöglich - possible\nunmöglich - impossible\npünktlich - on time / punctual\nunpünktlich - unpunctual / late\nglücklich - happy\nunzufrieden - dissatisfied\nneugierig - curious\ndas Kissen - pillow\ndie Matratze - mattress\ndie Küche - kitchen\ndas Gemüse - vegetables\ndie Flasche - bottle\ndas Fenster - window\ndie Tür - door\nder Termin - appointment\ndie Aufgabe - task\ndas Büro - office"
+}

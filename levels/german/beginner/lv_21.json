@@ -1,0 +1,31 @@
+{
+  "title": "Adjective collection 2",
+  "sentences": [
+    ["Die Musik ist mir viel zu", "laut", ".", "The music is much too loud for me.", "laut", "leise", "hell", "dunkel"],
+    ["Können Sie bitte ein bisschen", "leiser", "sprechen?", "Can you please speak a bit quieter?", "leiser", "lauter", "schneller", "langsamer"],
+    ["Mein Internet ist heute extrem", "langsam", ".", "My internet is extremely slow today.", "langsam", "schnell", "teuer", "billig"],
+    ["Dieser Zug fährt wirklich", "schnell", ".", "This train goes really fast.", "schnell", "langsam", "leise", "laut"],
+    ["Das Hotelzimmer war leider sehr", "dunkel", ".", "The hotel room was unfortunately very dark.", "dunkel", "hell", "sauber", "schmutzig"],
+    ["In der Küche ist es schön", "hell", ".", "It is nice and bright in the kitchen.", "hell", "dunkel", "leise", "laut"],
+    ["Das neue Auto ist unglaublich", "teuer", ".", "The new car is incredibly expensive.", "teuer", "billig", "leicht", "schwer"],
+    ["Ich suche ein", "billiges", "Ticket nach Berlin.", "I am looking for a cheap ticket to Berlin.", "billiges", "teures", "schweres", "leichtes"],
+    ["Dieses Thema ist für mich sehr", "wichtig", ".", "This topic is very important to me.", "wichtig", "falsch", "richtig", "kompliziert"],
+    ["Die Antwort ist leider", "falsch", ".", "The answer is unfortunately wrong.", "falsch", "richtig", "wichtig", "klar"],
+    ["Hast du die", "richtige", "Adresse gefunden?", "Did you find the correct address?", "richtige", "falsche", "wichtige", "klare"],
+    ["Ich bin mir", "sicher", ", dass wir Erfolg haben.", "I am sure that we will have success.", "sicher", "gefährlich", "kompliziert", "möglich"],
+    ["Diese Kreuzung ist für Radfahrer", "gefährlich", ".", "This intersection is dangerous for cyclists.", "gefährlich", "sicher", "leicht", "möglich"],
+    ["Das ist eine sehr", "komplizierte", "Frage.", "That is a very complicated question.", "komplizierte", "leichte", "sichere", "wichtige"],
+    ["Ist es", "möglich", ", den Termin zu verschieben?", "Is it possible to postpone the appointment?", "möglich", "sicher", "gefährlich", "wichtig"],
+    ["Die Luft hier oben ist sehr", "frisch", ".", "The air up here is very fresh.", "frisch", "warm", "kalt", "trocken"],
+    ["Ich habe eine", "wunderbare", "Zeit im Urlaub.", "I am having a wonderful time on vacation.", "wunderbare", "schlechte", "langweilige", "traurige"],
+    ["Das Ergebnis ist jetzt völlig", "klar", ".", "The result is completely clear now.", "klar", "falsch", "schwer", "dunkel"],
+    ["Er ist ein", "höflicher", "junger Mann.", "He is a polite young man.", "höflicher", "böser", "müder", "trauriger"],
+    ["Warum bist du heute so", "unhöflich", "?", "Why are you so impolite today?", "unhöflich", "höflich", "glücklich", "lustig"],
+    ["Das Essen im Restaurant war", "fettig", ".", "The food in the restaurant was greasy.", "fettig", "frisch", "lecker", "süß"],
+    ["Ich trage heute eine", "trockene", "Jacke.", "I am wearing a dry jacket today.", "trockene", "nasse", "saubere", "neue"],
+    ["Draußen ist alles", "nass", "vom Regen.", "Everything outside is wet from the rain.", "nass", "trocken", "hell", "dunkel"],
+    ["Diese Geschichte ist absolut", "wahr", ".", "This story is absolutely true.", "wahr", "falsch", "schwer", "langweilig"],
+    ["Er ist ein sehr", "reicher", "Mann.", "He is a very rich man.", "reicher", "armer", "böser", "müder"]
+  ],
+  "dictionary": "laut - loud\nleise - quiet\nlangsam - slow\nschnell - fast\ndunkel - dark\nhell - bright / light\nteuer - expensive\nbillig - cheap\nwichtig - important\nfalsch - wrong\nrichtig - correct / right\nsicher - sure / safe\ngefährlich - dangerous\nkompliziert - complicated\nmöglich - possible\nfrisch - fresh\nwunderbar - wonderful\nklar - clear\nhöflich - polite\nunhöflich - impolite\nfettig - greasy\ntrocken - dry\nnass - wet\nwahr - true\nreich - rich"
+}

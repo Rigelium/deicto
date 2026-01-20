@@ -1,0 +1,31 @@
+{
+  "title": "Health and Medicine 2",
+  "sentences": [
+    ["Ich habe mir beim Sport den", "Knöchel", "verstaucht.", "I sprained my ankle during sports.", "Knöchel", "Husten", "Mund", "Bauch"],
+    ["Haben Sie starke", "Nebenwirkungen", "bei diesem Medikament?", "Do you have strong side effects with this medication?", "Nebenwirkungen", "Erkältungen", "Besserungen", "Spritzen"],
+    ["Ich muss meine", "Zahnspange", "jeden Abend reinigen.", "I have to clean my braces every evening.", "Zahnspange", "Apotheke", "Krankenversicherung", "Erkältung"],
+    ["Rufen Sie sofort den", "Notarzt", "!", "Call the emergency doctor immediately!", "Notarzt", "Patienten", "Zahnarzt", "Lehrer"],
+    ["Ich brauche eine", "Krankschreibung", "für meinen Arbeitgeber.", "I need a sick note for my employer.", "Krankschreibung", "Überweisung", "Patientenverfügung", "Besserung"],
+    ["Das", "Röntgenbild", "zeigt zum Glück keinen Bruch.", "The X-ray fortunately shows no fracture.", "Röntgenbild", "Medikament", "Pflaster", "Rezept"],
+    ["Haben Sie eine", "Überweisung", "vom Hausarzt?", "Do you have a referral from the family doctor?", "Überweisung", "Krankschreibung", "Krankenversicherung", "Spritze"],
+    ["Mir ist heute Morgen ein bisschen", "schwindelig", ".", "I feel a bit dizzy this morning.", "schwindelig", "schwach", "krank", "gesund"],
+    ["Mein", "Zahnfleisch", "ist seit gestern entzündet.", "My gums have been inflamed since yesterday.", "Zahnfleisch", "Röntgenbild", "Blutdruck", "Pflaster"],
+    ["Er hat eine schwere", "Gehirnerschütterung", "erlitten.", "He suffered a severe concussion.", "Gehirnerschütterung", "Erkältung", "Besserung", "Allergie"],
+    ["Wir müssen regelmäßig Ihren", "Blutzucker", "messen.", "We must measure your blood sugar regularly.", "Blutzucker", "Blutdruck", "Termin", "Bericht"],
+    ["Ich mache viel Sport für meine", "Gesundheit", ".", "I do a lot of sports for my health.", "Gesundheit", "Besserung", "Erkältung", "Note"],
+    ["Haben Sie eine", "Patientenverfügung", "unterschrieben?", "Have you signed a living will?", "Patientenverfügung", "Krankschreibung", "Überweisung", "Krankenversicherung"],
+    ["Das", "Immunsystem", "ist im Winter oft geschwächt.", "The immune system is often weakened in winter.", "Immunsystem", "Krankenhaus", "Medikament", "Röntgenbild"],
+    ["Ich habe mir den Finger in der Tür", "eingeklemmt", ".", "I jammed my finger in the door.", "eingeklemmt", "gebrochen", "geheilt", "gewaschen"],
+    ["Die", "Heilung", "wird etwa zwei Wochen dauern.", "The healing will take about two weeks.", "Heilung", "Besserung", "Erkältung", "Allergie"],
+    ["Ich leide momentan unter", "Schlaflosigkeit", ".", "I am currently suffering from insomnia.", "Schlaflosigkeit", "Erkältung", "Allergie", "Besserung"],
+    ["Haben Sie Ihren", "Impfausweis", "dabei?", "Do you have your vaccination record with you?", "Impfausweis", "Blutdruck", "Blutzucker", "Termin"],
+    ["Der", "Gips", "muss noch vier Wochen am Bein bleiben.", "The cast must stay on the leg for another four weeks.", "Gips", "Verband", "Pflaster", "Stiefel"],
+    ["Ich habe eine schmerzhafte", "Infektion", "im Ohr.", "I have a painful infection in the ear.", "Infektion", "Erkältung", "Besserung", "Allergie"],
+    ["Du musst am Tag viel", "Flüssigkeit", "trinken.", "You have to drink a lot of fluid during the day.", "Flüssigkeit", "Tabletten", "Vitamine", "Pillen"],
+    ["Die Krankenschwester muss den", "Verband", "wechseln.", "The nurse has to change the bandage.", "Verband", "Gips", "Pflaster", "Hut"],
+    ["Das", "Herz-Kreislauf-System", "muss gestärkt werden.", "The cardiovascular system must be strengthened.", "Herz-Kreislauf-System", "Immunsystem", "Krankenhaus", "Röntgenbild"],
+    ["Ich nehme täglich", "Vitamine", "zu mir.", "I take vitamins daily.", "Vitamine", "Tabletten", "Pillen", "Spritzen"],
+    ["Die", "Operation", "ist gut verlaufen.", "The surgery went well.", "Operation", "Spritze", "Pause", "Stelle"]
+  ],
+  "dictionary": "der Knöchel - ankle\ndie Nebenwirkung - side effect\ndie Zahnspange - braces\nder Notarzt - emergency doctor\ndie Krankschreibung - sick note\ndas Röntgenbild - X-ray image\ndie Überweisung - referral\nschwindelig - dizzy\ndas Zahnfleisch - gums\ndie Gehirnerschütterung - concussion\nder Blutzucker - blood sugar\ndie Gesundheit - health\ndie Patientenverfügung - living will / advance directive\ das Immunsystem - immune system\neinklemmen - to jam / trap\ndie Heilung - healing\ndie Schlaflosigkeit - insomnia\nder Impfausweis - vaccination record\nder Gips - cast (medical)\ndie Infektion - infection\ndie Flüssigkeit - fluid / liquid\nder Verband - bandage\ndas Herz-Kreislauf-System - cardiovascular system\ndas Vitamin (Pl. Vitamine) - vitamin\ndie Operation - surgery / operation"
+}

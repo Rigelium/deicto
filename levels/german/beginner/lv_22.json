@@ -1,0 +1,31 @@
+{
+  "title": "The Human Body 1",
+  "sentences": [
+    ["Ich habe Schmerzen im ", "Kopf", ".", "I have pain in my head.", "Kopf", "Bauch", "Rücken", "Hals"],
+    ["Hast du blaue ", "Augen", "?", "Do you have blue eyes?", "Augen", "Ohren", "Haare", "Hände"],
+    ["Sie hat sehr lange ", "Haare", ".", "She has very long hair.", "Haare", "Augen", "Ohren", "Beine"],
+    ["Meine ", "Ohren", " sind vom Wind ganz kalt.", "My ears are very cold from the wind.", "Ohren", "Augen", "Haare", "Hände"],
+    ["Kannst du mich gut ", "sehen", "?", "Can you see me well?", "sehen", "hören", "riechen", "sprechen"],
+    ["Meine ", "Nase", " ist wegen der Kälte rot.", "My nose is red because of the cold.", "Nase", "Hand", "Schulter", "Zunge"],
+    ["Öffnen Sie bitte den ", "Mund", ".", "Please open your mouth.", "Mund", "Kopf", "Hals", "Arm"],
+    ["Mein ", "Hals", " tut mir heute weh.", "My throat/neck hurts today.", "Hals", "Kopf", "Bauch", "Rücken"],
+    ["Meine ", "Schultern", " sind nach der Arbeit verspannt.", "My shoulders are tense after work.", "Schultern", "Ohren", "Augen", "Haare"],
+    ["Legen Sie Ihre ", "Hand", " bitte auf den Tisch.", "Please put your hand on the table.", "Hand", "Nase", "Schulter", "Zunge"],
+    ["Ich ", "höre", " die Vögel im Garten.", "I hear the birds in the garden.", "höre", "sehe", "riechen", "schmecken"],
+    ["Meine ", "Finger", " sind ziemlich kurz.", "My fingers are quite short.", "Finger", "Schultern", "Ohren", "Augen"],
+    ["Deine ", "Arme", " sind sehr stark.", "Your arms are very strong.", "Arme", "Beine", "Ohren", "Augen"],
+    ["Ich stehe auf meinen eigenen ", "Füßen", ".", "I am standing on my own feet.", "Füßen", "Händen", "Armen", "Ohren"],
+    ["Mein rechtes ", "Bein", " tut weh.", "My right leg hurts.", "Bein", "Auge", "Ohr", "Gesicht"],
+    ["Du hast wirklich schöne ", "Zähne", ".", "You have really beautiful teeth.", "Zähne", "Haare", "Augen", "Ohren"],
+    ["Ich ", "rieche", " das frische Brot.", "I smell the fresh bread.", "rieche", "höre", "sehe", "sprechen"],
+    ["Mein ", "Rücken", " ist heute sehr steif.", "My back is very stiff today.", "Rücken", "Kopf", "Bauch", "Hals"],
+    ["", "Berühren", " Sie bitte das kalte Wasser.", "Please touch the cold water.", "Berühren", "Sehen", "Hören", "Riechen"],
+    ["Er hat unglaublich große ", "Hände", ".", "He has incredibly large hands.", "Hände", "Augen", "Ohren", "Haare"],
+    ["Waschen Sie sich bitte das ", "Gesicht", ".", "Please wash your face.", "Gesicht", "Bein", "Auge", "Ohr"],
+    ["Mein ", "Bauch", " ist nach dem Essen voll.", "My stomach is full after the meal.", "Bauch", "Kopf", "Rücken", "Hals"],
+    ["Schließe bitte deine ", "Augen", ".", "Please close your eyes.", "Augen", "Ohren", "Hände", "Haare"],
+    ["Wir laufen mit unseren ", "Beinen", ".", "We walk with our legs.", "Beinen", "Armen", "Ohren", "Augen"],
+    ["Ich ", "spreche", " mit meinem Mund.", "I speak with my mouth.", "spreche", "höre", "sehe", "riechen"]
+  ],
+  "dictionary": "der Kopf - head\ndas Auge (Pl. die Augen) - eye\ndas Haar (Pl. die Haare) - hair\ndas Ohr (Pl. die Ohren) - ear\ndie Nase - nose\nder Mund - mouth\nder Hals - throat / neck\ndie Schulter (Pl. die Schultern) - shoulder\ndie Hand (Pl. die Hände) - hand\nder Finger - finger\nder Arm (Pl. die Arme) - arm\nder Fuß (Pl. die Füße) - foot\ndas Bein (Pl. die Beine) - leg\nder Zahn (Pl. die Zähne) - tooth\nder Rücken - back\ndas Gesicht - face\nder Bauch - stomach / belly\nsehen - to see\nhören - to hear\nriechen - to smell\nberühren - to touch\nsprechen - to speak"
+}

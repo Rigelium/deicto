@@ -1,0 +1,31 @@
+{
+  "title": "Adjective collection 1",
+  "sentences": [
+    ["Das Haus ist sehr ", "groß", " und hat viele Fenster.", "The house is very big and has many windows.", "groß", "klein", "hoch", "breit"],
+    ["Mein neues Handy ist ziemlich ", "klein", ".", "My new phone is quite small.", "klein", "groß", "alt", "neu"],
+    ["Ist das Auto ", "neu", " oder gebraucht?", "Is the car new or used?", "neu", "alt", "schön", "hässlich"],
+    ["Diese alte Uhr ist ein ", "schönes", " Geschenk.", "This old watch is a beautiful gift.", "schönes", "hässliches", "neues", "altes"],
+    ["Das Wetter heute ist wirklich ", "schlecht", ".", "The weather today is really bad.", "schlecht", "gut", "kalt", "warm"],
+    ["Ich finde diesen Film sehr ", "interessant", ".", "I find this movie very interesting.", "interessant", "langweilig", "lustig", "traurig"],
+    ["Die Hausaufgabe ist heute nicht ", "schwer", ".", "The homework is not difficult today.", "schwer", "leicht", "lang", "kurz"],
+    ["Der Weg zum Bahnhof ist sehr ", "kurz", ".", "The path to the station is very short.", "kurz", "lang", "breit", "schmal"],
+    ["Dieser Kaffee ist mir zu ", "heiß", ".", "This coffee is too hot for me.", "heiß", "kalt", "süß", "sauer"],
+    ["Im Winter ist es in Deutschland oft ", "kalt", ".", "In winter it is often cold in Germany.", "kalt", "heiß", "warm", "trocken"],
+    ["Sind Sie mit der Arbeit ", "zufrieden", "?", "Are you satisfied with the work?", "zufrieden", "müde", "traurig", "böse"],
+    ["Ich bin heute ein bisschen ", "müde", ".", "I am a bit tired today.", "müde", "zufrieden", "glücklich", "wach"],
+    ["Warum bist du so ", "traurig", "?", "Why are you so sad?", "traurig", "glücklich", "lustig", "böse"],
+    ["Das Kind ist heute sehr ", "glücklich", ".", "The child is very happy today.", "glücklich", "traurig", "müde", "böse"],
+    ["Diese Suppe schmeckt wirklich ", "lecker", ".", "This soup tastes really delicious.", "lecker", "scharf", "süß", "salzig"],
+    ["Der Berg ist unglaublich ", "hoch", ".", "The mountain is incredibly high.", "hoch", "tief", "breit", "lang"],
+    ["Die Straße hier ist sehr ", "schmal", ".", "The street here is very narrow.", "schmal", "breit", "lang", "kurz"],
+    ["Sind Sie ", "bereit", " für die Prüfung?", "Are you ready for the exam?", "bereit", "müde", "zufrieden", "fertig"],
+    ["Das Buch ist leider sehr ", "langweilig", ".", "The book is unfortunately very boring.", "langweilig", "interessant", "schön", "lustig"],
+    ["Mein Bruder ist ein sehr ", "lustiger", " Mensch.", "My brother is a very funny person.", "lustiger", "trauriger", "böser", "müder"],
+    ["Ist das Wasser im Pool ", "warm", "?", "Is the water in the pool warm?", "warm", "kalt", "heiß", "tief"],
+    ["Ich trage heute ein ", "weißes", " Hemd.", "I am wearing a white shirt today.", "weißes", "schwarzes", "rotes", "blaues"],
+    ["Diese Frage ist sehr ", "leicht", ".", "This question is very easy.", "leicht", "schwer", "kurz", "lang"],
+    ["Der Tisch ist ", "schmutzig", ", wir müssen ihn putzen.", "The table is dirty, we have to clean it.", "schmutzig", "sauber", "alt", "neu"],
+    ["In meinem Zimmer ist es immer ", "sauber", ".", "It is always clean in my room.", "sauber", "schmutzig", "hell", "dunkel"]
+  ],
+  "dictionary": "groß - big / tall\nklein - small\nneu - new\nalt - old\nschön - beautiful / nice\nschlecht - bad\ngut - good\ninteressant - interesting\nlangweilig - boring\nschwer - heavy / difficult\nleicht - light / easy\nkurz - short\nlang - long\nheiß - hot\nkalt - cold\nwarm - warm\nzufrieden - satisfied\nmüde - tired\ntraurig - sad\nglücklich - happy\nlustig - funny\nhoch - high / tall\nschmal - narrow\nbreit - wide\nbereit - ready\nschmutzig - dirty\nsauber - clean\ndas Geschenk - gift\ndas Wetter - weather\ndie Prüfung - exam\ndas Hemd - shirt"
+}
