@@ -176,7 +176,7 @@
                 <a style="color: var(--fontcolor3)">${courses[i].difLevels.join(', ')}</a>
               </div>
             </div>
-            <div id="course-button-container">
+            <div id="course-button-container-${i}">
               ${buttonHTML}
             </div>
           </div>
@@ -222,7 +222,7 @@
           localStorage.setItem(`myCourses-${i}`, myCourses[i]);
         }
         displayFlags();
-        document.getElementById("course-button-container").innerHTML = `
+        document.getElementById(`course-button-container-${newCourse}`).innerHTML = `
             <div onclick='hideCourse(${newCourse})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px; align-items: center; background: var(--boxgradient2);">
               <img src="assets/cross.png" style="height: 30px;">
               <a>Hide</a>
@@ -236,7 +236,7 @@
           localStorage.setItem(`myCourses-${i}`, myCourses[i]);
         }      
         displayFlags();
-        document.getElementById("course-button-container").innerHTML = `
+        document.getElementById(`course-button-container-${courseToRemove}`).innerHTML = `
              <div onclick='addCourse(${courseToRemove})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px; align-items: center;">
               <img src="assets/plus.png" style="height: 30px;">
               <a>Add</a>
