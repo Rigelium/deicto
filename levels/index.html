@@ -74,7 +74,6 @@
             const numOfSentences = levelData[checkedLv - 1].numOfSentences; 
             dispLevel(checkedLv, title, numOfSentences); 
             updateInfo();
-            checkedLv++;
           }
         } catch(firstError) {
           console.log("No header found, falling back on json files");
@@ -400,6 +399,7 @@
     </script>
   </body>
 </html>
+
 
 
 
