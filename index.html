@@ -154,13 +154,14 @@
           coursesHTML += `
           <div class="box1" style="justify-content: space-between; gap: 10px; margin-top: 10px;">
             <div style="display: flex; gap: 5px;">
-              <img src="assets/flags/${courses[i].name}.png" style="width: 30%; aspect-ratio: 3 / 2; border-radius: 10px;">
+              <img src="assets/flags/${courses[i].name}.png" style="width: 120px; height: 80px; border-radius: 10px;">
               <div style="display: flex; flex-direction: column; gap: 5px;">
                 <a style="font-size: 1.5rem; font-weight: bold;">${courses[i].name}</a>
                 <a style="color: var(--fontcolor3)">${courses[i].difLevels.join(', ')}</a>
               </div>
             </div>
-            <div onclick='addCourse(${i})' class="box2">
+            <div onclick='addCourse(${i})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px;">
+              <img src="assets/plus.png" style="height: 30px;">
               <a>Add</a>
             </div>
           </div>
