@@ -1,10 +1,28 @@
- :root{
+ /*original colors
+      :root{
        --fontcolor1: black;
        --fontcolor2: white;
        --fontcolor3: #a9b4c2;
        --highlight: #7c98a1;
        --boxcolor1: #131213;
        --boxcolor2: #2ec8ea;
+       --boxcolor3: #01a2ff;
+       --boxgradient1: linear-gradient(var(--boxcolor2), var(--boxcolor3));
+       --boxgradient2: linear-gradient(#ff003b, #f318b0);    
+       --boxgradient3: linear-gradient(#485356, #22343a);    
+       --blankcolor: black;
+       --blueish: #28a0f4;
+       --grayish: #5e6474;
+       --boxshadow1: #000000ba;
+       --bgcolor: #242125;
+     }*/
+:root{
+       --fontcolor1: black;
+       --fontcolor2: white;
+       --fontcolor3: #a9b4c2;
+       --highlight: #7c98a1;
+       --boxcolor1: #131213;
+       --boxcolor2: #902eea;
        --boxcolor3: #01a2ff;
        --boxgradient1: linear-gradient(var(--boxcolor2), var(--boxcolor3));
        --boxgradient2: linear-gradient(#ff003b, #f318b0);    
