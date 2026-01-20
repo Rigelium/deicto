@@ -419,7 +419,7 @@
 
 
     
-function playText(text, langCode) {
+async function playText(text, langCode) {
     const utterance = new SpeechSynthesisUtterance(text);
     const voices = window.speechSynthesis.getVoices();
     const shortCode = langCode.split('-')[0].toLowerCase();
