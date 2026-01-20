@@ -154,7 +154,7 @@
           let buttonHTML = "";
           if(myCourses.includes(i) == true){
             buttonHTML = `
-            <div onclick='removeCourse(${i})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px; align-items: center; background: var(--boxgradient2);">
+            <div onclick='hideCourse(${i})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px; align-items: center; background: var(--boxgradient2);">
               <img src="assets/cross.png" style="height: 30px;">
               <a>Hide</a>
             </div>
@@ -176,7 +176,9 @@
                 <a style="color: var(--fontcolor3)">${courses[i].difLevels.join(', ')}</a>
               </div>
             </div>
-            ${buttonHTML}
+            <div id="course-button-container">
+              ${buttonHTML}
+            </div>
           </div>
           `
         }
@@ -220,13 +222,27 @@
           localStorage.setItem(`myCourses-${i}`, myCourses[i]);
         }
         displayFlags();
+        document.getElementById("").innerHTML = `
+            <div onclick='hideCourse(${newCourse})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px; align-items: center; background: var(--boxgradient2);">
+              <img src="assets/cross.png" style="height: 30px;">
+              <a>Hide</a>
+            </div>
+            `;
       }
-      function removeCourse(courseToRemove) {
+      
+      function hideCourse(courseToRemove) {
         myCourses = myCourses.slice(0, myCourses.indexOf(courseToRemove)).concat(myCourses.slice(myCourses.indexOf(courseToRemove) + 1)).concat(-1);
         for (let i = 0; i < courses.length; i++) {
           localStorage.setItem(`myCourses-${i}`, myCourses[i]);
         }      
         displayFlags();
+        document.getElementById("").innerHTML = `
+             <div onclick='addCourse(${courseToRemove})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px; align-items: center;">
+              <img src="assets/plus.png" style="height: 30px;">
+              <a>Add</a>
+            </div>
+            `;
+        
       }
 
 
