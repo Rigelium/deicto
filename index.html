@@ -152,7 +152,7 @@
         let coursesHTML = "";
         for(let i = 0; i < courses.length ; i++){
           let buttonHTML = "";
-          if(`myCourses-${i}`!=-1){
+          if(myCourses[i] != -1){
             buttonHTML = `
             <div onclick='addCourse(${i})' class="box2" style="display: flex; flex-direction: column; gap: 5px; width: 60px; align-items: center; background: var(--boxgradient2);">
               <img src="assets/plus.png" style="height: 30px;">
