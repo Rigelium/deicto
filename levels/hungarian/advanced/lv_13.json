@@ -1,0 +1,31 @@
+{
+  "title": "Verb Collection 1",
+  "sentences": [
+    ["A bizottság mindenképpen", "kifogásolja", "a benyújtott terv minőségét.", "The committee definitely objects to the quality of the submitted plan.", "kifogásolja", "méltányolja", "szorgalmazza", "hanyagolja"],
+    ["Nagyon", "méltányoljuk", "azt a sok segítséget, amit tőled kaptunk.", "We highly appreciate all the help we received from you.", "méltányoljuk", "kifogásoljuk", "hanyagoljuk", "sürgetjük"],
+    ["Az orvos sokat", "fáradozott", "a beteg felépüléséért.", "The doctor labored a lot for the patient's recovery.", "fáradozott", "tévelygett", "feszengett", "zsarolt"],
+    ["Az igazgató", "szorgalmazza", "az új technológiák bevezetését.", "The director urges/promotes the introduction of new technologies.", "szorgalmazza", "hanyagolja", "gátolja", "mellőzi"],
+    ["Sajnos az utóbbi időben", "hanyagolod", "a tanulmányaidat.", "Unfortunately, you have been neglecting your studies lately.", "hanyagolod", "szorgalmazod", "méltányolod", "vázolod"],
+    ["Az idő", "sürget", "minket, hamarosan döntenünk kell.", "Time is pressing us; we must decide soon.", "sürget", "mérlegel", "ecsetel", "firtat"],
+    ["Az új bizonyítékok egyértelműen", "cáfolják", "a korábbi elméletet.", "The new evidence clearly refutes the previous theory.", "cáfolják", "szemléltetik", "tetézik", "előmozdítják"],
+    ["A tanú részletesen", "ecsetelte", "a baleset körülményeit.", "The witness described the circumstances of the accident in detail.", "ecsetelte", "zsarolta", "óvakodott", "feszengett"],
+    ["A rab évekig", "sínylődött", "a sötét börtöncellában.", "The prisoner languished for years in the dark prison cell.", "sínylődött", "szorgalmazott", "bírálta", "firtatta"],
+    ["Sokáig", "tévelygett", "az erdőben, mire megtalálta a helyes utat.", "He wandered/erred in the forest for a long time before finding the right path.", "tévelygett", "fáradozott", "mérlegelt", "tetézett"],
+    ["Látszott rajta, hogy kényelmetlenül érzi magát és", "feszeng", ".", "It was visible that he felt uncomfortable and was fidgeting/uneasy.", "feszeng", "méltányol", "cáfol", "ecsetel"],
+    ["Alaposan meg kell", "mérlegelnünk", "a döntésünk következményeit.", "We must thoroughly weigh the consequences of our decision.", "mérlegelnünk", "zsarolnunk", "firtatnunk", "hanyagolnunk"],
+    ["Az előadó röviden", "vázolta", "a kutatás főbb pontjait.", "The speaker briefly outlined the main points of the research.", "vázolta", "cáfolta", "sínylődött", "méltatlankodott"],
+    ["A sűrű köd jelentősen", "akadályozta", "a forgalmat.", "The thick fog significantly hindered the traffic.", "akadályozta", "előmozdította", "méltányolta", "szemléltette"],
+    ["Az új törvény célja, hogy", "előmozdítsa", "a gazdasági növekedést.", "The goal of the new law is to promote economic growth.", "előmozdítsa", "akadályozza", "bírálja", "hanyagolja"],
+    ["Végül sikerült", "kieszközölnie", "egy találkozót a miniszterrel.", "Finally, she managed to procure/bring about a meeting with the minister.", "kieszközölnie", "tévelygnie", "feszengnie", "óvakodnia"],
+    ["Mindenkit arra kértek, hogy", "óvakodjon", "a gyanús ajánlatoktól.", "Everyone was asked to beware of suspicious offers.", "óvakodjon", "fáradozzon", "szorgalmazzon", "sürgessen"],
+    ["A rendőrség lopással", "gyanúsítja", "a volt alkalmazottat.", "The police suspect the former employee of theft.", "gyanúsítja", "méltányolja", "szemlélteti", "vázolja"],
+    ["Sokan", "kárhoztatják", "a kormányt a magas adók miatt.", "Many condemn the government because of the high taxes.", "kárhoztatják", "méltányolják", "előmozdítják", "fáradoznak"],
+    ["A tömeg hangosan", "méltatlankodott", "az igazságtalan ítélet miatt.", "The crowd was loudly indignant about the unjust verdict.", "méltatlankodott", "ecsetelt", "cáfolt", "szorgalmazott"],
+    ["A grafikon jól", "szemlélteti", "a népesség változását.", "The graph illustrates the population change well.", "szemlélteti", "zsarolja", "firtatja", "sínylődik"],
+    ["A rossz hír csak", "tetézte", "a szomorúságát.", "The bad news only aggravated/capped his sadness.", "tetézte", "vázolta", "mérlegelte", "kifogásolta"],
+    ["A kritikus élesen", "bírálta", "a rendező legújabb filmjét.", "The critic sharply criticized the director's latest film.", "bírálta", "méltányolta", "óvakodott", "fáradozott"],
+    ["A bizottság indoklás nélkül", "mellőzte", "a javaslatomat.", "The committee ignored/disregarded my proposal without explanation.", "mellőzte", "szorgalmazta", "sürgette", "gyanúsította"],
+    ["Az újságírók a politikus múltjáról", "firtatták", "a válaszokat.", "The journalists were inquiring/prying for answers about the politician's past.", "firtatták", "ecsetelték", "vázolták", "szemléltették"]
+  ],
+  "dictionary": "kifogásol - to object to\nméltányol - to appreciate / value\nfáradozik - to labor / strive\nszorgalmaz - to urge / promote\nhanyagol - to neglect\nsürget - to urge / rush someone\ncáfol - to refute / deny\necsetel - to describe in detail / paint a picture of\nsínylődik - to languish / suffer\ntévelyeg - to wander / err\nfeszeng - to be uneasy / fidget\nmérlegel - to weigh / consider\nvázol - to outline / sketch\nakadályoz - to hinder / obstruct\nelőmozdít - to promote / advance\nkieszközöl - to procure / bring about\nóvakodik - to beware of\ngyanúsít - to suspect\nkárhoztat - to condemn / blame\nméltatlankodik - to be indignant\nszemléltet - to illustrate / demonstrate\ntetéz - to aggravate / cap / crown\nbírál - to criticize / judge\nmellőz - to ignore / disregard\nfirtat - to inquire / pry / investigate"
+}

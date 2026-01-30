@@ -1,0 +1,31 @@
+{
+  "title": "Mathematics 1",
+  "sentences": [
+    ["A kör", "kerülete", "a sugár és a pi szorzata kétszer.", "The circumference of the circle is twice the product of the radius and pi.", "kerülete", "területe", "átmérője", "sugara"],
+    ["Az egyenlet mindkét oldalát el kell", "osztani", "hárommal.", "Both sides of the equation must be divided by three.", "osztani", "szorozni", "vonni", "adni"],
+    ["A", "derékszögű", "háromszög leghosszabb oldala az átfogó.", "The longest side of a right-angled triangle is the hypotenuse.", "derékszögű", "egyenlő szárú", "tompaszögű", "hegyesszögű"],
+    ["Számítsuk ki a gúla", "térfogatát", "a megadott adatok alapján!", "Calculate the volume of the pyramid based on the given data!", "térfogatát", "felszínét", "magasságát", "alapját"],
+    ["A két halmaz", "metszete", "üres halmazt alkot.", "The intersection of the two sets forms an empty set.", "metszete", "uniója", "különbsége", "kiegészítése"],
+    ["A másodfokú egyenlet", "diszkriminánsa", "negatív, így nincs valós megoldás.", "The discriminant of the quadratic equation is negative, so there is no real solution.", "diszkriminánsa", "együtthatója", "gyöke", "kitevője"],
+    ["A függvény", "szélsőértéke", "a lokális maximum helyén található.", "The extremum of the function is located at the local maximum.", "szélsőértéke", "deriváltja", "integrálja", "folytonossága"],
+    ["Két párhuzamos egyenes soha nem", "metszi", "egymást.", "Two parallel lines never intersect each other.", "metszi", "érinti", "fedi", "követi"],
+    ["A", "valószínűségszámítás", "alapjai fontosak a statisztikában.", "The basics of probability theory are important in statistics.", "valószínűségszámítás", "halmazelmélet", "számelmélet", "függvénytan"],
+    ["Határozzuk meg a szakasz", "felezőpontját", "a koordináta-rendszerben!", "Determine the midpoint of the segment in the coordinate system!", "felezőpontját", "végpontját", "merőlegesét", "vetületét"],
+    ["A", "négyzetgyök", "alatti szám nem lehet negatív a valós számok körében.", "The number under the square root cannot be negative among real numbers.", "négyzetgyök", "köbgyök", "logaritmus", "hatvány"],
+    ["A vektorok", "összeadása", "a paralelogramma-szabály szerint történik.", "The addition of vectors happens according to the parallelogram rule.", "összeadása", "szorzása", "kivonása", "osztása"],
+    ["Az", "aranymetszés", "arányai gyakran megjelennek a művészetben.", "The proportions of the golden ratio often appear in art.", "aranymetszés", "arányosság", "számtani sorozat", "mértani sorozat"],
+    ["Minden", "prímszám", "csak eggyel és önmagával osztható.", "Every prime number is divisible only by one and itself.", "prímszám", "páros szám", "páratlan szám", "törtszám"],
+    ["A", "szögfüggvények", "segítségével kiszámíthatjuk a háromszög szögeit.", "Using trigonometric functions, we can calculate the angles of the triangle.", "szögfüggvények", "polinomok", "egyenletek", "műveletek"],
+    ["A tizedesvessző utáni", "helyiérték", "meghatározza a szám pontos értékét.", "The place value after the decimal point determines the exact value of the number.", "helyiérték", "számjegy", "maradék", "kitevő"],
+    ["Az", "osztója", "minden számnak legalább az egy és önmaga.", "The divisor of every number is at least one and itself.", "osztója", "többszöröse", "szorzata", "hányadosa"],
+    ["A", "függőleges", "tengelyt y-tengelynek nevezzük.", "The vertical axis is called the y-axis.", "függőleges", "vízszintes", "ferde", "párhuzamos"],
+    ["A matematikai", "bizonyítás", "logikai lépésekből áll.", "The mathematical proof consists of logical steps.", "bizonyítás", "feltevés", "axióma", "sejtés"],
+    ["Az", "ismeretlen", "értékét x-szel jelöljük az egyenletben.", "We denote the unknown value with x in the equation.", "ismeretlen", "állandó", "változó", "együttható"],
+    ["A kör", "sugara", "az átmérő fele.", "The radius of the circle is half the diameter.", "sugara", "kerülete", "területe", "íve"],
+    ["A hatványozás során a", "kitevő", "megmutatja a szorzások számát.", "During exponentiation, the exponent shows the number of multiplications.", "kitevő", "alap", "gyök", "logaritmus"],
+    ["Két szám", "hányadosa", "az osztás eredménye.", "The quotient of two numbers is the result of division.", "hányadosa", "szorzata", "összege", "különbsége"],
+    ["Az", "arányosság", "lehet egyenes vagy fordított.", "Proportionality can be direct or inverse.", "arányosság", "egyenlőtlenség", "függvény", "halmaz"],
+    ["A", "téglalap", "szemközti oldalai párhuzamosak és egyenlőek.", "The opposite sides of a rectangle are parallel and equal.", "téglalap", "háromszög", "trapéz", "rombusz"]
+  ],
+  "dictionary": "kerület - circumference / perimeter\nosztani - to divide\nderékszögű - right-angled\ntérfogat - volume\nmetszet - intersection\ndiszkrimináns - discriminant\nszélsőérték - extremum\nmetszi - to intersect\nvalószínűségszámítás - probability theory\nfelezőpont - midpoint\nnégyzetgyök - square root\nösszeadás - addition\naranymetszés - golden ratio\nprímszám - prime number\nszögfüggvények - trigonometric functions\nhelyiérték - place value\nosztó - divisor\nfüggőleges - vertical\nbizonyítás - proof\nismeretlen - unknown (noun)\nsugár - radius\nkitevő - exponent\nhányados - quotient\narányosság - proportionality\ntéglalap - rectangle"
+}

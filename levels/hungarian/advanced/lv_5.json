@@ -1,0 +1,31 @@
+{
+  "title": "Mathematics 2",
+  "sentences": [
+    ["A függvény", "deriváltja", "megadja az adott pontbeli érintő meredekségét.", "The derivative of the function gives the slope of the tangent at a given point.", "deriváltja", "integrálja", "határértéke", "folytonossága"],
+    ["Az", "integrálszámítás", "segítségével kiszámíthatjuk a görbe alatti területet.", "With the help of integral calculus, we can calculate the area under the curve.", "integrálszámítás", "logika", "geometria", "algebra"],
+    ["A mátrix", "determinánsa", "nulla, ha a sorai lineárisan összefüggőek.", "The determinant of the matrix is zero if its rows are linearly dependent.", "determinánsa", "rangja", "nyoma", "adjungáltja"],
+    ["A", "határérték", "fogalma alapvető a matematikai analízisben.", "The concept of limit is fundamental in mathematical analysis.", "határérték", "átlag", "maradék", "szorzat"],
+    ["Az", "axióma", "olyan állítás, amelyet bizonyítás nélkül elfogadunk.", "An axiom is a statement that we accept without proof.", "axióma", "tétel", "sejtés", "levezetés"],
+    ["A két sík", "párhuzamos", ", így soha nem találkoznak.", "The two planes are parallel, so they never meet.", "párhuzamos", "merőleges", "metsző", "kitérő"],
+    ["A", "merőleges", "egyenesek hajlásszöge pontosan kilencven fok.", "The angle of perpendicular lines is exactly ninety degrees.", "merőleges", "párhuzamos", "hegyes", "tompa"],
+    ["A halmaz elemei", "véges", "számban fordulnak elő ebben a példában.", "The elements of the set occur in finite numbers in this example.", "véges", "végtelen", "páros", "páratlan"],
+    ["A", "végtelen", "sorozatok konvergenciáját vizsgáltuk az órán.", "We examined the convergence of infinite sequences in class.", "végtelen", "véges", "üres", "diszkrét"],
+    ["A logikai", "következtetés", "során eljutunk a végleges válaszig.", "During the logical inference, we arrive at the final answer.", "következtetés", "feltevés", "ellentmondás", "axióma"],
+    ["Ez a két kijelentés", "ekvivalens", "egymással.", "These two statements are equivalent to each other.", "ekvivalens", "ellentmondásos", "független", "összefüggő"],
+    ["A", "vektortér", "dimenziója meghatározza a bázisvektorok számát.", "The dimension of the vector space determines the number of basis vectors.", "vektortér", "halmaz", "síkidom", "függvény"],
+    ["A", "behelyettesítés", "módszerével egyszerűbbé tehetjük az egyenletet.", "With the method of substitution, we can make the equation simpler.", "behelyettesítés", "kivonás", "összeadás", "osztás"],
+    ["A", "statisztikai", "szignifikancia jelzi az eredmény fontosságát.", "Statistical significance indicates the importance of the result.", "statisztikai", "mértani", "számtani", "logikai"],
+    ["A", "koordináta-rendszer", "origója a $(0,0)$ pontban van.", "The origin of the coordinate system is at point $(0,0)$.", "koordináta-rendszer", "függvénytáblázat", "számegyenes", "kör"],
+    ["A", "tétel", "bizonyítása több oldalt vett igénybe.", "The proof of the theorem took several pages.", "tétel", "axióma", "sejtés", "kérdés"],
+    ["Ebben a modellben az", "idő", "független változóként szerepel.", "In this model, time appears as an independent variable.", "idő", "sebesség", "gyorsulás", "tömeg"],
+    ["A", "halmazelmélet", "George Cantor nevéhez fűződik.", "Set theory is associated with the name of George Cantor.", "halmazelmélet", "számelmélet", "valószínűségszámítás", "analízis"],
+    ["A függvény", "folytonos", "az értelmezési tartomány minden pontjában.", "The function is continuous at every point of its domain.", "folytonos", "diszkrét", "szakadási", "zárt"],
+    ["A", "számtani", "közép a számok összegének és darabszámának hányadosa.", "The arithmetic mean is the quotient of the sum and the number of elements.", "számtani", "mértani", "harmonikus", "súlyozott"],
+    ["A két vektor", "skaláris", "szorzata egy számot eredményez.", "The scalar product of the two vectors results in a number.", "skaláris", "vektoriális", "lineáris", "négyzetes"],
+    ["Az", "ellipszis", "fókuszpontjai határozzák meg az alakzatot.", "The focal points of the ellipse determine the shape.", "ellipszis", "hiperbola", "parabola", "kör"],
+    ["A", "logaritmus", "alapja csak pozitív szám lehet.", "The base of the logarithm can only be a positive number.", "logaritmus", "hatvány", "gyök", "kitevő"],
+    ["A matematikai", "modellezés", "segít a valós folyamatok megértésében.", "Mathematical modeling helps in understanding real processes.", "modellezés", "számolás", "rajzolás", "írás"],
+    ["Az", "ellentmondás", "mentes rendszer alapvető elvárás a logikában.", "A contradiction-free system is a fundamental expectation in logic.", "ellentmondás", "egyetértés", "bizonyítás", "axióma"]
+  ],
+  "dictionary": "derivált - derivative\nintegrálszámítás - integral calculus\ndetermináns - determinant\nhatárérték - limit\naxióma - axiom\npárhuzamos - parallel\nmerőleges - perpendicular\nvéges - finite\nvégtelen - infinite\nkövetkeztetés - inference / conclusion\nekvivalens - equivalent\nvektortér - vector space\nbehelyettesítés - substitution\nstatisztikai - statistical\nkoordináta-rendszer - coordinate system\ntétel - theorem\nidő - time\nhalmazelmélet - set theory\nfolytonos - continuous\nszámtani közép - arithmetic mean\nskaláris szorzat - scalar product\nellipszis - ellipse\nlogaritmus - logarithm\nmodellezés - modeling\nellentmondás - contradiction"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Linguistics 1",
+  "sentences": [
+    ["A magyar nyelvben a", "magánhangzók", "lehetnek rövidek vagy hosszúak.", "In the Hungarian language, vowels can be short or long.", "magánhangzók", "mássalhangzók", "mondatok", "szavak"],
+    ["A kettős", "mássalhangzókat", "írásban megkettőzzük.", "Double consonants are doubled in writing.", "mássalhangzókat", "magánhangzókat", "toldalékokat", "ragokat"],
+    ["A szavak", "hangrendje", "lehet mély, magas vagy vegyes.", "The vowel harmony of words can be low, high, or mixed.", "hangrendje", "szórendje", "eredete", "jelentése"],
+    ["A magyar nyelv egyik alapvető jellemzője a", "magánhangzó-illeszkedés", ".", "One of the fundamental characteristics of the Hungarian language is vowel harmony/matching.", "magánhangzó-illeszkedés", "szórendi szabadság", "alanyi ragozás", "hangsúlyozás"],
+    ["A magyar egy agglutináló nyelv, ami azt jelenti, hogy sok", "toldalékot", "használunk.", "Hungarian is an agglutinating language, which means we use many affixes.", "toldalékot", "névelőt", "igét", "főnevet"],
+    ["A", "szótő", "az a rész, amelyhez a toldalékok kapcsolódnak.", "The word stem is the part to which the affixes are attached.", "szótő", "szóvég", "rag", "képző"],
+    ["A", "képző", "megváltoztatja a szó jelentését vagy szófaját.", "The derivative suffix changes the meaning or part of speech of the word.", "képző", "jel", "rag", "névelő"],
+    ["A többes szám", "jele", "a magyarban a -k betű.", "The mark of the plural in Hungarian is the letter -k.", "jele", "raga", "képzője", "töve"],
+    ["A", "tárgyragot", "minden esetben a szó végére illesztjük.", "We attach the object case ending to the end of the word in every case.", "tárgyragot", "alanyragot", "határozóragot", "birtokjelet"],
+    ["Az", "ikes ragozás", "egy speciális ragozási forma bizonyos igéknél.", "The 'ik' conjugation is a special conjugation form for certain verbs.", "ikes ragozás", "tárgyas ragozás", "alanyi ragozás", "múlt idő"],
+    ["A", "tárgyas ragozás", "akkor használatos, ha a tárgy határozott.", "The definite conjugation is used when the object is definite.", "tárgyas ragozás", "alanyi ragozás", "ikes ragozás", "feltételes mód"],
+    ["Az", "alany", "a mondatban az a személy vagy dolog, aki cselekszik.", "The subject in the sentence is the person or thing who acts.", "alany", "állítmány", "tárgy", "határozó"],
+    ["Az", "állítmány", "fejezi ki a cselekvést vagy a történést.", "The predicate expresses the action or the occurrence.", "állítmány", "alany", "jelző", "határozó"],
+    ["A", "tárgy", "-t ragot kap a magyar mondatban.", "The object receives the -t ending in a Hungarian sentence.", "tárgy", "alany", "állítmány", "jelző"],
+    ["A", "határozók", "a cselekvés körülményeit fejezik ki.", "Adverbials express the circumstances of the action.", "határozók", "jelzők", "alanyok", "tárgyak"],
+    ["A", "jelző", "a főnév tulajdonságait adja meg.", "The modifier/attribute specifies the properties of the noun.", "jelző", "határozó", "állítmány", "alany"],
+    ["A magyar", "szórend", "meglehetősen szabad, de a hangsúly számít.", "Hungarian word order is fairly free, but the stress matters.", "szórend", "hangrend", "helyesírás", "kiejtés"],
+    ["A magyar nyelvben a", "hangsúly", "mindig az első szótagon van.", "In the Hungarian language, the stress is always on the first syllable.", "hangsúly", "toldalék", "írásmód", "jelentés"],
+    ["A", "szóösszetétel", "gyakori módja az új szavak alkotásának.", "Compounding is a common way of creating new words.", "szóösszetétel", "szóelemzés", "szótagolás", "szóképzés"],
+    ["A kávé egy oszmán-török eredetű", "jövevényszó", ".", "Coffee is a loanword of Ottoman-Turkish origin.", "jövevényszó", "alapszó", "tőszó", "műszó"],
+    ["A magyar nyelv", "szókincse", "rendkívül gazdag.", "The vocabulary of the Hungarian language is extremely rich.", "szókincse", "nyelvtana", "hangrendje", "helyesírása"],
+    ["A különböző", "dialektusok", "színesítik a nyelvet.", "The different dialects color the language.", "dialektusok", "műfajok", "stílusok", "betűk"],
+    ["A magyar", "helyesírás", "alapelvei közé tartozik a szóelemző írásmód.", "One of the principles of Hungarian orthography is the analytical spelling method.", "helyesírás", "kiejtés", "nyelvtan", "irodalom"],
+    ["Az asztal szó", "szófaja", "főnév.", "The part of speech of the word 'asztal' is a noun.", "szófaja", "jelentése", "eredete", "hangrendje"],
+    ["A tiszta", "kiejtés", "fontos a megértéshez.", "Clear pronunciation is important for understanding.", "kiejtés", "helyesírás", "írásmód", "olvasás"]
+  ],
+  "dictionary": "magánhangzó - vowel\nmássalhangzó - consonant\nhangrend - vowel harmony (system)\nmagánhangzó-illeszkedés - vowel matching/harmony (process)\ntoldalék - affix\nszótő - stem\nképző - derivative suffix\njel - inflectional mark/sign\nrag - case ending\ntárgyrag - object case ending\nikes ragozás - 'ik' conjugation\ntárgyas ragozás - definite/objective conjugation\nalany - subject\nállítmány - predicate\ntárgy - object\nhatározó - adverbial\njelző - modifier/attribute\nszórend - word order\nhangsúly - stress/accent\nszóösszetétel - compound word / compounding\njövevényszó - loanword\nszókincs - vocabulary\ndialektus - dialect\nhelyesírás - orthography/spelling\nszófaj - part of speech\nkiejtés - pronunciation"
+}

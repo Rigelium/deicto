@@ -1,0 +1,31 @@
+{
+  "title": "Linguistics 4",
+  "sentences": [
+    ["A klasszikus", "retorika", "öt részre osztja a beszéd elkészítésének folyamatát.", "Classical rhetoric divides the process of preparing a speech into five parts.", "retorika", "szemantika", "etimológia", "fonetika"],
+    ["Az", "érvelés", "során fontos a logikai bukfencek elkerülése.", "During argumentation, it is important to avoid logical fallacies.", "érvelés", "cáfolat", "szónoklat", "rábeszélés"],
+    ["A beszéd", "cáfolat", "része az ellenfél érveinek megdöntésére szolgál.", "The refutation part of the speech serves to overturn the opponent's arguments.", "cáfolat", "bevezetés", "tárgyalás", "befejezés"],
+    ["A", "szónoklat", "sikere a hitelességen és a stíluson múlik.", "The success of the oration depends on credibility and style.", "szónoklat", "vitatkozás", "olvasás", "írás"],
+    ["A", "stílusrétegek", "közé tartozik a tudományos és a hivatalos nyelv is.", "Scientific and official language are also among the stylistic layers.", "stílusrétegek", "nyelvjárások", "szórendek", "hangrendek"],
+    ["A", "szleng", "dinamikusan változó, csoportspecifikus nyelvváltozat.", "Slang is a dynamically changing, group-specific language variety.", "szleng", "irodalmi nyelv", "köznyelv", "archaikus nyelv"],
+    ["Az", "argó", "vagy tolvajnyelv eredetileg a titkosságot szolgálta.", "Argot or thieves' cant originally served the purpose of secrecy.", "argó", "szaknyelv", "irodalmi nyelv", "nyelvjárás"],
+    ["A", "közhely", "olyan elcsépelt kifejezés, amely elvesztette eredeti erejét.", "A cliché is a worn-out expression that has lost its original power.", "közhely", "neologizmus", "arcaizmus", "szakkifejezés"],
+    ["A", "szókép", "a névátvitel és a szemléletesség eszköze a költészetben.", "A trope (figure of speech) is a tool of name transfer and vividness in poetry.", "szókép", "szórend", "szótag", "szótő"],
+    ["A", "megszemélyesítés", "során emberi tulajdonságokkal ruházunk fel élettelen dolgokat.", "During personification, we endow inanimate things with human qualities.", "megszemélyesítés", "hasonlat", "metafora", "szinekdoché"],
+    ["A", "hasonlat", "két dolgot vet össze a 'mint' kötőszó segítségével.", "A simile compares two things using the conjunction 'mint' (as/like).", "hasonlat", "metafora", "metonímia", "allegória"],
+    ["Az", "allegória", "hosszabb szakaszon keresztül végigvitt metafora.", "Allegory is a metaphor carried through a longer section.", "allegória", "hiperbola", "irónia", "szarkazmus"],
+    ["A", "hiperbola", "a dolgok szándékos túlzása a hatás kedvéért.", "Hyperbole is the intentional exaggeration of things for effect.", "hiperbola", "litotész", "párhuzam", "ellentét"],
+    ["Az", "irónia", "esetében a beszélő az ellenkezőjét mondja annak, amit gondol.", "In the case of irony, the speaker says the opposite of what they think.", "irónia", "szarkazmus", "paradoxon", "oximoron"],
+    ["A", "szarkazmus", "az irónia durvább, sértőbb változata.", "Sarcasm is a harsher, more offensive version of irony.", "szarkazmus", "irónia", "eufemizmus", "metafora"],
+    ["A", "paradoxon", "látszólagos ellentmondás, amely mélyebb igazságot hordoz.", "A paradox is a seeming contradiction that carries a deeper truth.", "paradoxon", "oximoron", "párhuzam", "ismétlés"],
+    ["Az", "oximoron", "egymást kizáró fogalmak szoros kapcsolata, mint a 'fagyos tűz'.", "An oxymoron is a close connection of mutually exclusive concepts, like 'frozen fire'.", "oximoron", "paradoxon", "hiperbola", "litotész"],
+    ["Az", "alliteráció", "a szavak elején lévő hangok összecsengése.", "Alliteration is the resonance of sounds at the beginning of words.", "alliteráció", "rím", "ritmus", "ütem"],
+    ["A magyar", "időmértékes verselés", "alapja a rövid és hosszú szótagok váltakozása.", "The basis of Hungarian quantitative meter is the alternation of short and long syllables.", "időmértékes verselés", "ütemhangsúlyos verselés", "szabadvers", "rímes próza"],
+    ["Az", "ütemhangsúlyos verselés", "a hangsúlyos és hangsúlytalan szótagokra épül.", "Accentual-syllabic verse (stress-based meter) is built on stressed and unstressed syllables.", "ütemhangsúlyos verselés", "időmértékes verselés", "hexameter", "pentameter"],
+    ["A", "körmondat", "többszörösen összetett, művészien szerkesztett hosszú mondat.", "A period is a multi-compound, artistically constructed long sentence.", "körmondat", "tőmondat", "hiányos mondat", "egyszerű mondat"],
+    ["A", "párhuzam", "hasonló felépítésű mondatok egymás utáni használata.", "Parallelism is the successive use of sentences with similar structures.", "párhuzam", "ellentét", "fokozás", "ismétlés"],
+    ["A", "fokozás", "során az egymás utáni elemek érzelmi vagy értelmi ereje nő.", "During climax (gradation), the emotional or intellectual power of successive elements increases.", "fokozás", "enyhítés", "ismétlés", "kihagyás"],
+    ["Az", "ellentét", "szembenálló fogalmak szembeállítása a hangsúly kedvéért.", "Antithesis is the juxtaposition of opposing concepts for the sake of emphasis.", "ellentét", "párhuzam", "metafora", "hasonlat"],
+    ["A", "nyelvtörténet", "a nyelv időbeli változásait és fejlődését tanulmányozza.", "Historical linguistics studies the temporal changes and development of the language.", "nyelvtörténet", "leíró nyelvtan", "stilisztika", "pragmatika"]
+  ],
+  "dictionary": "retorika - rhetoric\nérvelés - argumentation\ncáfolat - refutation\nszónoklat - oration / speech\nstílusréteg - stylistic layer / register\nszleng - slang\nargó - argot / jargon\nközhely - cliché / commonplace\nszókép - trope / figure of speech\nmegszemélyesítés - personification\nhasonlat - simile\nallegória - allegory\nhiperbola - hyperbole\nirónia - irony\nszarkazmus - sarcasm\nparadoxon - paradox\noximoron - oxymoron\nalliteráció - alliteration\nidőmértékes verselés - quantitative meter\nütemhangsúlyos verselés - accentual meter\nkörmondat - period (long complex sentence)\npárhuzam - parallelism\nfokozás - climax / gradation\nellentét - antithesis / contrast\nnyelvtörténet - historical linguistics"
+}

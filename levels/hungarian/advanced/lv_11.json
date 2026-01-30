@@ -1,0 +1,31 @@
+{
+  "title": "Linguistics 3",
+  "sentences": [
+    ["A 18. századi", "nyelvújítás", "során több ezer új szót alkottak.", "During the 18th-century language reform, thousands of new words were created.", "nyelvújítás", "standardizáció", "helyesírás-javítás", "nyelvművelés"],
+    ["A magyar nyelv a", "finnugor", "nyelvcsaládhoz tartozik.", "The Hungarian language belongs to the Finno-Ugric language family.", "finnugor", "indoeurópai", "szláv", "germán"],
+    ["A", "pragmatika", "azt vizsgálja, hogyan befolyásolja a kontextus a jelentést.", "Pragmatics examines how context influences meaning.", "pragmatika", "fonetika", "szintaxis", "morfológia"],
+    ["A szöveg egységét a", "kohézió", "biztosítja.", "The unity of the text is ensured by cohesion.", "kohézió", "kizárás", "eltérés", "szakadás"],
+    ["Az", "anafora", "olyan visszautalás, amely egy korábbi szövegelemre vonatkozik.", "Anaphora is a reference that refers back to a previous text element.", "anafora", "katafora", "deixis", "ellipszis"],
+    ["A", "katafora", "során a névmás egy későbbi mondatrészre utal előre.", "During cataphora, the pronoun refers forward to a later part of the sentence.", "katafora", "anafora", "deixis", "ellipszis"],
+    ["A", "nyelvi norma", "a közösség által elfogadott helyes nyelvhasználat.", "The language norm is the correct language use accepted by the community.", "nyelvi norma", "tájszólás", "szleng", "argó"],
+    ["A", "beszédaktus", "elmélete szerint a beszéd egyfajta cselekvés.", "According to speech act theory, speaking is a form of action.", "beszédaktus", "nyelvjárás", "szóképzés", "mondatelemzés"],
+    ["A", "szociolingvisztika", "a nyelv és a társadalom kapcsolatát kutatja.", "Sociolinguistics researches the relationship between language and society.", "szociolingvisztika", "etimológia", "pszicholingvisztika", "paleográfia"],
+    ["A", "rétegnyelv", "egy bizonyos társadalmi csoportra jellemző nyelvhasználat.", "Sociolect is the language use characteristic of a certain social group.", "rétegnyelv", "irodalmi nyelv", "köznyelv", "szaknyelv"],
+    ["Az", "arcaizmus", "egy elavult, régies szó vagy kifejezés.", "An archaism is an obsolete, old-fashioned word or expression.", "arcaizmus", "neologizmus", "jövevényszó", "szakszó"],
+    ["A", "neologizmus", "egy újonnan alkotott szó a nyelvben.", "A neologism is a newly created word in the language.", "neologizmus", "arcaizmus", "tájszó", "töltelékszó"],
+    ["A", "tükörfordítás", "során egy idegen kifejezést szó szerint fordítanak le.", "During calque (loan translation), a foreign expression is translated literally.", "tükörfordítás", "ferdítés", "átvétel", "magyarítás"],
+    ["A", "metafora", "két dolog azonosítása valamilyen közös tulajdonság alapján.", "A metaphor is the identification of two things based on some common property.", "metafora", "metonímia", "hasonlat", "szinekdoché"],
+    ["A", "metonímia", "névátvitel térbeli, időbeli vagy logikai érintkezés alapján.", "Metonymy is name transfer based on spatial, temporal, or logical contact.", "metonímia", "metafora", "megszemélyesítés", "allegória"],
+    ["A", "szinekdoché", "esetében a rész helyettesíti az egészet.", "In the case of synecdoche, the part replaces the whole.", "szinekdoché", "metafora", "metonímia", "irónia"],
+    ["Az", "ellipszis", "a nyelvben a feleslegesnek ítélt elemek elhagyása.", "Ellipsis in language is the omission of elements judged unnecessary.", "ellipszis", "fokozás", "ismétlés", "párhuzam"],
+    ["A", "deixis", "a nyelvi rámutatás eszköze a beszédben.", "Deixis is the tool of linguistic pointing in speech.", "deixis", "kohézió", "konjunkció", "negáció"],
+    ["A", "nyelvművelés", "célja a nyelv tisztaságának megőrzése.", "The goal of language cultivation is to preserve the purity of the language.", "nyelvművelés", "nyelvújítás", "nyelvtervezés", "nyelvpolitika"],
+    ["A", "szakszókincs", "egy adott tudományág speciális kifejezéseit tartalmazza.", "Terminology (technical vocabulary) contains the special expressions of a given field of science.", "szakszókincs", "alapszókincs", "argó", "tájnyelv"],
+    ["Az", "eufemizmus", "egy bántó kifejezés enyhébb szóra cserélése.", "Euphemism is the replacement of an offensive expression with a milder word.", "eufemizmus", "kakofónia", "metafora", "irónia"],
+    ["A", "nyelvjárás", "egy területileg elhatárolódó nyelvváltozat.", "A dialect is a geographically delimited language variety.", "nyelvjárás", "szaknyelv", "szleng", "köznyelv"],
+    ["A", "homonímia", "azonos alakú, de eltérő jelentésű szavakat jelent.", "Homonymy means words with the same form but different meanings.", "homonímia", "poliszémia", "szinonímia", "antonímia"],
+    ["A", "poliszémia", "esetében a szónak több, egymással összefüggő jelentése van.", "In the case of polysemy, the word has several interrelated meanings.", "poliszémia", "homonímia", "antonímia", "metafora"],
+    ["Az", "irodalmi nyelv", "a nyelv legigényesebb, csiszolt változata.", "Literary language is the most sophisticated, polished version of the language.", "irodalmi nyelv", "tájnyelv", "tolvajnyelv", "csoportnyelv"]
+  ],
+  "dictionary": "nyelvújítás - language reform\nfinnugor - Finno-Ugric\npragmatika - pragmatics\nkohézió - cohesion\nanafora - anaphora\nkatafora - cataphora\nnyelvi norma - language norm\nbeszédaktus - speech act\nszociolingvisztika - sociolinguistics\nrétegnyelv - sociolect\narcaizmus - archaism\nneologizmus - neologism\ntükörfordítás - calque / loan translation\nmetafora - metaphor\nmetonímia - metonymy\nszinekdoché - synecdoche\nellipszis - ellipsis\ndeixis - deixis\nnyelvművelés - language cultivation\nszakszókincs - technical vocabulary / terminology\neufemizmus - euphemism\nnyelvjárás - dialect\nhomonímia - homonymy\npoliszémia - polysemy\nirodalmi nyelv - literary language"
+}

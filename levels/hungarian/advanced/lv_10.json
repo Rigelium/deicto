@@ -1,0 +1,31 @@
+{
+  "title": "Linguistics 2",
+  "sentences": [
+    ["A", "mondattan", "a mondatok felépítésével és szerkezetével foglalkozik.", "Syntax deals with the construction and structure of sentences.", "mondattan", "hangtan", "jelentéstan", "alaktan"],
+    ["A magyarban az", "alanyi ragozás", "akkor kell, ha a tárgy határozatlan.", "In Hungarian, the indefinite conjugation is needed if the object is indefinite.", "alanyi ragozás", "tárgyas ragozás", "ikes ragozás", "múlt idő"],
+    ["A", "felszólító mód", "jele a magyarban a -j betű vagy annak változatai.", "The mark of the imperative mood in Hungarian is the letter -j or its variants.", "felszólító mód", "feltételes mód", "kijelentő mód", "múlt idő"],
+    ["A", "feltételes mód", "használatával bizonytalanságot vagy vágyat fejezünk ki.", "With the use of the conditional mood, we express uncertainty or desire.", "feltételes mód", "felszólító mód", "kijelentő mód", "jelen idő"],
+    ["Az", "alaktan", "a szavak belső szerkezetét és a szóelemeket vizsgálja.", "Morphology examines the internal structure of words and word elements.", "alaktan", "mondattan", "stilisztika", "helyesírás"],
+    ["A", "tőszó", "olyan szó, amely nem bontható tovább kisebb jelentésteli egységekre.", "A root word is a word that cannot be further broken down into smaller meaningful units.", "tőszó", "képzett szó", "összetett szó", "jövevényszó"],
+    ["A", "kifogásol", "ige egy fosztóképzővel ellátott származékszó.", "The verb 'kifogásol' (to object) is a derivative word provided with a privative suffix.", "kifogásol", "olvas", "beszél", "tanul"],
+    ["A", "visszaható névmás", "például a 'maga' szó.", "A reflexive pronoun is, for example, the word 'maga' (self).", "visszaható névmás", "személyes névmás", "mutató névmás", "kérdő névmás"],
+    ["Az", "összetett mondat", "két vagy több tagmondatból áll.", "A compound sentence consists of two or more clauses.", "összetett mondat", "egyszerű mondat", "tőmondat", "hiányos mondat"],
+    ["A", "mellérendelő", "mondatokban a tagmondatok egyenrangúak.", "In coordinating sentences, the clauses are of equal rank.", "mellérendelő", "alárendelő", "kérdő", "felkiáltó"],
+    ["Az", "alárendelő", "mondatban a mellékmondat az főmondat egyik részét fejti ki.", "In a subordinating sentence, the subordinate clause explains a part of the main clause.", "alárendelő", "mellérendelő", "kijelentő", "óhajtó"],
+    ["A", "kötőszó", "kapcsolja össze a mondatokat vagy mondatrészeket.", "The conjunction connects sentences or sentence parts.", "kötőszó", "indulatszó", "névelő", "névutó"],
+    ["A", "névutó", "a főnév után állva határozza meg a térbeli vagy időbeli viszonyt.", "The postposition, standing after the noun, determines the spatial or temporal relation.", "névutó", "elöljárószó", "névelő", "kötőszó"],
+    ["A", "műveltető ige", "azt fejezi ki, hogy az alany mással végezteti a cselekvést.", "The factitive verb expresses that the subject has someone else perform the action.", "műveltető ige", "visszaható ige", "szenvedő ige", "ható ige"],
+    ["A", "ható ige", "jele a -hat/-het, ami a képességet vagy lehetőséget fejezi ki.", "The mark of the potential verb is -hat/-het, which expresses ability or possibility.", "ható ige", "műveltető ige", "ikes ige", "segédige"],
+    ["A magyar nyelvben a", "személyes névmás", "gyakran elmarad, mert az igei rag jelzi a személyt.", "In the Hungarian language, the personal pronoun is often omitted because the verbal ending indicates the person.", "személyes névmás", "mutató névmás", "kérdő névmás", "birtokos névmás"],
+    ["Az", "értelmező jelző", "a jelzett szó után áll és vesszővel választjuk el.", "The appositive attribute stands after the modified word and we separate it with a comma.", "értelmező jelző", "minőségjelző", "mennyiségjelző", "birtokos jelző"],
+    ["A", "jelentéstan", "a szavak és kifejezések értelmével foglalkozik.", "Semantics deals with the meaning of words and expressions.", "jelentéstan", "hangtan", "alaktan", "mondattan"],
+    ["A", "többértelműség", "vagyis a poliszémia gyakori jelenség a nyelvben.", "Ambiguity, i.e., polysemy, is a common phenomenon in language.", "többértelműség", "szinonima", "antonima", "homonima"],
+    ["A", "rokon értelmű szavak", "segítenek elkerülni a szóismétlést.", "Synonyms help avoid word repetition.", "rokon értelmű szavak", "ellentétes értelmű szavak", "jövevényszavak", "szakszavak"],
+    ["Az", "ellentétes értelmű szavak", "például a 'hideg' és a 'meleg'.", "Antonyms are, for example, 'cold' and 'warm'.", "ellentétes értelmű szavak", "szinonimák", "homonimák", "neologizmusok"],
+    ["A", "szóhasadás", "során egy szóból két különböző alak és jelentés válik.", "During word splitting, two different forms and meanings emerge from one word.", "szóhasadás", "szóösszetétel", "szóképzés", "szóelvonás"],
+    ["A", "stilisztika", "a nyelv kifejezőeszközeinek hatását vizsgálja.", "Stylistics examines the impact of language's expressive tools.", "stilisztika", "etimológia", "fonetika", "szintaxis"],
+    ["A", "hangutánzó szavak", "a természet hangjait próbálják utánozni.", "Onomatopoeic words try to imitate the sounds of nature.", "hangutánzó szavak", "hangfestő szavak", "indulatszavak", "műszavak"],
+    ["Az", "etimológia", "a szavak eredetét kutatja.", "Etymology researches the origin of words.", "etimológia", "dialektológia", "szemantika", "pragmatika"]
+  ],
+  "dictionary": "mondattan - syntax\nalanyi ragozás - indefinite conjugation\nfelszólító mód - imperative mood\nfeltételes mód - conditional mood\nalaktan - morphology\ntőszó - root word / stem word\nvisszaható névmás - reflexive pronoun\nösszetett mondat - compound sentence\nmellérendelő - coordinating\nalárendelő - subordinating\nkötőszó - conjunction\nnévutó - postposition\nműveltető ige - factitive / causative verb\nható ige - potential verb\nszemélyes névmás - personal pronoun\nértelmező jelző - appositive attribute\njelentéstan - semantics\ntöbbértelműség - ambiguity / polysemy\nrokon értelmű szavak - synonyms\nellentétes értelmű szavak - antonyms\nszóhasadás - word splitting\nstilisztika - stylistics\nhangutánzó szavak - onomatopoeic words\netimológia - etymology\ntagmondat - clause"
+}
