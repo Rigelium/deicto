@@ -40,6 +40,13 @@
         </div>
       </div>
     </div>
+
+    
+    <div style="display: flex; height: 40px; margin-top: 10px; gap: 5px;">
+      <input id="search-query" placeholder="Search by level title or number" style="border: 0px; border-radius: 5px; flex: 1;">
+      <div id="search-button" class="box2">Search</div>
+    </div>
+    
     <div id='review-visibility' style='display: none;'>
       <div class='box1' style='margin-top: 20px;'><a style='font-size: 1.5rem; font-weight: bold'>Ready for review</a></div>
       <div id='review-container' style="gap: 10px;"></div>
@@ -365,7 +372,7 @@
         doc.line(160, lineTop, 160, 297);
         
         //saving
-        doc.save(`deicto_printables/${language}_${difLevel}_${lvNumber}_${lvTitle}.pdf`);
+        doc.save(`${language}_${difLevel}_${lvNumber}_${lvTitle}.pdf`);
       }
 
 
@@ -399,6 +406,7 @@
     </script>
   </body>
 </html>
+
 
 
 
