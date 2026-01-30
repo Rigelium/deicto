@@ -73,6 +73,7 @@
       
 
       async function listLevels() {
+      document.getElementById("lv-container").innerHTML = "";
       let query = document.getElementById("search-query").value;
       let checkedLv = 1;
       let endReached = 0;
@@ -82,7 +83,9 @@
           for (let checkedLv = 1; checkedLv <= levelData.length; checkedLv++) {
             const title = levelData[checkedLv - 1].title;
             const numOfSentences = levelData[checkedLv - 1].numOfSentences; 
-            dispLevel(checkedLv, title, numOfSentences); 
+            if (levelData.title.toLowerCase().includes(query.toLowerCase()) || checkedLv == Number(query)){
+              dispLevel(checkedLv, title, numOfSentences); 
+            }
             updateInfo();
           }
         } catch(firstError) {
@@ -413,6 +416,7 @@
     </script>
   </body>
 </html>
+
 
 
 
