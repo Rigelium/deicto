@@ -83,7 +83,7 @@
           for (let checkedLv = 1; checkedLv <= levelData.length; checkedLv++) {
             const title = levelData[checkedLv - 1].title;
             const numOfSentences = levelData[checkedLv - 1].numOfSentences; 
-            if (levelData.title.toLowerCase().includes(query.toLowerCase()) || checkedLv == Number(query)){
+            if (title.toLowerCase().includes(query.toLowerCase()) || checkedLv == Number(query)){
               dispLevel(checkedLv, title, numOfSentences); 
             }
             updateInfo();
@@ -416,6 +416,7 @@
     </script>
   </body>
 </html>
+
 
 
 
