@@ -73,40 +73,41 @@
       
 
       async function listLevels() {
-      document.getElementById("lv-container").innerHTML = "";
-      let query = document.getElementById("search-query").value;
-      let checkedLv = 1;
-      let endReached = 0;
-        try { //looking for header
-          const response = await fetch(`${path}header.json`);
-          levelData = await response.json();
-          for (let checkedLv = 1; checkedLv <= levelData.length; checkedLv++) {
-            const title = levelData[checkedLv - 1].title;
-            const numOfSentences = levelData[checkedLv - 1].numOfSentences; 
-            if (title.toLowerCase().includes(query.toLowerCase()) || checkedLv == Number(query)){
-              dispLevel(checkedLv, title, numOfSentences); 
-            }
-            updateInfo();
-          }
-        } catch(firstError) {
-          console.log("No header found, falling back on json files");
-          while( endReached == 0 ) {
-            try { //falling back on all those json files lol
-              const response = await fetch(path + "lv_" + checkedLv + ".json");
-              levelData = await response.json();
-
-              if (levelData.title.toLowerCase().includes(query.toLowerCase()) || checkedLv == Number(query)){
-                dispLevel(checkedLv, levelData.title, levelData.sentences.length); // 
+        document.getElementById("lv-container").innerHTML = "";
+        document.getElementById("review-container").innerHTML = "";
+        let query = document.getElementById("search-query").value;
+        let checkedLv = 1;
+        let endReached = 0;
+          try { //looking for header
+            const response = await fetch(`${path}header.json`);
+            levelData = await response.json();
+            for (let checkedLv = 1; checkedLv <= levelData.length; checkedLv++) {
+              const title = levelData[checkedLv - 1].title;
+              const numOfSentences = levelData[checkedLv - 1].numOfSentences; 
+              if (title.toLowerCase().includes(query.toLowerCase()) || checkedLv == Number(query)){
+                dispLevel(checkedLv, title, numOfSentences); 
               }
-              
               updateInfo();
-              checkedLv++;
-            } catch(error) {
-              endReached = 1;
-              console.log(error);
-          } 
+            }
+          } catch(firstError) {
+            console.log("No header found, falling back on json files");
+            while( endReached == 0 ) {
+              try { //falling back on all those json files lol
+                const response = await fetch(path + "lv_" + checkedLv + ".json");
+                levelData = await response.json();
+  
+                if (levelData.title.toLowerCase().includes(query.toLowerCase()) || checkedLv == Number(query)){
+                  dispLevel(checkedLv, levelData.title, levelData.sentences.length); // 
+                }
+                
+                updateInfo();
+                checkedLv++;
+              } catch(error) {
+                endReached = 1;
+                console.log(error);
+            } 
+          }
         }
-      }
       }
 
       function dispLevel(levelNumber, levelTitle, numOfSentences) {
@@ -416,6 +417,7 @@
     </script>
   </body>
 </html>
+
 
 
 
