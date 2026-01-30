@@ -44,7 +44,7 @@
     
     <div style="display: flex; height: 40px; margin-top: 10px; gap: 5px;">
       <input id="search-query" placeholder="Search by level title or number" style="border: 0px; border-radius: 5px; flex: 1;">
-      <div id="search-button" class="box2">Search</div>
+      <div id="search-button" onclick="listLevels()" class="box2">Search</div>
     </div>
     
     <div id='review-visibility' style='display: none;'>
@@ -70,9 +70,10 @@
       
       //------------------------------------------------------------------------------------------------------------------------
       listLevels();
-      query = document.getElementById("search-query").value;
+      
 
       async function listLevels() {
+      let query = document.getElementById("search-query").value;
       let checkedLv = 1;
       let endReached = 0;
         try { //looking for header
@@ -412,6 +413,7 @@
     </script>
   </body>
 </html>
+
 
 
 
