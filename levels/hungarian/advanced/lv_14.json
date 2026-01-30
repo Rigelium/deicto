@@ -1,0 +1,31 @@
+{
+  "title": "Noun Collection 1",
+  "sentences": [
+    ["A törvény", "rendelkezései", "minden állampolgárra vonatkoznak.", "The provisions of the law apply to every citizen.", "rendelkezései", "akadályai", "tévedései", "kifogásai"],
+    ["A vádlott a bíróság", "ítéletére", "vár.", "The defendant is waiting for the court's verdict.", "ítéletére", "vázlatára", "ecsetelésére", "fáradalmára"],
+    ["Az", "igazságszolgáltatás", "rendszere alapvető a demokráciában.", "The system of administration of justice is fundamental in a democracy.", "igazságszolgáltatás", "méltányosság", "szorgalmazás", "hanyagolás"],
+    ["A menekültek", "oltalmat", "kerestek a szomszédos országban.", "The refugees sought protection/shelter in the neighboring country.", "oltalmat", "bírálatot", "gyanút", "cáfolatot"],
+    ["Súlyos", "mulasztás", "történt a biztonsági ellenőrzés során.", "A serious omission/negligence occurred during the security check.", "mulasztás", "fáradozás", "tetézés", "mérlegelés"],
+    ["A szerződés", "módosítása", "hosszabb tárgyalásokat igényel.", "The modification of the contract requires longer negotiations.", "módosítása", "hanyagolása", "mellőzése", "firtatása"],
+    ["Nagy", "szorgalommal", "készült a vizsgáira.", "He prepared for his exams with great diligence.", "szorgalommal", "tévelygéssel", "feszengéssel", "méltatlankodással"],
+    ["A", "méltányosság", "elve alapján csökkentették a büntetést.", "The punishment was reduced based on the principle of equity/fairness.", "méltányosság", "kifogásolás", "sürgetés", "akadályozás"],
+    ["A", "cáfolat", "meggyőzőbb volt, mint az eredeti vád.", "The refutation was more convincing than the original accusation.", "cáfolat", "szemléltetés", "vázlat", "ecsetelés"],
+    ["A bűncselekmény elkövetésével", "gyanúba", "keveredett.", "He got mixed up in suspicion of committing the crime.", "gyanúba", "oltalomba", "ítéletbe", "mulasztásba"],
+    ["Az", "akadály", "elhárítása után folytatódhatott az építkezés.", "After removing the obstacle, the construction could continue.", "akadály", "előmozdítás", "kieszközölés", "mérlegelés"],
+    ["A döntés", "mérlegelése", "napokig tartott.", "The weighing/deliberation of the decision lasted for days.", "mérlegelése", "zsarolása", "firtatása", "sínylődése"],
+    ["A", "bírálat", "nem volt alaptalan, de túlságosan éles volt.", "The criticism was not groundless, but it was too sharp.", "bírálat", "méltányolás", "szorgalmazás", "oltalom"],
+    ["A", "rendelkezés", "visszavonása nagy felháborodást váltott ki.", "The withdrawal of the provision caused great outrage.", "rendelkezés", "mulasztás", "ítélet", "gyanú"],
+    ["Sok", "fáradozás", "árán sikerült csak befejezni a projektet.", "The project could only be finished at the cost of much labor/effort.", "fáradozás", "tévelygés", "feszengés", "méltatlankodás"],
+    ["A", "szemléltetés", "segített a bonyolult folyamat megértésében.", "The illustration/demonstration helped in understanding the complicated process.", "szemléltetés", "zsarolás", "firtatás", "sínylődés"],
+    ["A", "mellőzés", "fájdalmasan érintette a tapasztalt kollégát.", "The disregard/neglect affected the experienced colleague painfully.", "mellőzés", "szorgalmazás", "méltányolás", "előmozdítás"],
+    ["Az események", "tetézése", "tragédiához vezetett.", "The culmination/aggravation of events led to a tragedy.", "tetézése", "vázolása", "mérlegelése", "kifogásolása"],
+    ["A", "tévelygés", "időszaka után végre megtalálta a hivatását.", "After a period of wandering/erring, he finally found his calling.", "tévelygés", "fáradozás", "szorgalom", "méltányosság"],
+    ["A", "feszengés", "jelei mutatkoztak rajta a kényelmetlen kérdésektől.", "Signs of unease/fidgeting appeared on him from the uncomfortable questions.", "feszengés", "ecsetelés", "cáfolat", "vázlat"],
+    ["A tanú", "ecsetelése", "alapján rajzolták meg a fantomképet.", "The phantom sketch was drawn based on the witness's description.", "ecsetelése", "zsarolása", "firtatása", "sínylődése"],
+    ["A terv", "vázlata", "még nem tartalmaz minden részletet.", "The sketch/outline of the plan does not yet contain every detail.", "vázlata", "cáfolata", "ítélete", "gyanúja"],
+    ["A", "méltatlankodás", "hulláma söpört végig a közösségi médián.", "A wave of indignation swept through social media.", "méltatlankodás", "szorgalmazás", "méltányolás", "oltalom"],
+    ["A", "kifogásolás", "joga minden érintettet megillet.", "The right to object belongs to everyone involved.", "kifogásolás", "mulasztás", "ítélet", "rendelkezés"],
+    ["Az", "előmozdítás", "helyett gátolták a folyamatokat.", "Instead of promotion/advancement, they hindered the processes.", "előmozdítás", "akadály", "mérlegelés", "cáfolat"]
+  ],
+  "dictionary": "rendelkezés - provision / regulation\nítélet - verdict / judgment\nigazságszolgáltatás - administration of justice\noltalom - protection / shelter\nmulasztás - omission / negligence\nmódosítás - modification\nszorgalom - diligence\nméltányosság - equity / fairness\ncáfolat - refutation\ngyanú - suspicion\nakadály - obstacle / hindrance\nmérlegelés - weighing / deliberation\nbírálat - criticism\nfáradozás - labor / effort\nszemléltetés - illustration / demonstration\nmellőzés - disregard / neglect\ntetézés - aggravation / culmination\ntévelygés - wandering / erring\nfeszengés - unease / fidgeting\necsetelés - description / painting a picture (verbally)\nvázlat - sketch / outline\nméltatlankodás - indignation\nkifogásolás - objection\nelőmozdítás - promotion / advancement"
+}

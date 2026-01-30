@@ -1,0 +1,31 @@
+{
+  "title": "University 2",
+  "sentences": [
+    ["Az", "adjunktus", "több éve tanít már a tanszéken.", "The assistant professor has been teaching at the department for several years.", "adjunktus", "hallgató", "konzulens", "demonstrátor"],
+    ["A", "docensi", "kinevezéshez komoly publikációs lista szükséges.", "A serious publication list is required for an associate professor appointment.", "docensi", "tanársegédi", "hallgatói", "rektori"],
+    ["A", "rektor", "az egyetem legfőbb vezetője.", "The rector is the supreme leader of the university.", "rektor", "dékán", "adjunktus", "tanársegéd"],
+    ["A", "dékán", "felelős a kar irányításáért.", "The dean is responsible for managing the faculty.", "dékán", "rektor", "hallgató", "konzulens"],
+    ["Minden tudományos cikket", "lektorált", "folyóiratban kell megjelentetni.", "Every scientific article must be published in a peer-reviewed journal.", "lektorált", "vázolt", "ecsetelt", "cáfolt"],
+    ["A", "plágium", "súlyos fegyelmi vétségnek számít.", "Plagiarism counts as a serious disciplinary offense.", "plágium", "idézet", "hivatkozás", "jegyzet"],
+    ["A PhD-hallgató a", "témavezetőjével", "konzultál a kutatásáról.", "The PhD student consults with their research supervisor about their research.", "témavezetőjével", "hallgatótársával", "dékánjával", "rektorával"],
+    ["A", "disszertáció", "nyilvános megvédése a doktori cím feltétele.", "The public defense of the dissertation is a condition for the doctoral title.", "disszertáció", "vázlat", "jegyzet", "beiratkozás"],
+    ["A", "védés", "során a jelöltnek válaszolnia kell az opponensek kérdéseire.", "During the defense, the candidate must answer the opponents' questions.", "védés", "előadás", "beiratkozás", "vizsga"],
+    ["Ebben a félévben", "passzív félévet", "kértem családi okok miatt.", "I requested a passive semester this semester due to family reasons.", "passzív félévet", "vizsgaidőszakot", "ösztöndíjat", "kreditet"],
+    ["A", "TVSZ", "tartalmazza a hallgatók jogait és kötelezettségeit.", "The TVSZ (Academic and Exam Regulations) contains the rights and obligations of students.", "TVSZ", "katalógus", "diploma", "index"],
+    ["A", "tanulmányi osztály", "intézi a hallgatók hivatalos ügyeit.", "The registrar's office (academic office) handles the official affairs of the students.", "tanulmányi osztály", "rektori hivatal", "tanszék", "könyvtár"],
+    ["Az egyetem sikeresen nyert el egy jelentős", "kutatási támogatást", ".", "The university successfully won a significant research grant.", "kutatási támogatást", "tandíjat", "büntetést", "kreditet"],
+    ["A folyóirat magas", "impakt faktorral", "rendelkezik.", "The journal has a high impact factor.", "impakt faktorral", "pontszámmal", "kredittel", "tandíjjal"],
+    ["A dolgozat végén fel kell tüntetni az összes", "hivatkozást", ".", "All citations/references must be listed at the end of the paper.", "hivatkozást", "plágiumot", "vázlatot", "kifogást"],
+    ["A", "kari tanács", "hozza meg a legfontosabb döntéseket a kar életében.", "The faculty council makes the most important decisions in the life of the faculty.", "kari tanács", "hallgatói önkormányzat", "sportkör", "tanszék"],
+    ["Ő jelenleg", "demonstrátorként", "segíti a gyakorlati oktatást.", "He/she is currently helping with practical teaching as a student assistant.", "demonstrátorként", "rektorként", "dékánként", "konzulensként"],
+    ["Az", "óraadó", "tanárok csak bizonyos kurzusokat tartanak meg.", "Visiting lecturers (hourly teachers) only hold certain courses.", "óraadó", "tudományos", "rendes", "nyugalmazott"],
+    ["A", "tudományos fokozat", "megszerzése hosszú évek munkája.", "Obtaining an academic degree is the work of many years.", "tudományos fokozat", "kreditpont", "tanulmányi átlag", "tandíj"],
+    ["A", "doktori iskola", "képzési terve igen szigorú.", "The training plan of the doctoral school is very strict.", "doktori iskola", "általános iskola", "középiskola", "óvoda"],
+    ["A", "kurzuskatalógusban", "minden meghirdetett tárgy leírása szerepel.", "The description of every announced subject is included in the course catalog.", "kurzuskatalógusban", "indexben", "diplomában", "bizonyítványban"],
+    ["A", "halasztás", "lehetősége nyitva áll a hallgatók előtt.", "The possibility of deferment is open to students.", "halasztás", "beiratkozás", "vizsgázás", "tanulás"],
+    ["A", "konferencia-részvétel", "fontos a szakmai fejlődés szempontjából.", "Conference participation is important for professional development.", "konferencia-részvétel", "szünet", "nyaralás", "étkezés"],
+    ["A", "tanársegéd", "segíti az idősebb oktatók munkáját.", "The teaching assistant helps the work of senior lecturers.", "tanársegéd", "rektor", "dékán", "tanszékvezető"],
+    ["A", "rektori szünet", "alatt nem tartanak előadásokat.", "No lectures are held during the rector's break.", "rektori szünet", "vizsgaidőszak", "szorgalmi időszak", "beiratkozás"]
+  ],
+  "dictionary": "adjunktus - assistant professor\ndocens - associate professor\nrektor - rector\ndékán - dean\nlektorált - peer-reviewed\nplágium - plagiarism\ntémavezető - research supervisor\ndisszertáció - dissertation\nvédés - defense\npasszív félév - passive semester\nTVSZ (Tanulmányi és Vizsgaszabályzat) - Academic and Exam Regulations\ntanulmányi osztály - registrar's office / academic office\nkutatási támogatás - research grant\nimpakt faktor - impact factor\nhivatkozás - citation / reference\nkari tanács - faculty council\ndemonstrátor - student assistant / demonstrator\nóraadó - visiting lecturer / hourly teacher\ntudományos fokozat - academic degree\ndoktori iskola - doctoral school\nkurzuskatalógus - course catalog\nhalasztás - deferment\nkonferencia-részvétel - conference participation\ntanársegéd - teaching assistant (entry level academic rank)\nrektori szünet - rector's break"
+}

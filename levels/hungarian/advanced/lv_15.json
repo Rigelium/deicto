@@ -1,0 +1,31 @@
+{
+  "title": "Adverb Collection 1",
+  "sentences": [
+    ["A hír", "futótűzként", "terjedt el a városban.", "The news spread like wildfire in the city.", "futótűzként", "nyomban", "szórványosan", "vélhetően"],
+    ["Az eredmények", "viszonylag", "jók lettek a várakozásokhoz képest.", "The results turned out relatively good compared to expectations.", "viszonylag", "merőben", "tüzetesen", "hovatovább"],
+    ["A vádlott", "nyomban", "beismerte a bűnösségét.", "The defendant immediately confessed his guilt.", "nyomban", "szórványosan", "némiképp", "alkalomadtán"],
+    ["Az új módszer", "merőben", "eltér a korábbiaktól.", "The new method is fundamentally different from the previous ones.", "merőben", "viszonylag", "folyvást", "nyomban"],
+    ["A betegség tünetei", "szórványosan", "jelentkeztek a lakosság körében.", "The symptoms of the disease appeared sporadically among the population.", "szórványosan", "rendszeresen", "folyvást", "tüzetesen"],
+    ["A kísérlet során mindent", "tüzetesen", "megvizsgáltunk.", "During the experiment, we examined everything thoroughly.", "tüzetesen", "szórványosan", "némiképp", "vélhetően"],
+    ["A helyzet", "némiképp", "javult az elmúlt napokban.", "The situation has improved somewhat in recent days.", "némiképp", "merőben", "futótűzként", "hovatovább"],
+    ["A tettes", "vélhetően", "elhagyta az országot.", "The perpetrator has presumably left the country.", "vélhetően", "nyomban", "tüzetesen", "viszonylag"],
+    ["Az eső", "folyvást", "esett, így elhalasztottuk a kirándulást.", "The rain fell continuously, so we postponed the trip.", "folyvást", "szórványosan", "alkalomadtán", "nyomban"],
+    ["Ha szükséged van segítségre,", "alkalomadtán", "keress meg!", "If you need help, look me up sometime/on occasion!", "alkalomadtán", "folyvást", "merőben", "futótűzként"],
+    ["A készletek", "hovatovább", "elfogynak, ha nem kapunk utánpótlást.", "The supplies will eventually run out if we don't get reinforcements.", "hovatovább", "nyomban", "viszonylag", "tüzetesen"],
+    ["Elvesztette az állását,", "ennélfogva", "nincs jövedelme.", "He lost his job, consequently/therefore he has no income.", "ennélfogva", "némiképp", "szórványosan", "vélhetően"],
+    ["A feladatot", "mindenestül", "rá bízták.", "The task was entrusted to him entirely.", "mindenestül", "szórványosan", "alkalomadtán", "viszonylag"],
+    ["Beszélj", "érthetőbben", ", mert nem hallom!", "Speak more clearly because I can't hear you!", "érthetőbben", "tüzetesebben", "merőben", "folyvást"],
+    ["A döntést", "egyhangúlag", "fogadta el a bizottság.", "The decision was accepted unanimously by the committee.", "egyhangúlag", "szórványosan", "vélhetően", "nyomban"],
+    ["Mindent", "pontról pontra", "leírt a jelentésben.", "He described everything point by point in the report.", "pontról pontra", "merőben", "némiképp", "hovatovább"],
+    ["A hír", "köztudottan", "hamis volt.", "The news was notoriously/well-known to be false.", "köztudottan", "vélhetően", "nyomban", "viszonylag"],
+    ["A könyvet", "elejétől végéig", "kiolvastam egy nap alatt.", "I read the book from beginning to end in one day.", "elejétől végéig", "szórványosan", "tüzetesen", "folyvást"],
+    ["Sajnos", "minduntalan", "ugyanazokat a hibákat követi el.", "Unfortunately, he makes the same mistakes over and over again.", "minduntalan", "alkalomadtán", "nyomban", "merőben"],
+    ["A tervet", "időközben", "meg kellett változtatni.", "The plan had to be changed in the meantime.", "időközben", "folyvást", "hovatovább", "ennélfogva"],
+    ["Az eseményt", "élőben", "közvetítették a televízióban.", "The event was broadcast live on television.", "élőben", "nyomban", "vélhetően", "viszonylag"],
+    ["A munkát", "lelkiismeretesen", "végezte el.", "He performed the work conscientiously.", "lelkiismeretesen", "hanyagul", "tüzetesen", "merőben"],
+    ["Ezt a kérdést", "részletesen", "meg kell tárgyalnunk.", "We must discuss this question in detail.", "részletesen", "szórványosan", "némiképp", "viszonylag"],
+    ["A megoldás", "kézenfekvően", "egyszerű volt.", "The solution was obviously/evidently simple.", "kézenfekvően", "vélhetően", "merőben", "hovatovább"],
+    ["A két ország", "kölcsönösen", "támogatja egymást.", "The two countries mutually support each other.", "kölcsönösen", "egyhangúlag", "szórványosan", "folyvást"]
+  ],
+  "dictionary": "futótűzként - like wildfire\nviszonylag - relatively\nnyomban - immediately / at once\nmerőben - fundamentally / entirely\nszórványosan - sporadically\ntüzetesen - thoroughly / closely\nnémiképp - somewhat / to some extent\nvélhetően - presumably / probably\nfolyvást - continuously / constantly\nalkalomadtán - on occasion / occasionally\nhovatovább - eventually / as time goes on\nennélfogva - consequently / therefore\nmindenestül - entirely / lock, stock, and barrel\nérthetőbben - more clearly\negyhangúlag - unanimously\npontról pontra - point by point\nköztudottan - notoriously / well-known\nelejétől végéig - from beginning to end\nminduntalan - over and over again / incessantly\nidőközben - in the meantime\nélőben - live\nlelkiismeretesen - conscientiously\nrészletesen - in detail\nkézenfekvően - obviously / evidently\nkölcsönösen - mutually"
+}

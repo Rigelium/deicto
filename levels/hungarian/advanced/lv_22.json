@@ -1,0 +1,31 @@
+{
+  "title": "University 1",
+  "sentences": [
+    ["A", "hallgatói jogviszony", "a beiratkozással jön létre.", "The student status is established by enrollment.", "hallgatói jogviszony", "tanszéki rend", "kari tanács", "rektori hivatal"],
+    ["A", "szakdolgozat", "leadási határideje a jövő hét vége.", "The deadline for submitting the thesis is the end of next week.", "szakdolgozat", "pályázat", "felvételi", "szemeszter"],
+    ["Ki lesz a", "konzulensed", "a kutatás során?", "Who will be your supervisor during the research?", "konzulensed", "oktatód", "hallgatód", "társaid"],
+    ["Ehhez a tárgyhoz öt", "kreditpont", "tartozik.", "Five credit points are assigned to this subject.", "kreditpont", "pontszám", "osztályzat", "tandíj"],
+    ["A", "vizsgaidőszak", "december közepén kezdődik.", "The exam period starts in mid-December.", "vizsgaidőszak", "szorgalmi időszak", "tanítási szünet", "beiratkozás"],
+    ["Sikerült elnyernie a köztársasági", "ösztöndíjat", ".", "She/he managed to win the state scholarship.", "ösztöndíjat", "tandíjat", "kreditet", "szigorlatot"],
+    ["A", "tanszék", "vezetője ma nem tartózkodik az egyetemen.", "The head of the department is not at the university today.", "tanszék", "kar", "hivatal", "terem"],
+    ["A", "felvételi eljárás", "során figyelembe veszik a középiskolai jegyeket is.", "During the admission procedure, high school grades are also taken into account.", "felvételi eljárás", "záróvizsga", "diplomaosztó", "szigorlat"],
+    ["A", "záróvizsga", "után kapják meg a hallgatók a diplomájukat.", "After the final exam, students receive their diplomas.", "záróvizsga", "szigorlat", "előadás", "szeminárium"],
+    ["A", "diplomaosztó", "ünnepség a díszteremben lesz.", "The graduation ceremony will be in the ceremonial hall.", "diplomaosztó", "beiratkozás", "felvételi", "tájékoztató"],
+    ["Mekkora a", "tanulmányi átlagod", "ebben a félévben?", "What is your grade point average in this semester?", "tanulmányi átlagod", "kreditpontod", "tandíjad", "pontszámod"],
+    ["Sajnos nem kaptam", "kollégiumi férőhelyet", ".", "Unfortunately, I didn't get a dormitory place.", "kollégiumi férőhelyet", "ösztöndíjat", "kreditet", "diplomát"],
+    ["A", "pótfelevételi", "lehetőséget augusztusban hirdetik meg.", "The opportunity for second round admission is announced in August.", "pótfelevételi", "beiratkozás", "záróvizsga", "szigorlat"],
+    ["A", "szeminárium", "látogatása kötelező a hallgatók számára.", "Attending the seminar is mandatory for students.", "szeminárium", "előadás", "konzultáció", "kirándulás"],
+    ["Az", "előadás", "anyaga letölthető az egyetem honlapjáról.", "The lecture material can be downloaded from the university's website.", "előadás", "szakdolgozat", "szemeszter", "ösztöndíj"],
+    ["A", "szigorlat", "három tantárgy anyagát öleli fel.", "The comprehensive exam covers the material of three subjects.", "szigorlat", "záróvizsga", "dolgozat", "felvételi"],
+    ["Az", "alapképzés", "elvégzése után jelentkezhet mesterképzésre.", "After completing bachelor's training, one can apply for master's training.", "alapképzés", "mesterképzés", "doktori képzés", "szakvizsga"],
+    ["A", "mesterképzés", "általában két évig tart.", "Master's training usually lasts for two years.", "mesterképzés", "alapképzés", " PhD-képzés", "középiskola"],
+    ["Az", "abszolutórium", "megszerzése után már csak a záróvizsga van hátra.", "After obtaining the pre-degree certificate, only the final exam remains.", "abszolutórium", "diploma", "kredit", "ösztöndíj"],
+    ["Nagy a", "túljelentkezés", "az orvosi karra.", "There is high over-application for the medical faculty.", "túljelentkezés", "felvétel", "beiratkozás", "lemorzsolódás"],
+    ["A", "ponthatár", "meghatározza, ki kerülhet be az egyetemre.", "The point threshold determines who can get into the university.", "ponthatár", "osztályzat", "átlag", "kredit"],
+    ["Néhány hallgató", "tandíjmentes", "képzésben vesz részt.", "Some students participate in tuition-free training.", "tandíjmentes", "költségtérítéses", "ösztöndíjas", "estis"],
+    ["A", "hallgatói önkormányzat", "képviseli a diákok érdekeit.", "The student union represents the interests of the students.", "hallgatói önkormányzat", "rektori hivatal", "kari tanács", "tanszék"],
+    ["A", "Tudományos Diákkör", "lehetőséget ad a kutatómunkára.", "The Scientific Student Circle provides an opportunity for research work.", "Tudományos Diákkör", "sportkör", "énekkar", "színjátszó kör"],
+    ["Az", "oktatói munka", "mellett kutatással is foglalkozik.", "Besides teaching work, he/she is also involved in research.", "oktatói munka", "tanulmány", "szeminárium", "vizsga"]
+  ],
+  "dictionary": "hallgatói jogviszony - student status\nszakdolgozat - thesis\nkonzulens - supervisor\nkreditpont - credit point\nvizsgaidőszak - exam period\nösztöndíj - scholarship\ntanszék - department\nfelvételi eljárás - admission procedure\nzáróvizsga - final examination\ndiplomaosztó - graduation ceremony\ntanulmányi átlag - grade point average\nkollégiumi férőhely - dormitory place\npótfelevételi - second round admission\nszeminárium - seminar\nelőadás - lecture\nszigorlat - comprehensive examination\nalapképzés - bachelor's training\nmesterképzés - master's training\nabszolutórium - pre-degree certificate / final certificate\ntúljelentkezés - over-application\nponthatár - point threshold\ntandíjmentes - tuition-free\nhallgatói önkormányzat - student union\nTudományos Diákkör - Scientific Student Circle (TDK)\noktatói munka - teaching work"
+}

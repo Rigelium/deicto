@@ -1,0 +1,31 @@
+{
+  "title": "Onomatopoeias 2",
+  "sentences": [
+    ["A zászló büszkén", "lobogott", "a szélben.", "The flag was fluttering proudly in the wind.", "lobogott", "pattogott", "ketyegett", "sipolt"],
+    ["Valami halkan", "motoszkált", "a padláson.", "Something was rustling/scuttling quietly in the attic.", "motoszkált", "dörgött", "sziszegett", "berreget"],
+    ["A tüzijáték hatalmasat", "pukkant", "az égen.", "The firework made a huge pop/bang in the sky.", "pukkant", "dorombolt", "gőgicsélt", "csicsergett"],
+    ["A sárban való járáskor a cipőnk", "paskolt", ".", "When walking in the mud, our shoes made a splashing/slapping sound.", "paskolt", "nyikorgott", "kattogott", "csengett"],
+    ["A távoli villám hirtelen", "villant", "fel az éjszakában.", "The distant lightning suddenly flashed in the night.", "villant", "kondult", "loccsant", "zörrent"],
+    ["A kisfiú", "durrogott", "a játékaival a szobában.", "The little boy was making banging/popping noises with his toys in the room.", "durrogott", "zümmögött", "nyerített", "vonyított"],
+    ["Az esőcseppek", "kopogtak", "az ablaküvegen.", "The raindrops were tapping on the windowpane.", "kopogtak", "zúgtak", "búgtak", "süvítettek"],
+    ["A nevetéstől", "rángatózott", "az oldala.", "His side was twitching/shaking from laughter.", "rángatózott", "ketyegett", "dorombolt", "sipolt"],
+    ["A víz", "bugyogva", "forrt a fazékban.", "The water was boiling/bubbling in the pot.", "bugyogva", "sziszegve", "morgva", "csörömpölve"],
+    ["A tömegben valaki halkan", "mormogott", ".", "Someone was murmuring/muttering quietly in the crowd.", "mormogott", "kiabált", "énekelt", "füttyentett"],
+    ["A papírlapok", "zizegtek", "a huzatban.", "The sheets of paper were rustling/fizzing in the draft.", "zizegtek", "csattogtak", "dübörögtek", "roppantak"],
+    ["A lovak", "nyerítettek", "a karámban.", "The horses were neighing in the pen.", "nyerítettek", "doromboltak", "zümmögtek", "sziszegtek"],
+    ["A farkasok", "vonyítottak", "a holdfényben.", "The wolves were howling in the moonlight.", "vonyítottak", "csicseregtek", "gőgicséltek", "motoszkáltak"],
+    ["A cipőnk talpa", "csoszogott", "a köves úton.", "The soles of our shoes shuffled on the stony road.", "csoszogott", "pattant", "koppant", "villant"],
+    ["A hatalmas gép", "dübörgött", "a gyárban.", "The huge machine thundered/rumbled in the factory.", "dübörgött", "nyikorgott", "kattogott", "zizegtek"],
+    ["A kislány", "füttyentett", "a kutyájának.", "The little girl gave a whistle to her dog.", "füttyentett", "morgott", "sziszegett", "motoszkált"],
+    ["A madár szárnyai", "suhogtak", "a levegőben.", "The bird's wings whished/rustled in the air.", "suhogtak", "csattogtak", "ketyegtek", "sipoltak"],
+    ["A forró olaj", "sercegett", "a serpenyőben.", "The hot oil was sizzling in the pan.", "sercegett", "loccsant", "kondult", "berregett"],
+    ["A békák", "kuruttyoltak", "a tóparton.", "The frogs were croaking on the lakeshore.", "kuruttyoltak", "zümmögtek", "nyerítettek", "vonyítottak"],
+    ["A nehéz ajtó", "döccenve", "záródott be.", "The heavy door closed with a jolt/thud.", "döccenve", "súgva", "zizegve", "villanva"],
+    ["A gyermek", "szipogott", "a sírás után.", "The child was sniffing after crying.", "szipogott", "nevetett", "aludt", "játszott"],
+    ["A motor halkan", "pöfögött", "a garázsban.", "The engine was chugging/puffing quietly in the garage.", "pöfögött", "süvített", "dörgött", "kattogott"],
+    ["A közönség", "tapsolt", "az előadás végén.", "The audience clapped at the end of the performance.", "tapsolt", "mormogott", "zizegtek", "motoszkáltak"],
+    ["A szél", "zörgette", "a száraz leveleket.", "The wind was rattling the dry leaves.", "zörgette", "lobogott", "villant", "durrogott"],
+    ["A patak", "csobogása", "nyugtatólag hatott rá.", "The splashing/babbling of the brook had a calming effect on him.", "csobogása", "dübörgése", "vonyítása", "nyerítése"]
+  ],
+  "dictionary": "lobog - to flutter / flare\nmotoszkál - to rustle / scuttle / move quietly\npukkan - to pop / bang\npaskol - to slap / splash (liquid surface)\nvillan - to flash\ndurrog - to bang / pop repeatedly\nkopog - to knock / tap\nrángatózik - to twitch / jerk\nbugyog - to bubble / gush\nmormog - to murmur / mutter\nzizeg - to rustle (paper/leaves)\nnyerít - to neigh\nvonyít - to howl\ncsoszog - to shuffle (feet)\ndübörög - to thunder / rumble\nfüttyent - to whistle (briefly)\nsuhog - to whish / rustle (movement through air)\nserceg - to sizzle\nkuruttyol - to croak (frogs)\ndöccen - to jolt / thud\nszipog - to sniff / sob quietly\npöfög - to puff / chug\ntapsol - to clap\nzörget - to rattle / knock\ncsobogás - babbling / splashing (of water)"
+}

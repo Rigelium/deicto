@@ -1,0 +1,31 @@
+{
+  "title": "Physics 2",
+  "sentences": [
+    ["Az", "entrópia", "a rendszer rendezetlenségének mértékét jelzi.", "Entropy indicates the degree of disorder in a system.", "entrópia", "energia", "nyomás", "hőmérséklet"],
+    ["A folyadékok belső súrlódását", "viszkozitásnak", "nevezzük.", "We call the internal friction of liquids viscosity.", "viszkozitásnak", "sűrűségnek", "tömegnek", "feszültségnek"],
+    ["Az", "interferencia", "során két hullám találkozásakor erősítés vagy gyengítés jön létre.", "During interference, amplification or attenuation occurs when two waves meet.", "interferencia", "diffrakció", "törés", "szóródás"],
+    ["A", "fényelektromos jelenség", "bizonyítja a fény részecsketermészetét.", "The photoelectric effect proves the particle nature of light.", "fényelektromos jelenség", "vöröseltolódás", "hőtágulás", "mágnesesség"],
+    ["A gyémántnak rendkívül magas a", "törésmutatója", ".", "Diamond has an extremely high refractive index.", "törésmutatója", "sűrűsége", "ellenállása", "fajhője"],
+    ["A", "felezési idő", "alatt a radioaktív atomok fele elbomlik.", "During the half-life, half of the radioactive atoms decay.", "felezési idő", "fényév", "időtartam", "periódusidő"],
+    ["Az atommagban a protonokat és neutronokat az", "erős kölcsönhatás", "tartja össze.", "In the atomic nucleus, protons and neutrons are held together by the strong interaction.", "erős kölcsönhatás", "gravitáció", "elektromos vonzás", "súrlódás"],
+    ["A", "diffrakció", "jelensége akkor figyelhető meg, ha a fény egy szűk résen halad át.", "The phenomenon of diffraction can be observed when light passes through a narrow slit.", "diffrakció", "visszaverődés", "polarizáció", "törés"],
+    ["A", "polarizáció", "során a fény rezgési síkja meghatározott irányúvá válik.", "During polarization, the vibration plane of light becomes fixed in a specific direction.", "polarizáció", "interferencia", "fúzió", "fisszió"],
+    ["A", "fekete lyuk", "gravitációs tere olyan erős, hogy még a fény sem tud kiszökni belőle.", "The gravitational field of a black hole is so strong that even light cannot escape from it.", "fekete lyuk", "fehér törpe", "bolygó", "üstökös"],
+    ["Az", "eseményhorizont", "az a határfelület, ahonnan már nincs visszatérés.", "The event horizon is the boundary surface from which there is no return.", "eseményhorizont", "színkép", "hullámfront", "téridő"],
+    ["Einstein szerint a nagy tömegű testek meggörbítik a", "téridőt", ".", "According to Einstein, massive bodies curve spacetime.", "téridőt", "fényt", "energiát", "vákumot"],
+    ["A távoli galaxisok", "vöröseltolódása", "az univerzum tágulását jelzi.", "The redshift of distant galaxies indicates the expansion of the universe.", "vöröseltolódása", "törésmutatója", "fényereje", "tömege"],
+    ["A", "maghasadás", "során egy nehéz atommag két könnyebbre bomlik szét.", "During nuclear fission, a heavy atomic nucleus splits into two lighter ones.", "maghasadás", "magfúzió", "ionizáció", "párolgás"],
+    ["A nap energiáját a folyamatos", "magfúzió", "biztosítja.", "The energy of the Sun is provided by continuous nuclear fusion.", "magfúzió", "maghasadás", "égés", "sugárzás"],
+    ["A", "szupravezetés", "során az anyag elektromos ellenállása nullára csökken.", "During superconductivity, the electrical resistance of the material drops to zero.", "szupravezetés", "szigetelés", "indukció", "vezetés"],
+    ["A", "hőtágulás", "következtében a szilárd testek térfogata a hőmérséklettel nő.", "As a result of thermal expansion, the volume of solid bodies increases with temperature.", "hőtágulás", "fajhő", "olvadáshő", "párolgás"],
+    ["A", "felületi feszültség", "teszi lehetővé, hogy egyes rovarok a víz felszínén járjanak.", "Surface tension makes it possible for some insects to walk on the surface of water.", "felületi feszültség", "viszkozitás", "sűrűség", "nyomás"],
+    ["Az égitestek", "keringési pályáját", "a gravitációs vonzás határozza meg.", "The orbit of celestial bodies is determined by gravitational attraction.", "keringési pályáját", "sebességét", "tömegét", "hőmérsékletét"],
+    ["A", "részecskegyorsító", "segítségével az elemi részecskéket hatalmas sebességre gyorsítják.", "With the help of a particle accelerator, elementary particles are accelerated to enormous speeds.", "részecskegyorsító", "mikroszkóp", "teleszkóp", "generátor"],
+    ["Az", "izotópok", "azonos rendszámú, de eltérő tömegszámú atomok.", "Isotopes are atoms with the same atomic number but different mass numbers.", "izotópok", "molekulák", "vegyületek", "keverékek"],
+    ["A", "termikus egyensúly", "állapotában nincs nettó hőcsere a rendszerek között.", "In the state of thermal equilibrium, there is no net heat exchange between the systems.", "termikus egyensúly", "fázisátalakulás", "forráspont", "fagyáspont"],
+    ["A", "fénytörés", "akkor következik be, amikor a fény új közegbe lép.", "Refraction occurs when light enters a new medium.", "fénytörés", "visszaverődés", "polarizáció", "szóródás"],
+    ["A", "kvantummechanika", "a mikrovilág és az elemi részecskék törvényszerűségeit írja le.", "Quantum mechanics describes the laws of the microworld and elementary particles.", "kvantummechanika", "klasszikus mechanika", "optika", "akusztika"],
+    ["A", "súlytalanság", "állapota a szabadon eső űrhajóban is fellép.", "The state of weightlessness also occurs in a free-falling spacecraft.", "súlytalanság", "tehetetlenség", "gyorsulás", "nyomás"]
+  ],
+  "dictionary": "entrópia - entropy\nviszkozitás - viscosity\ninterferencia - interference\nfényelektromos jelenség - photoelectric effect\ntörésmutató - refractive index\nfelezési idő - half-life\nerős kölcsönhatás - strong interaction\ndiffrakció - diffraction\npolarizáció - polarization\nfekete lyuk - black hole\neseményhorizont - event horizon\ntéridő - spacetime\nvöröseltolódás - redshift\nmaghasadás - nuclear fission\nmagfúzió - nuclear fusion\nszupravezetés - superconductivity\nhőtágulás - thermal expansion\nfelületi feszültség - surface tension\nkeringési pálya - orbit\nrészecskegyorsító - particle accelerator\nizotóp - isotope\ntermikus egyensúly - thermal equilibrium\nfénytörés - refraction\nkvantummechanika - quantum mechanics\nsúlytalanság - weightlessness"
+}

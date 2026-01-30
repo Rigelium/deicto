@@ -1,0 +1,31 @@
+{
+  "title": "Onomatopoeias 1",
+  "sentences": [
+    ["A száraz ágak", "pattogtak", "a tűzben.", "The dry branches were crackling in the fire.", "pattogtak", "zörögtek", "zúgtak", "csattogtak"],
+    ["Az öreg óra hangosan", "ketyegett", "a falon.", "The old clock was ticking loudly on the wall.", "ketyegett", "dobogott", "csörömpölt", "sipolt"],
+    ["Hallottuk, ahogy a távoli harangok", "kondulnak", ".", "We heard the distant bells tolling.", "kondulnak", "csengenek", "zúgnak", "búgnak"],
+    ["A macska halkan", "dorombolt", "az ölemben.", "The cat purred quietly in my lap.", "dorombolt", "vonyított", "nyávogott", "morgott"],
+    ["A nehéz kő nagyot", "loccsant", "a vízben.", "The heavy stone made a big splash in the water.", "loccsant", "pattant", "koppant", "zörrent"],
+    ["Az üveg", "csörömpölve", "tört össze a padlón.", "The glass broke on the floor with a clatter.", "csörömpölve", "súgva", "dübörögve", "zúgva"],
+    ["A szél", "süvített", "a ház falai között.", "The wind whistled/howled between the walls of the house.", "süvített", "dörgött", "kattogott", "pattogott"],
+    ["A kisbaba boldogan", "gőgicsélt", "a kiságyban.", "The baby cooed happily in the crib.", "gőgicsélt", "sírt", "kiabált", "morgott"],
+    ["Hallod, ahogy a vonat", "kattog", "a síneken?", "Do you hear the train clicking/clattering on the rails?", "kattog", "zúg", "búg", "cseng"],
+    ["A kígyó hangosan", "sziszegett", "a bokorban.", "The snake hissed loudly in the bush.", "sziszegett", "morgott", "ugatott", "nyerített"],
+    ["A madarak vidáman", "csicseregtek", "a fán.", "The birds were chirping happily on the tree.", "csicseregtek", "vonyítottak", "morgott", "bőgtek"],
+    ["A befagyott tó jege", "roppant", "egyet a lábam alatt.", "The ice of the frozen lake gave a crack under my foot.", "roppant", "pattant", "csattant", "koppant"],
+    ["A távoli mennydörgés", "morgott", "a hegyek felett.", "The distant thunder rumbled/growled above the mountains.", "morgott", "villámlott", "esett", "fújt"],
+    ["A cipőm", "nyikorgott", "a tiszta padlón.", "My shoe squeaked on the clean floor.", "nyikorgott", "dübörgött", "kattogott", "zúgott"],
+    ["A méhek", "zümmögtek", "a virágok körül.", "The bees were buzzing around the flowers.", "zümmögtek", "süvítettek", "kattogtak", "pattogtak"],
+    ["A kardok", "csattogtak", "a csata hevében.", "The swords clashed/clattered in the heat of the battle.", "csattogtak", "ketyegtek", "doromboltak", "gőgicséltek"],
+    ["Valami", "zörrent", "a sötét szobában.", "Something rustled/clattered in the dark room.", "zörrent", "loccsant", "kondult", "sziszegett"],
+    ["A teáskanna élesen", "sipolt", "a konyhában.", "The teapot whistled shrilly in the kitchen.", "sipolt", "ketyegett", "dorombolt", "loccsant"],
+    ["A patak halkan", "csörgedezett", "a kövek között.", "The brook gurgled/rippled quietly among the stones.", "csörgedezett", "zúgott", "dörgött", "süvített"],
+    ["A gépfegyverek", "ropogása", "törte meg a csendet.", "The rattle of machine guns broke the silence.", "ropogása", "ketyegése", "dorombolása", "gőgicsélése"],
+    ["A fémkapu", "csikorgott", ", amikor kinyitották.", "The metal gate screeched/grated when it was opened.", "csikorgott", "zúgott", "búgott", "kattogott"],
+    ["A tömeg", "zúgott", "a stadionban.", "The crowd roared/hummed in the stadium.", "zúgott", "csengett", "ketyegett", "nyikorgott"],
+    ["A telefon halkan", "berregett", "az asztalon.", "The phone buzzed/purred quietly on the table.", "berregett", "süvített", "loccsant", "kondult"],
+    ["Egy nagy darab fa", "koppant", "a földön.", "A large piece of wood thudded on the ground.", "koppant", "loccsant", "sziszegett", "zümmögött"],
+    ["A közönség", "morajlása", "elnyomta a szónok hangját.", "The murmur/rumble of the audience drowned out the speaker's voice.", "morajlása", "csicsergése", "nyikorgása", "ketyegése"]
+  ],
+  "dictionary": "pattog - to crackle / pop\nketyeg - to tick\nkondul - to toll / knell (bells)\ndorombol - to purr\nloccsan - to splash\ncsörömpöl - to clatter / jangle (glass/metal)\nsüvít - to whistle / howl (wind/bullet)\ngőgicsél - to coo (baby)\nkattog - to click / clatter (mechanical)\nsziszeg - to hiss\ncsicsereg - to chirp\nroppan - to crack / crunch\nmorog - to growl / rumble (thunder/dog)\nnyikorog - to squeak / creak\nzümmög - to buzz\ncsattog - to clash / clatter (swords/teeth)\nzörren - to rustle / make a slight clatter\nsipol - to whistle shrilly\ncsörgedezik - to gurgle / ripple\nropogás - rattle / crackling\ncsikorog - to screech / grate (metal on metal)\nzúg - to roar / hum / buzz\nberreg - to buzz / whir\nkoppan - to thud / clink (hard object hitting surface)\nmorajlás - murmur / rumble"
+}

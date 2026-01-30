@@ -1,0 +1,31 @@
+{
+  "title": "Physics 1",
+  "sentences": [
+    ["Newton második törvénye szerint az", "erő", "a tömeg és a gyorsulás szorzata.", "According to Newton's second law, force is the product of mass and acceleration.", "erő", "energia", "munka", "nyomás"],
+    ["A", "tömegvonzás", "miatt esnek a tárgyak a föld felé.", "Objects fall toward the ground because of gravity.", "tömegvonzás", "súrlódás", "légellenállás", "mágnesesség"],
+    ["Az", "energia", "megmaradásának törvénye szerint az energia nem vész el, csak átalakul.", "According to the law of conservation of energy, energy is not lost, only transformed.", "energia", "hőmérséklet", "sebesség", "töltés"],
+    ["A", "súrlódás", "hőt termel két érintkező felület között.", "Friction generates heat between two contacting surfaces.", "súrlódás", "vákum", "hullám", "fény"],
+    ["A gázok", "nyomása", "fordítottan arányos a térfogatukkal állandó hőmérsékleten.", "The pressure of gases is inversely proportional to their volume at constant temperature.", "nyomása", "sűrűsége", "súlya", "tömege"],
+    ["A", "fénysebesség", "a vákumban megközelítőleg 300 000 km/s.", "The speed of light in a vacuum is approximately 300,000 km/s.", "fénysebesség", "hangsebesség", "gyorsulás", "impulzus"],
+    ["Az", "elektromos áram", "folyása a feszültségtől és az ellenállástól függ.", "The flow of electric current depends on voltage and resistance.", "elektromos áram", "mágneses mező", "statikus töltés", "hősugárzás"],
+    ["A", "hővezetés", "során az energia részecskéről részecskére terjed.", "During heat conduction, energy spreads from particle to particle.", "hővezetés", "konvekció", "sugárzás", "párolgás"],
+    ["A folyadékok", "sűrűsége", "meghatározza, hogy egy tárgy lebeg-e bennük.", "The density of liquids determines whether an object floats in them.", "sűrűsége", "tömege", "térfogata", "hőmérséklete"],
+    ["A", "mágneses mező", "erővonalai az északi pólustól a déli pólus felé mutatnak.", "The magnetic field lines point from the north pole toward the south pole.", "mágneses mező", "elektromos mező", "gravitációs tér", "fénycsóva"],
+    ["A", "visszaverődés", "törvénye szerint a beesési szög egyenlő a visszaverődési szöggel.", "According to the law of reflection, the angle of incidence equals the angle of reflection.", "visszaverődés", "törés", "elhajlás", "szóródás"],
+    ["A prizma felbontja a fehér fényt a", "színkép", "színeire.", "The prism breaks down white light into the colors of the spectrum.", "színkép", "árnyék", "visszfény", "hullámhossz"],
+    ["A", "hullámhossz", "a hullám két egymást követő azonos pontja közötti távolság.", "Wavelength is the distance between two consecutive identical points of a wave.", "hullámhossz", "frekvencia", "amplitúdó", "periódusidő"],
+    ["A", "radioaktivitás", "során az atommagok spontán bomlanak fel.", "During radioactivity, atomic nuclei decay spontaneously.", "radioaktivitás", "fúzió", "fisszió", "ionizáció"],
+    ["Az", "ellenállás", "mértékegysége az ohm.", "The unit of resistance is the ohm.", "ellenállás", "feszültség", "teljesítmény", "töltés"],
+    ["A", "tehetetlenség", "miatt a testek megőrzik mozgásállapotukat.", "Because of inertia, bodies preserve their state of motion.", "tehetetlenség", "gyorsulás", "erőhatás", "súlytalanság"],
+    ["A", "szabadesés", "során a testek állandó gyorsulással mozognak.", "During free fall, bodies move with constant acceleration.", "szabadesés", "keringés", "forgás", "rezgés"],
+    ["A", "közegellenállás", "befolyásolja a levegőben mozgó tárgyak sebességét.", "Medium resistance (drag) affects the speed of objects moving in air.", "közegellenállás", "mágnesség", "fényvisszaverődés", "hőtágulás"],
+    ["A fémek jó", "vezetők", ", ezért használják őket elektromos huzalokhoz.", "Metals are good conductors, which is why they are used for electrical wires.", "vezetők", "szigetelők", "félvezetők", "folyadékok"],
+    ["Az üveg jó", "szigetelő", ", nem vezeti jól az áramot.", "Glass is a good insulator; it does not conduct electricity well.", "szigetelő", "vezető", "mágnes", "tükör"],
+    ["A", "párolgás", "hűtő hatással van a környezetre.", "Evaporation has a cooling effect on the environment.", "párolgás", "forrás", "fagyás", "olvadás"],
+    ["A", "fajhő", "megmutatja, mennyi energia kell egy kilogramm anyag felmelegítéséhez.", "Specific heat shows how much energy is needed to heat one kilogram of a substance.", "fajhő", "hőkapacitás", "olvadáshő", "forráshő"],
+    ["Az", "amplitúdó", "a hullám legnagyobb kitérése a nyugalmi állapothoz képest.", "Amplitude is the maximum displacement of a wave relative to its rest position.", "amplitúdó", "frekvencia", "fázis", "ütem"],
+    ["A", "szögsebesség", "a forgó mozgás egyik alapvető jellemzője.", "Angular velocity is a fundamental characteristic of rotational motion.", "szögsebesség", "átlagsebesség", "gyorsulás", "lendület"],
+    ["A", "vákum", "olyan tér, amelyben nincs anyag.", "A vacuum is a space in which there is no matter.", "vákum", "atmoszféra", "plazma", "folyadék"]
+  ],
+  "dictionary": "erő - force\ntömegvonzás - gravity\nenergia - energy\nsúrlódás - friction\nnyomás - pressure\nfénysebesség - speed of light\nelektromos áram - electric current\nhővezetés - heat conduction\nsűrűség - density\nmágneses mező - magnetic field\nvisszaverődés - reflection\nszínkép - spectrum\nhullámhossz - wavelength\nradioaktivitás - radioactivity\nellenállás - resistance\ntehetetlenség - inertia\nszabadesés - free fall\nközegellenállás - medium resistance / drag\nvezető - conductor\nszigetelő - insulator\npárolgás - evaporation\nfajhő - specific heat\namplitúdó - amplitude\nszögsebesség - angular velocity\nvákum - vacuum"
+}
