@@ -1,0 +1,21 @@
+{
+  "title": "The Arrival",
+  "sentences": [
+    ["Աննան ժամանում է ", "Երևան", ":", "[Annan zhamanum e Yerevan.] Anna arrives in Yerevan.", "Երևան", "Լոնդոն", "Փարիզ", "Մոսկվա"],
+    ["Նա ", "տեսնում է", " իր ընկերոջը՝ Արամին:", "[Na tesnum e ir unkerojuh՝ Aramin.] She sees her friend, Aram.", "տեսնում է", "լսում է", "ուտում է", "խմում է"],
+    ["— ", "Բարև", " ձեզ, — ասում է Աննան:", "[— Barev dzez, — asum e Annan.] — Hello, says Anna.", "Բարև", "Հաջողություն", "Գիշեր", "Առավոտ"],
+    ["— ", "Ես", " Աննան եմ:", "[— Yes Annan em.] — I am Anna.", "Ես", "Դու", "Նա", "Մենք"],
+    ["— Բարի ", "գալուստ", " Հայաստան, Աննա:", "[— Bari galust Hayastan, Anna.] — Welcome to Armenia, Anna.", "գալուստ", "գիշեր", "օր", "ճանապարհ"],
+    ["— ", "Շնորհակալություն", ", — ժպտում է նա:", "[— Shnorhakalutyun, — zhptum e na.] — Thank you, she smiles.", "Շնորհակալություն", "Խնդրեմ", "Ներեցեք", "Այո"],
+    ["— ", "Ինչպե՞ս", " եք:", "[— Inchpes ek?] — How are you?", "Ինչպե՞ս", "Որտե՞ղ", "Ե՞րբ", "Ո՞վ"],
+    ["— Շատ ", "լավ", " եմ, իսկ դո՞ւք:", "[— Shat lav em, isk duk?] — I am very well, and you?", "լավ", "վատ", "հոգնած", "տխուր"],
+    ["— Ես ", "նույնպես", " լավ եմ:", "[— Yes nuynpes lav em.] — I am also well.", "նույնպես", "միայն", "հիմա", "շատ"],
+    ["— ", "Ուրախ", " եմ ծանոթանալու համար:", "[— Urakh em tsanotanalu hamar.] — Nice to meet you (Glad to get acquainted).", "Ուրախ", "Տխուր", "Զայրացած", "Հոգնած"],
+    ["— ", "Սա", " ձեր ճամպրո՞ւկն է:", "[— Sa dzer tchamprukn e?] — Is this your suitcase?", "Սա", "Այն", "Դա", "Նա"],
+    ["— ", "Այո", ", սա իմ ճամպրուկն է:", "[— Ayo, sa im tchamprukn e.] — Yes, this is my suitcase.", "Այո", "Ոչ", "Գուցե", "Երբեք"],
+    ["— Շատ բարի, ", "գնացինք", ":", "[— Shat bari, gnantsink.] — Very well, let's go.", "գնացինք", "կանգնեցինք", "նստեցինք", "քնեցինք"],
+    ["— ", "Որտե՞ղ", " է մեքենան:", "[— Vortegh e mekenan?] — Where is the car?", "Որտե՞ղ", "Ինչպե՞ս", "Ե՞րբ", "Ինչո՞ւ"],
+    ["— Մեքենան ", "դրսում", " է, — պատասխանում է Արամը:", "[— Mekenan drsum e, — pataskhanum e Aramuh.] — The car is outside, answers Aram.", "դրսում", "ներսում", "վերևում", "ներքևում"]
+  ],
+  "dictionary": "Երևան - Yerevan\nտեսնել - to see\nբարև - hello\nես - I\nգալուստ - arrival (բարի գալուստ - welcome)\nշնորհակալություն - thank you\nինչպես - how\nլավ - good / well\nնույնպես - also / too\nուրախ - glad / happy\nսա - this\nայո - yes\nգնալ - to go (գնացինք - let's go)\nորտեղ - where\nդուրս (դրսում) - outside"
+}
