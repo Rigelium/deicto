@@ -81,6 +81,11 @@
       "difLevels": ["beginner", "intermediate", "advanced"]
     },
     {
+      "name": "Armenian",
+      "langCode": "hy_AM",
+      "difLevels": ["beginner", "intermediate", "advanced"]
+    },
+    {
       "name": "Romanian",
       "langCode": "ro-RO",
       "difLevels": ["intermediate", "advanced"]
